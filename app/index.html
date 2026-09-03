@@ -93,18 +93,26 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
 .foot{margin-top:28px;font-size:12px;color:hsl(var(--muted-foreground))}
 :focus-visible{outline:none;box-shadow:0 0 0 2px hsl(var(--background)),0 0 0 4px hsl(var(--ring));border-radius:calc(var(--radius) - 2px)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-.split{display:grid;grid-template-columns:264px minmax(0,1fr);gap:24px;align-items:start}
+.split{display:grid;grid-template-columns:300px minmax(0,1fr);gap:24px;align-items:start}
 .list{display:grid;gap:2px}
 .item{display:grid;gap:2px;width:100%;text-align:left;border:0;cursor:pointer;
   border-radius:calc(var(--radius) - 2px);background:transparent;color:hsl(var(--foreground));
   font:inherit;padding:10px 12px;transition:background-color .15s}
 .item:hover{background:hsl(var(--accent))}
 .item[aria-current="true"]{background:hsl(var(--secondary))}
-.item .n{font-size:14px;font-weight:500;letter-spacing:-.01em}
-.item .d{font-size:12px;color:hsl(var(--muted-foreground));
-  display:flex;gap:8px;justify-content:space-between}
-.item .d b{font-weight:500;color:hsl(var(--foreground))}
-.item .d b.off{color:hsl(var(--muted-foreground));font-weight:400}
+.item{gap:4px;padding:11px 12px}
+.item .n{font-size:14px;font-weight:500;letter-spacing:-.01em;line-height:1.3}
+.item .f{font-size:12px;color:hsl(var(--muted-foreground));line-height:1.35}
+.item .d{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;
+  align-items:end}
+.item .h{font-size:12px;color:hsl(var(--muted-foreground))}
+
+/* Ambos scores visibles en la lista, sin abrir la ficha. */
+.minis{display:flex;gap:14px;flex:none}
+.mini{display:grid;gap:1px}
+.mini .mk{font-size:10px;color:hsl(var(--muted-foreground));line-height:1.3}
+.mini b{font-size:13px;font-weight:600;line-height:1.2}
+.mini b.off{color:hsl(var(--muted-foreground));font-weight:400}
 .panel{padding:24px}
 .panel h2{margin:0;font-size:22px;font-weight:600;line-height:1.15;letter-spacing:-.02em;text-wrap:balance}
 .panel .orig{display:block;margin-top:3px;font-size:14px;font-weight:400}
@@ -151,14 +159,30 @@ const score = (k, v, frac, suf = "") => `
     <span class="progress${v == null ? " empty" : ""}"><i style="width:${v == null ? 0 : frac * 100}%"></i></span>
   </div>`;
 
+/* Lo que se ve en la lista sin dar clic: país, año, duración y ambos scores. */
+const fichaCorta = p => [
+  esc(p.pais),
+  p.ano ? `<span class="tnum">${p.ano}</span>` : null,
+  p.duracion ? `<span class="tnum">${p.duracion} min</span>` : null,
+].filter(Boolean).join(" · ") || "—";
+
+const mini = (k, v, suf = "") => `
+  <span class="mini"><span class="mk">${k}</span>
+  <b class="tnum${v == null ? " off" : ""}">${v == null ? "—" : v + suf}</b></span>`;
+
 let CART = null, sel = 0;
 
 function pintaLista() {
   ls.innerHTML = CART.peliculas.map((p, i) => `
     <button class="item" aria-current="${i === sel}" data-i="${i}">
       <span class="n">${esc(p.titulo)}</span>
-      <span class="d"><span class="tnum">${p.horarios.join(" · ")}</span>
-        <b class="tnum${p.critica == null ? " off" : ""}">${p.critica == null ? "—" : p.critica + "%"}</b></span>
+      <span class="f">${fichaCorta(p)}</span>
+      <span class="d">
+        <span class="h tnum">${p.horarios.join(" · ")}</span>
+        <span class="minis">
+          ${mini("Crítica", p.critica, "%")}${mini("Público", p.publico?.toFixed(1))}
+        </span>
+      </span>
     </button>`).join("");
 }
 
