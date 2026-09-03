@@ -1,0 +1,48 @@
+name: Cartelera diaria
+
+on:
+  schedule:
+    # 06:37 en Ciudad de México (UTC-6 todo el año desde 2022). Minuto fuera de
+    # hora en punto a propósito: GitHub descarta crons en :00 cuando va cargado.
+    - cron: "37 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Construir la cartelera del día
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    concurrency:
+      group: cartelera
+      cancel-in-progress: false
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Instalar dependencias
+        run: npm ci || npm install
+
+      - name: Construir cartelera
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
+        run: npm run build
+
+      - name: Commitear si cambió
+        run: |
+          if git diff --quiet -- app/data/cartelera.json; then
+            echo "La cartelera no cambió; no hay nada que commitear."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add app/data/cartelera.json
+          git commit -m "Cartelera del $(TZ=America/Mexico_City date +%Y-%m-%d)"
+          git push

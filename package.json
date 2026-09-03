@@ -1,0 +1,12 @@
+{
+  "name": "aura-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build_cartelera.mjs",
+    "dry": "node scripts/build_cartelera.mjs --dry"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

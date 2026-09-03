@@ -1,0 +1,168 @@
+<title>Aura · Tarjetas</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&display=swap">
+<style>/* Tokens shadcn/ui — tema dark "zinc", los mismos del launcher de hectorcflores.github.io */
+:root{
+  --background:240 10% 3.9%; --foreground:0 0% 98%;
+  --card:240 10% 3.9%; --card-foreground:0 0% 98%;
+  --primary:0 0% 98%; --primary-foreground:240 5.9% 10%;
+  --secondary:240 3.7% 15.9%; --secondary-foreground:0 0% 98%;
+  --muted:240 3.7% 15.9%; --muted-foreground:240 5% 64.9%;
+  --accent:240 3.7% 15.9%; --accent-foreground:0 0% 98%;
+  --border:240 3.7% 15.9%; --ring:240 4.9% 83.9%;
+  --radius:0.5rem;
+}
+*{box-sizing:border-box}
+body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl(var(--foreground));
+  font-family:Geist,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:14px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{width:min(880px,100%);margin:0 auto}
+.tnum{font-variant-numeric:tabular-nums}
+
+/* Encabezado, igual en las cinco */
+.head{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;margin-bottom:24px}
+.h1{margin:0;font-size:16px;font-weight:600;line-height:1;letter-spacing:-.01em}
+.h1 + .desc{margin:6px 0 0}
+.desc{margin:0;font-size:14px;color:hsl(var(--muted-foreground))}
+.stamp{font-size:13px;color:hsl(var(--muted-foreground));white-space:nowrap;padding-top:1px}
+
+/* Card */
+.card{border:1px solid hsl(var(--border));border-radius:var(--radius);
+  background:hsl(var(--card));color:hsl(var(--card-foreground));box-shadow:0 1px 2px 0 rgb(0 0 0/.05)}
+.card-header{display:flex;flex-direction:column;gap:6px;padding:24px}
+.card-content{padding:0 24px 24px}
+.card-title{font-size:16px;font-weight:600;line-height:1.2;letter-spacing:-.01em;text-wrap:balance}
+.card-desc{font-size:14px;color:hsl(var(--muted-foreground))}
+
+/* Badge */
+.badge{display:inline-flex;align-items:center;border-radius:9999px;border:1px solid transparent;
+  padding:2px 10px;font-size:12px;font-weight:600;line-height:1.35;white-space:nowrap}
+.badge-secondary{background:hsl(var(--secondary));color:hsl(var(--secondary-foreground))}
+.badge-outline{border-color:hsl(var(--border));color:hsl(var(--foreground))}
+.badge-muted{background:hsl(var(--secondary));color:hsl(var(--muted-foreground));font-weight:500}
+
+/* Table */
+.table{width:100%;border-collapse:collapse;font-size:14px}
+.table th{height:44px;padding:0 12px;text-align:left;vertical-align:middle;
+  font-weight:500;color:hsl(var(--muted-foreground));border-bottom:1px solid hsl(var(--border))}
+.table td{padding:14px 12px;vertical-align:top;border-bottom:1px solid hsl(var(--border))}
+.table th:first-child,.table td:first-child{padding-left:0}
+.table th:last-child,.table td:last-child{padding-right:0}
+.table tr.hoverable:hover td{background:hsl(var(--muted)/.5)}
+
+/* Separator */
+.sep{height:1px;width:100%;background:hsl(var(--border));border:0;margin:0}
+
+/* Progress — el medidor de score */
+.progress{position:relative;height:6px;width:100%;overflow:hidden;border-radius:9999px;
+  background:hsl(var(--primary)/.2)}
+.progress > i{display:block;height:100%;background:hsl(var(--primary));border-radius:9999px}
+.progress.empty{background:hsl(var(--secondary))}
+
+/* Button / ghost, para los toggles */
+.btn{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:calc(var(--radius) - 2px);
+  background:transparent;color:hsl(var(--muted-foreground));font:inherit;font-size:13px;font-weight:500;
+  padding:6px 10px;margin-left:-10px;cursor:pointer;transition:background-color .15s,color .15s}
+.btn:hover{background:hsl(var(--accent));color:hsl(var(--accent-foreground))}
+.btn .chev{display:inline-block;font-size:10px;transition:transform .15s}
+.btn[aria-expanded="true"] .chev{transform:rotate(90deg)}
+
+/* Score: etiqueta + cifra + barra, reutilizado en las cinco */
+.score{display:grid;gap:4px;min-width:66px}
+.score .k{font-size:11px;font-weight:500;color:hsl(var(--muted-foreground))}
+.score .v{font-size:15px;font-weight:600;line-height:1}
+.score .v.off{color:hsl(var(--muted-foreground));font-weight:400}
+
+/* Cita de reseña */
+.quote{margin:0;font-size:13.5px;line-height:1.55;color:hsl(var(--foreground))}
+.quote cite{display:block;margin-top:3px;font-size:12px;font-style:normal;color:hsl(var(--muted-foreground))}
+.quotes{display:grid;gap:12px;max-width:64ch}
+
+.meta{font-size:13px;color:hsl(var(--muted-foreground))}
+.orig{color:hsl(var(--muted-foreground))}
+.times{display:flex;flex-wrap:wrap;gap:6px}
+.foot{margin-top:28px;font-size:12px;color:hsl(var(--muted-foreground))}
+:focus-visible{outline:none;box-shadow:0 0 0 2px hsl(var(--background)),0 0 0 4px hsl(var(--ring));border-radius:calc(var(--radius) - 2px)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.card{display:flex;flex-direction:column}
+.card-header{padding:20px 20px 0;gap:4px}
+.card-content{display:flex;flex-direction:column;gap:16px;padding:16px 20px 20px;flex:1}
+.scores{display:flex;gap:26px}
+.card .sep{margin:0}
+.card .quotes{gap:10px;max-width:none}
+@media(max-width:680px){.grid{grid-template-columns:minmax(0,1fr)}}
+</style>
+<div class="wrap">
+  <div class="head"><div><h1 class="h1">Aura</h1><p class="desc" id="sub"></p></div><span class="stamp" id="dia"></span></div>
+  <div class="grid" id="g"></div>
+  <p class="foot">Rotten Tomatoes vía OMDb · IMDb · TMDB — datos de ejemplo</p>
+</div>
+<script>/* Datos de ejemplo. Películas y scores reales; horarios, salas y reseñas son ilustrativos. */
+const FILMS = [
+  { t:"Anora", o:null, dir:"Sean Baker", pais:"Estados Unidos", ano:2024, min:139,
+    sala:"A", horas:["19:00","21:45"], rt:91, im:7.5,
+    r:[{q:"Comedia hasta que deja de serlo, y el silencio final te cobra todo.",a:"@mikaela.r"},
+       {q:"Mikey Madison no actúa el personaje, lo agota.",a:"@rgomez"}]},
+  { t:"Aún estoy aquí", o:"Ainda Estou Aqui", dir:"Walter Salles", pais:"Brasil", ano:2024, min:135,
+    sala:"B", horas:["16:00","18:45","21:30"], rt:96, im:8.4,
+    r:[{q:"Fernanda Torres sostiene la película con la mirada: no llora, recuerda.",a:"@lunacinefila"},
+       {q:"Un expediente burocrático convertido en el thriller más doloroso del año.",a:"@jmndz"}]},
+  { t:"Perfect Days", o:null, dir:"Wim Wenders", pais:"Japón · Alemania", ano:2023, min:124,
+    sala:"A", horas:["17:20"], rt:96, im:7.9,
+    r:[{q:"Dos horas de rutina y sales convencido de que limpiar baños es una vocación.",a:"@hoja_seca"},
+       {q:"Kōji Yakusho sonríe en el último plano y desarma la película entera.",a:"@t_navarro"}]},
+  { t:"La cocina", o:null, dir:"Alonso Ruizpalacios", pais:"México", ano:2024, min:139,
+    sala:"C", horas:["16:00","20:00"], rt:87, im:6.9,
+    r:[{q:"El blanco y negro no es nostalgia, es vapor de cocina industrial.",a:"@tacosdecine"},
+       {q:"Se siente el ruido. Salí con hambre y con culpa.",a:"@ana_vr"}]},
+  { t:"Stalker", o:"Сталкер", dir:"Andrei Tarkovski", pais:"URSS", ano:1979, min:162,
+    sala:"B", horas:["19:00"], rt:100, im:8.1,
+    r:[{q:"Tres hombres caminan dos horas y media y uno sale distinto.",a:"@zonagris"},
+       {q:"El plano del agua sobre los azulejos vale la butaca entera.",a:"@cinefilo_77"}]},
+  { t:"Sueño en otro idioma", o:null, dir:"Ernesto Contreras", pais:"México", ano:2017, min:101,
+    sala:"C", horas:["17:20"], rt:null, im:7.0,
+    r:[{q:"Una lengua muerta como excusa para hablar de lo que no se dijo a tiempo.",a:"@memoriafilm"}]}
+];
+const HOY = "Jueves 3 de septiembre";
+const esc = s => String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const meta = p => `${p.dir} · ${p.pais} · ${p.ano} · ${p.min} min`;
+const titulo = p => `${esc(p.t)}${p.o?` <span class="orig">${esc(p.o)}</span>`:""}`;
+const cita = x => `<p class="quote">“${esc(x.q)}”<cite>${esc(x.a)}</cite></p>`;
+const citas = p => `<div class="quotes">${p.r.map(cita).join("")}</div>`;
+/* Score en el idioma de shadcn: etiqueta muted, cifra, y un Progress debajo. */
+const score = (k, v, frac, suf="") => `
+  <div class="score">
+    <span class="k">${k}</span>
+    <span class="v tnum${v==null?" off":""}">${v==null?"—":v+suf}</span>
+    <span class="progress${v==null?" empty":""}"><i style="width:${v==null?0:frac*100}%"></i></span>
+  </div>`;
+const critica = p => score("Crítica", p.rt, p.rt/100, "%");
+const publico = p => score("Público", p.im.toFixed(1), p.im/10);
+const HEAD = `
+  <div class="head">
+    <div>
+      <h1 class="h1">Aura</h1>
+      <p class="desc" id="sub"></p>
+    </div>
+    <span class="stamp">${HOY}</span>
+  </div>`;
+const FOOT = `<p class="foot">Rotten Tomatoes vía OMDb · IMDb · TMDB — datos de ejemplo</p>`;
+document.getElementById("sub").textContent = `${FILMS.length} películas hoy`;
+document.getElementById("g").innerHTML = FILMS.map(p=>`
+<article class="card">
+  <div class="card-header">
+    <h2 class="card-title">${titulo(p)}</h2>
+    <p class="card-desc">${esc(meta(p))}</p>
+  </div>
+  <div class="card-content">
+    <div class="times">${p.horas.map(h=>`<span class="badge badge-secondary tnum">${h}</span>`).join("")}
+      <span class="badge badge-outline">Sala ${p.sala}</span></div>
+    <div class="scores">${critica(p)}${publico(p)}</div>
+    <hr class="sep">
+    ${citas(p)}
+  </div>
+</article>`).join("");
+
+document.getElementById("dia").textContent = HOY;
+</script>
