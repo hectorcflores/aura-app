@@ -6,6 +6,14 @@ on:
     # hora en punto a propósito: GitHub descarta crons en :00 cuando va cargado.
     - cron: "37 12 * * *"
   workflow_dispatch:
+  # Cualquier cambio al scraper reconstruye la cartelera de inmediato. El commit
+  # del bot solo toca app/data/, así que no se dispara a sí mismo.
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "package.json"
+      - ".github/workflows/daily-cartelera.yml"
 
 permissions:
   contents: write
