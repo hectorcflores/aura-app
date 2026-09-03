@@ -138,7 +138,6 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
 <div class="wrap">
   <div class="head">
     <div><h1 class="h1">Aura</h1><p class="desc" id="sub">Cargando cartelera…</p></div>
-    <span class="stamp" id="dia"></span>
   </div>
   <div class="split">
     <nav class="list" id="ls" aria-label="Cartelera de hoy"></nav>
@@ -149,7 +148,7 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
 <script>
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const ls = document.getElementById("ls"), pn = document.getElementById("pn");
-const sub = document.getElementById("sub"), dia = document.getElementById("dia");
+const sub = document.getElementById("sub");
 
 /* Mismo componente de score del prototipo: etiqueta, cifra y barra. */
 const score = (k, v, frac, suf = "") => `
@@ -233,22 +232,20 @@ fetch("./data/cartelera.json", { cache: "no-store" })
   .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
   .then(d => {
     CART = d;
-    dia.textContent = d.fechaTexto || "";
+    sub.textContent = d.fechaTexto || "";
     document.getElementById("foot").textContent =
       "Rotten Tomatoes vía OMDb · IMDb · TMDB · Cineteca Nacional";
     if (!d.peliculas || !d.peliculas.length) {
-      sub.textContent = d.sede || "Cineteca Nacional · Xoco";
       vacio(d.pendiente ? "Aún no hay cartelera" : "Hoy no hay funciones",
         d.pendiente
           ? "La cartelera se genera cada mañana; el primer build todavía no corre."
           : "No se encontraron funciones programadas para hoy.");
       return;
     }
-    sub.textContent = `${d.sede} · ${d.peliculas.length} película${d.peliculas.length > 1 ? "s" : ""} hoy`;
     pintaLista(); pintaPanel();
   })
   .catch(err => {
-    sub.textContent = "Cineteca Nacional · Xoco";
+    sub.textContent = "";
     vacio("No se pudo cargar la cartelera", `${err.message}. Vuelve a intentar en un momento.`);
   });
 </script>
