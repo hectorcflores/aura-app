@@ -75,7 +75,8 @@ export function parseFicha(texto) {
   const dentro = conParentesis[2];
   const campos = dentro.split(",").map(s => s.trim()).filter(Boolean);
 
-  const director = dentro.match(/Dir\.?:\s*([^,]+)/i)?.[1].trim() || null;
+  const sinPuntoFinal = t => t.trim().replace(/\.+$/, "").trim();
+  const director = sinPuntoFinal(dentro.match(/Dir\.?:\s*([^,]+)/i)?.[1] || "") || null;
   const ano = Number(dentro.match(/\b(?:19|20)\d{2}\b/)?.[0]) || null;
   const duracion = Number(dentro.match(/Dur\.?:\s*(\d+)\s*min/i)?.[1]) || null;
 
@@ -87,13 +88,15 @@ export function parseFicha(texto) {
   // El país es el campo entre el director y el año.
   const iDir = campos.findIndex(c => /^Dir\.?:/i.test(c));
   const iAno = campos.findIndex(c => /^(?:19|20)\d{2}$/.test(c));
-  const pais = iDir >= 0 && iAno > iDir + 1 ? campos.slice(iDir + 1, iAno).join(", ") : null;
+  const pais = iDir >= 0 && iAno > iDir + 1
+    ? sinPuntoFinal(campos.slice(iDir + 1, iAno).join(", ")) || null
+    : null;
 
   return titulo.length > 1 ? { titulo, tituloOriginal, director, pais, ano, duracion } : null;
 }
 
 const horariosDe = t => [...new Set(t.match(/\b\d{1,2}:\d{2}\b/g) || [])].sort();
-const salaDe = t => t.match(/Sala\s+[A-Z0-9]+/i)?.[0] || null;
+const salaDe = t => { const m = t.match(/Sala\s+([A-Z0-9]+)/i); return m ? `Sala ${m[1]}` : null; };
 
 async function scrapeCartelera() {
   const res = await traer(SEDE.url);
@@ -246,7 +249,7 @@ async function enriquecer(p) {
 const FECHA_LARGA = new Intl.DateTimeFormat("es-MX", {
   weekday: "long", day: "numeric", month: "long", timeZone: "America/Mexico_City",
 });
-const mayus = s => s.charAt(0).toUpperCase() + s.slice(1);
+const mayus = s => (s.charAt(0).toUpperCase() + s.slice(1)).replace(",", "");
 
 async function main() {
   if (!TMDB_KEY) log("! Falta TMDB_API_KEY — la cartelera saldrá sin scores ni reseñas.");
