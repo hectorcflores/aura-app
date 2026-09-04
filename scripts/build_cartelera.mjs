@@ -370,7 +370,9 @@ const esPrograma = p => /^shorts\s+\d{4}/i.test(p.titulo || "") || (p.titulo || 
 
 function variantes(titulo) {
   const out = [];
-  const add = t => { t = (t || "").replace(/\s+/g, " ").trim(); if (norm(t).length >= 2 && !out.includes(t)) out.push(t); };
+  // La primera variante (el título tal cual) siempre entra; las derivadas solo si
+  // no quedan en una palabrita ("Oh", "El") que matchea cualquier cosa.
+  const add = t => { t = (t || "").replace(/\s+/g, " ").trim(); if (norm(t).length >= (out.length ? 4 : 2) && !out.includes(t)) out.push(t); };
   if (!titulo) return out;
   const base = titulo.replace(SUFIJOS, "").trim();
   for (const parte of base.split(/\s*\/\s*/)) {              // "A / B" son dos títulos
@@ -386,17 +388,19 @@ function variantes(titulo) {
 
 const anoDe = hit => Number((hit.release_date || "").slice(0, 4)) || null;
 
-/** Qué tan creíble es un candidato para la película p buscada con la consulta q. */
-function puntaje(hit, q, p) {
-  let s = 0;
-  const a = anoDe(hit);
-  // La Cineteca suele dar el año de producción y TMDB el de estreno: ±2 cuenta a favor,
-  // 3-4 años no decide, más de eso descarta.
-  if (p.ano && a) { const d = Math.abs(a - p.ano); s += d <= 2 ? 2 : d <= 4 ? 0 : -3; }
+/**
+ * Evidencia de que el candidato es la película p buscada con la consulta q.
+ * El año de la Cineteca suele ser el de producción y el de TMDB el de estreno
+ * (a veces décadas después, como "Iván el terrible II": 1945 vs 1958), así que
+ * el año apoya o resta pero no decide solo.
+ */
+function evaluar(hit, q, p) {
   const nq = norm(q), titulos = [hit.title, hit.original_title].map(norm).filter(Boolean);
-  if (titulos.includes(nq)) s += 2;
-  else if (titulos.some(t => t.includes(nq) || nq.includes(t))) s += 1;
-  return s;
+  const exacto = titulos.includes(nq);
+  const parcial = !exacto && titulos.some(t => t.length >= 4 && (t.includes(nq) || nq.includes(t)));
+  const a = anoDe(hit), d = p.ano && a ? Math.abs(a - p.ano) : null;
+  const ano = d == null ? "desconocido" : d <= 2 ? "ok" : d <= 4 ? "cerca" : "lejos";
+  return { exacto, parcial, ano };
 }
 
 async function dirigidaPor(tmdbId, director) {
@@ -408,25 +412,37 @@ async function dirigidaPor(tmdbId, director) {
   return !!apellido && dirs.some(d => d.split(" ").includes(apellido));
 }
 
+/**
+ * Título exacto con año compatible: match directo. Todo lo demás (título exacto
+ * con año lejano, título parcial, o el primer resultado a secas) es sospechoso
+ * y solo pasa si el director de la Cineteca aparece en los créditos de TMDB.
+ */
 async function buscarEnTmdb(p) {
   if (esPrograma(p)) return null;
   const consultas = [...variantes(p.tituloOriginal), ...variantes(p.titulo)];
-  const vistos = new Set();
-  let sospechoso = null;                                       // el mejor candidato flojo, para validar por director
+  const vistos = new Set(), sospechosos = [];
   for (const q of consultas) {
     for (const conAno of p.ano ? [true, false] : [false]) {
       const url = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_KEY}&include_adult=false`
         + `&query=${encodeURIComponent(q)}&language=es-MX${conAno ? `&year=${p.ano}` : ""}`;
       const hits = ((await json(url))?.results || []).slice(0, 5);
-      for (const hit of hits) {
-        if (vistos.has(hit.id)) continue; vistos.add(hit.id);
-        const s = puntaje(hit, q, p);
-        if (s >= 2) return hit;
-        if (s >= 1 && !sospechoso) sospechoso = hit;
-      }
+      hits.forEach((hit, n) => {
+        if (vistos.has(hit.id)) return; vistos.add(hit.id);
+        const e = evaluar(hit, q, p);
+        if (e.exacto && e.ano !== "lejos") sospechosos.push({ hit, prioridad: -1 });
+        else if (e.exacto) sospechosos.push({ hit, prioridad: 0 });
+        else if (e.parcial && e.ano === "ok") sospechosos.push({ hit, prioridad: 1 });
+        else if (e.parcial && e.ano === "desconocido") sospechosos.push({ hit, prioridad: 2 });
+        else if (n === 0 && e.ano !== "lejos") sospechosos.push({ hit, prioridad: 3 });
+      });
+      const seguro = sospechosos.find(x => x.prioridad === -1);
+      if (seguro) return seguro.hit;
     }
   }
-  if (sospechoso && await dirigidaPor(sospechoso.id, p.director)) return sospechoso;
+  sospechosos.sort((a, b) => a.prioridad - b.prioridad);
+  for (const { hit } of sospechosos.slice(0, 3)) {
+    if (await dirigidaPor(hit.id, p.director)) return hit;
+  }
   return null;
 }
 
