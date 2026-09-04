@@ -165,99 +165,63 @@ async function htmlDeCartelera(sede, fechaIso) {
 }
 
 async function scrapeCartelera(sede, fechaIso, diagnostico = false) {
-  const { html, status, ct, origen } = await htmlDeCartelera(sede, fechaIso);
+  const { html, status, ct } = await htmlDeCartelera(sede, fechaIso);
   const res = { status, headers: { get: () => ct } };   // para el diagnóstico de abajo
-
-  // cheerio concatena el texto de nodos hermanos sin separador, así que
-  // "<td>Sala 4</td><td>16:00</td>" se leería "Sala 416:00" — perdiendo la sala
-  // y el primer horario. Un espacio antes de cada cierre de etiqueta lo evita.
   const $ = load(html.replace(/<\//g, " </"));
-
   const peliculas = [];
   const vistas = new Set();
 
-  const registrar = (bloque, filmId, hrefFicha = null) => {
-    const texto = bloque.replace(/\s+/g, " ").trim();
-    const ficha = parseFicha(texto);
+  // Rejilla de pósters: cada tarjeta lleva onclick=location.href="detallePelicula.php?FilmId=…&cinemas=…"
+  $('[onclick*="detallePelicula.php"]').each((_, el) => {
+    const filmId = ($(el).attr("onclick") || "").match(/FilmId=([A-Za-z0-9]+)/i)?.[1];
+    if (!filmId || vistas.has(filmId)) return;
+    const titulo = $(el).find(".font-weight-bold").first().text().replace(/\s+/g, " ").trim();
+    const fichaTxt = $(el).find(".small").first().text().replace(/\s+/g, " ").trim();
+    const ficha = parseFicha(`${titulo} ${fichaTxt}`) || (titulo ? { titulo, tituloOriginal: null, director: null, pais: null, ano: null, duracion: null } : null);
     if (!ficha) return;
-    const clave = filmId || ficha.titulo.toLowerCase();
-    if (vistas.has(clave)) return;
-    const horarios = horariosDe(texto);
-    if (!horarios.length) return;                 // sin funciones no va en la cartelera de hoy
-    vistas.add(clave);
+    vistas.add(filmId);
     peliculas.push({
-      ...ficha,
-      sala: salaDe(texto),
-      horarios,
-      filmId: filmId || null,
-      urlCineteca: hrefFicha ? new URL(hrefFicha, SHELL).href : SHELL,
-      sede: sede.id,
-      fecha: fechaIso,
+      ...ficha, filmId,
+      poster: $(el).find("img").first().attr("src") || null,
+      urlCineteca: `https://www.cinetecanacional.net/detallePelicula.php?FilmId=${filmId}&cinemas=${sede.id}`,
+      sede: sede.id, fecha: fechaIso,
+      sala: null, horarios: [],                 // llegan desde la ficha
     });
-  };
-
-  // Cada película enlaza a su ficha. Subimos por los ancestros hasta el bloque
-  // que ya contiene la ficha completa y los horarios.
-  $('a[href*="detallePelicula.php"]').each((_, a) => {
-    const href = $(a).attr("href") || "";
-    const filmId = href.match(/FilmId=([^&]+)/i)?.[1];
-    let nodo = $(a);
-    for (let i = 0; i < 6 && nodo.length; i++) {
-      const texto = nodo.text();
-      if (/Dir\.?:/i.test(texto) && /\d{1,2}:\d{2}/.test(texto) && texto.length < 2000) {
-        registrar(texto, filmId, href);
-        return;
-      }
-      nodo = nodo.parent();
-    }
   });
 
-  // Respaldo por si la página deja de usar esos enlaces: filas de tabla sueltas.
+  // Respaldo: el formato de filas con horarios en línea (la vista de servidor de /sedes/).
   if (!peliculas.length) {
-    log("  · sin enlaces a detallePelicula.php, probando filas de tabla");
-    $("tr, li, article").each((_, el) => {
-      const texto = $(el).text();
-      if (/Dir\.?:/i.test(texto) && texto.length < 2000) registrar(texto, null);
+    const registrar = (bloque, filmId, hrefFicha = null) => {
+      const texto = bloque.replace(/\s+/g, " ").trim();
+      const ficha = parseFicha(texto); if (!ficha) return;
+      const clave = filmId || ficha.titulo.toLowerCase(); if (vistas.has(clave)) return;
+      const horarios = horariosDe(texto); if (!horarios.length) return;
+      vistas.add(clave);
+      peliculas.push({ ...ficha, filmId: filmId || null, poster: null,
+        urlCineteca: hrefFicha ? new URL(hrefFicha, SHELL).href : SHELL,
+        sede: sede.id, fecha: fechaIso, sala: salaDe(texto), horarios });
+    };
+    $('a[href*="detallePelicula.php"]').each((_, a) => {
+      const href = $(a).attr("href") || "", filmId = href.match(/FilmId=([^&]+)/i)?.[1];
+      let nodo = $(a);
+      for (let i = 0; i < 6 && nodo.length; i++) {
+        const t = nodo.text();
+        if (/Dir\.?:/i.test(t) && /\d{1,2}:\d{2}/.test(t) && t.length < 2000) { registrar(t, filmId, href); return; }
+        nodo = nodo.parent();
+      }
+    });
+    if (!peliculas.length) $("tr, li, article").each((_, el) => {
+      const t = $(el).text(); if (/Dir\.?:/i.test(t) && t.length < 2000) registrar(t, null);
     });
   }
 
-  // Cero películas es el único fallo que no se puede diagnosticar desde fuera:
-  // el sitio no se alcanza desde otros lados. Dejamos en el log lo que devolvió.
   if (!peliculas.length && diagnostico) {
     const texto = $("body").text().replace(/\s+/g, " ").trim();
     log("  ── diagnóstico de la respuesta ──");
     log(`  HTTP ${res.status} · ${res.headers.get("content-type")} · ${html.length} bytes`);
-    log(`  <title>: ${$("title").text().trim() || "(vacío)"}`);
-    log(`  enlaces: ${$("a").length} · con detallePelicula: ${(html.match(/detallePelicula/g) || []).length}`);
-    log(`  ocurrencias de "Dir.:": ${(html.match(/Dir\.?:/gi) || []).length} · horas HH:MM: ${(html.match(/\b\d{1,2}:\d{2}\b/g) || []).length}`);
-    log(`  texto (primeros 900): ${texto.slice(0, 900)}`);
-
-    // La respuesta AJAX trae las fichas pero no los horarios, y "detallePelicula"
-    // no aparece como <a href>. Mostrar el HTML crudo y probar variantes de vista.
-    const i = html.indexOf("detallePelicula");
-    log(`  html crudo alrededor de detallePelicula:\n${html.slice(Math.max(0, i - 600), i + 900)}`);
-    const rutas = [...new Set(html.match(/[\w./-]+\.php[^"'\s<>]*/g) || [])];
-    log(`  rutas .php en la respuesta: ${rutas.slice(0, 12).join("  ") || "(ninguna)"}`);
-    const attrs = [...new Set((html.match(/\b(?:onclick|data-[\w-]+)="[^"]{0,120}"/g) || []))];
-    log(`  onclick/data-*: ${attrs.slice(0, 8).join("  ") || "(ninguno)"}`);
-
-    const d = await defaultsDelSitio();
-    for (const vista of ["full", "peliculas", "ciclos", "dia", "horarios", ""]) {
-      const r = await traer(ENDPOINT, {
-        method: "POST",
-        headers: { "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8", "X-Requested-With": "XMLHttpRequest", "Referer": SHELL },
-        body: new URLSearchParams({ vista, fecha: fechaComoElSitio(fechaIso, d.formato), cinema: sede.id, eventId: d.eventId }).toString(),
-      });
-      const cuerpo = r ? await r.text() : "";
-      let h; try { h = JSON.parse(cuerpo)?.html ?? ""; } catch { h = cuerpo; }
-      const claves = cuerpo.startsWith("{") ? Object.keys(JSON.parse(cuerpo)).join(",") : "(no JSON)";
-      log(`  vista="${vista}": ${cuerpo.length} bytes · claves=${claves} · "Dir.:"=${(h.match(/Dir\.?:/gi) || []).length} · horas=${(h.match(/\b\d{1,2}:\d{2}\b/g) || []).length}`);
-    }
-    const r2 = await traer(`https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=${sede.id}&dia=${fechaIso}`);
-    const h2 = r2 ? await r2.text() : "";
-    log(`  /sedes/cartelera.php&dia=${fechaIso}: ${h2.length} bytes · "Dir.:"=${(h2.match(/Dir\.?:/gi) || []).length} · horas=${(h2.match(/\b\d{1,2}:\d{2}\b/g) || []).length}`);
+    log(`  tarjetas onclick: ${$('[onclick*="detallePelicula.php"]').length} · enlaces: ${$("a").length} · "Dir.:": ${(html.match(/Dir\.?:/gi) || []).length}`);
+    log(`  texto (primeros 600): ${texto.slice(0, 600)}`);
   }
-
   return peliculas;
 }
 
@@ -272,9 +236,68 @@ const youtubeDe = html =>
  * el tráiler. No conocemos su estructura de antemano, así que la sinopsis es
  * "el bloque de texto propio más largo que no sea la línea de ficha".
  */
+const MESES = { enero:1, febrero:2, marzo:3, abril:4, mayo:5, junio:6, julio:7, agosto:8,
+  septiembre:9, setiembre:9, octubre:10, noviembre:11, diciembre:12 };
+const DIAS = /\b(lunes|martes|mi[eé]rcoles|jueves|viernes|s[aá]bado|domingo)\b/gi;
+
+/** Fechas (ISO) mencionadas en un texto: "2026-09-03", "3 de septiembre", "Jueves 03". */
+function fechasEn(texto, fechaBase) {
+  const out = new Set();
+  for (const m of texto.matchAll(/\b(\d{4})-(\d{2})-(\d{2})\b/g)) out.add(`${m[1]}-${m[2]}-${m[3]}`);
+  for (const m of texto.matchAll(/\b(\d{1,2})\s+de\s+([a-záéíóú]+)/gi)) {
+    const mes = MESES[m[2].toLowerCase()]; if (!mes) continue;
+    let y = Number(fechaBase.slice(0, 4));
+    if (mes < Number(fechaBase.slice(5, 7)) - 6) y++;               // vuelta de año
+    out.add(`${y}-${String(mes).padStart(2, "0")}-${m[1].padStart(2, "0")}`);
+  }
+  if (!out.size) {
+    // "Jueves 03": mismo mes que la base, o el siguiente si el día ya pasó.
+    for (const m of texto.matchAll(/\b(?:lunes|martes|mi[eé]rcoles|jueves|viernes|s[aá]bado|domingo)\s+(\d{1,2})\b/gi)) {
+      const d = Number(m[1]), base = new Date(fechaBase + "T12:00:00Z");
+      const cand = new Date(base); cand.setUTCDate(d);
+      if (cand < base) cand.setUTCMonth(cand.getUTCMonth() + 1);
+      out.add(cand.toISOString().slice(0, 10));
+    }
+  }
+  return [...out];
+}
+
+/**
+ * Horarios de la ficha agrupados por fecha. Para cada nodo con horas subimos por
+ * los ancestros hasta el más pequeño que mencione exactamente una fecha; si
+ * ninguno la menciona, las horas quedan bajo `fechaBase`.
+ */
+function funcionesDeFicha($, fechaBase) {
+  const porFecha = new Map();
+  const anota = (fecha, texto) => {
+    const r = porFecha.get(fecha) || { horarios: new Set(), salas: new Set() };
+    horariosDe(texto).forEach(h => r.horarios.add(h));
+    const sala = salaDe(texto); if (sala) r.salas.add(sala);
+    porFecha.set(fecha, r);
+  };
+  $("*").each((_, el) => {
+    const propio = $(el).contents().filter((_, n) => n.type === "text").text();
+    if (!/\b\d{1,2}:\d{2}\b/.test(propio)) return;
+    let nodo = $(el), fecha = null;
+    for (let i = 0; i < 8 && nodo.length; i++) {
+      const fs = fechasEn(nodo.text(), fechaBase);
+      if (fs.length === 1) { fecha = fs[0]; anota(fecha, nodo.text()); break; }
+      if (fs.length > 1) break;                                     // ya abarca varios días
+      nodo = nodo.parent();
+    }
+    if (!fecha) anota(fechaBase, $(el).parent().text());
+  });
+  return porFecha;
+}
+
+/**
+ * La ficha de cada película trae sinopsis, tráiler y —desde la rejilla de
+ * pósters— también los horarios y la sala. No conocemos su estructura, así que
+ * la sinopsis es "el bloque de texto propio más largo que no sea la ficha".
+ */
 async function detalleCineteca(p, diagnostico = false) {
-  const vacio = { sinopsis: null, youtube: null };
-  if (!p.filmId) return vacio;
+  const vacio = { sinopsis: null, youtube: null, porFecha: new Map() };
+  if (!p.urlCineteca || !/detallePelicula/.test(p.urlCineteca)) return vacio;
   const r = await traer(p.urlCineteca);
   if (!r) return vacio;
   const html = await r.text();
@@ -282,7 +305,6 @@ async function detalleCineteca(p, diagnostico = false) {
 
   const bloques = [];
   $("p, div, td, span, li").each((_, el) => {
-    // Solo el texto directo del nodo, para no arrastrar contenedores enteros.
     const propio = $(el).contents().filter((_, n) => n.type === "text").text().replace(/\s+/g, " ").trim();
     if (propio.length >= 120 && !/Dir\.?:/i.test(propio) && !/\b\d{1,2}:\d{2}\b/.test(propio)) {
       bloques.push({ tag: el.tagName, texto: propio });
@@ -291,13 +313,18 @@ async function detalleCineteca(p, diagnostico = false) {
   bloques.sort((a, b) => b.texto.length - a.texto.length);
   const sinopsis = bloques[0]?.texto || null;
   const youtube = youtubeDe(html);
+  const porFecha = funcionesDeFicha($, p.fecha);
 
   if (diagnostico) {
-    log(`  ── ficha Cineteca de "${p.titulo}" ──`);
+    log(`  ── ficha Cineteca de "${p.titulo}" (${p.urlCineteca}) ──`);
     log(`  ${html.length} bytes · youtube=${youtube || "no"} · candidatos a sinopsis=${bloques.length}`);
-    bloques.slice(0, 3).forEach(b => log(`    <${b.tag}> ${b.texto.length}c: ${b.texto.slice(0, 90)}…`));
+    bloques.slice(0, 2).forEach(b => log(`    <${b.tag}> ${b.texto.length}c: ${b.texto.slice(0, 90)}…`));
+    const horas = html.match(/\b\d{1,2}:\d{2}\b/g) || [];
+    log(`  horas en la ficha: ${horas.length} · por fecha: ${[...porFecha].map(([f, r]) => `${f}→${[...r.horarios].join(",")}${r.salas.size ? " (" + [...r.salas].join("/") + ")" : ""}`).join("  ") || "(ninguna)"}`);
+    const i = html.search(/\b\d{1,2}:\d{2}\b/);
+    if (i >= 0) log(`  html crudo alrededor de la primera hora:\n${html.slice(Math.max(0, i - 700), i + 500)}`);
   }
-  return { sinopsis, youtube };
+  return { sinopsis, youtube, porFecha };
 }
 
 /** Tráiler oficial en TMDB, en español si existe. */
@@ -362,7 +389,7 @@ async function scoresDe(imdbId) {
   };
 }
 
-async function enriquecer(p) {
+async function enriquecer(p, ficha) {
   const salida = {
     ...p,
     sinopsis: null, sinopsisFuente: null, trailer: null, trailerFuente: null,
@@ -371,8 +398,6 @@ async function enriquecer(p) {
   };
 
   // Lo que dice la propia Cineteca va primero; TMDB rellena lo que falte.
-  const ficha = await detalleCineteca(p, enriquecer.primera);
-  enriquecer.primera = false;
   if (ficha.sinopsis) { salida.sinopsis = ficha.sinopsis; salida.sinopsisFuente = "Cineteca Nacional"; }
   if (ficha.youtube)  { salida.trailer = ficha.youtube;   salida.trailerFuente = "Cineteca Nacional"; }
 
@@ -420,53 +445,75 @@ async function main() {
   if (!TMDB_KEY) log("! Falta TMDB_API_KEY — la cartelera saldrá sin scores ni reseñas.");
   else if (!OMDB_KEY) log("! Falta OMDB_API_KEY — sin Rotten Tomatoes; el público vendrá de TMDB.");
 
-  // 1) Funciones crudas de cada sede en cada fecha.
-  const funciones = [];
+  // 1) Tarjetas de cada sede en cada fecha (aún sin horarios).
+  const tarjetas = [];
   for (const fecha of FECHAS) {
     for (const sede of SEDES) {
       const esReferencia = fecha === HOY_CDMX && sede.id === SEDE.id;
-      const crudas = await scrapeCartelera(sede, fecha, esReferencia);
-      log(`  ${sede.corto.padEnd(11)} ${fecha}: ${crudas.length} película(s)`);
-      funciones.push(...crudas);
-      await dormir(150);
+      const t = await scrapeCartelera(sede, fecha, esReferencia);
+      log(`  ${sede.corto.padEnd(11)} ${fecha}: ${t.length} película(s)`);
+      tarjetas.push(...t);
+      await dormir(120);
     }
   }
-  if (!funciones.length) throw new Error("Cero películas en todas las sedes y fechas: la estructura del sitio probablemente cambió.");
+  if (!tarjetas.length) throw new Error("Cero películas en todas las sedes y fechas: la estructura del sitio probablemente cambió.");
 
-  // 2) Cada película única se enriquece una sola vez.
+  // 2) Una ficha por (película, sede): de ahí salen horarios y sala por fecha,
+  //    y —la primera vez que vemos la película— sinopsis y tráiler.
+  const fichas = new Map();          // "filmId|sede" → { porFecha, sinopsis, youtube }
+  const fichaDe = new Map();         // clave de película → { sinopsis, youtube }
+  let primera = true;
+  for (const t of tarjetas) {
+    const k = `${claveDe(t)}|${t.sede}`;
+    if (fichas.has(k)) continue;
+    const f = await detalleCineteca(t, primera); primera = false;
+    fichas.set(k, f);
+    if (!fichaDe.has(claveDe(t)) && (f.sinopsis || f.youtube)) fichaDe.set(claveDe(t), f);
+    await dormir(100);
+  }
+
+  // 3) Funciones: la tarjeta (sede, fecha) toma los horarios de su fecha en la ficha.
+  //    Si la ficha no marca fechas, sus horarios se aplican a la fecha de la tarjeta.
+  const funciones = [];
+  let sinHorario = 0;
+  for (const t of tarjetas) {
+    const f = fichas.get(`${claveDe(t)}|${t.sede}`);
+    const r = f?.porFecha.get(t.fecha);
+    const horarios = r ? [...r.horarios].sort() : t.horarios;
+    const sala = r && r.salas.size ? [...r.salas].join(" · ") : t.sala;
+    if (!horarios.length) sinHorario++;
+    funciones.push({ sede: t.sede, fecha: t.fecha, pelicula: claveDe(t), sala, horarios });
+  }
+  if (sinHorario) log(`  · ${sinHorario} tarjeta(s) sin horarios para su fecha`);
+
+  // 4) Cada película única se enriquece una sola vez.
   const unicas = new Map();
-  for (const f of funciones) if (!unicas.has(claveDe(f))) unicas.set(claveDe(f), f);
-  log(`→ ${funciones.length} funciones · ${unicas.size} películas únicas`);
+  for (const t of tarjetas) if (!unicas.has(claveDe(t))) unicas.set(claveDe(t), t);
+  log(`→ ${tarjetas.length} tarjetas · ${fichas.size} fichas · ${unicas.size} películas únicas`);
 
   const peliculas = {};
-  enriquecer.primera = true;
-  for (const [clave, p] of unicas) {
-    const { sede, fecha, sala, horarios, ...ficha } = await enriquecer(p);
+  for (const [clave, t] of unicas) {
+    const { sede, fecha, sala, horarios, ...ficha } = await enriquecer(t, fichaDe.get(clave) || { sinopsis: null, youtube: null });
     peliculas[clave] = ficha;
     await dormir(120);
   }
 
-  // 3) Fechas con al menos una función en alguna sede.
   const fechas = FECHAS.filter(f => funciones.some(x => x.fecha === f));
-
-  const ahora = new Date();
   const salida = {
-    generadoEn: ahora.toISOString(),
+    generadoEn: new Date().toISOString(),
     hoy: HOY_CDMX,
     sedes: SEDES.map(({ id, nombre, corto }) => ({ id, nombre, corto })),
-    fechas,
-    peliculas,
-    funciones: funciones.map(f => ({ sede: f.sede, fecha: f.fecha, pelicula: claveDe(f), sala: f.sala, horarios: f.horarios })),
+    fechas, peliculas, funciones,
   };
 
   const vals = Object.values(peliculas);
-  log(`  ${vals.filter(p => p.critica != null).length}/${vals.length} con score de crítica, `
-    + `${vals.filter(p => p.publico != null).length} con público, `
+  log(`  ${vals.filter(p => p.publico != null).length}/${vals.length} con público, `
     + `${vals.filter(p => p.resenas.length).length} con reseñas, `
     + `${vals.filter(p => p.sinopsis).length} con sinopsis, `
-    + `${vals.filter(p => p.trailer).length} con tráiler · fechas: ${fechas.join(", ")}`);
+    + `${vals.filter(p => p.trailer).length} con tráiler, `
+    + `${vals.filter(p => p.poster).length} con póster · ${funciones.filter(f => f.horarios.length).length}/${funciones.length} funciones con horario · fechas: ${fechas.join(", ")}`);
 
-  if (DRY) { log(JSON.stringify(salida, null, 2).slice(0, 4000)); return; }
+  if (DRY) { log(JSON.stringify(salida, null, 2).slice(0, 3000)); return; }
   await mkdir(dirname(SALIDA), { recursive: true });
   await writeFile(SALIDA, JSON.stringify(salida, null, 2) + "\n");
   log(`✓ ${SALIDA}`);
