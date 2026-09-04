@@ -291,9 +291,11 @@ function funcionesDeFicha($, fechaBase) {
 }
 
 /**
- * La ficha de cada película trae sinopsis, tráiler y —desde la rejilla de
- * pósters— también los horarios y la sala. No conocemos su estructura, así que
- * la sinopsis es "el bloque de texto propio más largo que no sea la ficha".
+ * La ficha de cada película trae sinopsis, tráiler y los horarios por fecha.
+ * La sala NO aparece en las páginas públicas del sitio (ni en la rejilla ni en
+ * la ficha; solo la vería el sistema de boletos), así que `sala` queda en null
+ * y la app oculta el campo. La sinopsis es "el bloque de texto propio más largo
+ * que no sea la ficha".
  */
 async function detalleCineteca(p, diagnostico = false) {
   const vacio = { sinopsis: null, youtube: null, porFecha: new Map() };

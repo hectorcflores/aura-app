@@ -257,7 +257,7 @@ function pintaPanel(items) {
       <div><dt>Dirección</dt><dd>${esc(p.director) || "—"}</dd></div>
       <div><dt>País y año</dt><dd>${esc(p.pais) || "—"}${p.ano ? ` · <span class="tnum">${p.ano}</span>` : ""}</dd></div>
       <div><dt>Duración</dt><dd class="tnum">${p.duracion ? p.duracion + " min" : "—"}</dd></div>
-      <div><dt>Sala</dt><dd>${esc(r.sala) || "—"}</dd></div>
+      ${r.sala ? `<div><dt>Sala</dt><dd>${esc(r.sala)}</dd></div>` : ""}
     </dl>
     <div class="times" style="margin-top:20px">
       ${r.horarios.map(h => `<span class="badge badge-secondary tnum">${esc(h)}</span>`).join("")}</div>
