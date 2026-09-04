@@ -34,11 +34,19 @@ jobs:
         with:
           node-version: "20"
 
+      # npm en el runner ha tardado 3-4 min en instalar 23 paquetes (y a veces
+      # más, hasta caer por timeout). node_modules se cachea por hash del
+      # lockfile: la primera corrida instala, las siguientes se lo saltan.
+      - uses: actions/cache@v4
+        id: nm
+        with:
+          path: node_modules
+          key: node_modules-${{ runner.os }}-node20-${{ hashFiles('package-lock.json') }}
+
       - name: Instalar dependencias
-        # En corridas normales tarda ~10 s. Si el registro se cuelga, mejor
-        # fallar rápido que bloquear la cola hasta el timeout del job.
-        timeout-minutes: 4
-        run: npm ci || npm install
+        if: steps.nm.outputs.cache-hit != 'true'
+        timeout-minutes: 8
+        run: npm ci --no-audit --no-fund --loglevel=warn
 
       - name: Construir cartelera
         env:
@@ -56,4 +64,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add app/data/cartelera.json
           git commit -m "Cartelera del $(TZ=America/Mexico_City date +%Y-%m-%d)"
+          # Si main avanzó mientras corría el scraper, el JSON del bot va encima.
+          git pull --rebase -X theirs origin main
           git push
