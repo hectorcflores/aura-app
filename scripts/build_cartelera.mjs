@@ -166,6 +166,25 @@ async function scrapeCartelera() {
     log(`  ocurrencias de "Dir.:": ${(html.match(/Dir\.?:/gi) || []).length} · horas HH:MM: ${(html.match(/\b\d{1,2}:\d{2}\b/g) || []).length}`);
     log(`  texto (primeros 900): ${texto.slice(0, 900)}`);
 
+    // El selector "ver por día": si lleva un parámetro de fecha, sirve para pedir otro día.
+    const dias = [];
+    $("a").each((_, a) => {
+      const t = $(a).text().trim(), h = $(a).attr("href") || "";
+      if (/^\d{2}$/.test(t) && h) dias.push(`${t}→${h}`);
+    });
+    log(`  selector de día: ${dias.slice(0, 4).join("  ") || "(sin enlaces con href)"}`);
+
+    // La ficha no depende de la hora: validamos sinopsis/tráiler con el primer enlace que haya.
+    const primerLink = $('a[href*="detallePelicula.php"]').first();
+    const fid = primerLink.attr("href")?.match(/FilmId=([^&]+)/i)?.[1];
+    if (fid) {
+      await detalleCineteca({
+        titulo: primerLink.text().replace(/\s+/g, " ").trim().slice(0, 60) || `FilmId ${fid}`,
+        filmId: fid,
+        urlCineteca: `https://www.cinetecanacional.net/sedes/detallePelicula.php?FilmId=${fid}&cinemaId=${SEDE.cinemaId}`,
+      }, true);
+    }
+
     // Sonda: ¿qué sede y cuántos horarios devuelve cada cinemaId ahora mismo?
     for (const id of ["001", "002", "003"]) {
       const r = await traer(`https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=${id}`);
