@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-04T13:35:29.614Z",
+  "generadoEn": "2026-09-04T17:40:05.161Z",
   "hoy": "2026-09-04",
   "sedes": [
     {
@@ -71,7 +71,7 @@
       "titulo": "Deshilando luz",
       "tituloOriginal": "Deshilando Luz",
       "director": "Valentina Pelayo Atilano",
-      "pais": null,
+      "pais": "México",
       "ano": 2025,
       "duracion": 68,
       "filmId": "HO00008666",
@@ -139,10 +139,10 @@
     "HO00009929": {
       "titulo": "La bachata del biónico",
       "tituloOriginal": "La Bachata de Bionico",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Yoel Morales",
+      "pais": "República Dominicana",
+      "ano": 2024,
+      "duracion": 80,
       "filmId": "HO00009929",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009929?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009929&cinemas=003",
@@ -1029,7 +1029,7 @@
       "filmId": "HO00010019",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010019?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010019&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsis": "Jesús Cossío y el equipo de Retratos de Memoria viajan al corazón de Huancavelica para devolver el rostro a quienes la violencia arrebató la vida. Ante la ausencia de fotografías, el dibujo se convierte en un puente entre el recuerdo y la imagen, devolviendo a las familias un retrato que honrar y preservar en la memoria colectiva.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailerFuente": null,
@@ -1391,7 +1391,7 @@
       "filmId": "HO00010023",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010023?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010023&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsis": "Trabajadores dedicados al corte de aguacate en Uruapan, Michoacán, reflexionan sobre sus vidas mientras enfrentan largas jornadas laborales. A través de sus experiencias, el documental muestra las transformaciones sociales y ambientales que atraviesa su comunidad y las condiciones que marcan su vida cotidiana.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailerFuente": null,
