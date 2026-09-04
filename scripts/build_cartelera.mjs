@@ -101,11 +101,12 @@ const salaDe = t => { const m = t.match(/Sala\s+([A-Z0-9]+)/i); return m ? `Sala
 async function scrapeCartelera() {
   const res = await traer(SEDE.url);
   if (!res) throw new Error(`No se pudo leer la cartelera: ${SEDE.url}`);
+  const html = await res.text();
 
   // cheerio concatena el texto de nodos hermanos sin separador, así que
   // "<td>Sala 4</td><td>16:00</td>" se leería "Sala 416:00" — perdiendo la sala
   // y el primer horario. Un espacio antes de cada cierre de etiqueta lo evita.
-  const $ = load((await res.text()).replace(/<\//g, " </"));
+  const $ = load(html.replace(/<\//g, " </"));
 
   const peliculas = [];
   const vistas = new Set();
@@ -152,6 +153,18 @@ async function scrapeCartelera() {
       const texto = $(el).text();
       if (/Dir\.?:/i.test(texto) && texto.length < 2000) registrar(texto, null);
     });
+  }
+
+  // Cero películas es el único fallo que no se puede diagnosticar desde fuera:
+  // el sitio no se alcanza desde otros lados. Dejamos en el log lo que devolvió.
+  if (!peliculas.length) {
+    const texto = $("body").text().replace(/\s+/g, " ").trim();
+    log("  ── diagnóstico de la respuesta ──");
+    log(`  HTTP ${res.status} · ${res.headers.get("content-type")} · ${html.length} bytes`);
+    log(`  <title>: ${$("title").text().trim() || "(vacío)"}`);
+    log(`  enlaces: ${$("a").length} · con detallePelicula: ${(html.match(/detallePelicula/g) || []).length}`);
+    log(`  ocurrencias de "Dir.:": ${(html.match(/Dir\.?:/gi) || []).length} · horas HH:MM: ${(html.match(/\b\d{1,2}:\d{2}\b/g) || []).length}`);
+    log(`  texto (primeros 900): ${texto.slice(0, 900)}`);
   }
 
   return peliculas;
