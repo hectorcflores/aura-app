@@ -21,8 +21,8 @@ const DRY = process.argv.includes("--dry");
 
 const SEDE = {
   nombre: "Cineteca Nacional · Xoco",
-  cinemaId: "001",
-  url: "https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=001",
+  cinemaId: "003",   // 001 es Chapultepec y 002 Churubusco; Xoco es 003.
+  url: "https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=003",
 };
 
 const TMDB_KEY = process.env.TMDB_API_KEY?.trim();
