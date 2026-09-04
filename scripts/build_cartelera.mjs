@@ -43,13 +43,18 @@ const UA = "aura-app (+https://github.com/hectorcflores/aura-app)";
 const log = (...a) => console.log(...a);
 const dormir = ms => new Promise(r => setTimeout(r, ms));
 
-/** fetch con reintentos: las APIs fallan de vez en cuando y un run diario no debe morir por eso. */
-async function traer(url, { intentos = 3, ...opts } = {}) {
+/**
+ * fetch con reintentos y timeout: las APIs fallan de vez en cuando y un run
+ * diario no debe morir por eso; y una petición que nunca responde no debe
+ * colgar el build entero (sin timeout, fetch espera indefinidamente).
+ */
+async function traer(url, { intentos = 3, timeoutMs = 15000, ...opts } = {}) {
   let ultimo;
   for (let i = 1; i <= intentos; i++) {
     try {
       const res = await fetch(url, {
         ...opts,
+        signal: AbortSignal.timeout(timeoutMs),
         headers: { "User-Agent": UA, "Accept-Language": "es-MX,es;q=0.9,en;q=0.8", ...opts.headers },
       });
       if (res.status === 429 || res.status >= 500) throw new Error(`HTTP ${res.status}`);
