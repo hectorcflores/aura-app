@@ -14,7 +14,7 @@ cartelera cada mañana y la commitea como JSON; la página solo lo lee.
 ```
 GitHub Action (06:37 CDMX, diario)
   └─ scripts/build_cartelera.mjs
-       1. Scrapea la cartelera de Xoco (cinemaId=003)
+       1. Scrapea la programación del día de Xoco (cartelera.php?cinemaId=003)
        2. Por película: TMDB (match + imdb_id) → OMDb (Rotten Tomatoes, IMDb)
                                                → TMDB reviews (extractos)
        3. Escribe app/data/cartelera.json y lo commitea si cambió

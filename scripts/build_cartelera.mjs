@@ -22,7 +22,9 @@ const DRY = process.argv.includes("--dry");
 const SEDE = {
   nombre: "Cineteca Nacional · Xoco",
   cinemaId: "003",   // 001 es Chapultepec y 002 Churubusco; Xoco es 003.
-  url: "https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=003",
+  // Ojo: /cartelera.php (raíz) es la "Programación del día" con horarios.
+  // /sedes/cartelera.php es otra vista que de noche sale sin funciones.
+  url: "https://www.cinetecanacional.net/cartelera.php?cinemaId=003",
 };
 
 const TMDB_KEY = process.env.TMDB_API_KEY?.trim();
@@ -111,7 +113,7 @@ async function scrapeCartelera() {
   const peliculas = [];
   const vistas = new Set();
 
-  const registrar = (bloque, filmId) => {
+  const registrar = (bloque, filmId, hrefFicha = null) => {
     const texto = bloque.replace(/\s+/g, " ").trim();
     const ficha = parseFicha(texto);
     if (!ficha) return;
@@ -125,21 +127,20 @@ async function scrapeCartelera() {
       sala: salaDe(texto),
       horarios,
       filmId: filmId || null,
-      urlCineteca: filmId
-        ? `https://www.cinetecanacional.net/sedes/detallePelicula.php?FilmId=${filmId}&cinemaId=${SEDE.cinemaId}`
-        : SEDE.url,
+      urlCineteca: hrefFicha ? new URL(hrefFicha, SEDE.url).href : SEDE.url,
     });
   };
 
   // Cada película enlaza a su ficha. Subimos por los ancestros hasta el bloque
   // que ya contiene la ficha completa y los horarios.
   $('a[href*="detallePelicula.php"]').each((_, a) => {
-    const filmId = $(a).attr("href")?.match(/FilmId=([^&]+)/i)?.[1];
+    const href = $(a).attr("href") || "";
+    const filmId = href.match(/FilmId=([^&]+)/i)?.[1];
     let nodo = $(a);
     for (let i = 0; i < 6 && nodo.length; i++) {
       const texto = nodo.text();
       if (/Dir\.?:/i.test(texto) && /\d{1,2}:\d{2}/.test(texto) && texto.length < 2000) {
-        registrar(texto, filmId);
+        registrar(texto, filmId, href);
         return;
       }
       nodo = nodo.parent();
@@ -176,12 +177,13 @@ async function scrapeCartelera() {
 
     // La ficha no depende de la hora: validamos sinopsis/tráiler con el primer enlace que haya.
     const primerLink = $('a[href*="detallePelicula.php"]').first();
-    const fid = primerLink.attr("href")?.match(/FilmId=([^&]+)/i)?.[1];
+    const hrefFicha = primerLink.attr("href");
+    const fid = hrefFicha?.match(/FilmId=([^&]+)/i)?.[1];
     if (fid) {
       await detalleCineteca({
         titulo: primerLink.text().replace(/\s+/g, " ").trim().slice(0, 60) || `FilmId ${fid}`,
         filmId: fid,
-        urlCineteca: `https://www.cinetecanacional.net/sedes/detallePelicula.php?FilmId=${fid}&cinemaId=${SEDE.cinemaId}`,
+        urlCineteca: new URL(hrefFicha, SEDE.url).href,
       }, true);
     }
 
