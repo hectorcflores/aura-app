@@ -106,10 +106,54 @@ export function parseFicha(texto) {
 const horariosDe = t => [...new Set(t.match(/\b\d{1,2}:\d{2}\b/g) || [])].sort();
 const salaDe = t => { const m = t.match(/Sala\s+([A-Z0-9]+)/i); return m ? `Sala ${m[1]}` : null; };
 
+/**
+ * cartelera.php es un cascarón: al cargar, su JS hace POST a data/cartelera.php
+ * con vista/fecha/cinema/eventId y pinta el `html` de la respuesta. Le pedimos
+ * eso mismo, con los valores que el propio cascarón trae por defecto, salvo la
+ * sede y la fecha, que fijamos nosotros.
+ */
+const ENDPOINT = "https://www.cinetecanacional.net/data/cartelera.php";
+const RESPALDO = `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=${SEDE.cinemaId}`;
+
+async function htmlDeCartelera() {
+  const shell = await traer(SEDE.url);
+  if (!shell) throw new Error(`No se pudo leer la cartelera: ${SEDE.url}`);
+  const $s = load(await shell.text());
+  const campos = {
+    vista:   $s("#vista").val() ?? "",
+    fecha:   HOY_CDMX,
+    cinema:  SEDE.cinemaId,
+    eventId: $s("#eventId").val() ?? "",
+  };
+  log(`  POST data/cartelera.php · vista="${campos.vista}" fecha=${campos.fecha} cinema=${campos.cinema}`);
+
+  const r = await traer(ENDPOINT, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "X-Requested-With": "XMLHttpRequest",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": SEDE.url,
+    },
+    body: new URLSearchParams(campos).toString(),
+  });
+  if (r) {
+    const cuerpo = await r.text();
+    let html = null;
+    try { html = JSON.parse(cuerpo)?.html ?? null; } catch { html = cuerpo; }   // por si responde HTML directo
+    if (html && /Dir\.?:/i.test(html)) return { html, status: r.status, ct: r.headers.get("content-type"), origen: "data/cartelera.php" };
+    log(`  · data/cartelera.php devolvió ${cuerpo.length} bytes sin fichas; pruebo la vista de servidor`);
+  }
+
+  const res = await traer(RESPALDO);
+  if (!res) throw new Error(`No se pudo leer la cartelera: ${RESPALDO}`);
+  return { html: await res.text(), status: res.status, ct: res.headers.get("content-type"), origen: "sedes/cartelera.php" };
+}
+
 async function scrapeCartelera() {
-  const res = await traer(SEDE.url);
-  if (!res) throw new Error(`No se pudo leer la cartelera: ${SEDE.url}`);
-  const html = await res.text();
+  const { html, status, ct, origen } = await htmlDeCartelera();
+  log(`  fuente: ${origen} · HTTP ${status} · ${html.length} bytes`);
+  const res = { status, headers: { get: () => ct } };   // para el diagnóstico de abajo
 
   // cheerio concatena el texto de nodos hermanos sin separador, así que
   // "<td>Sala 4</td><td>16:00</td>" se leería "Sala 416:00" — perdiendo la sala

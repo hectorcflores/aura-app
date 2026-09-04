@@ -159,7 +159,6 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
     <nav class="list" id="ls" aria-label="Cartelera de hoy"></nav>
     <div class="card" id="pn"><div class="msg skel"><span style="width:60%"></span><span style="width:85%"></span><span style="width:40%"></span></div></div>
   </div>
-  <p class="foot" id="foot"></p>
 </div>
 <script>
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -270,8 +269,6 @@ fetch("./data/cartelera.json", { cache: "no-store" })
     CART = d;
     hayCritica = (d.peliculas || []).some(p => p.critica != null);
     sub.textContent = d.fechaTexto || "";
-    document.getElementById("foot").textContent =
-      "Rotten Tomatoes vía OMDb · IMDb · TMDB · Cineteca Nacional";
     if (!d.peliculas || !d.peliculas.length) {
       vacio(d.pendiente ? "Aún no hay cartelera" : "Hoy no hay funciones",
         d.pendiente
