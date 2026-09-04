@@ -165,6 +165,15 @@ async function scrapeCartelera() {
     log(`  enlaces: ${$("a").length} · con detallePelicula: ${(html.match(/detallePelicula/g) || []).length}`);
     log(`  ocurrencias de "Dir.:": ${(html.match(/Dir\.?:/gi) || []).length} · horas HH:MM: ${(html.match(/\b\d{1,2}:\d{2}\b/g) || []).length}`);
     log(`  texto (primeros 900): ${texto.slice(0, 900)}`);
+
+    // Sonda: ¿qué sede y cuántos horarios devuelve cada cinemaId ahora mismo?
+    for (const id of ["001", "002", "003"]) {
+      const r = await traer(`https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=${id}`);
+      const h = r ? await r.text() : "";
+      const sede = h.match(/CINETECA NACIONAL\s+(MÉXICO|CHAPULTEPEC|DE LAS ARTES)/i)?.[1] || "?";
+      log(`  sonda cinemaId=${id}: sede=${sede} · horas=${(h.match(/\b\d{1,2}:\d{2}\b/g) || []).length}`
+        + ` · "Dir.:"=${(h.match(/Dir\.?:/gi) || []).length} · detallePelicula=${(h.match(/detallePelicula/g) || []).length}`);
+    }
   }
 
   return peliculas;
