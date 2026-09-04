@@ -173,8 +173,8 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
       <select class="sel" id="selSede" aria-label="Sede" disabled><option>Sede</option></select>
       <select class="sel" id="selFecha" aria-label="Fecha" disabled><option>Fecha</option></select>
       <select class="sel" id="selOrden" aria-label="Ordenar por" disabled>
-        <option value="horario">Horario</option>
         <option value="calificacion">Calificación</option>
+        <option value="horario">Horario</option>
       </select>
     </div>
   </div>
@@ -213,8 +213,8 @@ const mini = (k, v, suf = "") => `
   <span class="mini"><span class="mk">${k}</span>
   <b class="tnum${v == null ? " off" : ""}">${v == null ? "—" : v + suf}</b></span>`;
 
-let CART = null, sede = null, fecha = null, sel = 0, orden = "horario";
-const ORDENES = ["horario", "calificacion"];
+let CART = null, sede = null, fecha = null, sel = 0, orden = "calificacion";
+const ORDENES = ["calificacion", "horario"];
 
 /* Hora actual en CDMX, en minutos, para saber qué funciones de hoy ya pasaron. */
 const minutos = h => { const [a, b] = h.split(":").map(Number); return a * 60 + b; };
@@ -325,7 +325,7 @@ function nombreSede(id) { return CART.sedes.find(s => s.id === id)?.nombre || id
 function pinta() {
   const items = filas();
   sub.textContent = fechaLarga(fecha);
-  history.replaceState(null, "", `?sede=${encodeURIComponent(sede)}&fecha=${encodeURIComponent(fecha)}${orden !== "horario" ? `&orden=${orden}` : ""}`);
+  history.replaceState(null, "", `?sede=${encodeURIComponent(sede)}&fecha=${encodeURIComponent(fecha)}${orden !== "calificacion" ? `&orden=${orden}` : ""}`);
   if (!items.length) {
     vacio(`Sin funciones en ${nombreSede(sede)}`, `No hay programación para el ${fechaLarga(fecha).toLowerCase()}. Prueba otra sede u otro día.`);
     return;
@@ -375,7 +375,7 @@ fetch("./data/cartelera.json", { cache: "no-store" })
     const q = new URLSearchParams(location.search);
     sede  = d.sedes.some(s => s.id === q.get("sede")) ? q.get("sede") : (d.sedes.find(s => s.id === "003") || d.sedes[0]).id;
     fecha = d.fechas.includes(q.get("fecha")) ? q.get("fecha") : (d.fechas.includes(d.hoy) ? d.hoy : d.fechas[0]);
-    orden = ORDENES.includes(q.get("orden")) ? q.get("orden") : "horario";
+    orden = ORDENES.includes(q.get("orden")) ? q.get("orden") : "calificacion";
     pintaControles(); pinta();
   })
   .catch(err => {
