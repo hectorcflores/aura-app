@@ -226,7 +226,8 @@ async function enriquecer(p) {
   if (!salida.tituloOriginal && detalle?.original_title !== p.titulo) {
     salida.tituloOriginal = detalle?.original_title || null;
   }
-  salida.publico = hit.vote_count > 20 ? Number(hit.vote_average?.toFixed(1)) : null;
+  // Mucho de lo que programa la Cineteca tiene pocos votos; con 10 ya es un promedio y no una anécdota.
+  salida.publico = hit.vote_count >= 10 ? Number(hit.vote_average?.toFixed(1)) : null;
   salida.publicoFuente = salida.publico != null ? "TMDB" : null;
 
   const imdbId = detalle?.imdb_id;

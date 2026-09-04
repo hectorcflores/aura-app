@@ -170,6 +170,8 @@ const mini = (k, v, suf = "") => `
   <b class="tnum${v == null ? " off" : ""}">${v == null ? "—" : v + suf}</b></span>`;
 
 let CART = null, sel = 0;
+/* Sin OMDb no hay score de críticos; en vez de una columna de "—", se omite. */
+let hayCritica = false;
 
 function pintaLista() {
   ls.innerHTML = CART.peliculas.map((p, i) => `
@@ -179,7 +181,7 @@ function pintaLista() {
       <span class="d">
         <span class="h tnum">${p.horarios.join(" · ")}</span>
         <span class="minis">
-          ${mini("Crítica", p.critica, "%")}${mini("Público", p.publico?.toFixed(1))}
+          ${hayCritica ? mini("Crítica", p.critica, "%") : ""}${mini("Público", p.publico?.toFixed(1))}
         </span>
       </span>
     </button>`).join("");
@@ -203,7 +205,7 @@ function pintaPanel() {
     <div class="times" style="margin-top:20px">
       ${p.horarios.map(h => `<span class="badge badge-secondary tnum">${esc(h)}</span>`).join("")}</div>
     <div class="scores">
-      ${score("Crítica", p.critica, p.critica / 100, "%")}
+      ${hayCritica ? score("Crítica", p.critica, p.critica / 100, "%") : ""}
       ${score("Público", p.publico, p.publico / 10)}
     </div>
     <p class="src">${[p.criticaFuente, p.publicoFuente].filter(Boolean).join(" · ") || "Sin scores disponibles"}</p>
@@ -232,6 +234,7 @@ fetch("./data/cartelera.json", { cache: "no-store" })
   .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
   .then(d => {
     CART = d;
+    hayCritica = (d.peliculas || []).some(p => p.critica != null);
     sub.textContent = d.fechaTexto || "";
     document.getElementById("foot").textContent =
       "Rotten Tomatoes vía OMDb · IMDb · TMDB · Cineteca Nacional";

@@ -34,10 +34,12 @@ Dos secrets en **Settings → Secrets and variables → Actions**:
 | Secret | De dónde | Para qué |
 |---|---|---|
 | `TMDB_API_KEY` | [themoviedb.org](https://www.themoviedb.org/settings/api) — gratis | Match de película, `imdb_id` y reseñas |
-| `OMDB_API_KEY` | [omdbapi.com](https://www.omdbapi.com/apikey.aspx) — gratis | Rotten Tomatoes y rating de IMDb |
+| `OMDB_API_KEY` *(opcional)* | [omdbapi.com](https://www.omdbapi.com/apikey.aspx) — gratis | Rotten Tomatoes y rating de IMDb |
 
-Sin ellos el Action **no falla**: publica la cartelera sin scores ni reseñas, porque
-saber qué hay hoy en Xoco ya sirve por sí solo.
+Con solo `TMDB_API_KEY` la app muestra un score (el promedio de votos de TMDB) y las
+reseñas; la columna de crítica no aparece. Si se agrega `OMDB_API_KEY`, aparece sola
+con el porcentaje de Rotten Tomatoes. Sin ninguna de las dos el Action **no falla**:
+publica la cartelera sin scores ni reseñas, porque saber qué hay hoy en Xoco ya sirve.
 
 Además hay que activar **Settings → Pages → Source: `main` / root**.
 
