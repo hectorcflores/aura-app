@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-09-04T03:25:15.970Z",
-  "hoy": "2026-09-03",
+  "generadoEn": "2026-09-04T13:35:29.614Z",
+  "hoy": "2026-09-04",
   "sedes": [
     {
       "id": "003",
@@ -19,90 +19,15 @@
     }
   ],
   "fechas": [
-    "2026-09-03",
     "2026-09-04",
     "2026-09-05",
     "2026-09-06",
     "2026-09-07",
     "2026-09-08",
-    "2026-09-09"
+    "2026-09-09",
+    "2026-09-10"
   ],
   "peliculas": {
-    "HO00009812": {
-      "titulo": "Iván el terrible, parte II",
-      "tituloOriginal": "Ivan Groznyy II: Boyarsky zagovor",
-      "director": "Serguéi Eisenstein",
-      "pais": "Rusia",
-      "ano": 1945,
-      "duracion": 88,
-      "filmId": "HO00009812",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009812?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009812&cinemas=003",
-      "sinopsis": "Iván el terrible narra la lucha del zar de Rusia contra los boyardos, quienes conspiran para asesinarlo y darle el trono a su primo, Vladimir. Descubriendo el complot, Iván se enfrenta a la nobleza traidora, desatando una purga despiadada para centralizar el poder absoluto. El monarca se transforma en un déspota paranoico que experimentará consecuencias psicológicas y un costo por su tiranía. Este filme, que no pudo verse en Rusia hasta 1958, le permitió a Eisenstein mostrar su gran capacidad expresionista.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "JcJkHCihTmE",
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "TMDB",
-      "resenas": [
-        {
-          "texto": "Nikolay Cherkasov is superb in this speculative biopic of the infamous Tsar of all the Russias. Made towards the end of the Second World War, Sergei Eisenstein manages to create a…",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/629e456dcaa50837e466e41c"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0037824/",
-      "tmdbId": 9797,
-      "votos": 232
-    },
-    "HO00009563": {
-      "titulo": "Expulsado del paraíso",
-      "tituloOriginal": "Amrum",
-      "director": "Fatih Akin",
-      "pais": "Alemania",
-      "ano": 2025,
-      "duracion": 93,
-      "filmId": "HO00009563",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009563?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009563&cinemas=002",
-      "sinopsis": "A finales de 1945, durante los últimos días del régimen nazi, la lejana isla alemana de Amrum, hogar de balleneros y cazadores de focas, vive totalmente ajena a los horrores de la guerra. Nanning, un niño cercano a su adolescencia y con un profundo sentido de deber, está encargado de cuidar a su madre, una fanática hitleriana que recientemente ha dado a luz. El chico pasa sus días cazando, pescando, encargándose de los cultivos y haciendo lo que sea necesario para ayudar a mantener a flote a su familia. Expulsado del paraíso, la película más reciente del cineasta alemán de ascendencia turca Fatih Akin, es un viaje de reconocimiento donde el amor y la generosidad son la guía que Nanning utiliza para encaminarse a su verdadera identidad, enfrentado a procesos de cambio de una nación a la que parece no pertenecer.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "g3hT_fu_vfg",
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.2,
-      "publicoFuente": "TMDB",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt22507216/",
-      "tmdbId": 1269644,
-      "votos": 93
-    },
-    "HO00009814": {
-      "titulo": "Señoritas",
-      "tituloOriginal": "Senhoritas",
-      "director": "Mykaela Plotkin",
-      "pais": "Brasil",
-      "ano": 2024,
-      "duracion": 90,
-      "filmId": "HO00009814",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009814?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009814&cinemas=002",
-      "sinopsis": "A sus 70 años, Livia es una arquitecta jubilada cuya vida es tranquila y entregada a su nieta. Pero todo cambia cuando Luci, una vieja amiga, regresa a Brasil con una personalidad desbordante que despierta en ella sensaciones nuevas. Este reencuentro sumerge a ambas en un viaje de autodescubrimiento y complicidad, desafiando los prejuicios de la tercera edad. Una historia emotiva que nos demuestra que la libertad femenina, el deseo y la ilusión por la vida jamás tendrá una fecha de caducidad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "3lozo5VRDl4",
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt33997262/",
-      "tmdbId": 1440130,
-      "votos": 0
-    },
     "HO00009956": {
       "titulo": "Coyote Vs Acme SUB",
       "tituloOriginal": "Coyote VS Acme",
@@ -140,7 +65,7 @@
       ],
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "tmdbId": 1204680,
-      "votos": 114
+      "votos": 121
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -187,6 +112,29 @@
       "urlImdb": "https://www.imdb.com/title/tt30006845/",
       "tmdbId": 808224,
       "votos": 0
+    },
+    "HO00009563": {
+      "titulo": "Expulsado del paraíso",
+      "tituloOriginal": "Amrum",
+      "director": "Fatih Akin",
+      "pais": "Alemania",
+      "ano": 2025,
+      "duracion": 93,
+      "filmId": "HO00009563",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009563?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009563&cinemas=003",
+      "sinopsis": "A finales de 1945, durante los últimos días del régimen nazi, la lejana isla alemana de Amrum, hogar de balleneros y cazadores de focas, vive totalmente ajena a los horrores de la guerra. Nanning, un niño cercano a su adolescencia y con un profundo sentido de deber, está encargado de cuidar a su madre, una fanática hitleriana que recientemente ha dado a luz. El chico pasa sus días cazando, pescando, encargándose de los cultivos y haciendo lo que sea necesario para ayudar a mantener a flote a su familia. Expulsado del paraíso, la película más reciente del cineasta alemán de ascendencia turca Fatih Akin, es un viaje de reconocimiento donde el amor y la generosidad son la guía que Nanning utiliza para encaminarse a su verdadera identidad, enfrentado a procesos de cambio de una nación a la que parece no pertenecer.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "g3hT_fu_vfg",
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.2,
+      "publicoFuente": "TMDB",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt22507216/",
+      "tmdbId": 1269644,
+      "votos": 93
     },
     "HO00009929": {
       "titulo": "La bachata del biónico",
@@ -266,7 +214,7 @@
       ],
       "urlImdb": "https://www.imdb.com/title/tt15181326/",
       "tmdbId": 1263012,
-      "votos": 210
+      "votos": 211
     },
     "HO00009763": {
       "titulo": "Lo que queda de ti",
@@ -295,7 +243,7 @@
       ],
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "tmdbId": 1219620,
-      "votos": 76
+      "votos": 77
     },
     "HO00007608": {
       "titulo": "Los demonios del amanecer",
@@ -493,6 +441,29 @@
       "tmdbId": 1572413,
       "votos": 0
     },
+    "HO00009814": {
+      "titulo": "Señoritas",
+      "tituloOriginal": "Senhoritas",
+      "director": "Mykaela Plotkin",
+      "pais": "Brasil",
+      "ano": 2024,
+      "duracion": 90,
+      "filmId": "HO00009814",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009814?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009814&cinemas=003",
+      "sinopsis": "A sus 70 años, Livia es una arquitecta jubilada cuya vida es tranquila y entregada a su nieta. Pero todo cambia cuando Luci, una vieja amiga, regresa a Brasil con una personalidad desbordante que despierta en ella sensaciones nuevas. Este reencuentro sumerge a ambas en un viaje de autodescubrimiento y complicidad, desafiando los prejuicios de la tercera edad. Una historia emotiva que nos demuestra que la libertad femenina, el deseo y la ilusión por la vida jamás tendrá una fecha de caducidad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "3lozo5VRDl4",
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt33997262/",
+      "tmdbId": 1440130,
+      "votos": 0
+    },
     "HO00009979": {
       "titulo": "Shorts 2026: Competencia Mexicana de Animación 3",
       "tituloOriginal": null,
@@ -629,7 +600,7 @@
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt37961750/",
       "tmdbId": 1616131,
-      "votos": 65
+      "votos": 66
     },
     "HO00009182": {
       "titulo": "Vidas en la orilla",
@@ -743,7 +714,7 @@
       ],
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "tmdbId": 1204680,
-      "votos": 117
+      "votos": 120
     },
     "HO00010048": {
       "titulo": "Dama de las mil máscaras",
@@ -874,7 +845,7 @@
       ],
       "urlImdb": "https://www.imdb.com/title/tt33764258/",
       "tmdbId": 1368337,
-      "votos": 3431
+      "votos": 3452
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1140,11 +1111,16 @@
           "texto": "Divorce can have a very strange effect on a family, both for the separating partners and for anyone in their household, especially children.",
           "autor": "Brent Marchant",
           "url": "https://www.themoviedb.org/review/68f8743a9cf01156bbb9069b"
+        },
+        {
+          "texto": "\"Anna\" (Saga Garðarsdóttir) is an artist/sculptor, separated from her herring fisherman husband \"Maggi\" (Sverrir Gudnason) and bringing up their three kids.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6a9a673d0119776d308988b4"
         }
       ],
       "urlImdb": "https://www.imdb.com/title/tt33381401/",
       "tmdbId": 1258509,
-      "votos": 36
+      "votos": 37
     },
     "HO00009980": {
       "titulo": "Shorts 2026: Competencia Mexicana de Animación 4",
@@ -2364,44 +2340,46 @@
       "tmdbId": null,
       "votos": null
     },
-    "HO00009089": {
-      "titulo": "El sonido al caer",
-      "tituloOriginal": "In die Sonne schauen / Sound of Falling",
-      "director": "Mascha Schilinski",
-      "pais": "Alemania",
-      "ano": 2025,
-      "duracion": 149,
-      "filmId": "HO00009089",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009089?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009089&cinemas=003",
-      "sinopsis": "Cuatro chicas de diferentes épocas pasan su juventud en la misma casa de campo al norte de Alemania. A medida que el espacio evoluciona a lo largo de un siglo, los ecos del pasado persisten en sus paredes. Aunque separadas por el tiempo, sus vidas comienzan a entrelazarse. Ganadora del Premio del Jurado en el Festival de Cannes, El sonido al caer es una película visualmente bella y dramáticamente perversa, que parece narrada con soltura etérea por fantasmas. La cineasta Mascha Schilinski compone un poema fúnebre en el que sus protagonistas se enfrentan a un destino a menudo desafortunado, y la casa se convierte en un espejo de la atormentada historia alemana de principios del siglo XX al presente.",
+    "HO00003258": {
+      "titulo": "Agnus Dei, cordero de Dios",
+      "tituloOriginal": "Agnus Dei",
+      "director": "Alejandra Sánchez Orozco",
+      "pais": "México",
+      "ano": 2010,
+      "duracion": 80,
+      "filmId": "HO00003258",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00003258?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00003258&cinemas=003",
+      "sinopsis": "Cuando tenía once años, Jesús Romero fue abusado sexualmente por un sacerdote. Ya adulto, decide no sólo denunciar a su agresor, sino buscarlo y encararlo. En esta película, la directora Alejandra Sánchez Orozco captura una historia donde la valentía y la construcción de la dignidad son las armas de un hombre con una infancia fracturada. El testimonio de Jesús da cuenta de la impunidad con la que la Iglesia Católica intenta obviar los actos de pederastia cometidos por algunos de sus miembros.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "O-jgGbvLgVo",
-      "trailerFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.9,
+      "publico": 6.6,
       "publicoFuente": "TMDB",
       "resenas": [
         {
-          "texto": "This is some farmhouse! It seems to go on forever and it provides quite an effective location for this tale of four generations of the same family as they deal with life, love and tragedy…",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6a80a63d612a8ee91b3945ed"
+          "texto": "The fifth and final film of the Cinequest Film Festival was AGNUS DEI back at the Camera 12. Based on a true story, the film takes place during the Kosovo war.",
+          "autor": "Diana Stevenson",
+          "url": "https://www.themoviedb.org/review/5151d4f419c2950c220214e5"
         }
       ],
-      "urlImdb": "https://www.imdb.com/title/tt28690468/"
+      "urlImdb": "https://www.imdb.com/title/tt2233951/",
+      "tmdbId": 171691,
+      "votos": 15
     },
-    "HO00009997": {
-      "titulo": "Shorts 2026: Competencia Mexicana de Ficción 2",
-      "tituloOriginal": "COMPETENCIA MEXICANA DE FICCIÓN - PROGRAMA 2",
-      "director": "Varios",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 120,
-      "filmId": "HO00009997",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009997?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009997&cinemas=003",
-      "sinopsis": "Es el foro cinematográfico especializado en cortometrajes más grande de Iberoamérica. Apoya la exhibición y promoción del filme corto, especialmente cine mexicano, presentando mil cortometrajes de 60 países, en más de 70 sedes, en las 16 Alcaldías de la Ciudad de México y los 32 Estados de la República Mexicana.",
+    "HO00010003": {
+      "titulo": "Shorts 2026: Ecoshorts",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010003",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010003?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010003&cinemas=003",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailerFuente": null,
@@ -2410,37 +2388,127 @@
       "publico": null,
       "publicoFuente": null,
       "resenas": [],
-      "urlImdb": null
+      "urlImdb": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00009971": {
+      "titulo": "Shorts 2026: Fantascorto 1",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00009971",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009971?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009971&cinemas=003",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00009972": {
+      "titulo": "Shorts 2026: Fantascorto 2",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00009972",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009972?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009972&cinemas=003",
+      "sinopsis": "The feels - or he debilitated condition of the reproductive system, de Carolina Costa, AMC Metamorfosis, de Ricardo Garfias Mendez Ñuuyii, de Itandehui Jansen STYXIɅ, de Joshua Torresvalle Velazquez Margoth et kassandra, de León Landázuri Celeris, de Omar Cortés Macedo",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00009993": {
+      "titulo": "Shorts 2026: Muestra Mexicana 2",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00009993",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009993?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009993&cinemas=003",
+      "sinopsis": "Mujer que vive en el fin de los tiempos, de Cristina Kotz Cornejo Un mes, de Fabio Colonna Donde termina el asfalto, de Marcos Muñoz Flores, Zuriel Martínez Dulce y fredo, de Ramón Medina Bajo el ardiente sol, de Julian Hernández",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00009758": {
+      "titulo": "Animanimales",
+      "tituloOriginal": "ANIMANIMALES",
+      "director": "Julia Ocker",
+      "pais": null,
+      "ano": null,
+      "duracion": 64,
+      "filmId": "HO00009758",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009758?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009758&cinemas=001",
+      "sinopsis": "En cada película de ANIMANIMALS, el público puede hacer amistad con otro animal. Los protagonistas de estas pequeñas aventuras son personajes entrañables con ciertas cualidades que, en un primer momento, parecen ser desventajas, pero que acaban resultando ventajas: una CEBRA cuyas rayas se confunden, un PULPO que discute con uno de sus tentáculos, una HORMIGA que se opone a la presión del grupo o un PEREZOSO que lame más despacio de lo que tarda en derretirse el helado.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00000489": {
+      "titulo": "Las oscuras primaveras",
+      "tituloOriginal": null,
+      "director": "Ernesto Contreras",
+      "pais": "México",
+      "ano": 2014,
+      "duracion": 100,
+      "filmId": "HO00000489",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00000489?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00000489&cinemas=002",
+      "sinopsis": "Igor es plomero. Pina reparte café. Ambos se desean profundamente pero no son libres. Ella decidirá hacerle un disfraz de león a su pequeño hijo. Él decidirá comprar una fotocopiadora para su mujer. La primavera llegará y hará que el amor se consuma llenando sus vidas de ilusión y pasión.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "sHp9WC3HoTY",
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "TMDB",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt2360310/",
+      "tmdbId": 264529,
+      "votos": 98
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-09-03",
-      "pelicula": "HO00009812",
-      "sala": null,
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-03",
-      "pelicula": "HO00009563",
-      "sala": null,
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-03",
-      "pelicula": "HO00009814",
-      "sala": null,
-      "horarios": [
-        "20:50"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-09-04",
@@ -5796,34 +5864,148 @@
     },
     {
       "sede": "003",
-      "fecha": "2026-09-03",
-      "pelicula": "HO00009089",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00003258",
       "sala": null,
       "horarios": [
-        "20:30"
+        "18:00"
       ]
     },
     {
       "sede": "003",
-      "fecha": "2026-09-03",
-      "pelicula": "HO00009763",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009956",
       "sala": null,
       "horarios": [
+        "15:00",
+        "17:30",
         "20:00"
       ]
     },
     {
       "sede": "003",
-      "fecha": "2026-09-03",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00008666",
+      "sala": null,
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009139",
+      "sala": null,
+      "horarios": [
+        "16:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009563",
+      "sala": null,
+      "horarios": [
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009929",
+      "sala": null,
+      "horarios": [
+        "19:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009872",
+      "sala": null,
+      "horarios": [
+        "14:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009763",
+      "sala": null,
+      "horarios": [
+        "17:15",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00007608",
+      "sala": null,
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009426",
+      "sala": null,
+      "horarios": [
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009698",
+      "sala": null,
+      "horarios": [
+        "15:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
       "pelicula": "HO00009847",
       "sala": null,
       "horarios": [
+        "14:30",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009420",
+      "sala": null,
+      "horarios": [
+        "14:45",
         "20:45"
       ]
     },
     {
       "sede": "003",
-      "fecha": "2026-09-03",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009931",
+      "sala": null,
+      "horarios": [
+        "16:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009958",
+      "sala": null,
+      "horarios": [
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
       "pelicula": "HO00009561",
       "sala": null,
       "horarios": [
@@ -5832,38 +6014,342 @@
     },
     {
       "sede": "003",
-      "fecha": "2026-09-03",
-      "pelicula": "HO00009997",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009814",
+      "sala": null,
+      "horarios": [
+        "15:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00010003",
       "sala": null,
       "horarios": [
         "20:00"
       ]
     },
     {
-      "sede": "002",
-      "fecha": "2026-09-03",
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009971",
+      "sala": null,
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009972",
+      "sala": null,
+      "horarios": [
+        "16:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009993",
+      "sala": null,
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009555",
+      "sala": null,
+      "horarios": [
+        "15:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009256",
+      "sala": null,
+      "horarios": [
+        "16:45"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-10",
       "pelicula": "HO00009798",
       "sala": null,
       "horarios": [
+        "14:00",
+        "16:15",
+        "18:35"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009758",
+      "sala": null,
+      "horarios": [
+        "13:00",
+        "16:00",
+        "18:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009792",
+      "sala": null,
+      "horarios": [
+        "14:35",
+        "19:35"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009850",
+      "sala": null,
+      "horarios": [
+        "13:10",
+        "15:10",
+        "17:10",
+        "19:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009759",
+      "sala": null,
+      "horarios": [
+        "13:00",
+        "16:20",
+        "19:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009763",
+      "sala": null,
+      "horarios": [
+        "13:40",
+        "16:40",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009931",
+      "sala": null,
+      "horarios": [
+        "13:15",
+        "15:20"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009958",
+      "sala": null,
+      "horarios": [
+        "17:30",
+        "19:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009791",
+      "sala": null,
+      "horarios": [
+        "13:00",
+        "18:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009932",
+      "sala": null,
+      "horarios": [
+        "13:00",
+        "15:00",
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009798",
+      "sala": null,
+      "horarios": [
+        "13:40",
+        "16:00",
+        "18:20",
+        "20:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009849",
+      "sala": null,
+      "horarios": [
+        "16:40",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009563",
+      "sala": null,
+      "horarios": [
+        "15:40",
+        "19:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009792",
+      "sala": null,
+      "horarios": [
+        "14:30",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009850",
+      "sala": null,
+      "horarios": [
+        "13:20",
+        "15:20",
+        "17:20",
+        "19:10"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009759",
+      "sala": null,
+      "horarios": [
+        "13:00",
+        "16:20",
+        "19:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009848",
+      "sala": null,
+      "horarios": [
+        "14:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00000489",
+      "sala": null,
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009846",
+      "sala": null,
+      "horarios": [
+        "13:50",
+        "17:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009426",
+      "sala": null,
+      "horarios": [
+        "14:20",
+        "16:40",
+        "18:50",
+        "20:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009931",
+      "sala": null,
+      "horarios": [
+        "13:30",
+        "15:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009958",
+      "sala": null,
+      "horarios": [
+        "18:00",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009791",
+      "sala": null,
+      "horarios": [
+        "13:00",
+        "18:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009932",
+      "sala": null,
+      "horarios": [
+        "14:00",
+        "16:00",
+        "18:10",
         "20:20"
       ]
     },
     {
       "sede": "002",
-      "fecha": "2026-09-03",
-      "pelicula": "HO00009849",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009851",
       "sala": null,
       "horarios": [
-        "20:10"
+        "14:40",
+        "18:40"
       ]
     },
     {
       "sede": "002",
-      "fecha": "2026-09-03",
-      "pelicula": "HO00009850",
+      "fecha": "2026-09-10",
+      "pelicula": "HO00009555",
       "sala": null,
       "horarios": [
-        "20:30"
+        "13:10",
+        "16:10",
+        "18:50"
       ]
     }
   ]
