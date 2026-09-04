@@ -63,6 +63,9 @@ con `file://`).
   y la fuente se indica bajo los scores.
 - **Las reseñas son de TMDB**, escritas por sus usuarios, recortadas a un extracto y
   atribuidas a su autor.
+- **La sinopsis y el tráiler salen de la ficha de la Cineteca** (`detallePelicula.php`);
+  si esa página no los trae, entran el resumen y el tráiler oficial de TMDB. El tráiler
+  se reproduce incrustado y en silencio, sin salir de la app.
 - **El scraper depende del HTML de la Cineteca.** Si el sitio cambia de estructura, el
   Action falla ruidosamente ("Cero películas") en vez de publicar una cartelera vacía.
 

@@ -125,6 +125,22 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
 .rt{font-size:11px;color:hsl(var(--muted-foreground));margin:0 0 12px}
 @media(max-width:720px){.split{grid-template-columns:minmax(0,1fr)}}
 
+/* Sinopsis: texto corrido, ancho de lectura. */
+.sinopsis{margin:14px 0 0;font-size:14px;line-height:1.6;max-width:64ch}
+
+/* Tráiler: thumbnail 16:9 que al clic se vuelve el reproductor, en el mismo lugar. */
+.trailer{position:relative;aspect-ratio:16/9;max-width:560px;overflow:hidden;
+  border:1px solid hsl(var(--border));border-radius:var(--radius);background:hsl(var(--muted))}
+.trailer .play{display:block;width:100%;height:100%;padding:0;border:0;background:none;cursor:pointer}
+.trailer img{display:block;width:100%;height:100%;object-fit:cover;opacity:.85;transition:opacity .15s}
+.trailer .play:hover img{opacity:1}
+.trailer .ico{position:absolute;inset:0;display:grid;place-items:center;pointer-events:none}
+.trailer .ico span{display:grid;place-items:center;width:52px;height:52px;border-radius:9999px;
+  background:hsl(var(--background)/.78);color:hsl(var(--foreground));
+  box-shadow:0 1px 2px 0 rgb(0 0 0/.3)}
+.trailer .ico svg{width:20px;height:20px;margin-left:3px}
+.trailer iframe{display:block;width:100%;height:100%;border:0}
+
 /* Estados de carga y de cartelera vacía. */
 .msg{padding:24px;color:hsl(var(--muted-foreground));font-size:14px}
 .msg b{display:block;margin-bottom:4px;color:hsl(var(--foreground));font-weight:500}
@@ -196,6 +212,7 @@ function pintaPanel() {
 
   pn.innerHTML = `<div class="panel">
     <h2>${esc(p.titulo)}${p.tituloOriginal ? `<span class="orig">${esc(p.tituloOriginal)}</span>` : ""}</h2>
+    ${p.sinopsis ? `<p class="sinopsis">${esc(p.sinopsis)}</p>` : ""}
     <dl class="dl">
       <div><dt>Dirección</dt><dd>${esc(p.director) || "—"}</dd></div>
       <div><dt>País y año</dt><dd>${esc(p.pais) || "—"}${p.ano ? ` · <span class="tnum">${p.ano}</span>` : ""}</dd></div>
@@ -210,6 +227,15 @@ function pintaPanel() {
     </div>
     <p class="src">${[p.criticaFuente, p.publicoFuente].filter(Boolean).join(" · ") || "Sin scores disponibles"}</p>
     <hr class="sep">
+    ${p.trailer ? `
+      <p class="rt">Tráiler</p>
+      <div class="trailer" data-yt="${esc(p.trailer)}">
+        <button class="play" type="button" aria-label="Reproducir tráiler en silencio">
+          <img src="https://i.ytimg.com/vi/${esc(p.trailer)}/hqdefault.jpg" alt="" loading="lazy">
+          <span class="ico"><span><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></span></span>
+        </button>
+      </div>
+      <hr class="sep">` : ""}
     ${p.resenas.length
       ? `<p class="rt">${p.resenas.length} reseña${p.resenas.length > 1 ? "s" : ""}</p>
          <div class="quotes">${p.resenas.map(r => `
@@ -227,6 +253,14 @@ function vacio(titulo, detalle) {
 ls.addEventListener("click", e => {
   const b = e.target.closest(".item"); if (!b) return;
   sel = Number(b.dataset.i); pintaLista(); pintaPanel();
+});
+
+/* El tráiler arranca aquí mismo, mudo, sin abrir otra pestaña. */
+pn.addEventListener("click", e => {
+  const caja = e.target.closest(".trailer"); if (!caja || caja.querySelector("iframe")) return;
+  const id = encodeURIComponent(caja.dataset.yt);
+  caja.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&mute=1&playsinline=1&rel=0&modestbranding=1"
+    title="Tráiler" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
 });
 
 /* cache:"no-store" para que el navegador no sirva la cartelera de ayer. */

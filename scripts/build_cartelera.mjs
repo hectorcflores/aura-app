@@ -181,6 +181,54 @@ async function scrapeCartelera() {
 
 // ------------------------------------------------------------ enriquecido
 
+/** ID de YouTube en cualquier forma de URL (embed, watch, youtu.be). */
+const youtubeDe = html =>
+  html.match(/(?:youtube(?:-nocookie)?\.com\/(?:embed\/|watch\?v=)|youtu\.be\/)([A-Za-z0-9_-]{11})/)?.[1] || null;
+
+/**
+ * La ficha de cada película en la Cineteca trae la sinopsis y, casi siempre,
+ * el tráiler. No conocemos su estructura de antemano, así que la sinopsis es
+ * "el bloque de texto propio más largo que no sea la línea de ficha".
+ */
+async function detalleCineteca(p, diagnostico = false) {
+  const vacio = { sinopsis: null, youtube: null };
+  if (!p.filmId) return vacio;
+  const r = await traer(p.urlCineteca);
+  if (!r) return vacio;
+  const html = await r.text();
+  const $ = load(html.replace(/<\//g, " </"));
+
+  const bloques = [];
+  $("p, div, td, span, li").each((_, el) => {
+    // Solo el texto directo del nodo, para no arrastrar contenedores enteros.
+    const propio = $(el).contents().filter((_, n) => n.type === "text").text().replace(/\s+/g, " ").trim();
+    if (propio.length >= 120 && !/Dir\.?:/i.test(propio) && !/\b\d{1,2}:\d{2}\b/.test(propio)) {
+      bloques.push({ tag: el.tagName, texto: propio });
+    }
+  });
+  bloques.sort((a, b) => b.texto.length - a.texto.length);
+  const sinopsis = bloques[0]?.texto || null;
+  const youtube = youtubeDe(html);
+
+  if (diagnostico) {
+    log(`  ── ficha Cineteca de "${p.titulo}" ──`);
+    log(`  ${html.length} bytes · youtube=${youtube || "no"} · candidatos a sinopsis=${bloques.length}`);
+    bloques.slice(0, 3).forEach(b => log(`    <${b.tag}> ${b.texto.length}c: ${b.texto.slice(0, 90)}…`));
+  }
+  return { sinopsis, youtube };
+}
+
+/** Tráiler oficial en TMDB, en español si existe. */
+async function trailerTmdb(tmdbId) {
+  for (const lang of ["es-MX", "es", "en-US"]) {
+    const r = await json(`https://api.themoviedb.org/3/movie/${tmdbId}/videos?api_key=${TMDB_KEY}&language=${lang}`);
+    const yt = (r?.results || []).filter(v => v.site === "YouTube" && v.key);
+    const v = yt.find(v => v.type === "Trailer") || yt.find(v => v.type === "Teaser");
+    if (v) return v.key;
+  }
+  return null;
+}
+
 async function buscarEnTmdb({ titulo, tituloOriginal, ano }) {
   for (const q of [tituloOriginal, titulo].filter(Boolean)) {
     for (const conAno of ano ? [true, false] : [false]) {
@@ -235,15 +283,30 @@ async function scoresDe(imdbId) {
 async function enriquecer(p) {
   const salida = {
     ...p,
+    sinopsis: null, sinopsisFuente: null, trailer: null, trailerFuente: null,
     critica: null, criticaFuente: null, publico: null, publicoFuente: null,
     resenas: [], urlImdb: null,
   };
+
+  // Lo que dice la propia Cineteca va primero; TMDB rellena lo que falte.
+  const ficha = await detalleCineteca(p, enriquecer.primera);
+  enriquecer.primera = false;
+  if (ficha.sinopsis) { salida.sinopsis = ficha.sinopsis; salida.sinopsisFuente = "Cineteca Nacional"; }
+  if (ficha.youtube)  { salida.trailer = ficha.youtube;   salida.trailerFuente = "Cineteca Nacional"; }
+
   if (!TMDB_KEY) return salida;
 
   const hit = await buscarEnTmdb(p);
   if (!hit) { log(`  · sin match en TMDB: ${p.titulo}`); return salida; }
 
   const detalle = await json(`https://api.themoviedb.org/3/movie/${hit.id}?api_key=${TMDB_KEY}&language=es-MX`);
+  if (!salida.sinopsis && detalle?.overview?.trim()) {
+    salida.sinopsis = detalle.overview.trim(); salida.sinopsisFuente = "TMDB";
+  }
+  if (!salida.trailer) {
+    const key = await trailerTmdb(hit.id);
+    if (key) { salida.trailer = key; salida.trailerFuente = "TMDB"; }
+  }
   salida.resenas = await resenasDe(hit.id);
   if (!salida.tituloOriginal && detalle?.original_title !== p.titulo) {
     salida.tituloOriginal = detalle?.original_title || null;
@@ -284,6 +347,7 @@ async function main() {
   if (!crudas.length) throw new Error("Cero películas: la estructura del sitio probablemente cambió.");
 
   const peliculas = [];
+  enriquecer.primera = true;
   for (const p of crudas) {
     peliculas.push(await enriquecer(p));
     await dormir(120);                            // cortesía con TMDB/OMDb
@@ -301,7 +365,9 @@ async function main() {
 
   const conCritica = peliculas.filter(p => p.critica != null).length;
   log(`  ${conCritica}/${peliculas.length} con score de crítica, `
-    + `${peliculas.filter(p => p.resenas.length).length} con reseñas`);
+    + `${peliculas.filter(p => p.resenas.length).length} con reseñas, `
+    + `${peliculas.filter(p => p.sinopsis).length} con sinopsis, `
+    + `${peliculas.filter(p => p.trailer).length} con tráiler`);
 
   if (DRY) { log(JSON.stringify(salida, null, 2)); return; }
   await mkdir(dirname(SALIDA), { recursive: true });
