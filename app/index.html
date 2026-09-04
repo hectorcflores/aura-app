@@ -175,7 +175,6 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
       <select class="sel" id="selOrden" aria-label="Ordenar por" disabled>
         <option value="horario">Horario</option>
         <option value="calificacion">Calificación</option>
-        <option value="titulo">Título</option>
       </select>
     </div>
   </div>
@@ -215,7 +214,7 @@ const mini = (k, v, suf = "") => `
   <b class="tnum${v == null ? " off" : ""}">${v == null ? "—" : v + suf}</b></span>`;
 
 let CART = null, sede = null, fecha = null, sel = 0, orden = "horario";
-const ORDENES = ["horario", "calificacion", "titulo"];
+const ORDENES = ["horario", "calificacion"];
 
 /* Hora actual en CDMX, en minutos, para saber qué funciones de hoy ya pasaron. */
 const minutos = h => { const [a, b] = h.split(":").map(Number); return a * 60 + b; };
@@ -253,7 +252,7 @@ function filas() {
     const sa = a.p.publico ?? -1, sb = b.p.publico ?? -1;   // sin calificación al final
     return sb - sa || (b.p.votos ?? 0) - (a.p.votos ?? 0) || porHorario(a, b);
   };
-  return items.sort(orden === "calificacion" ? porCalificacion : orden === "titulo" ? porTitulo : porHorario);
+  return items.sort(orden === "calificacion" ? porCalificacion : porHorario);
 }
 
 const horas = (r, cls) => r.horarios.map(h => `<span class="${cls}${yaPaso(h) ? " past" : ""}">${esc(h)}</span>`).join(cls === "badge badge-secondary tnum" ? "" : " · ");
