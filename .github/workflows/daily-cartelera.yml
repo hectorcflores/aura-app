@@ -5,6 +5,9 @@ on:
     # 06:37 en Ciudad de México (UTC-6 todo el año desde 2022). Minuto fuera de
     # hora en punto a propósito: GitHub descarta crons en :00 cuando va cargado.
     - cron: "37 12 * * *"
+    # Respaldo: GitHub a veces retrasa o se salta un cron. Si el de las 06:37
+    # ya corrió y nada cambió, esta corrida no commitea.
+    - cron: "23 14 * * *"   # 08:23 CDMX
   workflow_dispatch:
   # Cualquier cambio al scraper reconstruye la cartelera de inmediato. El commit
   # del bot solo toca app/data/, así que no se dispara a sí mismo.

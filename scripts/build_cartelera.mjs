@@ -632,6 +632,9 @@ async function main() {
     + `${vals.filter(p => p.poster).length} con póster · ${funciones.filter(f => f.horarios.length).length}/${funciones.length} funciones con horario · fechas: ${fechas.join(", ")}`);
 
   if (DRY) { log(JSON.stringify(salida, null, 2).slice(0, 3000)); return; }
+  // Si solo cambió la marca de tiempo, no hay nada que publicar (ni que commitear).
+  const sinMarca = o => JSON.stringify({ ...o, generadoEn: null });
+  if (previo && sinMarca(previo) === sinMarca(salida)) { log("= La cartelera no cambió; se conserva el JSON anterior."); return; }
   await mkdir(dirname(SALIDA), { recursive: true });
   await writeFile(SALIDA, JSON.stringify(salida, null, 2) + "\n");
   log(`✓ ${SALIDA}`);
