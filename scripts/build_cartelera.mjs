@@ -232,34 +232,30 @@ async function scrapeCartelera(sede, fechaIso, diagnostico = false) {
     log(`  ocurrencias de "Dir.:": ${(html.match(/Dir\.?:/gi) || []).length} · horas HH:MM: ${(html.match(/\b\d{1,2}:\d{2}\b/g) || []).length}`);
     log(`  texto (primeros 900): ${texto.slice(0, 900)}`);
 
-    // El selector "ver por día": si lleva un parámetro de fecha, sirve para pedir otro día.
-    const dias = [];
-    $("a").each((_, a) => {
-      const t = $(a).text().trim(), h = $(a).attr("href") || "";
-      if (/^\d{2}$/.test(t) && h) dias.push(`${t}→${h}`);
-    });
-    log(`  selector de día: ${dias.slice(0, 4).join("  ") || "(sin enlaces con href)"}`);
+    // La respuesta AJAX trae las fichas pero no los horarios, y "detallePelicula"
+    // no aparece como <a href>. Mostrar el HTML crudo y probar variantes de vista.
+    const i = html.indexOf("detallePelicula");
+    log(`  html crudo alrededor de detallePelicula:\n${html.slice(Math.max(0, i - 600), i + 900)}`);
+    const rutas = [...new Set(html.match(/[\w./-]+\.php[^"'\s<>]*/g) || [])];
+    log(`  rutas .php en la respuesta: ${rutas.slice(0, 12).join("  ") || "(ninguna)"}`);
+    const attrs = [...new Set((html.match(/\b(?:onclick|data-[\w-]+)="[^"]{0,120}"/g) || []))];
+    log(`  onclick/data-*: ${attrs.slice(0, 8).join("  ") || "(ninguno)"}`);
 
-    // La ficha no depende de la hora: validamos sinopsis/tráiler con el primer enlace que haya.
-    const primerLink = $('a[href*="detallePelicula.php"]').first();
-    const hrefFicha = primerLink.attr("href");
-    const fid = hrefFicha?.match(/FilmId=([^&]+)/i)?.[1];
-    if (fid) {
-      await detalleCineteca({
-        titulo: primerLink.text().replace(/\s+/g, " ").trim().slice(0, 60) || `FilmId ${fid}`,
-        filmId: fid,
-        urlCineteca: new URL(hrefFicha, SHELL).href,
-      }, true);
+    const d = await defaultsDelSitio();
+    for (const vista of ["full", "peliculas", "ciclos", "dia", "horarios", ""]) {
+      const r = await traer(ENDPOINT, {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8", "X-Requested-With": "XMLHttpRequest", "Referer": SHELL },
+        body: new URLSearchParams({ vista, fecha: fechaComoElSitio(fechaIso, d.formato), cinema: sede.id, eventId: d.eventId }).toString(),
+      });
+      const cuerpo = r ? await r.text() : "";
+      let h; try { h = JSON.parse(cuerpo)?.html ?? ""; } catch { h = cuerpo; }
+      const claves = cuerpo.startsWith("{") ? Object.keys(JSON.parse(cuerpo)).join(",") : "(no JSON)";
+      log(`  vista="${vista}": ${cuerpo.length} bytes · claves=${claves} · "Dir.:"=${(h.match(/Dir\.?:/gi) || []).length} · horas=${(h.match(/\b\d{1,2}:\d{2}\b/g) || []).length}`);
     }
-
-    // Sonda: ¿qué sede y cuántos horarios devuelve cada cinemaId ahora mismo?
-    for (const id of ["001", "002", "003"]) {
-      const r = await traer(`https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=${id}`);
-      const h = r ? await r.text() : "";
-      const sede = h.match(/CINETECA NACIONAL\s+(MÉXICO|CHAPULTEPEC|DE LAS ARTES)/i)?.[1] || "?";
-      log(`  sonda cinemaId=${id}: sede=${sede} · horas=${(h.match(/\b\d{1,2}:\d{2}\b/g) || []).length}`
-        + ` · "Dir.:"=${(h.match(/Dir\.?:/gi) || []).length} · detallePelicula=${(h.match(/detallePelicula/g) || []).length}`);
-    }
+    const r2 = await traer(`https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=${sede.id}&dia=${fechaIso}`);
+    const h2 = r2 ? await r2.text() : "";
+    log(`  /sedes/cartelera.php&dia=${fechaIso}: ${h2.length} bytes · "Dir.:"=${(h2.match(/Dir\.?:/gi) || []).length} · horas=${(h2.match(/\b\d{1,2}:\d{2}\b/g) || []).length}`);
   }
 
   return peliculas;
