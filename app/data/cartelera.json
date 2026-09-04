@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-04T03:20:14.764Z",
+  "generadoEn": "2026-09-04T03:25:15.970Z",
   "hoy": "2026-09-03",
   "sedes": [
     {
@@ -378,22 +378,16 @@
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009847&cinemas=003",
       "sinopsis": "Después de ser desalojada, una actriz reúne a su compañía de teatro para montar una sátira callejera sobre la distribución de la riqueza en México. Pronto, la precariedad y las tensiones internas comienzan a fracturar al grupo. En una batalla entre ficción y realidad, el equipo deberá decidir cuánto sacrificar por el arte. Este largometraje es un proyecto escénico y audiovisual compuesto en primera instancia por la obra de teatro El dios del dinero y finalizando con la película Oh, fortuna.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "s_IEVF0GQPk",
-      "trailerFuente": "TMDB",
+      "trailer": null,
+      "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.3,
-      "publicoFuente": "TMDB",
-      "resenas": [
-        {
-          "texto": "Oh, hello best movie of 2025. Don't learn anything about it. This chick should have written Spinal Tap. Amazing titties. Pulls off theoretically funny and funny.",
-          "autor": "Chandler Danier",
-          "url": "https://www.themoviedb.org/review/6959c90e69f1e6880c750172"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt33292655/",
-      "tmdbId": 1339658,
-      "votos": 192
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt40196240/",
+      "tmdbId": 1762928,
+      "votos": 0
     },
     "HO00009420": {
       "titulo": "Olivia & las nubes",
@@ -492,12 +486,12 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.2,
-      "publicoFuente": "TMDB",
+      "publico": null,
+      "publicoFuente": null,
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt29002950/",
-      "tmdbId": 878608,
-      "votos": 118
+      "urlImdb": null,
+      "tmdbId": 1572413,
+      "votos": 0
     },
     "HO00009979": {
       "titulo": "Shorts 2026: Competencia Mexicana de Animación 3",
@@ -2117,18 +2111,12 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 5.9,
-      "publicoFuente": "TMDB",
-      "resenas": [
-        {
-          "texto": "An essential element of any love story is chemistry between the lead characters, even if it takes an unconventional form.",
-          "autor": "Brent Marchant",
-          "url": "https://www.themoviedb.org/review/68ddbff8a95abc20606a7667"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt31727191/",
-      "tmdbId": 1314129,
-      "votos": 31
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt37529932/",
+      "tmdbId": 1493001,
+      "votos": 0
     },
     "HO00008555": {
       "titulo": "En camino a Leo",
