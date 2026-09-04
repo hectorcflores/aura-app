@@ -106,6 +106,8 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
 .item .d{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;
   align-items:end}
 .item .h{font-size:12px;color:hsl(var(--muted-foreground))}
+.past{opacity:.4}
+.badge.past{text-decoration:line-through;text-decoration-color:hsl(var(--muted-foreground))}
 
 /* Ambos scores visibles en la lista, sin abrir la ficha. */
 .minis{display:flex;gap:14px;flex:none}
@@ -170,6 +172,11 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
     <div class="controls">
       <select class="sel" id="selSede" aria-label="Sede" disabled><option>Sede</option></select>
       <select class="sel" id="selFecha" aria-label="Fecha" disabled><option>Fecha</option></select>
+      <select class="sel" id="selOrden" aria-label="Ordenar por" disabled>
+        <option value="horario">Horario</option>
+        <option value="calificacion">Calificación</option>
+        <option value="titulo">Título</option>
+      </select>
     </div>
   </div>
   <div class="split">
@@ -180,7 +187,7 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
 <script>
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const $ = id => document.getElementById(id);
-const ls = $("ls"), pn = $("pn"), sub = $("sub"), selSede = $("selSede"), selFecha = $("selFecha");
+const ls = $("ls"), pn = $("pn"), sub = $("sub"), selSede = $("selSede"), selFecha = $("selFecha"), selOrden = $("selOrden");
 
 /* Fechas: el JSON trae YYYY-MM-DD; se formatean sin que la zona horaria mueva el día. */
 const fechaObj = iso => { const [y, m, d] = iso.split("-").map(Number); return new Date(Date.UTC(y, m - 1, d, 12)); };
@@ -207,7 +214,16 @@ const mini = (k, v, suf = "") => `
   <span class="mini"><span class="mk">${k}</span>
   <b class="tnum${v == null ? " off" : ""}">${v == null ? "—" : v + suf}</b></span>`;
 
-let CART = null, sede = null, fecha = null, sel = 0;
+let CART = null, sede = null, fecha = null, sel = 0, orden = "horario";
+const ORDENES = ["horario", "calificacion", "titulo"];
+
+/* Hora actual en CDMX, en minutos, para saber qué funciones de hoy ya pasaron. */
+const minutos = h => { const [a, b] = h.split(":").map(Number); return a * 60 + b; };
+const ahoraCDMX = () => minutos(new Intl.DateTimeFormat("en-GB", { timeZone: "America/Mexico_City", hour: "2-digit", minute: "2-digit", hour12: false }).format(new Date()));
+/* Una función cuenta como pasada 15 min después de empezar. */
+const yaPaso = h => fecha === CART.hoy && minutos(h) < ahoraCDMX() - 15;
+/* Próxima función de la fila: la primera que no ha pasado; si todas pasaron, ninguna. */
+const proxima = r => r.horarios.find(h => !yaPaso(h)) || null;
 /* Sin OMDb no hay score de críticos; en vez de una columna de "—", se omite. */
 let hayCritica = false;
 
@@ -223,10 +239,24 @@ function filas() {
     f.horarios.forEach(h => r.horarios.add(h));
     porPeli.set(f.pelicula, r);
   }
-  return [...porPeli.values()].map(r => ({
-    p: r.p, sala: [...r.salas].join(" · ") || null, horarios: [...r.horarios].sort(),
+  const items = [...porPeli.values()].map(r => ({
+    p: r.p, sala: [...r.salas].join(" · ") || null, horarios: [...r.horarios].sort((a, b) => minutos(a) - minutos(b)),
   }));
+  const porTitulo = (a, b) => a.p.titulo.localeCompare(b.p.titulo, "es");
+  const porHorario = (a, b) => {
+    const pa = proxima(a), pb = proxima(b);            // las que ya terminaron van al final
+    if (!pa && !pb) return minutos(a.horarios[0]) - minutos(b.horarios[0]) || porTitulo(a, b);
+    if (!pa || !pb) return pa ? -1 : 1;
+    return minutos(pa) - minutos(pb) || porTitulo(a, b);
+  };
+  const porCalificacion = (a, b) => {
+    const sa = a.p.publico ?? -1, sb = b.p.publico ?? -1;   // sin calificación al final
+    return sb - sa || (b.p.votos ?? 0) - (a.p.votos ?? 0) || porHorario(a, b);
+  };
+  return items.sort(orden === "calificacion" ? porCalificacion : orden === "titulo" ? porTitulo : porHorario);
 }
+
+const horas = (r, cls) => r.horarios.map(h => `<span class="${cls}${yaPaso(h) ? " past" : ""}">${esc(h)}</span>`).join(cls === "badge badge-secondary tnum" ? "" : " · ");
 
 function pintaLista(items) {
   ls.innerHTML = items.map((r, i) => `
@@ -234,7 +264,7 @@ function pintaLista(items) {
       <span class="n">${esc(r.p.titulo)}</span>
       <span class="f">${fichaCorta(r.p)}</span>
       <span class="d">
-        <span class="h tnum">${r.horarios.join(" · ")}</span>
+        <span class="h tnum">${horas(r, "")}</span>
         <span class="minis">
           ${hayCritica ? mini("Crítica", r.p.critica, "%") : ""}${mini("Público", r.p.publico?.toFixed(1))}
         </span>
@@ -260,12 +290,12 @@ function pintaPanel(items) {
       ${r.sala ? `<div><dt>Sala</dt><dd>${esc(r.sala)}</dd></div>` : ""}
     </dl>
     <div class="times" style="margin-top:20px">
-      ${r.horarios.map(h => `<span class="badge badge-secondary tnum">${esc(h)}</span>`).join("")}</div>
+      ${horas(r, "badge badge-secondary tnum")}</div>
     <div class="scores">
       ${hayCritica ? score("Crítica", p.critica, p.critica / 100, "%") : ""}
       ${score("Público", p.publico, p.publico / 10)}
     </div>
-    <p class="src">${[p.criticaFuente, p.publicoFuente].filter(Boolean).join(" · ") || "Sin scores disponibles"}</p>
+    <p class="src">${[p.criticaFuente, p.publicoFuente && (p.votos ? `${p.publicoFuente} · <span class="tnum">${p.votos}</span> ${p.votos === 1 ? "voto" : "votos"}` : p.publicoFuente)].filter(Boolean).join(" · ") || "Sin calificaciones disponibles"}</p>
     <hr class="sep">
     ${p.trailer ? `
       <p class="rt">Tráiler</p>
@@ -296,7 +326,7 @@ function nombreSede(id) { return CART.sedes.find(s => s.id === id)?.nombre || id
 function pinta() {
   const items = filas();
   sub.textContent = fechaLarga(fecha);
-  history.replaceState(null, "", `?sede=${encodeURIComponent(sede)}&fecha=${encodeURIComponent(fecha)}`);
+  history.replaceState(null, "", `?sede=${encodeURIComponent(sede)}&fecha=${encodeURIComponent(fecha)}${orden !== "horario" ? `&orden=${orden}` : ""}`);
   if (!items.length) {
     vacio(`Sin funciones en ${nombreSede(sede)}`, `No hay programación para el ${fechaLarga(fecha).toLowerCase()}. Prueba otra sede u otro día.`);
     return;
@@ -308,8 +338,8 @@ function pinta() {
 function pintaControles() {
   selSede.innerHTML = CART.sedes.map(s => `<option value="${esc(s.id)}">${esc(s.nombre)}</option>`).join("");
   selFecha.innerHTML = CART.fechas.map(f => `<option value="${esc(f)}">${esc(f === CART.hoy ? `Hoy · ${fechaCorta(f)}` : fechaCorta(f))}</option>`).join("");
-  selSede.value = sede; selFecha.value = fecha;
-  selSede.disabled = selFecha.disabled = false;
+  selSede.value = sede; selFecha.value = fecha; selOrden.value = orden;
+  selSede.disabled = selFecha.disabled = selOrden.disabled = false;
 }
 
 ls.addEventListener("click", e => {
@@ -318,6 +348,7 @@ ls.addEventListener("click", e => {
 });
 selSede.addEventListener("change", () => { sede = selSede.value; sel = 0; pinta(); });
 selFecha.addEventListener("change", () => { fecha = selFecha.value; sel = 0; pinta(); });
+selOrden.addEventListener("change", () => { orden = selOrden.value; sel = 0; pinta(); });
 
 /* El tráiler arranca aquí mismo, mudo, sin abrir otra pestaña. */
 pn.addEventListener("click", e => {
@@ -345,6 +376,7 @@ fetch("./data/cartelera.json", { cache: "no-store" })
     const q = new URLSearchParams(location.search);
     sede  = d.sedes.some(s => s.id === q.get("sede")) ? q.get("sede") : (d.sedes.find(s => s.id === "003") || d.sedes[0]).id;
     fecha = d.fechas.includes(q.get("fecha")) ? q.get("fecha") : (d.fechas.includes(d.hoy) ? d.hoy : d.fechas[0]);
+    orden = ORDENES.includes(q.get("orden")) ? q.get("orden") : "horario";
     pintaControles(); pinta();
   })
   .catch(err => {

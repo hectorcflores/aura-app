@@ -11,7 +11,7 @@
  */
 
 import { load } from "cheerio";
-import { writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -111,7 +111,9 @@ export function parseFicha(texto) {
   return titulo.length > 1 ? { titulo, tituloOriginal, director, pais, ano, duracion } : null;
 }
 
-const horariosDe = t => [...new Set(t.match(/\b\d{1,2}:\d{2}\b/g) || [])].sort();
+const minutos = h => { const [a, b] = h.split(":").map(Number); return a * 60 + b; };
+const porHora = (a, b) => minutos(a) - minutos(b);
+const horariosDe = t => [...new Set(t.match(/\b\d{1,2}:\d{2}\b/g) || [])].sort(porHora);
 const salaDe = t => { const m = t.match(/Sala\s+([A-Z0-9]+)/i); return m ? `Sala ${m[1]}` : null; };
 
 /**
@@ -352,19 +354,79 @@ async function trailerTmdb(tmdbId) {
   return null;
 }
 
-async function buscarEnTmdb({ titulo, tituloOriginal, ano }) {
-  for (const q of [tituloOriginal, titulo].filter(Boolean)) {
-    for (const conAno of ano ? [true, false] : [false]) {
-      const url = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_KEY}`
-        + `&query=${encodeURIComponent(q)}&language=es-MX${conAno ? `&year=${ano}` : ""}`;
-      const r = await json(url);
-      const hit = r?.results?.[0];
-      // Con año libre exigimos que el año coincida ±1, o el match es ruido.
-      if (hit && (conAno || !ano || Math.abs(Number((hit.release_date || "").slice(0, 4)) - ano) <= 1)) {
-        return hit;
+/* ---------------------------------------------------------------- TMDB match
+ * La Cineteca escribe los títulos a su manera ("Coyote Vs Acme SUB", "Sugar
+ * Island, La isla de azúcar", "In die Sonne schauen / Sound of Falling"), así
+ * que buscamos varias variantes, de más a menos específica, y aceptamos un
+ * candidato solo si lo respalda el año (±1), el título exacto o el director.
+ * Los programas de cortos ("Shorts 2026: …", "A/B/C/D") no están en TMDB y
+ * no se buscan. */
+const norm = s => (s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+  .replace(/&/g, " y ").replace(/[^a-z0-9]+/g, " ").trim();
+const SUFIJOS = /\s+(dob|sub|doblada|subtitulada|3d|4k|dcp|35mm|16mm)\.?$/i;
+const ARTICULOS = /^(el|la|los|las|un|una|unos|unas|lo|the|a|an|le|les|der|die|das|il|o|os|as|um|uma)\s+/i;
+
+const esPrograma = p => /^shorts\s+\d{4}/i.test(p.titulo || "") || (p.titulo || "").split("/").length >= 3;
+
+function variantes(titulo) {
+  const out = [];
+  const add = t => { t = (t || "").replace(/\s+/g, " ").trim(); if (norm(t).length >= 2 && !out.includes(t)) out.push(t); };
+  if (!titulo) return out;
+  const base = titulo.replace(SUFIJOS, "").trim();
+  for (const parte of base.split(/\s*\/\s*/)) {              // "A / B" son dos títulos
+    add(parte);
+    const sinPar = parte.replace(/\s*\([^)]*\)\s*/g, " ");
+    add(sinPar);
+    const dentro = parte.match(/\(([^)]+)\)/)?.[1]; if (dentro) add(dentro);
+    add(sinPar.split(/[:,]/)[0]);                              // "Sugar Island, La isla…" → "Sugar Island"
+    add(sinPar.replace(ARTICULOS, ""));
+  }
+  return out;
+}
+
+const anoDe = hit => Number((hit.release_date || "").slice(0, 4)) || null;
+
+/** Qué tan creíble es un candidato para la película p buscada con la consulta q. */
+function puntaje(hit, q, p) {
+  let s = 0;
+  const a = anoDe(hit);
+  // La Cineteca suele dar el año de producción y TMDB el de estreno: ±2 cuenta a favor,
+  // 3-4 años no decide, más de eso descarta.
+  if (p.ano && a) { const d = Math.abs(a - p.ano); s += d <= 2 ? 2 : d <= 4 ? 0 : -3; }
+  const nq = norm(q), titulos = [hit.title, hit.original_title].map(norm).filter(Boolean);
+  if (titulos.includes(nq)) s += 2;
+  else if (titulos.some(t => t.includes(nq) || nq.includes(t))) s += 1;
+  return s;
+}
+
+async function dirigidaPor(tmdbId, director) {
+  if (!director) return false;
+  const c = await json(`https://api.themoviedb.org/3/movie/${tmdbId}/credits?api_key=${TMDB_KEY}`);
+  const dirs = (c?.crew || []).filter(x => x.job === "Director").map(x => norm(x.name));
+  const nuestros = norm(director).split(" ").filter(w => w.length > 2);
+  const apellido = nuestros[nuestros.length - 1];
+  return !!apellido && dirs.some(d => d.split(" ").includes(apellido));
+}
+
+async function buscarEnTmdb(p) {
+  if (esPrograma(p)) return null;
+  const consultas = [...variantes(p.tituloOriginal), ...variantes(p.titulo)];
+  const vistos = new Set();
+  let sospechoso = null;                                       // el mejor candidato flojo, para validar por director
+  for (const q of consultas) {
+    for (const conAno of p.ano ? [true, false] : [false]) {
+      const url = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_KEY}&include_adult=false`
+        + `&query=${encodeURIComponent(q)}&language=es-MX${conAno ? `&year=${p.ano}` : ""}`;
+      const hits = ((await json(url))?.results || []).slice(0, 5);
+      for (const hit of hits) {
+        if (vistos.has(hit.id)) continue; vistos.add(hit.id);
+        const s = puntaje(hit, q, p);
+        if (s >= 2) return hit;
+        if (s >= 1 && !sospechoso) sospechoso = hit;
       }
     }
   }
+  if (sospechoso && await dirigidaPor(sospechoso.id, p.director)) return sospechoso;
   return null;
 }
 
@@ -408,7 +470,7 @@ async function enriquecer(p, ficha) {
     ...p,
     sinopsis: null, sinopsisFuente: null, trailer: null, trailerFuente: null,
     critica: null, criticaFuente: null, publico: null, publicoFuente: null,
-    resenas: [], urlImdb: null,
+    resenas: [], urlImdb: null, tmdbId: null, votos: null,
   };
 
   // Lo que dice la propia Cineteca va primero; TMDB rellena lo que falte.
@@ -418,7 +480,10 @@ async function enriquecer(p, ficha) {
   if (!TMDB_KEY) return salida;
 
   const hit = await buscarEnTmdb(p);
-  if (!hit) { log(`  · sin match en TMDB: ${p.titulo}`); return salida; }
+  if (!hit) { if (!esPrograma(p)) log(`  · sin match en TMDB: ${p.titulo}`); return salida; }
+  salida.tmdbId = hit.id;
+  salida.votos = hit.vote_count ?? 0;
+  if (norm(hit.title) !== norm(p.titulo)) log(`  · TMDB: "${p.titulo}" → "${hit.title}" (${anoDe(hit) || "s/a"}, ${salida.votos} votos)`);
 
   const detalle = await json(`https://api.themoviedb.org/3/movie/${hit.id}?api_key=${TMDB_KEY}&language=es-MX`);
   if (!salida.sinopsis && detalle?.overview?.trim()) {
@@ -432,8 +497,9 @@ async function enriquecer(p, ficha) {
   if (!salida.tituloOriginal && detalle?.original_title !== p.titulo) {
     salida.tituloOriginal = detalle?.original_title || null;
   }
-  // Mucho de lo que programa la Cineteca tiene pocos votos; con 10 ya es un promedio y no una anécdota.
-  salida.publico = hit.vote_count >= 10 ? Number(hit.vote_average?.toFixed(1)) : null;
+  // Mucho de lo que programa la Cineteca tiene pocos votos. Con 3 ya se muestra
+  // el promedio; la app enseña el número de votos para que se lea con su peso.
+  salida.publico = hit.vote_count >= 3 && hit.vote_average ? Number(hit.vote_average.toFixed(1)) : null;
   salida.publicoFuente = salida.publico != null ? "TMDB" : null;
 
   const imdbId = detalle?.imdb_id;
@@ -492,7 +558,7 @@ async function main() {
   let sinHorario = 0;
   for (const t of tarjetas) {
     const r = fichas.get(claveDe(t))?.porSedeFecha.get(`${t.sede}|${t.fecha}`);
-    const horarios = r ? [...r.horarios].sort() : t.horarios;
+    const horarios = r ? [...r.horarios].sort(porHora) : t.horarios;
     const sala = r && r.salas.size ? [...r.salas].join(" · ") : t.sala;
     if (!horarios.length) sinHorario++;
     funciones.push({ sede: t.sede, fecha: t.fecha, pelicula: claveDe(t), sala, horarios });
@@ -511,6 +577,29 @@ async function main() {
     await dormir(120);
   }
 
+  // 5) El sitio deja de listar las funciones de hoy que ya pasaron. Si el JSON
+  //    anterior es del mismo día, sus funciones de hoy se conservan (unión de
+  //    horarios), para que una corrida de noche no vacíe la cartelera del día.
+  let previo = null;
+  try { previo = JSON.parse(await readFile(SALIDA, "utf8")); } catch { /* primera corrida */ }
+  if (previo?.hoy === HOY_CDMX && Array.isArray(previo.funciones)) {
+    const idx = new Map(funciones.filter(f => f.fecha === HOY_CDMX).map(f => [`${f.sede}|${f.pelicula}`, f]));
+    let horas = 0, filas = 0;
+    for (const f of previo.funciones) {
+      if (f.fecha !== HOY_CDMX || !f.horarios?.length) continue;
+      const k = `${f.sede}|${f.pelicula}`, act = idx.get(k);
+      if (act) {
+        const antes = act.horarios.length;
+        act.horarios = [...new Set([...act.horarios, ...f.horarios])].sort(porHora);
+        horas += act.horarios.length - antes;
+      } else if (peliculas[f.pelicula] || previo.peliculas?.[f.pelicula]) {
+        funciones.push({ ...f, horarios: [...f.horarios].sort(porHora) }); idx.set(k, f); filas++;
+        if (!peliculas[f.pelicula]) peliculas[f.pelicula] = previo.peliculas[f.pelicula];
+      }
+    }
+    if (horas || filas) log(`  · conservadas de la corrida anterior de hoy: ${filas} función(es) y ${horas} horario(s) ya pasados`);
+  }
+
   const fechas = FECHAS.filter(f => funciones.some(x => x.fecha === f));
   const salida = {
     generadoEn: new Date().toISOString(),
@@ -520,7 +609,7 @@ async function main() {
   };
 
   const vals = Object.values(peliculas);
-  log(`  ${vals.filter(p => p.publico != null).length}/${vals.length} con público, `
+  log(`  ${vals.filter(p => p.tmdbId).length}/${vals.length} en TMDB, ${vals.filter(p => p.publico != null).length} con público, `
     + `${vals.filter(p => p.resenas.length).length} con reseñas, `
     + `${vals.filter(p => p.sinopsis).length} con sinopsis, `
     + `${vals.filter(p => p.trailer).length} con tráiler, `
