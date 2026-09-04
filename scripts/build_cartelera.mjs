@@ -24,8 +24,14 @@ const SEDE = {
   cinemaId: "003",   // 001 es Chapultepec y 002 Churubusco; Xoco es 003.
   // Ojo: /cartelera.php (raíz) es la "Programación del día" con horarios.
   // /sedes/cartelera.php es otra vista que de noche sale sin funciones.
-  url: "https://www.cinetecanacional.net/cartelera.php?cinemaId=003",
+  base: "https://www.cinetecanacional.net/cartelera.php?cinemaId=003",
 };
+
+// La fecha de hoy en Ciudad de México, para pedirla explícita con &dia=YYYY-MM-DD
+// (el selector de día del sitio usa ese parámetro) en vez de confiar en qué día
+// cree el servidor que es.
+const HOY_CDMX = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Mexico_City" }).format(new Date());
+SEDE.url = `${SEDE.base}&dia=${HOY_CDMX}`;
 
 const TMDB_KEY = process.env.TMDB_API_KEY?.trim();
 const OMDB_KEY = process.env.OMDB_API_KEY?.trim();
@@ -377,7 +383,7 @@ async function main() {
   const ahora = new Date();
   const salida = {
     sede: SEDE.nombre,
-    fecha: new Intl.DateTimeFormat("en-CA", { timeZone: "America/Mexico_City" }).format(ahora),
+    fecha: HOY_CDMX,
     fechaTexto: mayus(FECHA_LARGA.format(ahora)),
     generadoEn: ahora.toISOString(),
     fuente: SEDE.url,
