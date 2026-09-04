@@ -371,10 +371,16 @@ fetch("./data/cartelera.json", { cache: "no-store" })
       return;
     }
     hayCritica = Object.values(d.peliculas).some(p => p.critica != null);
+    // "Hoy" lo decide el reloj del navegador en hora CDMX, no la fecha en que se
+    // generó el JSON: si el cron se retrasa, la app no muestra ayer como hoy.
+    // Los días ya pasados salen del selector.
+    d.hoy = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Mexico_City" }).format(new Date());
+    const vigentes = d.fechas.filter(f => f >= d.hoy);
+    if (vigentes.length) d.fechas = vigentes;
     // Estado inicial: lo que venga en la URL si es válido; si no, Xoco y hoy.
     const q = new URLSearchParams(location.search);
     sede  = d.sedes.some(s => s.id === q.get("sede")) ? q.get("sede") : (d.sedes.find(s => s.id === "003") || d.sedes[0]).id;
-    fecha = d.fechas.includes(q.get("fecha")) ? q.get("fecha") : (d.fechas.includes(d.hoy) ? d.hoy : d.fechas[0]);
+    fecha = d.fechas.includes(q.get("fecha")) ? q.get("fecha") : (d.fechas.find(f => f >= d.hoy) || d.fechas[0]);
     orden = ORDENES.includes(q.get("orden")) ? q.get("orden") : "calificacion";
     pintaControles(); pinta();
   })
