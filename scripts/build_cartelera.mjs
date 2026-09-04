@@ -19,19 +19,22 @@ const RAIZ = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const SALIDA = resolve(RAIZ, "app/data/cartelera.json");
 const DRY = process.argv.includes("--dry");
 
-const SEDE = {
-  nombre: "Cineteca Nacional · Xoco",
-  cinemaId: "003",   // 001 es Chapultepec y 002 Churubusco; Xoco es 003.
-  // Ojo: /cartelera.php (raíz) es la "Programación del día" con horarios.
-  // /sedes/cartelera.php es otra vista que de noche sale sin funciones.
-  base: "https://www.cinetecanacional.net/cartelera.php?cinemaId=003",
-};
+// Las tres sedes de la Cineteca, con el cinemaId que usa el sitio.
+const SEDES = [
+  { id: "003", nombre: "Xoco",                  corto: "Xoco" },
+  { id: "001", nombre: "Chapultepec",           corto: "Chapultepec" },
+  { id: "002", nombre: "Cineteca de las Artes", corto: "Las Artes" },
+];
+const SEDE = SEDES[0];                       // la de referencia para leer el cascarón
+const SHELL = "https://www.cinetecanacional.net/cartelera.php?cinemaId=003";
+SEDE.url = SHELL;
 
-// La fecha de hoy en Ciudad de México, para pedirla explícita con &dia=YYYY-MM-DD
-// (el selector de día del sitio usa ese parámetro) en vez de confiar en qué día
-// cree el servidor que es.
-const HOY_CDMX = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Mexico_City" }).format(new Date());
-SEDE.url = `${SEDE.base}&dia=${HOY_CDMX}`;
+// Fechas en hora de la Ciudad de México: hoy y los seis días siguientes (lo que
+// ofrece el selector del sitio). Las que no tengan funciones en ninguna sede se
+// descartan al final.
+const fmtCDMX = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Mexico_City" });
+const HOY_CDMX = fmtCDMX.format(new Date());
+const FECHAS = Array.from({ length: 7 }, (_, i) => fmtCDMX.format(new Date(Date.now() + i * 864e5)));
 
 const TMDB_KEY = process.env.TMDB_API_KEY?.trim();
 const OMDB_KEY = process.env.OMDB_API_KEY?.trim();
@@ -113,46 +116,51 @@ const salaDe = t => { const m = t.match(/Sala\s+([A-Z0-9]+)/i); return m ? `Sala
  * sede y la fecha, que fijamos nosotros.
  */
 const ENDPOINT = "https://www.cinetecanacional.net/data/cartelera.php";
-const RESPALDO = `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=${SEDE.cinemaId}`;
 
-async function htmlDeCartelera() {
-  const shell = await traer(SEDE.url);
-  if (!shell) throw new Error(`No se pudo leer la cartelera: ${SEDE.url}`);
+/** Valores por defecto que el cascarón manda en su POST (vista, formato de fecha, eventId). */
+let DEFAULTS = null;
+async function defaultsDelSitio() {
+  if (DEFAULTS) return DEFAULTS;
+  const shell = await traer(SHELL);
+  if (!shell) throw new Error(`No se pudo leer la cartelera: ${SHELL}`);
   const $s = load(await shell.text());
-  const campos = {
-    vista:   $s("#vista").val() ?? "",
-    fecha:   HOY_CDMX,
-    cinema:  SEDE.cinemaId,
-    eventId: $s("#eventId").val() ?? "",
-  };
-  log(`  POST data/cartelera.php · vista="${campos.vista}" fecha=${campos.fecha} cinema=${campos.cinema}`);
+  const fechaSitio = ($s("#fecha").val() ?? "").toString().trim();
+  // Respetar el formato de fecha que el sitio usa por defecto.
+  const formato = /^\d{2}\/\d{2}\/\d{4}$/.test(fechaSitio) ? "DD/MM/YYYY"
+                : /^\d{2}-\d{2}-\d{4}$/.test(fechaSitio)  ? "DD-MM-YYYY"
+                : "YYYY-MM-DD";
+  DEFAULTS = { vista: ($s("#vista").val() ?? "").toString(), eventId: ($s("#eventId").val() ?? "").toString(), formato, fechaSitio };
+  log(`  cascarón: vista="${DEFAULTS.vista}" fecha="${fechaSitio}" (${formato}) eventId="${DEFAULTS.eventId}"`);
+  return DEFAULTS;
+}
+const fechaComoElSitio = (iso, formato) => {
+  const [y, m, d] = iso.split("-");
+  return formato === "DD/MM/YYYY" ? `${d}/${m}/${y}` : formato === "DD-MM-YYYY" ? `${d}-${m}-${y}` : iso;
+};
 
+/** El html de la cartelera de una sede en una fecha, vía el endpoint AJAX del sitio. */
+async function htmlDeCartelera(sede, fechaIso) {
+  const d = await defaultsDelSitio();
+  const campos = { vista: d.vista, fecha: fechaComoElSitio(fechaIso, d.formato), cinema: sede.id, eventId: d.eventId };
   const r = await traer(ENDPOINT, {
     method: "POST",
     headers: {
       "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
       "X-Requested-With": "XMLHttpRequest",
       "Accept": "application/json, text/javascript, */*; q=0.01",
-      "Referer": SEDE.url,
+      "Referer": SHELL,
     },
     body: new URLSearchParams(campos).toString(),
   });
-  if (r) {
-    const cuerpo = await r.text();
-    let html = null;
-    try { html = JSON.parse(cuerpo)?.html ?? null; } catch { html = cuerpo; }   // por si responde HTML directo
-    if (html && /Dir\.?:/i.test(html)) return { html, status: r.status, ct: r.headers.get("content-type"), origen: "data/cartelera.php" };
-    log(`  · data/cartelera.php devolvió ${cuerpo.length} bytes sin fichas; pruebo la vista de servidor`);
-  }
-
-  const res = await traer(RESPALDO);
-  if (!res) throw new Error(`No se pudo leer la cartelera: ${RESPALDO}`);
-  return { html: await res.text(), status: res.status, ct: res.headers.get("content-type"), origen: "sedes/cartelera.php" };
+  if (!r) return { html: "", status: 0, ct: "", origen: "data/cartelera.php" };
+  const cuerpo = await r.text();
+  let html;
+  try { html = JSON.parse(cuerpo)?.html ?? ""; } catch { html = cuerpo; }
+  return { html, status: r.status, ct: r.headers.get("content-type"), origen: "data/cartelera.php" };
 }
 
-async function scrapeCartelera() {
-  const { html, status, ct, origen } = await htmlDeCartelera();
-  log(`  fuente: ${origen} · HTTP ${status} · ${html.length} bytes`);
+async function scrapeCartelera(sede, fechaIso, diagnostico = false) {
+  const { html, status, ct, origen } = await htmlDeCartelera(sede, fechaIso);
   const res = { status, headers: { get: () => ct } };   // para el diagnóstico de abajo
 
   // cheerio concatena el texto de nodos hermanos sin separador, así que
@@ -177,7 +185,9 @@ async function scrapeCartelera() {
       sala: salaDe(texto),
       horarios,
       filmId: filmId || null,
-      urlCineteca: hrefFicha ? new URL(hrefFicha, SEDE.url).href : SEDE.url,
+      urlCineteca: hrefFicha ? new URL(hrefFicha, SHELL).href : SHELL,
+      sede: sede.id,
+      fecha: fechaIso,
     });
   };
 
@@ -208,7 +218,7 @@ async function scrapeCartelera() {
 
   // Cero películas es el único fallo que no se puede diagnosticar desde fuera:
   // el sitio no se alcanza desde otros lados. Dejamos en el log lo que devolvió.
-  if (!peliculas.length) {
+  if (!peliculas.length && diagnostico) {
     const texto = $("body").text().replace(/\s+/g, " ").trim();
     log("  ── diagnóstico de la respuesta ──");
     log(`  HTTP ${res.status} · ${res.headers.get("content-type")} · ${html.length} bytes`);
@@ -233,7 +243,7 @@ async function scrapeCartelera() {
       await detalleCineteca({
         titulo: primerLink.text().replace(/\s+/g, " ").trim().slice(0, 60) || `FilmId ${fid}`,
         filmId: fid,
-        urlCineteca: new URL(hrefFicha, SEDE.url).href,
+        urlCineteca: new URL(hrefFicha, SHELL).href,
       }, true);
     }
 
@@ -403,44 +413,59 @@ async function enriquecer(p) {
 
 // -------------------------------------------------------------------- main
 
-const FECHA_LARGA = new Intl.DateTimeFormat("es-MX", {
-  weekday: "long", day: "numeric", month: "long", timeZone: "America/Mexico_City",
-});
-const mayus = s => (s.charAt(0).toUpperCase() + s.slice(1)).replace(",", "");
+const claveDe = p => p.filmId || `${p.titulo}|${p.ano || ""}`.toLowerCase();
 
 async function main() {
   if (!TMDB_KEY) log("! Falta TMDB_API_KEY — la cartelera saldrá sin scores ni reseñas.");
   else if (!OMDB_KEY) log("! Falta OMDB_API_KEY — sin Rotten Tomatoes; el público vendrá de TMDB.");
 
-  log(`→ Leyendo ${SEDE.url}`);
-  const crudas = await scrapeCartelera();
-  log(`  ${crudas.length} película(s) en cartelera`);
-  if (!crudas.length) throw new Error("Cero películas: la estructura del sitio probablemente cambió.");
-
-  const peliculas = [];
-  enriquecer.primera = true;
-  for (const p of crudas) {
-    peliculas.push(await enriquecer(p));
-    await dormir(120);                            // cortesía con TMDB/OMDb
+  // 1) Funciones crudas de cada sede en cada fecha.
+  const funciones = [];
+  for (const fecha of FECHAS) {
+    for (const sede of SEDES) {
+      const esReferencia = fecha === HOY_CDMX && sede.id === SEDE.id;
+      const crudas = await scrapeCartelera(sede, fecha, esReferencia);
+      log(`  ${sede.corto.padEnd(11)} ${fecha}: ${crudas.length} película(s)`);
+      funciones.push(...crudas);
+      await dormir(150);
+    }
   }
+  if (!funciones.length) throw new Error("Cero películas en todas las sedes y fechas: la estructura del sitio probablemente cambió.");
+
+  // 2) Cada película única se enriquece una sola vez.
+  const unicas = new Map();
+  for (const f of funciones) if (!unicas.has(claveDe(f))) unicas.set(claveDe(f), f);
+  log(`→ ${funciones.length} funciones · ${unicas.size} películas únicas`);
+
+  const peliculas = {};
+  enriquecer.primera = true;
+  for (const [clave, p] of unicas) {
+    const { sede, fecha, sala, horarios, ...ficha } = await enriquecer(p);
+    peliculas[clave] = ficha;
+    await dormir(120);
+  }
+
+  // 3) Fechas con al menos una función en alguna sede.
+  const fechas = FECHAS.filter(f => funciones.some(x => x.fecha === f));
 
   const ahora = new Date();
   const salida = {
-    sede: SEDE.nombre,
-    fecha: HOY_CDMX,
-    fechaTexto: mayus(FECHA_LARGA.format(ahora)),
     generadoEn: ahora.toISOString(),
-    fuente: SEDE.url,
+    hoy: HOY_CDMX,
+    sedes: SEDES.map(({ id, nombre, corto }) => ({ id, nombre, corto })),
+    fechas,
     peliculas,
+    funciones: funciones.map(f => ({ sede: f.sede, fecha: f.fecha, pelicula: claveDe(f), sala: f.sala, horarios: f.horarios })),
   };
 
-  const conCritica = peliculas.filter(p => p.critica != null).length;
-  log(`  ${conCritica}/${peliculas.length} con score de crítica, `
-    + `${peliculas.filter(p => p.resenas.length).length} con reseñas, `
-    + `${peliculas.filter(p => p.sinopsis).length} con sinopsis, `
-    + `${peliculas.filter(p => p.trailer).length} con tráiler`);
+  const vals = Object.values(peliculas);
+  log(`  ${vals.filter(p => p.critica != null).length}/${vals.length} con score de crítica, `
+    + `${vals.filter(p => p.publico != null).length} con público, `
+    + `${vals.filter(p => p.resenas.length).length} con reseñas, `
+    + `${vals.filter(p => p.sinopsis).length} con sinopsis, `
+    + `${vals.filter(p => p.trailer).length} con tráiler · fechas: ${fechas.join(", ")}`);
 
-  if (DRY) { log(JSON.stringify(salida, null, 2)); return; }
+  if (DRY) { log(JSON.stringify(salida, null, 2).slice(0, 4000)); return; }
   await mkdir(dirname(SALIDA), { recursive: true });
   await writeFile(SALIDA, JSON.stringify(salida, null, 2) + "\n");
   log(`✓ ${SALIDA}`);

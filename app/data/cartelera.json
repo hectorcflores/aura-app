@@ -1,5 +1,8 @@
 {
-  "sede": "Cineteca Nacional · Xoco",
   "pendiente": true,
-  "peliculas": []
+  "hoy": null,
+  "sedes": [],
+  "fechas": [],
+  "peliculas": {},
+  "funciones": []
 }

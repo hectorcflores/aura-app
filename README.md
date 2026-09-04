@@ -1,7 +1,7 @@
 # Aura
 
-La cartelera de hoy de la **Cineteca Nacional (sede Xoco)**, con el score de la crítica,
-el del público y las reseñas más memorables de cada película.
+La cartelera de la **Cineteca Nacional** — las tres sedes, de hoy a una semana — con
+sinopsis, tráiler, score del público y reseñas de cada película. Arranca en Xoco y hoy.
 
 Es una app estática más del ecosistema de [hectorcflores.github.io](https://hectorcflores.github.io):
 un solo archivo HTML, sin build, sin framework, sin servidor. Un GitHub Action arma la
@@ -14,7 +14,8 @@ cartelera cada mañana y la commitea como JSON; la página solo lo lee.
 ```
 GitHub Action (06:37 CDMX, diario)
   └─ scripts/build_cartelera.mjs
-       1. Scrapea la programación del día de Xoco (cartelera.php?cinemaId=003)
+       1. Pide al endpoint AJAX del sitio (data/cartelera.php) cada sede × cada día
+          de la semana; cada película única se enriquece una sola vez
        2. Por película: TMDB (match + imdb_id) → OMDb (Rotten Tomatoes, IMDb)
                                                → TMDB reviews (extractos)
        3. Escribe app/data/cartelera.json y lo commitea si cambió

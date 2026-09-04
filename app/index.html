@@ -141,6 +141,19 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
 .trailer .ico svg{width:20px;height:20px;margin-left:3px}
 .trailer iframe{display:block;width:100%;height:100%;border:0}
 
+/* Selects estilo shadcn (SelectTrigger): borde, radio, chevron a la derecha. */
+.controls{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.sel{appearance:none;-webkit-appearance:none;height:36px;padding:0 32px 0 12px;
+  border:1px solid hsl(var(--border));border-radius:calc(var(--radius) - 2px);
+  background:hsl(var(--background)) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23a1a1aa' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E") no-repeat right 10px center;
+  color:hsl(var(--foreground));font:inherit;font-size:14px;line-height:1;cursor:pointer;
+  box-shadow:0 1px 2px 0 rgb(0 0 0/.05);transition:border-color .15s}
+.sel:hover{border-color:hsl(var(--ring)/.35)}
+.sel:focus-visible{outline:none;box-shadow:0 0 0 2px hsl(var(--background)),0 0 0 4px hsl(var(--ring))}
+.sel:disabled{opacity:.5;cursor:default}
+.sel option{background:hsl(var(--background));color:hsl(var(--foreground))}
+@media(max-width:560px){.head{flex-wrap:wrap}.controls{width:100%;justify-content:flex-start}.sel{flex:1}}
+
 /* Estados de carga y de cartelera vacía. */
 .msg{padding:24px;color:hsl(var(--muted-foreground));font-size:14px}
 .msg b{display:block;margin-bottom:4px;color:hsl(var(--foreground));font-weight:500}
@@ -154,6 +167,10 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
 <div class="wrap">
   <div class="head">
     <div><h1 class="h1">Aura</h1><p class="desc" id="sub">Cargando cartelera…</p></div>
+    <div class="controls">
+      <select class="sel" id="selSede" aria-label="Sede" disabled><option>Sede</option></select>
+      <select class="sel" id="selFecha" aria-label="Fecha" disabled><option>Fecha</option></select>
+    </div>
   </div>
   <div class="split">
     <nav class="list" id="ls" aria-label="Cartelera de hoy"></nav>
@@ -162,8 +179,14 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
 </div>
 <script>
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const ls = document.getElementById("ls"), pn = document.getElementById("pn");
-const sub = document.getElementById("sub");
+const $ = id => document.getElementById(id);
+const ls = $("ls"), pn = $("pn"), sub = $("sub"), selSede = $("selSede"), selFecha = $("selFecha");
+
+/* Fechas: el JSON trae YYYY-MM-DD; se formatean sin que la zona horaria mueva el día. */
+const fechaObj = iso => { const [y, m, d] = iso.split("-").map(Number); return new Date(Date.UTC(y, m - 1, d, 12)); };
+const cap = s => s.charAt(0).toUpperCase() + s.slice(1);
+const fechaLarga = iso => cap(new Intl.DateTimeFormat("es-MX", { weekday: "long", day: "numeric", month: "long", timeZone: "UTC" }).format(fechaObj(iso))).replace(",", "");
+const fechaCorta = iso => cap(new Intl.DateTimeFormat("es-MX", { weekday: "short", day: "numeric", month: "short", timeZone: "UTC" }).format(fechaObj(iso))).replace(/[.,]/g, "");
 
 /* Mismo componente de score del prototipo: etiqueta, cifra y barra. */
 const score = (k, v, frac, suf = "") => `
@@ -184,26 +207,44 @@ const mini = (k, v, suf = "") => `
   <span class="mini"><span class="mk">${k}</span>
   <b class="tnum${v == null ? " off" : ""}">${v == null ? "—" : v + suf}</b></span>`;
 
-let CART = null, sel = 0;
+let CART = null, sede = null, fecha = null, sel = 0;
 /* Sin OMDb no hay score de críticos; en vez de una columna de "—", se omite. */
 let hayCritica = false;
 
-function pintaLista() {
-  ls.innerHTML = CART.peliculas.map((p, i) => `
+/* Funciones de la combinación elegida, agrupadas por película (una película puede
+   tener varias salas el mismo día). */
+function filas() {
+  const porPeli = new Map();
+  for (const f of CART.funciones) {
+    if (f.sede !== sede || f.fecha !== fecha) continue;
+    const p = CART.peliculas[f.pelicula]; if (!p) continue;
+    const r = porPeli.get(f.pelicula) || { p, salas: new Set(), horarios: new Set() };
+    if (f.sala) r.salas.add(f.sala);
+    f.horarios.forEach(h => r.horarios.add(h));
+    porPeli.set(f.pelicula, r);
+  }
+  return [...porPeli.values()].map(r => ({
+    p: r.p, sala: [...r.salas].join(" · ") || null, horarios: [...r.horarios].sort(),
+  }));
+}
+
+function pintaLista(items) {
+  ls.innerHTML = items.map((r, i) => `
     <button class="item" aria-current="${i === sel}" data-i="${i}">
-      <span class="n">${esc(p.titulo)}</span>
-      <span class="f">${fichaCorta(p)}</span>
+      <span class="n">${esc(r.p.titulo)}</span>
+      <span class="f">${fichaCorta(r.p)}</span>
       <span class="d">
-        <span class="h tnum">${p.horarios.join(" · ")}</span>
+        <span class="h tnum">${r.horarios.join(" · ")}</span>
         <span class="minis">
-          ${hayCritica ? mini("Crítica", p.critica, "%") : ""}${mini("Público", p.publico?.toFixed(1))}
+          ${hayCritica ? mini("Crítica", r.p.critica, "%") : ""}${mini("Público", r.p.publico?.toFixed(1))}
         </span>
       </span>
     </button>`).join("");
 }
 
-function pintaPanel() {
-  const p = CART.peliculas[sel];
+function pintaPanel(items) {
+  const r = items[sel]; if (!r) return;
+  const p = r.p;
   const enlaces = [
     p.urlCineteca ? `<a href="${esc(p.urlCineteca)}" target="_blank" rel="noopener">Ficha en Cineteca</a>` : "",
     p.urlImdb ? `<a href="${esc(p.urlImdb)}" target="_blank" rel="noopener">IMDb</a>` : "",
@@ -216,10 +257,10 @@ function pintaPanel() {
       <div><dt>Dirección</dt><dd>${esc(p.director) || "—"}</dd></div>
       <div><dt>País y año</dt><dd>${esc(p.pais) || "—"}${p.ano ? ` · <span class="tnum">${p.ano}</span>` : ""}</dd></div>
       <div><dt>Duración</dt><dd class="tnum">${p.duracion ? p.duracion + " min" : "—"}</dd></div>
-      <div><dt>Sala</dt><dd>${esc(p.sala) || "—"}</dd></div>
+      <div><dt>Sala</dt><dd>${esc(r.sala) || "—"}</dd></div>
     </dl>
     <div class="times" style="margin-top:20px">
-      ${p.horarios.map(h => `<span class="badge badge-secondary tnum">${esc(h)}</span>`).join("")}</div>
+      ${r.horarios.map(h => `<span class="badge badge-secondary tnum">${esc(h)}</span>`).join("")}</div>
     <div class="scores">
       ${hayCritica ? score("Crítica", p.critica, p.critica / 100, "%") : ""}
       ${score("Público", p.publico, p.publico / 10)}
@@ -235,10 +276,10 @@ function pintaPanel() {
         </button>
       </div>
       <hr class="sep">` : ""}
-    ${p.resenas.length
+    ${p.resenas?.length
       ? `<p class="rt">${p.resenas.length} reseña${p.resenas.length > 1 ? "s" : ""}</p>
-         <div class="quotes">${p.resenas.map(r => `
-           <p class="quote">“${esc(r.texto)}”<cite>${esc(r.autor)}</cite></p>`).join("")}</div>`
+         <div class="quotes">${p.resenas.map(x => `
+           <p class="quote">“${esc(x.texto)}”<cite>${esc(x.autor)}</cite></p>`).join("")}</div>`
       : `<p class="rt">Sin reseñas disponibles para esta película.</p>`}
     ${enlaces ? `<p class="src" style="margin-top:16px">${enlaces}</p>` : ""}
   </div>`;
@@ -249,10 +290,34 @@ function vacio(titulo, detalle) {
   pn.innerHTML = `<div class="msg"><b>${esc(titulo)}</b>${esc(detalle)}</div>`;
 }
 
+function nombreSede(id) { return CART.sedes.find(s => s.id === id)?.nombre || id; }
+
+/* Repinta todo para la combinación (sede, fecha) actual y la deja en la URL. */
+function pinta() {
+  const items = filas();
+  sub.textContent = fechaLarga(fecha);
+  history.replaceState(null, "", `?sede=${encodeURIComponent(sede)}&fecha=${encodeURIComponent(fecha)}`);
+  if (!items.length) {
+    vacio(`Sin funciones en ${nombreSede(sede)}`, `No hay programación para el ${fechaLarga(fecha).toLowerCase()}. Prueba otra sede u otro día.`);
+    return;
+  }
+  if (sel >= items.length) sel = 0;
+  pintaLista(items); pintaPanel(items);
+}
+
+function pintaControles() {
+  selSede.innerHTML = CART.sedes.map(s => `<option value="${esc(s.id)}">${esc(s.nombre)}</option>`).join("");
+  selFecha.innerHTML = CART.fechas.map(f => `<option value="${esc(f)}">${esc(f === CART.hoy ? `Hoy · ${fechaCorta(f)}` : fechaCorta(f))}</option>`).join("");
+  selSede.value = sede; selFecha.value = fecha;
+  selSede.disabled = selFecha.disabled = false;
+}
+
 ls.addEventListener("click", e => {
   const b = e.target.closest(".item"); if (!b) return;
-  sel = Number(b.dataset.i); pintaLista(); pintaPanel();
+  sel = Number(b.dataset.i); pinta();
 });
+selSede.addEventListener("change", () => { sede = selSede.value; sel = 0; pinta(); });
+selFecha.addEventListener("change", () => { fecha = selFecha.value; sel = 0; pinta(); });
 
 /* El tráiler arranca aquí mismo, mudo, sin abrir otra pestaña. */
 pn.addEventListener("click", e => {
@@ -267,16 +332,20 @@ fetch("./data/cartelera.json", { cache: "no-store" })
   .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
   .then(d => {
     CART = d;
-    hayCritica = (d.peliculas || []).some(p => p.critica != null);
-    sub.textContent = d.fechaTexto || "";
-    if (!d.peliculas || !d.peliculas.length) {
+    if (!d.funciones?.length || !d.sedes?.length || !d.fechas?.length) {
+      sub.textContent = "";
       vacio(d.pendiente ? "Aún no hay cartelera" : "Hoy no hay funciones",
         d.pendiente
           ? "La cartelera se genera cada mañana; el primer build todavía no corre."
-          : "No se encontraron funciones programadas para hoy.");
+          : "No se encontraron funciones programadas.");
       return;
     }
-    pintaLista(); pintaPanel();
+    hayCritica = Object.values(d.peliculas).some(p => p.critica != null);
+    // Estado inicial: lo que venga en la URL si es válido; si no, Xoco y hoy.
+    const q = new URLSearchParams(location.search);
+    sede  = d.sedes.some(s => s.id === q.get("sede")) ? q.get("sede") : (d.sedes.find(s => s.id === "003") || d.sedes[0]).id;
+    fecha = d.fechas.includes(q.get("fecha")) ? q.get("fecha") : (d.fechas.includes(d.hoy) ? d.hoy : d.fechas[0]);
+    pintaControles(); pinta();
   })
   .catch(err => {
     sub.textContent = "";
