@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-05T14:58:14.566Z",
+  "generadoEn": "2026-09-05T16:52:57.444Z",
   "hoy": "2026-09-05",
   "sedes": [
     {
@@ -65,7 +65,7 @@
       ],
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "tmdbId": 1204680,
-      "votos": 138
+      "votos": 140
     },
     "HO00009956": {
       "titulo": "Coyote Vs Acme SUB",
@@ -908,7 +908,7 @@
       ],
       "urlImdb": "https://www.imdb.com/title/tt33764258/",
       "tmdbId": 1368337,
-      "votos": 3469
+      "votos": 3481
     },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
