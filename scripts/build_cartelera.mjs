@@ -2,9 +2,9 @@
  * Construye la cartelera del día de la Cineteca Nacional (sede Xoco) y la
  * enriquece con scores y reseñas.
  *
- *   Cineteca (scraping) → TMDB (match + imdb_id + reseñas) → OMDb (Rotten Tomatoes / IMDb)
+ *   Cineteca (scraping) → TMDB (match + imdb_id + reseñas) → dataset de IMDb (calificación del público)
  *
- * Escribe app/data/cartelera.json. Sin API keys sigue funcionando: produce la
+ * Escribe app/data/cartelera.json. Sin API key sigue funcionando: produce la
  * cartelera sin scores en vez de fallar, porque la cartelera sola ya es útil.
  *
  * Uso: node scripts/build_cartelera.mjs [--dry]
@@ -14,6 +14,8 @@ import { load } from "cheerio";
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
+import { createGunzip } from "node:zlib";
+import { Readable } from "node:stream";
 
 const RAIZ = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const SALIDA = resolve(RAIZ, "app/data/cartelera.json");
@@ -37,8 +39,15 @@ const HOY_CDMX = fmtCDMX.format(new Date());
 const FECHAS = Array.from({ length: 7 }, (_, i) => fmtCDMX.format(new Date(Date.now() + i * 864e5)));
 
 const TMDB_KEY = process.env.TMDB_API_KEY?.trim();
-const OMDB_KEY = process.env.OMDB_API_KEY?.trim();
 const UA = "aura-app (+https://github.com/hectorcflores/aura-app)";
+
+// Calificaciones del público desde el dataset no comercial de IMDb: una fila por
+// título (tconst, averageRating, numVotes), ~9 MB comprimido, regenerado a diario.
+// Se baja entero en cada corrida (tarda ~2 s) y no se cachea ni se guarda en el
+// repo. IMDb no publica promedio con menos de 5 votos, así que 5 es el mínimo
+// natural. La URL solo se sobreescribe por env para probar el camino de fallo.
+const IMDB_RATINGS_URL = process.env.IMDB_RATINGS_URL || "https://datasets.imdbws.com/title.ratings.tsv.gz";
+const IMDB_MIN_VOTOS = 5;
 
 const log = (...a) => console.log(...a);
 const dormir = ms => new Promise(r => setTimeout(r, ms));
@@ -463,22 +472,69 @@ async function resenasDe(tmdbId) {
     .map(x => ({ texto: extracto(x.content), autor: x.author, url: x.url || null }));
 }
 
-/** OMDb trae Rotten Tomatoes y Metacritic en Ratings[], e IMDb en imdbRating. */
-async function scoresDe(imdbId) {
-  const r = await json(`https://www.omdbapi.com/?apikey=${OMDB_KEY}&i=${encodeURIComponent(imdbId)}`);
-  if (!r || r.Response === "False") return null;
-  const de = nombre => r.Ratings?.find(x => x.Source === nombre)?.Value;
+/**
+ * Calificaciones de IMDb para un conjunto de ids (tconst). Baja el dataset y lo
+ * lee en flujo (gunzip → líneas), quedándose solo con las filas pedidas: son
+ * 1.7 M filas y solo necesitamos unas decenas. Cualquier fallo (red, gzip
+ * corrupto, formato inesperado) devuelve un mapa vacío y una línea en el log:
+ * la cartelera nunca se cae por IMDb.
+ */
+export async function cargarImdb(ids) {
+  const mapa = new Map();
+  if (!ids.size) return mapa;
+  const t0 = Date.now();
+  try {
+    const res = await traer(IMDB_RATINGS_URL, { timeoutMs: 60000 });
+    if (!res?.body) throw new Error("sin respuesta");
+    const gunzip = createGunzip();
+    const cuerpo = Readable.fromWeb(res.body);
+    cuerpo.on("error", e => gunzip.destroy(e));          // pipe() no propaga errores
+    cuerpo.pipe(gunzip);
+    gunzip.setEncoding("utf8");
 
-  const rt = de("Rotten Tomatoes")?.match(/(\d+)%/)?.[1];
-  const mc = de("Metacritic")?.match(/(\d+)\/100/)?.[1];
-  const imdb = Number(r.imdbRating);
+    let filas = 0, conCabecera = false;
+    const procesar = linea => {
+      if (!conCabecera) {
+        conCabecera = true;
+        if (!linea.startsWith("tconst\taverageRating\tnumVotes")) throw new Error(`formato inesperado: "${linea.slice(0, 40)}"`);
+        return;
+      }
+      filas++;
+      const tconst = linea.slice(0, linea.indexOf("\t"));
+      if (!ids.has(tconst)) return;
+      const [, rating, votes] = linea.split("\t");
+      const r = Number(rating), v = Number(votes);
+      if (Number.isFinite(r) && Number.isFinite(v)) mapa.set(tconst, { rating: r, votos: v });
+    };
+    let resto = "";
+    for await (const trozo of gunzip) {
+      const lineas = (resto + trozo).split("\n");
+      resto = lineas.pop();
+      lineas.forEach(procesar);
+    }
+    if (resto.trim()) procesar(resto);
+    if (!filas) throw new Error("archivo vacío");
+    log(`  IMDb: ${mapa.size}/${ids.size} ids encontrados en ${filas.toLocaleString("en-US")} filas (${((Date.now() - t0) / 1000).toFixed(1)} s)`);
+  } catch (e) {
+    log(`  ! IMDb: ${e.message} — el público vendrá solo de TMDB`);
+    return new Map();
+  }
+  return mapa;
+}
 
-  return {
-    critica: rt ? Number(rt) : mc ? Number(mc) : null,
-    criticaFuente: rt ? "Rotten Tomatoes" : mc ? "Metacritic" : null,
-    publico: Number.isFinite(imdb) ? imdb : null,
-    publicoFuente: Number.isFinite(imdb) ? "IMDb" : null,
-  };
+/**
+ * Regla del público: una sola cifra en escala de 10, y cifra, fuente y votos
+ * siempre de la misma fuente.
+ *   1. IMDb si tiene IMDB_MIN_VOTOS o más.
+ *   2. Si no, TMDB si tiene 3 o más (lo deja puesto enriquecer()).
+ *   3. Si no, sin calificación.
+ */
+function aplicarImdb(ficha, imdb) {
+  const r = ficha.imdbId && imdb.get(ficha.imdbId);
+  if (!r || r.votos < IMDB_MIN_VOTOS) return;
+  ficha.publico = Number(r.rating.toFixed(1));
+  ficha.publicoFuente = "IMDb";
+  ficha.votos = r.votos;
 }
 
 async function enriquecer(p, ficha) {
@@ -486,7 +542,7 @@ async function enriquecer(p, ficha) {
     ...p,
     sinopsis: null, sinopsisFuente: null, trailer: null, trailerFuente: null,
     critica: null, criticaFuente: null, publico: null, publicoFuente: null,
-    resenas: [], urlImdb: null, tmdbId: null, votos: null,
+    resenas: [], urlImdb: null, imdbId: null, tmdbId: null, votos: null,
   };
 
   // Lo que dice la propia Cineteca va primero; TMDB rellena lo que falte.
@@ -515,20 +571,14 @@ async function enriquecer(p, ficha) {
   }
   // Mucho de lo que programa la Cineteca tiene pocos votos. Con 3 ya se muestra
   // el promedio; la app enseña el número de votos para que se lea con su peso.
+  // Si IMDb tiene la película con votos suficientes, aplicarImdb() lo reemplaza
+  // en main(), una vez reunidos los ids de todas las películas.
   salida.publico = hit.vote_count >= 3 && hit.vote_average ? Number(hit.vote_average.toFixed(1)) : null;
   salida.publicoFuente = salida.publico != null ? "TMDB" : null;
 
-  const imdbId = detalle?.imdb_id;
-  if (imdbId) {
-    salida.urlImdb = `https://www.imdb.com/title/${imdbId}/`;
-    if (OMDB_KEY) {
-      const s = await scoresDe(imdbId);
-      if (s) {
-        salida.critica = s.critica;
-        salida.criticaFuente = s.criticaFuente;
-        if (s.publico != null) { salida.publico = s.publico; salida.publicoFuente = s.publicoFuente; }
-      }
-    }
+  if (detalle?.imdb_id) {
+    salida.imdbId = detalle.imdb_id;
+    salida.urlImdb = `https://www.imdb.com/title/${detalle.imdb_id}/`;
   }
   return salida;
 }
@@ -539,7 +589,6 @@ const claveDe = p => p.filmId || `${p.titulo}|${p.ano || ""}`.toLowerCase();
 
 async function main() {
   if (!TMDB_KEY) log("! Falta TMDB_API_KEY — la cartelera saldrá sin scores ni reseñas.");
-  else if (!OMDB_KEY) log("! Falta OMDB_API_KEY — sin Rotten Tomatoes; el público vendrá de TMDB.");
 
   // 1) Tarjetas de cada sede en cada fecha (aún sin horarios).
   const tarjetas = [];
@@ -593,6 +642,11 @@ async function main() {
     await dormir(120);
   }
 
+  // 4b) Público de IMDb: una sola pasada por el dataset con los ids reunidos arriba.
+  const idsImdb = new Set(Object.values(peliculas).map(p => p.imdbId).filter(Boolean));
+  const imdb = await cargarImdb(idsImdb);
+  for (const p of Object.values(peliculas)) aplicarImdb(p, imdb);
+
   // 5) El sitio deja de listar las funciones de hoy que ya pasaron. Si el JSON
   //    anterior es del mismo día, sus funciones de hoy se conservan (unión de
   //    horarios), para que una corrida de noche no vacíe la cartelera del día.
@@ -616,6 +670,11 @@ async function main() {
     if (horas || filas) log(`  · conservadas de la corrida anterior de hoy: ${filas} función(es) y ${horas} horario(s) ya pasados`);
   }
 
+  // 6) Nunca publicar una cartelera sin funciones para hoy: un scraping a medias
+  //    no debe reemplazar datos buenos. El error hace fallar el workflow y GitHub avisa.
+  const funcionesHoy = funciones.filter(f => f.fecha === HOY_CDMX && f.horarios.length);
+  if (!funcionesHoy.length) throw new Error(`Cero funciones con horario para hoy (${HOY_CDMX}) en todas las sedes: no se publica la cartelera.`);
+
   const fechas = FECHAS.filter(f => funciones.some(x => x.fecha === f));
   const salida = {
     generadoEn: new Date().toISOString(),
@@ -625,7 +684,9 @@ async function main() {
   };
 
   const vals = Object.values(peliculas);
-  log(`  ${vals.filter(p => p.tmdbId).length}/${vals.length} en TMDB, ${vals.filter(p => p.publico != null).length} con público, `
+  const porFuente = f => vals.filter(p => p.publicoFuente === f).length;
+  log(`  ${vals.filter(p => p.tmdbId).length}/${vals.length} en TMDB, ${vals.filter(p => p.publico != null).length} con público `
+    + `(${porFuente("IMDb")} IMDb, ${porFuente("TMDB")} TMDB), `
     + `${vals.filter(p => p.resenas.length).length} con reseñas, `
     + `${vals.filter(p => p.sinopsis).length} con sinopsis, `
     + `${vals.filter(p => p.trailer).length} con tráiler, `
@@ -640,4 +701,7 @@ async function main() {
   log(`✓ ${SALIDA}`);
 }
 
-main().catch(e => { console.error("✗", e.message); process.exit(1); });
+// Solo corre como script; importado (pruebas) no hace nada.
+if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+  main().catch(e => { console.error("✗", e.message); process.exit(1); });
+}

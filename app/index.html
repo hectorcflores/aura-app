@@ -182,6 +182,8 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
     <nav class="list" id="ls" aria-label="Cartelera de hoy"></nav>
     <div class="card" id="pn"><div class="msg skel"><span style="width:60%"></span><span style="width:85%"></span><span style="width:40%"></span></div></div>
   </div>
+  <!-- La licencia del dataset de IMDb exige este texto tal cual. -->
+  <p class="src" style="margin-top:24px">Information courtesy of <a href="https://www.imdb.com" target="_blank" rel="noopener">IMDb</a> (https://www.imdb.com). Used with permission. · Datos de películas de <a href="https://www.themoviedb.org" target="_blank" rel="noopener">TMDB</a>.</p>
 </div>
 <script>
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -324,7 +326,7 @@ function nombreSede(id) { return CART.sedes.find(s => s.id === id)?.nombre || id
 /* Repinta todo para la combinación (sede, fecha) actual y la deja en la URL. */
 function pinta() {
   const items = filas();
-  sub.textContent = fechaLarga(fecha);
+  sub.textContent = fechaLarga(fecha) + (nota ? ` · ${nota}` : "");
   history.replaceState(null, "", `?sede=${encodeURIComponent(sede)}&fecha=${encodeURIComponent(fecha)}${orden !== "calificacion" ? `&orden=${orden}` : ""}`);
   if (!items.length) {
     vacio(`Sin funciones en ${nombreSede(sede)}`, `No hay programación para el ${fechaLarga(fecha).toLowerCase()}. Prueba otra sede u otro día.`);
@@ -357,34 +359,57 @@ pn.addEventListener("click", e => {
     title="Tráiler" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
 });
 
+/* Respaldo local: la última cartelera que cargó bien se guarda en el teléfono.
+   Si la red falla (o Pages está a medio desplegar), se muestra esa copia con una
+   nota discreta en lugar de un error. */
+const RESPALDO = "aura.cartelera";
+let nota = "";
+const guardaRespaldo = d => { try { localStorage.setItem(RESPALDO, JSON.stringify(d)); } catch { /* sin espacio o modo privado */ } };
+const leeRespaldo = () => { try { return JSON.parse(localStorage.getItem(RESPALDO)); } catch { return null; } };
+const conDatos = d => d?.funciones?.length && d?.sedes?.length && d?.fechas?.length;
+
+function arranca(d) {
+  CART = d;
+  if (!conDatos(d)) {
+    sub.textContent = "";
+    vacio(d.pendiente ? "Aún no hay cartelera" : "Hoy no hay funciones",
+      d.pendiente
+        ? "La cartelera se genera cada mañana; el primer build todavía no corre."
+        : "No se encontraron funciones programadas.");
+    return;
+  }
+  hayCritica = Object.values(d.peliculas).some(p => p.critica != null);
+  // "Hoy" lo decide el reloj del navegador en hora CDMX, no la fecha en que se
+  // generó el JSON: si el cron se retrasa, la app no muestra ayer como hoy.
+  // Los días ya pasados salen del selector.
+  d.hoy = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Mexico_City" }).format(new Date());
+  const vigentes = d.fechas.filter(f => f >= d.hoy);
+  if (vigentes.length) d.fechas = vigentes;
+  // Estado inicial: lo que venga en la URL si es válido; si no, Xoco y hoy.
+  const q = new URLSearchParams(location.search);
+  sede  = d.sedes.some(s => s.id === q.get("sede")) ? q.get("sede") : (d.sedes.find(s => s.id === "003") || d.sedes[0]).id;
+  fecha = d.fechas.includes(q.get("fecha")) ? q.get("fecha") : (d.fechas.find(f => f >= d.hoy) || d.fechas[0]);
+  orden = ORDENES.includes(q.get("orden")) ? q.get("orden") : "calificacion";
+  pintaControles(); pinta();
+}
+
 /* cache:"no-store" para que el navegador no sirva la cartelera de ayer. */
 fetch("./data/cartelera.json", { cache: "no-store" })
   .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
   .then(d => {
-    CART = d;
-    if (!d.funciones?.length || !d.sedes?.length || !d.fechas?.length) {
-      sub.textContent = "";
-      vacio(d.pendiente ? "Aún no hay cartelera" : "Hoy no hay funciones",
-        d.pendiente
-          ? "La cartelera se genera cada mañana; el primer build todavía no corre."
-          : "No se encontraron funciones programadas.");
-      return;
-    }
-    hayCritica = Object.values(d.peliculas).some(p => p.critica != null);
-    // "Hoy" lo decide el reloj del navegador en hora CDMX, no la fecha en que se
-    // generó el JSON: si el cron se retrasa, la app no muestra ayer como hoy.
-    // Los días ya pasados salen del selector.
-    d.hoy = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Mexico_City" }).format(new Date());
-    const vigentes = d.fechas.filter(f => f >= d.hoy);
-    if (vigentes.length) d.fechas = vigentes;
-    // Estado inicial: lo que venga en la URL si es válido; si no, Xoco y hoy.
-    const q = new URLSearchParams(location.search);
-    sede  = d.sedes.some(s => s.id === q.get("sede")) ? q.get("sede") : (d.sedes.find(s => s.id === "003") || d.sedes[0]).id;
-    fecha = d.fechas.includes(q.get("fecha")) ? q.get("fecha") : (d.fechas.find(f => f >= d.hoy) || d.fechas[0]);
-    orden = ORDENES.includes(q.get("orden")) ? q.get("orden") : "calificacion";
-    pintaControles(); pinta();
+    if (conDatos(d)) guardaRespaldo(d);
+    arranca(d);
   })
   .catch(err => {
+    const previo = leeRespaldo();
+    if (conDatos(previo)) {
+      const gen = previo.generadoEn ? new Date(previo.generadoEn) : null;
+      nota = gen && !isNaN(gen)
+        ? `cartelera guardada el ${new Intl.DateTimeFormat("es-MX", { timeZone: "America/Mexico_City", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }).format(gen)}`
+        : "cartelera guardada";
+      arranca(previo);
+      return;
+    }
     sub.textContent = "";
     vacio("No se pudo cargar la cartelera", `${err.message}. Vuelve a intentar en un momento.`);
   });
