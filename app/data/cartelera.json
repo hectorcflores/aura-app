@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-07T13:29:16.780Z",
+  "generadoEn": "2026-09-07T18:46:19.729Z",
   "hoy": "2026-09-07",
   "sedes": [
     {
@@ -1019,30 +1019,6 @@
       "tmdbId": 1307759,
       "votos": 45
     },
-    "HO00010026": {
-      "titulo": "Ser, no ser, ser muchas/Rojo/La identidad que hemo",
-      "tituloOriginal": "Programa 1: Género",
-      "director": "Varios",
-      "pais": "Varios",
-      "ano": 2026,
-      "duracion": 76,
-      "filmId": "HO00010026",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010026?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010026&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
       "tituloOriginal": "Sugar Island",
@@ -1712,6 +1688,30 @@
       "imdbId": "tt2360310",
       "tmdbId": 264529,
       "votos": 1203
+    },
+    "HO00010026": {
+      "titulo": "Ser, no ser, ser muchas/Rojo/La identidad que hemo",
+      "tituloOriginal": "Programa 1: Género",
+      "director": "Varios",
+      "pais": "Varios",
+      "ano": 2026,
+      "duracion": 76,
+      "filmId": "HO00010026",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010026?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010026&cinemas=002",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     }
   },
   "funciones": [
@@ -2206,15 +2206,6 @@
       "horarios": [
         "15:00",
         "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-07",
-      "pelicula": "HO00010026",
-      "sala": null,
-      "horarios": [
-        "12:00"
       ]
     },
     {
@@ -3785,6 +3776,15 @@
       "sala": null,
       "horarios": [
         "18:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-07",
+      "pelicula": "HO00010026",
+      "sala": null,
+      "horarios": [
+        "12:00"
       ]
     }
   ]
