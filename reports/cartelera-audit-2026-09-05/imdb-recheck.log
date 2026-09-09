@@ -1,0 +1,157 @@
+basics: 12,765,861 filas, 220 candidatos, 14.1s, rss 80 MB
+akas: 59,194,928 filas, 1229 coincidencias, 244 tconst nuevos, 53.6s, rss 130 MB
+basics(2ª pasada): 9.8s
+crew: 12,766,765 filas, 325 nconst de directores, 6.3s, rss 125 MB
+name.basics: 15,633,571 filas, 51.9s, rss 89 MB
+ratings: 3.9s · total 139.8s, rss 131 MB
+
+[ok-tmdb] Coyote Vs Acme DOB (2026, Dave Green) actual=tt1756855
+   candidatos=1 fuertes=1 medios=0 · elegido: tt1756855 movie "Coyote vs. Acme" 2026 dir=dave green via=basics · coincideTMDB=true · 7.6 (12603 votos)
+
+[ok-tmdb] Coyote Vs Acme SUB (2026, Dave Green) actual=tt1756855
+   candidatos=1 fuertes=1 medios=0 · elegido: tt1756855 movie "Coyote vs. Acme" 2026 dir=dave green via=basics · coincideTMDB=true · 7.6 (12603 votos)
+
+[SIN CALIF] Deshilando luz (2025, Valentina Pelayo Atilano) actual=null
+   candidatos=0 fuertes=0 medios=0 · elegido: — · coincideTMDB=n/a · 
+
+[ok-tmdb] El amor que permanece (2025, Hlynur Pálmason) actual=tt33381401
+   candidatos=1 fuertes=1 medios=0 · elegido: tt33381401 movie "The Love That Remains" 2025 dir=hlynur palmason via=basics · coincideTMDB=true · 6.8 (2388 votos)
+
+[ok-tmdb] El príncipe de Nanawa (2025, Clarisa Navas) actual=tt30006845
+   candidatos=1 fuertes=1 medios=0 · elegido: tt30006845 movie "The Prince of Nanawa" 2025 dir=clarisa navas via=basics · coincideTMDB=true · 8 (51 votos)
+
+[ok-tmdb] Expulsado del paraíso (2025, Fatih Akin) actual=tt22507216
+   candidatos=1 fuertes=1 medios=0 · elegido: tt22507216 movie "Amrum" 2025 dir=fatih akin via=basics · coincideTMDB=true · 7.2 (4699 votos)
+
+[ok-tmdb] La bachata del biónico (2024, Yoel Morales) actual=tt29566944
+   candidatos=1 fuertes=1 medios=0 · elegido: tt29566944 movie "Bionico's Bachata" 2024 dir=yoel morales via=basics · coincideTMDB=true · 8.5 (98 votos)
+
+[ok-tmdb] La chica de Colonia (2025, Ido Fluk) actual=tt20414360
+   candidatos=1 fuertes=1 medios=0 · elegido: tt20414360 movie "Cologne 75" 2025 dir=ido fluk via=basics · coincideTMDB=true · 7.1 (2192 votos)
+
+[ok-tmdb] La negociación (2025, Gus Van Sant) actual=tt15181326
+   candidatos=2 fuertes=1 medios=0 · elegido: tt15181326 movie "Dead Man's Wire" 2025 dir=gus van sant via=basics · coincideTMDB=true · 6.4 (13850 votos)
+
+[ok-tmdb] Lo que queda de ti (2025, Cherien Dabis) actual=tt29344894
+   candidatos=2 fuertes=1 medios=1 · elegido: tt29344894 movie "All That's Left of You" 2025 dir=cherien dabis via=basics · coincideTMDB=true · 7.9 (2967 votos)
+
+[ok-tmdb] Los demonios del amanecer (2024, Julián Hernández) actual=tt32135294
+   candidatos=1 fuertes=1 medios=0 · elegido: tt32135294 movie "Demons at Dawn" 2024 dir=julian hernandez via=basics · coincideTMDB=true · 5.3 (292 votos)
+
+[ok-tmdb] Memorias de un cuerpo que arde (2024, Antonella Sudasassi Furniss) actual=tt15716284
+   candidatos=1 fuertes=0 medios=1 · elegido: — · coincideTMDB=false · 
+     medio: tt15716284 movie "Memories of a Burning Body" 2024 dir=antonella sudasassi
+
+[ok-tmdb] Moscas (2026, Fernando Eimbcke) actual=tt35854741
+   candidatos=5 fuertes=1 medios=1 · elegido: tt35854741 movie "Flies" 2026 dir=fernando eimbcke via=basics · coincideTMDB=true · 7.5 (297 votos)
+
+[SIN CALIF] Oh, fortuna (2025, Luis Ayhllón) actual=tt40196240
+   candidatos=16 fuertes=1 medios=0 · elegido: tt40196240 movie "¡Oh, Fortuna!" 2026 dir=luis ayhllon via=basics · coincideTMDB=true · sin fila en ratings
+
+[ok-tmdb] Olivia & las nubes (2024, Tomás Pichardo-Espaillat) actual=tt17423500
+   candidatos=1 fuertes=1 medios=0 · elegido: tt17423500 movie "Olivia & the Clouds" 2024 dir=tomas pichardo espaillat via=basics · coincideTMDB=true · 6.6 (109 votos)
+
+[ok-tmdb] Ponyo y el secreto de la sirenita SUB (2008, Hayao Miyazaki) actual=tt0876563
+   candidatos=1 fuertes=1 medios=0 · elegido: tt0876563 movie "Ponyo" 2008 dir=hayao miyazaki via=basics · coincideTMDB=true · 7.6 (188783 votos)
+
+[SIN CALIF] Resurrection (2025, Bi Gan) actual=null
+   candidatos=90 fuertes=1 medios=6 · elegido: tt29002950 movie "Resurrection" 2025 dir=bi gan via=basics · coincideTMDB=n/a · 7.2 (5491 votos)
+
+[ok-tmdb] Señoritas (2024, Mykaela Plotkin) actual=tt33997262
+   candidatos=5 fuertes=1 medios=0 · elegido: tt33997262 movie "Senhoritas" 2024 dir=mykaela plotkin via=basics · coincideTMDB=true · 7.2 (16 votos)
+
+[ok-tmdb] Sueños (sexo-amor) (2024, Johan Haugerud) actual=tt30810787
+   candidatos=12 fuertes=1 medios=0 · elegido: tt30810787 movie "Dreams" 2024 dir=dag johan haugerud via=basics · coincideTMDB=true · 7.2 (3965 votos)
+
+[SIN CALIF] Tus dos muertos (2025, Daniel Castro Zimbrón) actual=null
+   candidatos=1 fuertes=1 medios=0 · elegido: tt39054556 movie "Tus Dos Muertos" 2025 dir=daniel castro zimbron via=basics · coincideTMDB=n/a · 7.8 (40 votos)
+
+[ok-tmdb] Un futuro brillante (2025, Lucía Garibaldi) actual=tt36591330
+   candidatos=1 fuertes=1 medios=0 · elegido: tt36591330 movie "A Bright Future" 2025 dir=lucia garibaldi via=basics · coincideTMDB=true · 7.4 (68 votos)
+
+[ok-tmdb] Un hijo propio (2026, Maite Alberdi) actual=tt37961750
+   candidatos=1 fuertes=1 medios=0 · elegido: tt37961750 movie "A Child of My Own" 2026 dir=maite alberdi via=basics · coincideTMDB=true · 6 (868 votos)
+
+[ok-tmdb] Adolescencia, sexo y muerte en Campamento Miasma (2026, Jane Schoenbrun) actual=tt35298123
+   candidatos=9 fuertes=1 medios=1 · elegido: tt35298123 movie "Teenage Sex and Death at Camp Miasma" 2026 dir=jane schoenbrun via=basics · coincideTMDB=true · 7.2 (8364 votos)
+
+[ok-tmdb] Comparsa (2025, Vickie Curtis) actual=tt36870657
+   candidatos=2 fuertes=1 medios=0 · elegido: tt36870657 movie "Comparsa" 2025 dir=doug anderson/vickie curtis via=basics · coincideTMDB=true · 8.1 (29 votos)
+
+[SIN CALIF] El viaje de Marta (2026, Daniel Muchiut) actual=null
+   candidatos=1 fuertes=0 medios=0 · elegido: — · coincideTMDB=n/a · 
+
+[ok-tmdb] John Lilly y el ECCO (2026, Michael Almereyda y Courtney Stephens) actual=tt35532467
+   candidatos=1 fuertes=1 medios=0 · elegido: tt35532467 movie "John Lilly and the Earth Coincidence Control Office" 2025 dir=michael almereyda/courtney stephens via=basics · coincideTMDB=true · 7 (76 votos)
+
+[ok-tmdb] La odisea (2026, Christopher Nolan) actual=tt33764258
+   candidatos=28 fuertes=1 medios=3 · elegido: tt33764258 movie "The Odyssey" 2026 dir=christopher nolan via=basics · coincideTMDB=true · 8.4 (472098 votos)
+
+[SIN CALIF] Las ruinas nuevas (2024, Manuel Embalse) actual=null
+   candidatos=1 fuertes=1 medios=0 · elegido: tt38733725 movie "Las ruinas nuevas" 2024 dir=manuel embalse via=basics · coincideTMDB=n/a · sin fila en ratings
+
+[ok-tmdb] Ponyo y el secreto de la sirenita DOB (2008, Hayao Miyazaki) actual=tt0876563
+   candidatos=1 fuertes=1 medios=0 · elegido: tt0876563 movie "Ponyo" 2008 dir=hayao miyazaki via=basics · coincideTMDB=true · 7.6 (188783 votos)
+
+[SIN CALIF] Punto de fuga (2025, Bani Khoshnoudi) actual=null
+   candidatos=11 fuertes=0 medios=0 · elegido: — · coincideTMDB=n/a · 
+
+[ok-tmdb] Sobre las olas (2025, Horacio Alcalá) actual=tt27672943
+   candidatos=3 fuertes=1 medios=0 · elegido: tt27672943 movie "Sobre las olas" 2025 dir=horacio alcala via=basics · coincideTMDB=true · 7.5 (14 votos)
+
+[ok-tmdb] Breaking la vida (2022, Abraham Escobedo Salas) actual=tt21110404
+   candidatos=1 fuertes=1 medios=0 · elegido: tt21110404 movie "Breaking la Vida" 2022 dir=abraham escobedo salas via=basics · coincideTMDB=true · 9.5 (62 votos)
+
+[SIN CALIF] El jardín de María (2025, Jade Rainho) actual=null
+   candidatos=0 fuertes=0 medios=0 · elegido: — · coincideTMDB=n/a · 
+
+[ok-tmdb] Las catadoras de Hitler (2025, Silvio Soldini) actual=tt27811248
+   candidatos=1 fuertes=1 medios=0 · elegido: tt27811248 movie "The Tasters" 2025 dir=silvio soldini via=basics · coincideTMDB=true · 6.4 (3074 votos)
+
+[ok-tmdb] Matrioshka (2025, Jorge Forero) actual=tt25679778
+   candidatos=5 fuertes=1 medios=0 · elegido: tt25679778 movie "Matrioshka" 2024 dir=jorge forero via=basics · coincideTMDB=true · 7.1 (45 votos)
+
+[ok-tmdb] Sugar Island, La isla de azúcar (2024, Johanné Gómez Terrero) actual=tt18301776
+   candidatos=1 fuertes=1 medios=0 · elegido: tt18301776 movie "Sugar Island" 2024 dir=johanne gomez terrero via=basics · coincideTMDB=true · 7.1 (78 votos)
+
+[SIN CALIF] Boca vieja (2025, Yovegami Ascona Mora) actual=tt37950235
+   candidatos=1 fuertes=1 medios=0 · elegido: tt37950235 movie "Boca Vieja" 2025 dir=yovegami ascona mora via=basics · coincideTMDB=true · sin fila en ratings
+
+[ok-tmdb] Niñxs (2025, Kani Lapuerta) actual=tt28727524
+   candidatos=1 fuertes=1 medios=0 · elegido: tt28727524 movie "Kids" 2025 dir=kani lapuerta via=basics · coincideTMDB=true · 7.8 (47 votos)
+
+[ok-tmdb] El último viaje (2024, Rodolfo Santa María Troncoso) actual=tt31099633
+   candidatos=11 fuertes=1 medios=3 · elegido: tt31099633 movie "El último viaje" 2024 dir=rodolfo santa maria troncoso via=basics · coincideTMDB=true · 8.8 (17 votos)
+
+[SIN CALIF] Norma también (2025, Natalia Vinelli) actual=null
+   candidatos=0 fuertes=0 medios=0 · elegido: — · coincideTMDB=n/a · 
+
+[SIN CALIF] Un lugar en la ciudad (2025, Gabriel Silvestre) actual=null
+   candidatos=0 fuertes=0 medios=0 · elegido: — · coincideTMDB=n/a · 
+
+[ok-tmdb] Nosotras, las taquígrafas (1950, Emilio Gómez Muriel) actual=tt0253346
+   candidatos=12 fuertes=1 medios=0 · elegido: tt0253346 movie "Nosotras, las taquígrafas" 1950 dir=emilio gomez muriel via=basics · coincideTMDB=true · 7.3 (30 votos)
+
+[SIN CALIF] Hojas secas (null, Alexandre Koberidze) actual=null
+   candidatos=2 fuertes=1 medios=0 · elegido: tt37537636 movie "Dry Leaf" 2025 dir=aleksandre koberidze via=basics · coincideTMDB=n/a · 6.6 (342 votos)
+
+[ok-tmdb] Siguiente vida (2025, Tenzin Phuntsog) actual=tt37529932
+   candidatos=6 fuertes=1 medios=1 · elegido: tt37529932 movie "Next Life" 2025 dir=tenzin phuntsog via=basics · coincideTMDB=true · 7.3 (13 votos)
+
+[ok-tmdb] En camino a Leo (2025, Ana Bárcenas Torres) actual=tt37645598
+   candidatos=1 fuertes=1 medios=0 · elegido: tt37645598 movie "En camino a Leo" 2025 dir=ana barcenas torres via=basics · coincideTMDB=true · 8.3 (17 votos)
+
+[ok-tmdb] Veneno para las hadas (1984, Carlos Enrique Taboada) actual=tt0135033
+   candidatos=1 fuertes=1 medios=0 · elegido: tt0135033 movie "Poison for the Fairies" 1986 dir=carlos enrique taboada via=basics · coincideTMDB=true · 7.2 (3413 votos)
+
+[SIN CALIF] Cuando el fuego se convierte en ceniza (2025, Michaela Grill) actual=null
+   candidatos=0 fuertes=0 medios=0 · elegido: — · coincideTMDB=n/a · 
+
+[ok-tmdb] Agnus Dei, cordero de Dios (2010, Alejandra Sánchez Orozco) actual=tt2233951
+   candidatos=15 fuertes=1 medios=3 · elegido: tt1865291 movie "Agnus Dei: The Lamb of God" 2011 dir=alejandra sanchez orozco via=basics · coincideTMDB=false · 6.9 (58 votos)
+
+[SIN CALIF] Animanimales (null, Julia Ocker) actual=null
+   candidatos=0 fuertes=0 medios=0 · elegido: — · coincideTMDB=n/a · 
+
+[ok-tmdb] Las oscuras primaveras (2014, Ernesto Contreras) actual=tt2360310
+   candidatos=1 fuertes=1 medios=0 · elegido: tt2360310 movie "The Obscure Spring" 2014 dir=ernesto contreras via=basics · coincideTMDB=true · 6 (1201 votos)

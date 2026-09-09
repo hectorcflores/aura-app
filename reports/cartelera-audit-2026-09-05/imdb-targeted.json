@@ -1,0 +1,189 @@
+{
+  "sizes": {
+    "title.basics": 226398745,
+    "title.crew": 82994166,
+    "title.akas": 512728960,
+    "name.basics": 309325624,
+    "title.ratings": 8653302
+  },
+  "records": {
+    "tt1865291": {
+      "id": "tt1865291",
+      "type": "movie",
+      "title": "Agnus Dei: The Lamb of God",
+      "original": "Agnus Dei: Cordero de Dios",
+      "year": "2011",
+      "minutes": "84",
+      "directors": [
+        {
+          "id": "nm1527069",
+          "name": "Alejandra Sánchez Orozco"
+        }
+      ],
+      "rating": {
+        "value": 6.9,
+        "votes": 58
+      }
+    },
+    "tt2233951": {
+      "id": "tt2233951",
+      "type": "movie",
+      "title": "Agnus Dei",
+      "original": "Agnus Dei",
+      "year": "2012",
+      "minutes": "111",
+      "directors": [
+        {
+          "id": "nm0814672",
+          "name": "Agim Sopi"
+        }
+      ],
+      "rating": {
+        "value": 5,
+        "votes": 211
+      }
+    },
+    "tt29002950": {
+      "id": "tt29002950",
+      "type": "movie",
+      "title": "Resurrection",
+      "original": "Kuang ye shi dai",
+      "year": "2025",
+      "minutes": "160",
+      "directors": [
+        {
+          "id": "nm7267981",
+          "name": "Bi Gan"
+        }
+      ],
+      "rating": {
+        "value": 7.2,
+        "votes": 5491
+      }
+    },
+    "tt34058294": {
+      "id": "tt34058294",
+      "type": "movie",
+      "title": "O Jardim de Maria",
+      "original": "O Jardim de Maria",
+      "year": "2025",
+      "minutes": "72",
+      "directors": [
+        {
+          "id": "nm6068822",
+          "name": "Jade Rainho"
+        }
+      ]
+    },
+    "tt36455629": {
+      "id": "tt36455629",
+      "type": "movie",
+      "title": "The Vanishing Point",
+      "original": "The Vanishing Point",
+      "year": "2025",
+      "minutes": "103",
+      "directors": [
+        {
+          "id": "nm1937881",
+          "name": "Bani Khoshnoudi"
+        }
+      ],
+      "rating": {
+        "value": 6.1,
+        "votes": 16
+      }
+    },
+    "tt37537636": {
+      "id": "tt37537636",
+      "type": "movie",
+      "title": "Dry Leaf",
+      "original": "Khmeli potoli",
+      "year": "2025",
+      "minutes": "186",
+      "directors": [
+        {
+          "id": "nm4901786",
+          "name": "Aleksandre Koberidze"
+        }
+      ],
+      "rating": {
+        "value": 6.6,
+        "votes": 342
+      }
+    },
+    "tt37950235": {
+      "id": "tt37950235",
+      "type": "movie",
+      "title": "Boca Vieja",
+      "original": "Boca Vieja",
+      "year": "2025",
+      "minutes": "\\N",
+      "directors": [
+        {
+          "id": "nm17597673",
+          "name": "Yovegami Ascona Mora"
+        }
+      ]
+    },
+    "tt38733725": {
+      "id": "tt38733725",
+      "type": "movie",
+      "title": "Las ruinas nuevas",
+      "original": "Las ruinas nuevas",
+      "year": "2024",
+      "minutes": "\\N",
+      "directors": [
+        {
+          "id": "nm10293715",
+          "name": "Manuel Embalse"
+        }
+      ]
+    },
+    "tt39054556": {
+      "id": "tt39054556",
+      "type": "movie",
+      "title": "Tus Dos Muertos",
+      "original": "Tus Dos Muertos",
+      "year": "2025",
+      "minutes": "\\N",
+      "directors": [
+        {
+          "id": "nm2435337",
+          "name": "Daniel Castro Zimbrón"
+        }
+      ],
+      "rating": {
+        "value": 7.8,
+        "votes": 40
+      }
+    },
+    "tt40196240": {
+      "id": "tt40196240",
+      "type": "movie",
+      "title": "¡Oh, Fortuna!",
+      "original": "¡Oh, Fortuna!",
+      "year": "2026",
+      "minutes": "\\N",
+      "directors": [
+        {
+          "id": "nm1768250",
+          "name": "Luis Ayhllon"
+        }
+      ]
+    },
+    "tt40711134": {
+      "id": "tt40711134",
+      "type": "movie",
+      "title": "When Fire Turns to Ash",
+      "original": "When Fire Turns to Ash",
+      "year": "2026",
+      "minutes": "95",
+      "directors": [
+        {
+          "id": "nm1120909",
+          "name": "Michaela Grill"
+        }
+      ]
+    }
+  }
+}

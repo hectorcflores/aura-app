@@ -1,0 +1,70 @@
+﻿2026-09-05T19:00:18.2234205Z ##[group]Run npm run build
+2026-09-05T19:00:18.2234560Z ^[[36;1mnpm run build^[[0m
+2026-09-05T19:00:18.2273423Z shell: /usr/bin/bash -e {0}
+2026-09-05T19:00:18.2273717Z env:
+2026-09-05T19:00:18.2274157Z   TMDB_API_KEY: ***
+2026-09-05T19:00:18.2274388Z ##[endgroup]
+2026-09-05T19:00:18.3296321Z 
+2026-09-05T19:00:18.3297015Z > build
+2026-09-05T19:00:18.3297773Z > node scripts/build_cartelera.mjs
+2026-09-05T19:00:18.3298203Z 
+2026-09-05T19:00:19.1740485Z   cascarón: vista="full" fecha="2026-09-05" (YYYY-MM-DD) eventId="000"
+2026-09-05T19:00:20.3262685Z   Xoco        2026-09-05: 26 película(s)
+2026-09-05T19:00:21.2874872Z   Chapultepec 2026-09-05: 13 película(s)
+2026-09-05T19:00:22.2218818Z   Las Artes   2026-09-05: 18 película(s)
+2026-09-05T19:00:23.5242328Z   Xoco        2026-09-06: 28 película(s)
+2026-09-05T19:00:24.3166161Z   Chapultepec 2026-09-06: 14 película(s)
+2026-09-05T19:00:25.3240491Z   Las Artes   2026-09-06: 19 película(s)
+2026-09-05T19:00:26.6720584Z   Xoco        2026-09-07: 26 película(s)
+2026-09-05T19:00:27.3360561Z   Chapultepec 2026-09-07: 11 película(s)
+2026-09-05T19:00:28.3356943Z   Las Artes   2026-09-07: 19 película(s)
+2026-09-05T19:00:29.9181068Z   Xoco        2026-09-08: 23 película(s)
+2026-09-05T19:00:30.5476346Z   Chapultepec 2026-09-08: 10 película(s)
+2026-09-05T19:00:31.3958449Z   Las Artes   2026-09-08: 16 película(s)
+2026-09-05T19:00:32.5462348Z   Xoco        2026-09-09: 25 película(s)
+2026-09-05T19:00:33.2454743Z   Chapultepec 2026-09-09: 11 película(s)
+2026-09-05T19:00:34.2062319Z   Las Artes   2026-09-09: 19 película(s)
+2026-09-05T19:00:35.3152315Z   Xoco        2026-09-10: 23 película(s)
+2026-09-05T19:00:35.9463356Z   Chapultepec 2026-09-10: 10 película(s)
+2026-09-05T19:00:36.7695559Z   Las Artes   2026-09-10: 15 película(s)
+2026-09-05T19:00:37.0274465Z   Xoco        2026-09-11: 0 película(s)
+2026-09-05T19:00:37.2807218Z   Chapultepec 2026-09-11: 0 película(s)
+2026-09-05T19:00:37.5857547Z   Las Artes   2026-09-11: 1 película(s)
+2026-09-05T19:00:37.9508814Z   ── ficha Cineteca de "Coyote Vs Acme DOB" (https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009806&cinemas=003) ──
+2026-09-05T19:00:37.9510409Z   40836 bytes · youtube=Yj-Nm47IW9k · candidatos a sinopsis=3
+2026-09-05T19:00:37.9511219Z     <p> 495c: El icónico personaje de los Looney Toons está cansado de sus intentos fallidos por atrapar…
+2026-09-05T19:00:37.9512397Z     <p> 421c: Dave Green. Samy Burch, James Gunn, Jeremy Slater, con base en el artículo "Coyote v. Acme…
+2026-09-05T19:00:37.9513812Z   horas en la ficha: 24 · sin enlace de boletos: 0 · por sede|fecha: 001|2026-09-05→13:30,15:30  001|2026-09-06→13:30,15:30  001|2026-09-07→13:30,15:30  001|2026-09-08→13:30,15:30  001|2026-09-09→13:30,15:30  003|2026-09-05→13:00  003|2026-09-06→13:00
+2026-09-05T19:00:37.9515042Z   html crudo alrededor de la primera hora:
+2026-09-05T19:00:37.9518956Z ="horarios"><div id="cinema-tag" class="row px-3 py-2 w-100"><div class="d-inline px-1"><img src="imagenes/home/xbtn_CNCH.png.pagespeed.ic.TL4PmbvNAp.png">&nbsp;<img src="imagenes/home/xbtn_CNCH_SILUETA.png.pagespeed.ic.ynd8L3SxCO.png"></div></div><a href='https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=001&amp;txtSessionId=14205&amp;visLang=1' style="text-decoration:none; color:gray;" onclick="return confirm('Estás a punto de comprar entradas para CINETECA NACIONAL CHAPULTEPEC. Recuerda que solo dispones de 5 minutos para concluir tu compra.')" ;'><div class="float-left border border-black text-center px-1 px-md-2 mx-1 my-2 small">Sábado 05 de Septiembre <br> 13:30 H</div></a>
+2026-09-05T19:00:37.9524188Z <a href='https://rbvfcn.cinetecanacional.net/Ticketing/visSelectTickets.aspx?cinemacode=001&amp;txtSessionId=14206&amp;visLang=1' style="text-decoration:none; color:gray;" onclick="return confirm('Estás a punto de comprar entradas para CINETECA NACIONAL CHAPULTEPEC. Recuerda que solo dispones de 5 minutos para concluir tu compra.')" ;'><div class="float-left border border-black text-center px-1 px-md-2 mx-1 my-2 small">Sábado 05 de Septiembre <br> 15:30 H</div></a>
+2026-09-05T19:00:37.9526432Z <a href='htt
+2026-09-05T19:01:06.6008788Z   · 2 hora(s) sin enlace de boletos, atribuidas a la sede de la rejilla
+2026-09-05T19:01:06.6023921Z → 327 tarjetas · 86 fichas · 86 películas únicas
+2026-09-05T19:01:06.6995629Z   · TMDB: "Coyote Vs Acme DOB" → "Coyote vs. Acme" (2026, 140 votos)
+2026-09-05T19:01:06.8597082Z   · TMDB: "Coyote Vs Acme SUB" → "Coyote vs. Acme" (2026, 139 votos)
+2026-09-05T19:01:07.1865673Z   · TMDB: "El amor que permanece" → "Ástin sem eftir er" (2025, 37 votos)
+2026-09-05T19:01:07.5254150Z   · TMDB: "Expulsado del paraíso" → "La isla de Amrum" (2025, 93 votos)
+2026-09-05T19:01:07.8452507Z   · TMDB: "La chica de Colonia" → "Colonia 75" (2025, 58 votos)
+2026-09-05T19:01:09.2701274Z   · TMDB: "Ponyo y el secreto de la sirenita SUB" → "Ponyo y el secreto de la sirenita" (2008, 4948 votos)
+2026-09-05T19:01:09.5817127Z   · TMDB: "Señoritas" → "Senhoritas" (2024, 0 votos)
+2026-09-05T19:01:10.2227590Z   · TMDB: "Sueños (sexo-amor)" → "Sueños en Oslo" (2024, 101 votos)
+2026-09-05T19:01:11.4905790Z   · TMDB: "John Lilly y el ECCO" → "John Lilly and the Earth Coincidence Control Office" (2025, 3 votos)
+2026-09-05T19:01:12.0029523Z   · TMDB: "Ponyo y el secreto de la sirenita DOB" → "Ponyo y el secreto de la sirenita" (2008, 4948 votos)
+2026-09-05T19:01:12.9191525Z   · sin match en TMDB: El jardín de María
+2026-09-05T19:01:13.0461867Z   · TMDB: "Las catadoras de Hitler" → "Las catadoras del Führer" (2025, 252 votos)
+2026-09-05T19:01:13.4492122Z   · sin match en TMDB: Os filhos do underground contra o crânioda batata
+2026-09-05T19:01:13.5812865Z   · TMDB: "Sugar Island, La isla de azúcar" → "Sugar Island" (2025, 1 votos)
+2026-09-05T19:01:15.2380418Z   · sin match en TMDB: En busca de riquesas (casi) olvidadas/¿Quién puede
+2026-09-05T19:01:15.4547108Z   · sin match en TMDB: Entre surcos y memoria: Sembrando resistencia en
+2026-09-05T19:01:16.5218345Z   · sin match en TMDB: Un lugar en la ciudad
+2026-09-05T19:01:17.5157749Z   · sin match en TMDB: Hojas secas
+2026-09-05T19:01:17.6444979Z   · TMDB: "Siguiente vida" → "Next Life" (2025, 0 votos)
+2026-09-05T19:01:18.7096124Z   · sin match en TMDB: Cuando el fuego se convierte en ceniza
+2026-09-05T19:01:19.1190341Z   · sin match en TMDB: Infancia arrebatada/Imposible: la realidad del pet
+2026-09-05T19:01:19.3849291Z   · TMDB: "Agnus Dei, cordero de Dios" → "Agnus Dei" (2012, 15 votos)
+2026-09-05T19:01:20.1096764Z   · sin match en TMDB: Animanimales
+2026-09-05T19:01:20.8394810Z   IMDb: 34/36 ids encontrados en 1,713,427 filas (0.4 s)
+2026-09-05T19:01:20.8422660Z   · conservadas de la corrida anterior de hoy: 4 función(es) y 5 horario(s) ya pasados
+2026-09-05T19:01:20.8427850Z   45/89 en TMDB, 36 con público (36 IMDb, 0 TMDB), 13 con reseñas, 89 con sinopsis, 35 con tráiler, 89 con póster · 331/331 funciones con horario · fechas: 2026-09-05, 2026-09-06, 2026-09-07, 2026-09-08, 2026-09-09, 2026-09-10, 2026-09-11
+2026-09-05T19:01:20.8469973Z ✓ /home/runner/work/aura-app/aura-app/app/data/cartelera.json

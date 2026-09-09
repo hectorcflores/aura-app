@@ -1,0 +1,43 @@
+{
+  "snapshotGeneradoEn": "2026-09-05T19:01:20.842Z",
+  "snapshotSha256": "e511fb969ee39d43bb9375a15ac4b3786fb384d306b30ab0fa1f8327d9fb8e92",
+  "githubRun": "https://github.com/hectorcflores/aura-app/actions/runs/33985764000",
+  "commit": "ac863b21a8639df4fe49b9958a73cb852efedfaa",
+  "datasets": [
+    {
+      "file": "title.basics.tsv.gz",
+      "bytes": 226398745,
+      "sha256": "0f3e39a93975f2f97b06e07378565ae350a668b64a0a8a5c1bd7d569e2402ad0",
+      "sourceURL": "https://datasets.imdbws.com/title.basics.tsv.gz",
+      "provenance": "Copia local preexistente del 5 de septiembre; releída en esta auditoría, no descargada de nuevo."
+    },
+    {
+      "file": "title.crew.tsv.gz",
+      "bytes": 82994166,
+      "sha256": "f54bf1fbc60d0e6a5c0b045284f135a55b036e87183dd0b18b3205c5ec7af84b",
+      "sourceURL": "https://datasets.imdbws.com/title.crew.tsv.gz",
+      "provenance": "Copia local preexistente del 5 de septiembre; releída en esta auditoría, no descargada de nuevo."
+    },
+    {
+      "file": "title.akas.tsv.gz",
+      "bytes": 512728960,
+      "sha256": "0d5738cea1ed13a34645c657ce783885af8512f737a9b896f4e7e738727c96fe",
+      "sourceURL": "https://datasets.imdbws.com/title.akas.tsv.gz",
+      "provenance": "Copia local preexistente del 5 de septiembre; releída en esta auditoría, no descargada de nuevo."
+    },
+    {
+      "file": "name.basics.tsv.gz",
+      "bytes": 309325624,
+      "sha256": "8f4db6afa6fb17c131e690d9fff45152767e2946ddce97761282de06cb4f4ae0",
+      "sourceURL": "https://datasets.imdbws.com/name.basics.tsv.gz",
+      "provenance": "Copia local preexistente del 5 de septiembre; releída en esta auditoría, no descargada de nuevo."
+    },
+    {
+      "file": "title.ratings.tsv.gz",
+      "bytes": 8653302,
+      "sha256": "096b75c932a2b478684c257b564f14b73ce661dccc38e7a1405e72f4ea6899e1",
+      "sourceURL": "https://datasets.imdbws.com/title.ratings.tsv.gz",
+      "provenance": "Copia local preexistente del 5 de septiembre; releída en esta auditoría, no descargada de nuevo."
+    }
+  ]
+}
