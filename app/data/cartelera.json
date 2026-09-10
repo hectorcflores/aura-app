@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-10T12:12:46.147Z",
+  "generadoEn": "2026-09-10T13:39:54.371Z",
   "hoy": "2026-09-10",
   "sedes": [
     {
@@ -69,7 +69,7 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.5,
+      "publico": 7.6,
       "publicoFuente": "IMDb",
       "resenas": [
         {
@@ -91,7 +91,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 19287
+      "votos": 19169
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -163,7 +163,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22507216/",
       "imdbId": "tt22507216",
       "tmdbId": 1269644,
-      "votos": 4772
+      "votos": 4758
     },
     "HO00009929": {
       "titulo": "La bachata del biónico",
@@ -187,7 +187,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29566944/",
       "imdbId": "tt29566944",
       "tmdbId": 1234410,
-      "votos": 101
+      "votos": 100
     },
     "HO00009872": {
       "titulo": "La negociación",
@@ -222,7 +222,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15181326/",
       "imdbId": "tt15181326",
       "tmdbId": 1263012,
-      "votos": 14020
+      "votos": 14011
     },
     "HO00009763": {
       "titulo": "Lo que queda de ti",
@@ -252,7 +252,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 2993
+      "votos": 2991
     },
     "HO00007608": {
       "titulo": "Los demonios del amanecer",
@@ -402,7 +402,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 188918
+      "votos": 188915
     },
     "HO00009958": {
       "titulo": "Ponyo y el secreto de la sirenita SUB",
@@ -432,7 +432,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 188918
+      "votos": 188915
     },
     "HO00009561": {
       "titulo": "Resurrection",
@@ -654,7 +654,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35298123/",
       "imdbId": "tt35298123",
       "tmdbId": 1240889,
-      "votos": 9228
+      "votos": 9170
     },
     "HO00009758": {
       "titulo": "Animanimales",
@@ -766,7 +766,7 @@
       "urlImdb": "https://www.imdb.com/title/tt33764258/",
       "imdbId": "tt33764258",
       "tmdbId": 1368337,
-      "votos": 483163
+      "votos": 482907
     },
     "HO00009791": {
       "titulo": "Siguiente vida",
@@ -873,7 +873,7 @@
       "urlImdb": "https://www.imdb.com/title/tt27811248/",
       "imdbId": "tt27811248",
       "tmdbId": 1291712,
-      "votos": 3099
+      "votos": 3098
     },
     "HO00009846": {
       "titulo": "Matrioshka",
