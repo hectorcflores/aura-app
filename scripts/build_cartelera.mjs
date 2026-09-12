@@ -332,13 +332,13 @@ async function detalleCineteca(p, diagnostico = false) {
 
 /** Tráiler oficial en TMDB, en español si existe. */
 async function trailerTmdb(tmdbId) {
+  const candidates = [];
   for (const lang of ["es-MX", "es", "en-US"]) {
     const r = await json(`https://api.themoviedb.org/3/movie/${tmdbId}/videos?api_key=${TMDB_KEY}&language=${lang}`);
     const yt = (r?.results || []).filter(v => v.site === "YouTube" && v.key);
-    const v = yt.find(v => v.type === "Trailer") || yt.find(v => v.type === "Teaser");
-    if (v) return v.key;
+    candidates.push(...yt.filter(v => ["Trailer", "Teaser"].includes(v.type)).sort((a,b) => Number(b.official) - Number(a.official)).map(v => v.key));
   }
-  return null;
+  return [...new Set(candidates)];
 }
 
 /* ---------------------------------------------------------------- TMDB match
@@ -518,7 +518,7 @@ function aplicarImdb(ficha, imdb) {
 async function enriquecer(p, ficha) {
   const salida = {
     ...p,
-    sinopsis: null, sinopsisFuente: null, trailer: null, trailerFuente: null,
+    sinopsis: null, sinopsisFuente: null, trailer: null, trailers: [], trailerFuente: null,
     critica: null, criticaFuente: null, publico: null, publicoFuente: null,
     resenas: [], urlImdb: null, imdbId: null, tmdbId: null, votos: null,
   };
@@ -539,9 +539,10 @@ async function enriquecer(p, ficha) {
   if (!salida.sinopsis && detalle?.overview?.trim()) {
     salida.sinopsis = detalle.overview.trim(); salida.sinopsisFuente = "TMDB";
   }
-  if (!salida.trailer) {
-    const key = await trailerTmdb(hit.id);
-    if (key) { salida.trailer = key; salida.trailerFuente = "TMDB"; }
+  const candidates = await trailerTmdb(hit.id);
+  salida.trailers = [...new Set([salida.trailer, ...candidates].filter(Boolean))];
+  if (!salida.trailer && candidates.length) {
+    salida.trailer = candidates[0]; salida.trailerFuente = "TMDB";
   }
   salida.resenas = await resenasDe(hit.id);
   if (!salida.tituloOriginal && detalle?.original_title !== p.titulo) {

@@ -181,6 +181,8 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
 #pn .panel{padding-top:2px}
 #pn .sinopsis{margin-top:8px}
 }
+[hidden]{display:none!important}
+.trailer{min-height:200px}
 </style>
 </head>
 <body>
@@ -203,6 +205,7 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
   <!-- La licencia del dataset de IMDb exige este texto tal cual. -->
   <p class="foot">Information courtesy of <a href="https://www.imdb.com" target="_blank" rel="noopener">IMDb</a> (https://www.imdb.com). Used with permission. · Datos de películas de <a href="https://www.themoviedb.org" target="_blank" rel="noopener">TMDB</a>.</p>
 </div>
+<script src="./trailer-player.js"></script>
 <script>
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const $ = id => document.getElementById(id);
@@ -348,7 +351,9 @@ function vacio(titulo, detalle) {
 function nombreSede(id) { return CART.sedes.find(s => s.id === id)?.nombre || id; }
 
 /* Repinta todo para la combinación (sede, fecha) actual y la deja en la URL. */
+let stopTrailer = () => {};
 function pinta() {
+  stopTrailer();
   const items = filas();
   sub.textContent = fechaLarga(fecha) + (nota ? ` · ${nota}` : "");
   history.replaceState(null, "", `?sede=${encodeURIComponent(sede)}&fecha=${encodeURIComponent(fecha)}${orden !== "calificacion" ? `&orden=${orden}` : ""}`);
@@ -377,9 +382,9 @@ function pinta() {
     if (trailerLabel?.classList.contains('rt')) trailerLabel.remove();
     pn.querySelector('.panel').prepend(trailer);
     if (abierto || !mobile) {
-      const id = encodeURIComponent(trailer.dataset.yt);
-      trailer.innerHTML = `<iframe referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&mute=1&playsinline=1&rel=0"
-        title="Tráiler de ${esc(items[sel].p.titulo)}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
+      const film = items[sel].p;
+      const verified = film.trailer === 'apErqeR1IqU' ? ['O2uaTE3eXcg'] : [];
+      stopTrailer = startTrailer(trailer, [film.trailer, ...verified, ...(film.trailers || [])]);
     }
   }
 
@@ -407,14 +412,6 @@ window.addEventListener('resize', () => {
   const next = window.innerWidth <= 720;
   if (next !== mobileLayout) { mobileLayout = next; if (CART && fecha) pinta(); }
 });
-/* El tráiler arranca aquí mismo, mudo, sin abrir otra pestaña. */
-pn.addEventListener("click", e => {
-  const caja = e.target.closest(".trailer"); if (!caja || caja.querySelector("iframe")) return;
-  const id = encodeURIComponent(caja.dataset.yt);
-  caja.innerHTML = `<iframe referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&mute=1&playsinline=1&rel=0&modestbranding=1"
-    title="Tráiler" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
-});
-
 /* Respaldo local: la última cartelera que cargó bien se guarda en el teléfono.
    Si la red falla (o Pages está a medio desplegar), se muestra esa copia con una
    nota discreta en lugar de un error. */
