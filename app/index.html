@@ -82,6 +82,11 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
 .score .v{font-size:15px;font-weight:600;line-height:1}
 .score .v.off{color:hsl(var(--muted-foreground));font-weight:400}
 
+/* Identidad de la fuente, con el mismo tratamiento monocromático del mockup. */
+.rating-label{display:inline-flex;align-items:center;gap:4px;white-space:nowrap}
+.imdb-logo{display:block;width:31px;height:16px;filter:grayscale(1) brightness(1.45)}
+.mini .imdb-logo{width:27px;height:13px}
+
 /* Cita de reseña */
 .quote{margin:0;font-size:13.5px;line-height:1.55;color:hsl(var(--foreground))}
 .quote cite{display:block;margin-top:3px;font-size:12px;font-style:normal;color:hsl(var(--muted-foreground))}
@@ -163,6 +168,19 @@ body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl
 .skel span{height:12px;border-radius:4px;background:hsl(var(--muted))}
 .src{margin-top:4px;font-size:11px;color:hsl(var(--muted-foreground))}
 .panel a{color:hsl(var(--muted-foreground))}
+
+.rating-votes{font-size:10px;line-height:1.3;color:hsl(var(--muted-foreground));white-space:nowrap}
+.toggle-mark,.close-detail{display:none}
+#pn[hidden]{display:none}
+.scores:empty{display:none}
+@media(max-width:720px){
+.toggle-mark{display:inline;float:right;color:#a1a1aa;margin-left:10px}
+.close-detail{display:inline-flex;margin:18px 0 0}
+#pn{margin:-2px 0 14px;border-top:0;border-radius:0 0 6px 6px;background:#18181b}
+.item[aria-expanded="true"]{border-radius:6px 6px 0 0;background:#18181b}
+#pn .panel{padding-top:2px}
+#pn .sinopsis{margin-top:8px}
+}
 </style>
 </head>
 <body>
@@ -211,10 +229,15 @@ const fichaCorta = p => [
   p.duracion ? `<span class="tnum">${p.duracion} min</span>` : null,
 ].filter(Boolean).join(" · ") || "—";
 
-const mini = (k, v, suf = "") => `
-  <span class="mini"><span class="mk">${k}</span>
-  <b class="tnum${v == null ? " off" : ""}">${v == null ? "—" : v + suf}</b></span>`;
+const ratingLabel = p => p.publicoFuente === "IMDb"
+  ? '<span class="rating-label"><img class="imdb-logo" src="./imdb-logo.svg" alt="IMDb"><span>rating</span></span>'
+  : p.publicoFuente ? `${esc(p.publicoFuente)} rating` : "Calificación";
 
+const mini = (k, v, suf = "", votos = null) => `
+  <span class="mini"><span class="mk">${k}</span>
+  <b class="tnum${v == null ? " off" : ""}">${v == null ? "—" : v + suf}</b>${votos != null ? `<span class="rating-votes tnum">${Number(votos).toLocaleString("es-MX")} ${votos === 1 ? "voto" : "votos"}</span>` : ""}</span>`;
+
+let abierto = false;
 let CART = null, sede = null, fecha = null, sel = 0, orden = "calificacion";
 const ORDENES = ["calificacion", "horario"];
 
@@ -267,7 +290,7 @@ function pintaLista(items) {
       <span class="d">
         <span class="h tnum">${horas(r, "")}</span>
         <span class="minis">
-          ${hayCritica ? mini("Crítica", r.p.critica, "%") : ""}${mini("Público", r.p.publico?.toFixed(1))}
+          ${hayCritica ? mini("Crítica", r.p.critica, "%") : ""}${mini(ratingLabel(r.p), r.p.publico?.toFixed(1), "", r.p.votos)}
         </span>
       </span>
     </button>`).join("");
@@ -294,9 +317,9 @@ function pintaPanel(items) {
       ${horas(r, "badge badge-secondary tnum")}</div>
     <div class="scores">
       ${hayCritica ? score("Crítica", p.critica, p.critica / 100, "%") : ""}
-      ${score("Público", p.publico, p.publico / 10)}
+
     </div>
-    <p class="src">${[p.criticaFuente, p.publicoFuente && (p.votos ? `${p.publicoFuente} · <span class="tnum">${p.votos}</span> ${p.votos === 1 ? "voto" : "votos"}` : p.publicoFuente)].filter(Boolean).join(" · ") || "Sin calificaciones disponibles"}</p>
+    ${p.criticaFuente ? `<p class="src">${esc(p.criticaFuente)}</p>` : ""}
     <hr class="sep">
     ${p.trailer ? `
       <p class="rt">Tráiler</p>
@@ -317,6 +340,7 @@ function pintaPanel(items) {
 }
 
 function vacio(titulo, detalle) {
+  document.querySelector(".split").append(pn); pn.hidden = false;
   ls.innerHTML = "";
   pn.innerHTML = `<div class="msg"><b>${esc(titulo)}</b>${esc(detalle)}</div>`;
 }
@@ -333,7 +357,33 @@ function pinta() {
     return;
   }
   if (sel >= items.length) sel = 0;
-  pintaLista(items); pintaPanel(items);
+  pn.remove(); pintaLista(items); pintaPanel(items);
+  const mobile = window.innerWidth <= 720;
+  pn.hidden = mobile && !abierto;
+  for (const button of ls.querySelectorAll('.item')) {
+    const active = (!mobile || abierto) && Number(button.dataset.i) === sel;
+    if (mobile) button.setAttribute('aria-expanded', String(active));
+    button.setAttribute('aria-current', String(active));
+    button.setAttribute('aria-controls', 'pn');
+    button.querySelector('.n').insertAdjacentHTML('beforeend', '<span class="toggle-mark" aria-hidden="true">'+(active?'⌃':'⌄')+'</span>');
+  }
+  const selected = ls.querySelector('[data-i="'+sel+'"]');
+  if (mobile) selected.after(pn); else document.querySelector('.split').append(pn);
+  if (mobile) pn.querySelector('h2')?.remove();
+  if (!hayCritica) pn.querySelector('.scores')?.remove();
+  const trailer = pn.querySelector('.trailer');
+  if (trailer) {
+    const trailerLabel = trailer.previousElementSibling;
+    if (trailerLabel?.classList.contains('rt')) trailerLabel.remove();
+    pn.querySelector('.panel').prepend(trailer);
+    if (abierto || !mobile) {
+      const id = encodeURIComponent(trailer.dataset.yt);
+      trailer.innerHTML = `<iframe referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&mute=1&playsinline=1&rel=0"
+        title="Tráiler de ${esc(items[sel].p.titulo)}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
+    }
+  }
+
+  pn.querySelector('.panel').insertAdjacentHTML('beforeend','<button class="btn close-detail" type="button">Cerrar ficha ⌃</button>');
 }
 
 function pintaControles() {
@@ -345,17 +395,23 @@ function pintaControles() {
 
 ls.addEventListener("click", e => {
   const b = e.target.closest(".item"); if (!b) return;
-  sel = Number(b.dataset.i); pinta();
+  const next=Number(b.dataset.i); abierto=next===sel?!abierto:true; sel=next; pinta();ls.querySelector('[data-i="'+sel+'"]').focus({preventScroll:true});
 });
-selSede.addEventListener("change", () => { sede = selSede.value; sel = 0; pinta(); });
-selFecha.addEventListener("change", () => { fecha = selFecha.value; sel = 0; pinta(); });
-selOrden.addEventListener("change", () => { orden = selOrden.value; sel = 0; pinta(); });
+selSede.addEventListener("change", () => { sede = selSede.value; sel = 0; abierto=false; pinta(); });
+selFecha.addEventListener("change", () => { fecha = selFecha.value; sel = 0; abierto=false; pinta(); });
+selOrden.addEventListener("change", () => { orden = selOrden.value; sel = 0; abierto=false; pinta(); });
 
+pn.addEventListener('click',e=>{if(e.target.closest('.close-detail')){abierto=false;pinta();const button=ls.querySelector('[data-i="'+sel+'"]');button.focus({preventScroll:true});button.scrollIntoView({block:'nearest'});}});
+let mobileLayout = window.innerWidth <= 720;
+window.addEventListener('resize', () => {
+  const next = window.innerWidth <= 720;
+  if (next !== mobileLayout) { mobileLayout = next; if (CART && fecha) pinta(); }
+});
 /* El tráiler arranca aquí mismo, mudo, sin abrir otra pestaña. */
 pn.addEventListener("click", e => {
   const caja = e.target.closest(".trailer"); if (!caja || caja.querySelector("iframe")) return;
   const id = encodeURIComponent(caja.dataset.yt);
-  caja.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&mute=1&playsinline=1&rel=0&modestbranding=1"
+  caja.innerHTML = `<iframe referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&mute=1&playsinline=1&rel=0&modestbranding=1"
     title="Tráiler" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
 });
 

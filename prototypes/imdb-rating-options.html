@@ -1,0 +1,156 @@
+<!doctype html><html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Aura · Opciones IMDb rating</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&display=swap"><style>
+/* Tokens shadcn/ui — tema dark "zinc", los mismos del launcher de hectorcflores.github.io */
+:root{
+  --background:240 10% 3.9%; --foreground:0 0% 98%;
+  --card:240 10% 3.9%; --card-foreground:0 0% 98%;
+  --primary:0 0% 98%; --primary-foreground:240 5.9% 10%;
+  --secondary:240 3.7% 15.9%; --secondary-foreground:0 0% 98%;
+  --muted:240 3.7% 15.9%; --muted-foreground:240 5% 64.9%;
+  --accent:240 3.7% 15.9%; --accent-foreground:0 0% 98%;
+  --border:240 3.7% 15.9%; --ring:240 4.9% 83.9%;
+  --radius:0.5rem;
+}
+*{box-sizing:border-box}
+body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl(var(--foreground));
+  font-family:Geist,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:14px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{width:min(880px,100%);margin:0 auto}
+.tnum{font-variant-numeric:tabular-nums}
+
+/* Encabezado, igual en las cinco */
+.head{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;margin-bottom:24px}
+.h1{margin:0;font-size:16px;font-weight:600;line-height:1;letter-spacing:-.01em}
+.h1 + .desc{margin:6px 0 0}
+.desc{margin:0;font-size:14px;color:hsl(var(--muted-foreground))}
+.stamp{font-size:13px;color:hsl(var(--muted-foreground));white-space:nowrap;padding-top:1px}
+
+/* Card */
+.card{border:1px solid hsl(var(--border));border-radius:var(--radius);
+  background:hsl(var(--card));color:hsl(var(--card-foreground));box-shadow:0 1px 2px 0 rgb(0 0 0/.05)}
+.card-header{display:flex;flex-direction:column;gap:6px;padding:24px}
+.card-content{padding:0 24px 24px}
+.card-title{font-size:16px;font-weight:600;line-height:1.2;letter-spacing:-.01em;text-wrap:balance}
+.card-desc{font-size:14px;color:hsl(var(--muted-foreground))}
+
+/* Badge */
+.badge{display:inline-flex;align-items:center;border-radius:9999px;border:1px solid transparent;
+  padding:2px 10px;font-size:12px;font-weight:600;line-height:1.35;white-space:nowrap}
+.badge-secondary{background:hsl(var(--secondary));color:hsl(var(--secondary-foreground))}
+.badge-outline{border-color:hsl(var(--border));color:hsl(var(--foreground))}
+.badge-muted{background:hsl(var(--secondary));color:hsl(var(--muted-foreground));font-weight:500}
+
+/* Table */
+.table{width:100%;border-collapse:collapse;font-size:14px}
+.table th{height:44px;padding:0 12px;text-align:left;vertical-align:middle;
+  font-weight:500;color:hsl(var(--muted-foreground));border-bottom:1px solid hsl(var(--border))}
+.table td{padding:14px 12px;vertical-align:top;border-bottom:1px solid hsl(var(--border))}
+.table th:first-child,.table td:first-child{padding-left:0}
+.table th:last-child,.table td:last-child{padding-right:0}
+.table tr.hoverable:hover td{background:hsl(var(--muted)/.5)}
+
+/* Separator */
+.sep{height:1px;width:100%;background:hsl(var(--border));border:0;margin:0}
+
+/* Progress — el medidor de score */
+.progress{position:relative;height:6px;width:100%;overflow:hidden;border-radius:9999px;
+  background:hsl(var(--primary)/.2)}
+.progress > i{display:block;height:100%;background:hsl(var(--primary));border-radius:9999px}
+.progress.empty{background:hsl(var(--secondary))}
+
+/* Button / ghost, para los toggles */
+.btn{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:calc(var(--radius) - 2px);
+  background:transparent;color:hsl(var(--muted-foreground));font:inherit;font-size:13px;font-weight:500;
+  padding:6px 10px;margin-left:-10px;cursor:pointer;transition:background-color .15s,color .15s}
+.btn:hover{background:hsl(var(--accent));color:hsl(var(--accent-foreground))}
+.btn .chev{display:inline-block;font-size:10px;transition:transform .15s}
+.btn[aria-expanded="true"] .chev{transform:rotate(90deg)}
+
+/* Score: etiqueta + cifra + barra, reutilizado en las cinco */
+.score{display:grid;gap:4px;min-width:66px}
+.score .k{font-size:11px;font-weight:500;color:hsl(var(--muted-foreground))}
+.score .v{font-size:15px;font-weight:600;line-height:1}
+.score .v.off{color:hsl(var(--muted-foreground));font-weight:400}
+
+/* Cita de reseña */
+.quote{margin:0;font-size:13.5px;line-height:1.55;color:hsl(var(--foreground))}
+.quote cite{display:block;margin-top:3px;font-size:12px;font-style:normal;color:hsl(var(--muted-foreground))}
+.quotes{display:grid;gap:12px;max-width:64ch}
+
+.meta{font-size:13px;color:hsl(var(--muted-foreground))}
+.orig{color:hsl(var(--muted-foreground))}
+.times{display:flex;flex-wrap:wrap;gap:6px}
+.foot{margin-top:28px;font-size:12px;color:hsl(var(--muted-foreground))}
+:focus-visible{outline:none;box-shadow:0 0 0 2px hsl(var(--background)),0 0 0 4px hsl(var(--ring));border-radius:calc(var(--radius) - 2px)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+.split{display:grid;grid-template-columns:300px minmax(0,1fr);gap:24px;align-items:start}
+.list{display:grid;gap:2px}
+.item{display:grid;gap:2px;width:100%;text-align:left;border:0;cursor:pointer;
+  border-radius:calc(var(--radius) - 2px);background:transparent;color:hsl(var(--foreground));
+  font:inherit;padding:10px 12px;transition:background-color .15s}
+.item:hover{background:hsl(var(--accent))}
+.item[aria-current="true"]{background:hsl(var(--secondary))}
+.item{gap:4px;padding:11px 12px}
+.item .n{font-size:14px;font-weight:500;letter-spacing:-.01em;line-height:1.3}
+.item .f{font-size:12px;color:hsl(var(--muted-foreground));line-height:1.35}
+.item .d{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;
+  align-items:end}
+.item .h{font-size:12px;color:hsl(var(--muted-foreground))}
+.past{opacity:.4}
+.badge.past{text-decoration:line-through;text-decoration-color:hsl(var(--muted-foreground))}
+
+/* Ambos scores visibles en la lista, sin abrir la ficha. */
+.minis{display:flex;gap:14px;flex:none}
+.mini{display:grid;gap:1px}
+.mini .mk{font-size:10px;color:hsl(var(--muted-foreground));line-height:1.3}
+.mini b{font-size:13px;font-weight:600;line-height:1.2}
+.mini b.off{color:hsl(var(--muted-foreground));font-weight:400}
+.panel{padding:24px}
+.panel h2{margin:0;font-size:22px;font-weight:600;line-height:1.15;letter-spacing:-.02em;text-wrap:balance}
+.panel .orig{display:block;margin-top:3px;font-size:14px;font-weight:400}
+.dl{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px 24px;margin:20px 0 0}
+.dl div{display:grid;gap:2px}
+.dl dt{font-size:11px;color:hsl(var(--muted-foreground))}
+.dl dd{margin:0;font-size:14px}
+.scores{display:flex;gap:28px;margin-top:22px}
+.panel .sep{margin:22px 0}
+.rt{font-size:11px;color:hsl(var(--muted-foreground));margin:0 0 12px}
+@media(max-width:720px){.split{grid-template-columns:minmax(0,1fr)}}
+
+/* Sinopsis: texto corrido, ancho de lectura. */
+.sinopsis{margin:14px 0 0;font-size:14px;line-height:1.6;max-width:64ch}
+
+/* Tráiler: thumbnail 16:9 que al clic se vuelve el reproductor, en el mismo lugar. */
+.trailer{position:relative;aspect-ratio:16/9;max-width:560px;overflow:hidden;
+  border:1px solid hsl(var(--border));border-radius:var(--radius);background:hsl(var(--muted))}
+.trailer .play{display:block;width:100%;height:100%;padding:0;border:0;background:none;cursor:pointer}
+.trailer img{display:block;width:100%;height:100%;object-fit:cover;opacity:.85;transition:opacity .15s}
+.trailer .play:hover img{opacity:1}
+.trailer .ico{position:absolute;inset:0;display:grid;place-items:center;pointer-events:none}
+.trailer .ico span{display:grid;place-items:center;width:52px;height:52px;border-radius:9999px;
+  background:hsl(var(--background)/.78);color:hsl(var(--foreground));
+  box-shadow:0 1px 2px 0 rgb(0 0 0/.3)}
+.trailer .ico svg{width:20px;height:20px;margin-left:3px}
+.trailer iframe{display:block;width:100%;height:100%;border:0}
+
+/* Selects estilo shadcn (SelectTrigger): borde, radio, chevron a la derecha. */
+.controls{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.sel{appearance:none;-webkit-appearance:none;height:36px;padding:0 32px 0 12px;
+  border:1px solid hsl(var(--border));border-radius:calc(var(--radius) - 2px);
+  background:hsl(var(--background)) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23a1a1aa' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E") no-repeat right 10px center;
+  color:hsl(var(--foreground));font:inherit;font-size:14px;line-height:1;cursor:pointer;
+  box-shadow:0 1px 2px 0 rgb(0 0 0/.05);transition:border-color .15s}
+.sel:hover{border-color:hsl(var(--ring)/.35)}
+.sel:focus-visible{outline:none;box-shadow:0 0 0 2px hsl(var(--background)),0 0 0 4px hsl(var(--ring))}
+.sel:disabled{opacity:.5;cursor:default}
+.sel option{background:hsl(var(--background));color:hsl(var(--foreground))}
+@media(max-width:560px){.head{flex-wrap:wrap}.controls{width:100%;justify-content:flex-start}.sel{flex:1}}
+
+/* Estados de carga y de cartelera vacía. */
+.msg{padding:24px;color:hsl(var(--muted-foreground));font-size:14px}
+.msg b{display:block;margin-bottom:4px;color:hsl(var(--foreground));font-weight:500}
+.skel{display:grid;gap:8px}
+.skel span{height:12px;border-radius:4px;background:hsl(var(--muted))}
+.src{margin-top:4px;font-size:11px;color:hsl(var(--muted-foreground))}
+.panel a{color:hsl(var(--muted-foreground))}
+
+body{padding:32px;background:#09090b}.comparison{max-width:1260px;margin:auto;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}header{height:108px}header h2{font-size:19px;margin:8px 0 4px}header p{font-size:13px;color:#a1a1aa;margin:0}.eyebrow{font-size:10px;color:#a1a1aa;letter-spacing:.1em}.surface{border:1px solid #27272a;border-radius:12px;padding:20px}.panel{margin-top:22px;padding:20px}.panel h2{font-size:20px}.rating-label{display:flex;align-items:center;gap:4px;white-space:nowrap}.imdb-logo{width:31px;height:16px;object-fit:contain}.mini .imdb-logo{width:27px;height:13px}.src{font-size:11px;color:#a1a1aa}.sinopsis{font-size:13px}.caption{max-width:1260px;margin:22px auto 0;color:#71717a;font-size:12px}@media(max-width:850px){.comparison{grid-template-columns:1fr}header{height:auto;margin-bottom:20px}}</style><main class="comparison"><section><header><div class="eyebrow">OPCIÓN 1</div><h2>Solo texto</h2><p>El cambio más discreto.</p></header><div class="surface"><div class="head"><div><h1 class="h1">Aura</h1><p class="desc">Cartelera · Cineteca Nacional</p></div></div><div class="list"><div class="item" aria-current="true"><div class="n">Cars 20 aniversario DOB</div><div class="f">John Lasseter · 2026 · 116 min</div><div class="d"><span class="h">Xoco</span><span class="minis"><span class="mini"><span class="mk rating-label">IMDb rating</span><b>7.3</b></span></span></div></div><div class="item" aria-current="false"><div class="n">Coyote Vs Acme DOB</div><div class="f">Dave Green · 2026 · 98 min</div><div class="d"><span class="h">Xoco</span><span class="minis"><span class="mini"><span class="mk rating-label">IMDb rating</span><b>7.5</b></span></span></div></div></div><div class="card panel"><h2>Cars 20 aniversario DOB</h2><span class="orig">Cars</span><dl class="dl"><div><dt>Dirección</dt><dd>John Lasseter</dd></div><div><dt>Duración</dt><dd>116 min</dd></div></dl><div class="scores"><div class="score"><span class="k rating-label">IMDb rating</span><span class="v">7.3</span><div class="progress"><i style="width:73%"></i></div></div></div><p class="src">IMDb · 548,634 votos</p><hr class="sep"><p class="sinopsis">Cars narra la historia de Rayo McQueen, un veloz aspirante a campeón de carreras que está a punto de conseguir el éxito, la fama y todo con lo que sueña. Rayo, por un desvío equivocado, termina en el polvoriento y olvidado pueblo de Radiator Spr…</p></div></div></section><section><header><div class="eyebrow">OPCIÓN 2 · RECOMENDADA</div><h2>Logo en el detalle</h2><p>Una sola presencia de marca.</p></header><div class="surface"><div class="head"><div><h1 class="h1">Aura</h1><p class="desc">Cartelera · Cineteca Nacional</p></div></div><div class="list"><div class="item" aria-current="true"><div class="n">Cars 20 aniversario DOB</div><div class="f">John Lasseter · 2026 · 116 min</div><div class="d"><span class="h">Xoco</span><span class="minis"><span class="mini"><span class="mk rating-label">IMDb rating</span><b>7.3</b></span></span></div></div><div class="item" aria-current="false"><div class="n">Coyote Vs Acme DOB</div><div class="f">Dave Green · 2026 · 98 min</div><div class="d"><span class="h">Xoco</span><span class="minis"><span class="mini"><span class="mk rating-label">IMDb rating</span><b>7.5</b></span></span></div></div></div><div class="card panel"><h2>Cars 20 aniversario DOB</h2><span class="orig">Cars</span><dl class="dl"><div><dt>Dirección</dt><dd>John Lasseter</dd></div><div><dt>Duración</dt><dd>116 min</dd></div></dl><div class="scores"><div class="score"><span class="k rating-label"><img class="imdb-logo" src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" alt="IMDb"><span>rating</span></span><span class="v">7.3</span><div class="progress"><i style="width:73%"></i></div></div></div><p class="src">IMDb · 548,634 votos</p><hr class="sep"><p class="sinopsis">Cars narra la historia de Rayo McQueen, un veloz aspirante a campeón de carreras que está a punto de conseguir el éxito, la fama y todo con lo que sueña. Rayo, por un desvío equivocado, termina en el polvoriento y olvidado pueblo de Radiator Spr…</p></div></div></section><section><header><div class="eyebrow">OPCIÓN 3</div><h2>Logo en ambos</h2><p>La fuente destaca en cada película.</p></header><div class="surface"><div class="head"><div><h1 class="h1">Aura</h1><p class="desc">Cartelera · Cineteca Nacional</p></div></div><div class="list"><div class="item" aria-current="true"><div class="n">Cars 20 aniversario DOB</div><div class="f">John Lasseter · 2026 · 116 min</div><div class="d"><span class="h">Xoco</span><span class="minis"><span class="mini"><span class="mk rating-label"><img class="imdb-logo" src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" alt="IMDb"><span>rating</span></span><b>7.3</b></span></span></div></div><div class="item" aria-current="false"><div class="n">Coyote Vs Acme DOB</div><div class="f">Dave Green · 2026 · 98 min</div><div class="d"><span class="h">Xoco</span><span class="minis"><span class="mini"><span class="mk rating-label"><img class="imdb-logo" src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" alt="IMDb"><span>rating</span></span><b>7.5</b></span></span></div></div></div><div class="card panel"><h2>Cars 20 aniversario DOB</h2><span class="orig">Cars</span><dl class="dl"><div><dt>Dirección</dt><dd>John Lasseter</dd></div><div><dt>Duración</dt><dd>116 min</dd></div></dl><div class="scores"><div class="score"><span class="k rating-label"><img class="imdb-logo" src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" alt="IMDb"><span>rating</span></span><span class="v">7.3</span><div class="progress"><i style="width:73%"></i></div></div></div><p class="src">IMDb · 548,634 votos</p><hr class="sep"><p class="sinopsis">Cars narra la historia de Rayo McQueen, un veloz aspirante a campeón de carreras que está a punto de conseguir el éxito, la fama y todo con lo que sueña. Rayo, por un desvío equivocado, termina en el polvoriento y olvidado pueblo de Radiator Spr…</p></div></div></section></main><p class="caption">Mockup comparativo · Componentes y datos de Aura · Lista y detalle juntos para comparar las etiquetas.</p></html>
