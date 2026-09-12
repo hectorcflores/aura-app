@@ -368,6 +368,18 @@ const guardaRespaldo = d => { try { localStorage.setItem(RESPALDO, JSON.stringif
 const leeRespaldo = () => { try { return JSON.parse(localStorage.getItem(RESPALDO)); } catch { return null; } };
 const conDatos = d => d?.funciones?.length && d?.sedes?.length && d?.fechas?.length;
 
+/* Un JSON puede descargarse bien aunque el proceso diario haya fallado. */
+function notaActualizacion(generadoEn, hoy) {
+  const gen = generadoEn ? new Date(generadoEn) : null;
+  if (!gen || isNaN(gen)) return "No se pudo verificar cuándo se actualizó la cartelera";
+  const dia = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Mexico_City" }).format(gen);
+  if (dia >= hoy) return "";
+  const fecha = new Intl.DateTimeFormat("es-MX", {
+    timeZone: "America/Mexico_City", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit"
+  }).format(gen);
+  return `Sin actualizar hoy · Última actualización: ${fecha}. Confirma los horarios en Cineteca`;
+}
+
 function arranca(d) {
   CART = d;
   if (!conDatos(d)) {
@@ -383,8 +395,15 @@ function arranca(d) {
   // generó el JSON: si el cron se retrasa, la app no muestra ayer como hoy.
   // Los días ya pasados salen del selector.
   d.hoy = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Mexico_City" }).format(new Date());
+  const aviso = notaActualizacion(d.generadoEn, d.hoy);
+  nota = [nota, aviso].filter(Boolean).join(" · ");
   const vigentes = d.fechas.filter(f => f >= d.hoy);
-  if (vigentes.length) d.fechas = vigentes;
+  if (!vigentes.length) {
+    sub.textContent = nota || "No hay fechas vigentes en la cartelera guardada";
+    vacio("La cartelera guardada ya venció", "Consulta la cartelera actual en cinetecanacional.net. Volveremos a mostrar funciones cuando se actualicen los datos.");
+    return;
+  }
+  d.fechas = vigentes;
   // Estado inicial: lo que venga en la URL si es válido; si no, Xoco y hoy.
   const q = new URLSearchParams(location.search);
   sede  = d.sedes.some(s => s.id === q.get("sede")) ? q.get("sede") : (d.sedes.find(s => s.id === "003") || d.sedes[0]).id;

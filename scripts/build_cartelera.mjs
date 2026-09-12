@@ -126,38 +126,16 @@ const horariosDe = t => [...new Set(t.match(/\b\d{1,2}:\d{2}\b/g) || [])].sort(p
 const salaDe = t => { const m = t.match(/Sala\s+([A-Z0-9]+)/i); return m ? `Sala ${m[1]}` : null; };
 
 /**
- * cartelera.php es un cascarón: al cargar, su JS hace POST a data/cartelera.php
- * con vista/fecha/cinema/eventId y pinta el `html` de la respuesta. Le pedimos
- * eso mismo, con los valores que el propio cascarón trae por defecto, salvo la
- * sede y la fecha, que fijamos nosotros.
+ * El rediseño de Cineteca del 12-sep-2026 eliminó #vista y #eventId de
+ * cartelera.php. El endpoint anterior sigue entregando las fichas completas
+ * con estos parámetros, verificados contra la nueva API en las tres sedes.
+ * No derivarlos del HTML de la página: ahora usa otros filtros.
  */
 const ENDPOINT = "https://www.cinetecanacional.net/data/cartelera.php";
 
-/** Valores por defecto que el cascarón manda en su POST (vista, formato de fecha, eventId). */
-let DEFAULTS = null;
-async function defaultsDelSitio() {
-  if (DEFAULTS) return DEFAULTS;
-  const shell = await traer(SHELL);
-  if (!shell) throw new Error(`No se pudo leer la cartelera: ${SHELL}`);
-  const $s = load(await shell.text());
-  const fechaSitio = ($s("#fecha").val() ?? "").toString().trim();
-  // Respetar el formato de fecha que el sitio usa por defecto.
-  const formato = /^\d{2}\/\d{2}\/\d{4}$/.test(fechaSitio) ? "DD/MM/YYYY"
-                : /^\d{2}-\d{2}-\d{4}$/.test(fechaSitio)  ? "DD-MM-YYYY"
-                : "YYYY-MM-DD";
-  DEFAULTS = { vista: ($s("#vista").val() ?? "").toString(), eventId: ($s("#eventId").val() ?? "").toString(), formato, fechaSitio };
-  log(`  cascarón: vista="${DEFAULTS.vista}" fecha="${fechaSitio}" (${formato}) eventId="${DEFAULTS.eventId}"`);
-  return DEFAULTS;
-}
-const fechaComoElSitio = (iso, formato) => {
-  const [y, m, d] = iso.split("-");
-  return formato === "DD/MM/YYYY" ? `${d}/${m}/${y}` : formato === "DD-MM-YYYY" ? `${d}-${m}-${y}` : iso;
-};
-
 /** El html de la cartelera de una sede en una fecha, vía el endpoint AJAX del sitio. */
 async function htmlDeCartelera(sede, fechaIso) {
-  const d = await defaultsDelSitio();
-  const campos = { vista: d.vista, fecha: fechaComoElSitio(fechaIso, d.formato), cinema: sede.id, eventId: d.eventId };
+  const campos = { vista: "full", fecha: fechaIso, cinema: sede.id, eventId: "000" };
   const r = await traer(ENDPOINT, {
     method: "POST",
     headers: {

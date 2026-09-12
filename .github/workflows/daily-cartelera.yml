@@ -53,6 +53,9 @@ jobs:
         timeout-minutes: 8
         run: npm ci --no-audit --no-fund --loglevel=warn
 
+      - name: Verificar comportamiento de la cartelera
+        run: npm test
+
       - name: Construir cartelera
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}

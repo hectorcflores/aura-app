@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build_cartelera.mjs",
+    "test": "node --test tests/*.test.mjs",
     "dry": "node scripts/build_cartelera.mjs --dry"
   },
   "dependencies": {
