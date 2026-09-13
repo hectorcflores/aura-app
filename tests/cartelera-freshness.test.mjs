@@ -4,7 +4,7 @@ import { readFileSync } from 'node:fs';
 import vm from 'node:vm';
 
 // Ejecutar las funciones reales de la página, sin copiar su lógica al test.
-const html = readFileSync(new URL('../app/index.html', import.meta.url), 'utf8');
+const html = readFileSync(new URL('../app/classic/index.html', import.meta.url), 'utf8');
 const source = html.slice(html.indexOf('function notaActualizacion('), html.indexOf('/* cache:"no-store"'));
 const TODAY = '2026-09-12';
 class FixedDate extends Date {

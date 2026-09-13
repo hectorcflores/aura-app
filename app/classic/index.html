@@ -1,0 +1,490 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#09090b">
+<meta name="color-scheme" content="dark">
+<title>Aura</title>
+<link rel="icon" href="./favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&display=swap">
+<style>
+/* Tokens shadcn/ui — tema dark "zinc", los mismos del launcher de hectorcflores.github.io */
+:root{
+  --background:240 10% 3.9%; --foreground:0 0% 98%;
+  --card:240 10% 3.9%; --card-foreground:0 0% 98%;
+  --primary:0 0% 98%; --primary-foreground:240 5.9% 10%;
+  --secondary:240 3.7% 15.9%; --secondary-foreground:0 0% 98%;
+  --muted:240 3.7% 15.9%; --muted-foreground:240 5% 64.9%;
+  --accent:240 3.7% 15.9%; --accent-foreground:0 0% 98%;
+  --border:240 3.7% 15.9%; --ring:240 4.9% 83.9%;
+  --radius:0.5rem;
+}
+*{box-sizing:border-box}
+body{margin:0;padding:32px 16px 72px;background:hsl(var(--background));color:hsl(var(--foreground));
+  font-family:Geist,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:14px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{width:min(880px,100%);margin:0 auto}
+.tnum{font-variant-numeric:tabular-nums}
+
+/* Encabezado, igual en las cinco */
+.head{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;margin-bottom:24px}
+.h1{margin:0;font-size:16px;font-weight:600;line-height:1;letter-spacing:-.01em}
+.h1 + .desc{margin:6px 0 0}
+.desc{margin:0;font-size:14px;color:hsl(var(--muted-foreground))}
+.stamp{font-size:13px;color:hsl(var(--muted-foreground));white-space:nowrap;padding-top:1px}
+
+/* Card */
+.card{border:1px solid hsl(var(--border));border-radius:var(--radius);
+  background:hsl(var(--card));color:hsl(var(--card-foreground));box-shadow:0 1px 2px 0 rgb(0 0 0/.05)}
+.card-header{display:flex;flex-direction:column;gap:6px;padding:24px}
+.card-content{padding:0 24px 24px}
+.card-title{font-size:16px;font-weight:600;line-height:1.2;letter-spacing:-.01em;text-wrap:balance}
+.card-desc{font-size:14px;color:hsl(var(--muted-foreground))}
+
+/* Badge */
+.badge{display:inline-flex;align-items:center;border-radius:9999px;border:1px solid transparent;
+  padding:2px 10px;font-size:12px;font-weight:600;line-height:1.35;white-space:nowrap}
+.badge-secondary{background:hsl(var(--secondary));color:hsl(var(--secondary-foreground))}
+.badge-outline{border-color:hsl(var(--border));color:hsl(var(--foreground))}
+.badge-muted{background:hsl(var(--secondary));color:hsl(var(--muted-foreground));font-weight:500}
+
+/* Table */
+.table{width:100%;border-collapse:collapse;font-size:14px}
+.table th{height:44px;padding:0 12px;text-align:left;vertical-align:middle;
+  font-weight:500;color:hsl(var(--muted-foreground));border-bottom:1px solid hsl(var(--border))}
+.table td{padding:14px 12px;vertical-align:top;border-bottom:1px solid hsl(var(--border))}
+.table th:first-child,.table td:first-child{padding-left:0}
+.table th:last-child,.table td:last-child{padding-right:0}
+.table tr.hoverable:hover td{background:hsl(var(--muted)/.5)}
+
+/* Separator */
+.sep{height:1px;width:100%;background:hsl(var(--border));border:0;margin:0}
+
+/* Progress — el medidor de score */
+.progress{position:relative;height:6px;width:100%;overflow:hidden;border-radius:9999px;
+  background:hsl(var(--primary)/.2)}
+.progress > i{display:block;height:100%;background:hsl(var(--primary));border-radius:9999px}
+.progress.empty{background:hsl(var(--secondary))}
+
+/* Button / ghost, para los toggles */
+.btn{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:calc(var(--radius) - 2px);
+  background:transparent;color:hsl(var(--muted-foreground));font:inherit;font-size:13px;font-weight:500;
+  padding:6px 10px;margin-left:-10px;cursor:pointer;transition:background-color .15s,color .15s}
+.btn:hover{background:hsl(var(--accent));color:hsl(var(--accent-foreground))}
+.btn .chev{display:inline-block;font-size:10px;transition:transform .15s}
+.btn[aria-expanded="true"] .chev{transform:rotate(90deg)}
+
+/* Score: etiqueta + cifra + barra, reutilizado en las cinco */
+.score{display:grid;gap:4px;min-width:66px}
+.score .k{font-size:11px;font-weight:500;color:hsl(var(--muted-foreground))}
+.score .v{font-size:15px;font-weight:600;line-height:1}
+.score .v.off{color:hsl(var(--muted-foreground));font-weight:400}
+
+/* Identidad de la fuente, con el mismo tratamiento monocromático del mockup. */
+.rating-label{display:inline-flex;align-items:center;gap:4px;white-space:nowrap}
+.imdb-logo{display:block;width:31px;height:16px;filter:grayscale(1) brightness(1.45)}
+.mini .imdb-logo{width:27px;height:13px}
+
+/* Cita de reseña */
+.quote{margin:0;font-size:13.5px;line-height:1.55;color:hsl(var(--foreground))}
+.quote cite{display:block;margin-top:3px;font-size:12px;font-style:normal;color:hsl(var(--muted-foreground))}
+.quotes{display:grid;gap:12px;max-width:64ch}
+
+.meta{font-size:13px;color:hsl(var(--muted-foreground))}
+.orig{color:hsl(var(--muted-foreground))}
+.times{display:flex;flex-wrap:wrap;gap:6px}
+.foot{margin-top:28px;font-size:12px;color:hsl(var(--muted-foreground))}
+:focus-visible{outline:none;box-shadow:0 0 0 2px hsl(var(--background)),0 0 0 4px hsl(var(--ring));border-radius:calc(var(--radius) - 2px)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+.split{display:grid;grid-template-columns:300px minmax(0,1fr);gap:24px;align-items:start}
+.list{display:grid;gap:2px}
+.item{display:grid;gap:2px;width:100%;text-align:left;border:0;cursor:pointer;
+  border-radius:calc(var(--radius) - 2px);background:transparent;color:hsl(var(--foreground));
+  font:inherit;padding:10px 12px;transition:background-color .15s}
+.item:hover{background:hsl(var(--accent))}
+.item[aria-current="true"]{background:hsl(var(--secondary))}
+.item{gap:4px;padding:11px 12px}
+.item .n{font-size:14px;font-weight:500;letter-spacing:-.01em;line-height:1.3}
+.item .f{font-size:12px;color:hsl(var(--muted-foreground));line-height:1.35}
+.item .d{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;
+  align-items:end}
+.item .h{font-size:12px;color:hsl(var(--muted-foreground))}
+.past{opacity:.4}
+.badge.past{text-decoration:line-through;text-decoration-color:hsl(var(--muted-foreground))}
+
+/* Ambos scores visibles en la lista, sin abrir la ficha. */
+.minis{display:flex;gap:14px;flex:none}
+.mini{display:grid;gap:1px}
+.mini .mk{font-size:10px;color:hsl(var(--muted-foreground));line-height:1.3}
+.mini b{font-size:13px;font-weight:600;line-height:1.2}
+.mini b.off{color:hsl(var(--muted-foreground));font-weight:400}
+.panel{padding:24px}
+.panel h2{margin:0;font-size:22px;font-weight:600;line-height:1.15;letter-spacing:-.02em;text-wrap:balance}
+.panel .orig{display:block;margin-top:3px;font-size:14px;font-weight:400}
+.dl{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px 24px;margin:20px 0 0}
+.dl div{display:grid;gap:2px}
+.dl dt{font-size:11px;color:hsl(var(--muted-foreground))}
+.dl dd{margin:0;font-size:14px}
+.scores{display:flex;gap:28px;margin-top:22px}
+.panel .sep{margin:22px 0}
+.rt{font-size:11px;color:hsl(var(--muted-foreground));margin:0 0 12px}
+@media(max-width:720px){.split{grid-template-columns:minmax(0,1fr)}}
+
+/* Sinopsis: texto corrido, ancho de lectura. */
+.sinopsis{margin:14px 0 0;font-size:14px;line-height:1.6;max-width:64ch}
+
+/* Tráiler: thumbnail 16:9 que al clic se vuelve el reproductor, en el mismo lugar. */
+.trailer{position:relative;aspect-ratio:16/9;max-width:560px;overflow:hidden;
+  border:1px solid hsl(var(--border));border-radius:var(--radius);background:hsl(var(--muted))}
+.trailer .play{display:block;width:100%;height:100%;padding:0;border:0;background:none;cursor:pointer}
+.trailer img{display:block;width:100%;height:100%;object-fit:cover;opacity:.85;transition:opacity .15s}
+.trailer .play:hover img{opacity:1}
+.trailer .ico{position:absolute;inset:0;display:grid;place-items:center;pointer-events:none}
+.trailer .ico span{display:grid;place-items:center;width:52px;height:52px;border-radius:9999px;
+  background:hsl(var(--background)/.78);color:hsl(var(--foreground));
+  box-shadow:0 1px 2px 0 rgb(0 0 0/.3)}
+.trailer .ico svg{width:20px;height:20px;margin-left:3px}
+.trailer iframe{display:block;width:100%;height:100%;border:0}
+
+/* Selects estilo shadcn (SelectTrigger): borde, radio, chevron a la derecha. */
+.controls{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.sel{appearance:none;-webkit-appearance:none;height:36px;padding:0 32px 0 12px;
+  border:1px solid hsl(var(--border));border-radius:calc(var(--radius) - 2px);
+  background:hsl(var(--background)) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23a1a1aa' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E") no-repeat right 10px center;
+  color:hsl(var(--foreground));font:inherit;font-size:14px;line-height:1;cursor:pointer;
+  box-shadow:0 1px 2px 0 rgb(0 0 0/.05);transition:border-color .15s}
+.sel:hover{border-color:hsl(var(--ring)/.35)}
+.sel:focus-visible{outline:none;box-shadow:0 0 0 2px hsl(var(--background)),0 0 0 4px hsl(var(--ring))}
+.sel:disabled{opacity:.5;cursor:default}
+.sel option{background:hsl(var(--background));color:hsl(var(--foreground))}
+@media(max-width:560px){.head{flex-wrap:wrap}.controls{width:100%;justify-content:flex-start}.sel{flex:1}}
+
+/* Estados de carga y de cartelera vacía. */
+.msg{padding:24px;color:hsl(var(--muted-foreground));font-size:14px}
+.msg b{display:block;margin-bottom:4px;color:hsl(var(--foreground));font-weight:500}
+.skel{display:grid;gap:8px}
+.skel span{height:12px;border-radius:4px;background:hsl(var(--muted))}
+.src{margin-top:4px;font-size:11px;color:hsl(var(--muted-foreground))}
+.panel a{color:hsl(var(--muted-foreground))}
+
+.rating-votes{font-size:10px;line-height:1.3;color:hsl(var(--muted-foreground));white-space:nowrap}
+.toggle-mark,.close-detail{display:none}
+#pn[hidden]{display:none}
+.scores:empty{display:none}
+@media(max-width:720px){
+.toggle-mark{display:inline;float:right;color:#a1a1aa;margin-left:10px}
+.close-detail{display:inline-flex;margin:18px 0 0}
+#pn{margin:-2px 0 14px;border-top:0;border-radius:0 0 6px 6px;background:#18181b}
+.item[aria-expanded="true"]{border-radius:6px 6px 0 0;background:#18181b}
+#pn .panel{padding-top:2px}
+#pn .sinopsis{margin-top:8px}
+}
+[hidden]{display:none!important}
+.trailer{min-height:200px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="head">
+    <div><h1 class="h1">Aura</h1><p class="desc" id="sub">Cargando cartelera…</p></div>
+    <div class="controls">
+      <select class="sel" id="selSede" aria-label="Sede" disabled><option>Sede</option></select>
+      <select class="sel" id="selFecha" aria-label="Fecha" disabled><option>Fecha</option></select>
+      <select class="sel" id="selOrden" aria-label="Ordenar por" disabled>
+        <option value="calificacion">Calificación</option>
+        <option value="horario">Horario</option>
+      </select>
+    </div>
+  </div>
+  <div class="split">
+    <nav class="list" id="ls" aria-label="Cartelera de hoy"></nav>
+    <div class="card" id="pn"><div class="msg skel"><span style="width:60%"></span><span style="width:85%"></span><span style="width:40%"></span></div></div>
+  </div>
+  <!-- La licencia del dataset de IMDb exige este texto tal cual. -->
+  <p class="foot">Information courtesy of <a href="https://www.imdb.com" target="_blank" rel="noopener">IMDb</a> (https://www.imdb.com). Used with permission. · Datos de películas de <a href="https://www.themoviedb.org" target="_blank" rel="noopener">TMDB</a>.</p>
+</div>
+<script src="./trailer-player.js"></script>
+<script>
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const $ = id => document.getElementById(id);
+const ls = $("ls"), pn = $("pn"), sub = $("sub"), selSede = $("selSede"), selFecha = $("selFecha"), selOrden = $("selOrden");
+
+/* Fechas: el JSON trae YYYY-MM-DD; se formatean sin que la zona horaria mueva el día. */
+const fechaObj = iso => { const [y, m, d] = iso.split("-").map(Number); return new Date(Date.UTC(y, m - 1, d, 12)); };
+const cap = s => s.charAt(0).toUpperCase() + s.slice(1);
+const fechaLarga = iso => cap(new Intl.DateTimeFormat("es-MX", { weekday: "long", day: "numeric", month: "long", timeZone: "UTC" }).format(fechaObj(iso))).replace(",", "");
+const fechaCorta = iso => cap(new Intl.DateTimeFormat("es-MX", { weekday: "short", day: "numeric", month: "short", timeZone: "UTC" }).format(fechaObj(iso))).replace(/[.,]/g, "");
+
+/* Mismo componente de score del prototipo: etiqueta, cifra y barra. */
+const score = (k, v, frac, suf = "") => `
+  <div class="score">
+    <span class="k">${k}</span>
+    <span class="v tnum${v == null ? " off" : ""}">${v == null ? "—" : v + suf}</span>
+    <span class="progress${v == null ? " empty" : ""}"><i style="width:${v == null ? 0 : frac * 100}%"></i></span>
+  </div>`;
+
+/* Lo que se ve en la lista sin dar clic: país, año, duración y ambos scores. */
+const fichaCorta = p => [
+  esc(p.pais),
+  p.ano ? `<span class="tnum">${p.ano}</span>` : null,
+  p.duracion ? `<span class="tnum">${p.duracion} min</span>` : null,
+].filter(Boolean).join(" · ") || "—";
+
+const ratingLabel = p => p.publicoFuente === "IMDb"
+  ? '<span class="rating-label"><img class="imdb-logo" src="./imdb-logo.svg" alt="IMDb"><span>rating</span></span>'
+  : p.publicoFuente ? `${esc(p.publicoFuente)} rating` : "Calificación";
+
+const mini = (k, v, suf = "", votos = null) => `
+  <span class="mini"><span class="mk">${k}</span>
+  <b class="tnum${v == null ? " off" : ""}">${v == null ? "—" : v + suf}</b>${votos != null ? `<span class="rating-votes tnum">${Number(votos).toLocaleString("es-MX")} ${votos === 1 ? "voto" : "votos"}</span>` : ""}</span>`;
+
+let abierto = false;
+let CART = null, sede = null, fecha = null, sel = 0, orden = "calificacion";
+const ORDENES = ["calificacion", "horario"];
+
+/* Hora actual en CDMX, en minutos, para saber qué funciones de hoy ya pasaron. */
+const minutos = h => { const [a, b] = h.split(":").map(Number); return a * 60 + b; };
+const ahoraCDMX = () => minutos(new Intl.DateTimeFormat("en-GB", { timeZone: "America/Mexico_City", hour: "2-digit", minute: "2-digit", hour12: false }).format(new Date()));
+/* Una función cuenta como pasada 15 min después de empezar. */
+const yaPaso = h => fecha === CART.hoy && minutos(h) < ahoraCDMX() - 15;
+/* Próxima función de la fila: la primera que no ha pasado; si todas pasaron, ninguna. */
+const proxima = r => r.horarios.find(h => !yaPaso(h)) || null;
+/* Sin OMDb no hay score de críticos; en vez de una columna de "—", se omite. */
+let hayCritica = false;
+
+/* Funciones de la combinación elegida, agrupadas por película (una película puede
+   tener varias salas el mismo día). */
+function filas() {
+  const porPeli = new Map();
+  for (const f of CART.funciones) {
+    if (f.sede !== sede || f.fecha !== fecha) continue;
+    const p = CART.peliculas[f.pelicula]; if (!p) continue;
+    const r = porPeli.get(f.pelicula) || { p, salas: new Set(), horarios: new Set() };
+    if (f.sala) r.salas.add(f.sala);
+    f.horarios.forEach(h => r.horarios.add(h));
+    porPeli.set(f.pelicula, r);
+  }
+  const items = [...porPeli.values()].map(r => ({
+    p: r.p, sala: [...r.salas].join(" · ") || null, horarios: [...r.horarios].sort((a, b) => minutos(a) - minutos(b)),
+  }));
+  const porTitulo = (a, b) => a.p.titulo.localeCompare(b.p.titulo, "es");
+  const porHorario = (a, b) => {
+    const pa = proxima(a), pb = proxima(b);            // las que ya terminaron van al final
+    if (!pa && !pb) return minutos(a.horarios[0]) - minutos(b.horarios[0]) || porTitulo(a, b);
+    if (!pa || !pb) return pa ? -1 : 1;
+    return minutos(pa) - minutos(pb) || porTitulo(a, b);
+  };
+  const porCalificacion = (a, b) => {
+    const sa = a.p.publico ?? -1, sb = b.p.publico ?? -1;   // sin calificación al final
+    return sb - sa || (b.p.votos ?? 0) - (a.p.votos ?? 0) || porHorario(a, b);
+  };
+  return items.sort(orden === "calificacion" ? porCalificacion : porHorario);
+}
+
+const horas = (r, cls) => r.horarios.map(h => `<span class="${cls}${yaPaso(h) ? " past" : ""}">${esc(h)}</span>`).join(cls === "badge badge-secondary tnum" ? "" : " · ");
+
+function pintaLista(items) {
+  ls.innerHTML = items.map((r, i) => `
+    <button class="item" aria-current="${i === sel}" data-i="${i}">
+      <span class="n">${esc(r.p.titulo)}</span>
+      <span class="f">${fichaCorta(r.p)}</span>
+      <span class="d">
+        <span class="h tnum">${horas(r, "")}</span>
+        <span class="minis">
+          ${hayCritica ? mini("Crítica", r.p.critica, "%") : ""}${mini(ratingLabel(r.p), r.p.publico?.toFixed(1), "", r.p.votos)}
+        </span>
+      </span>
+    </button>`).join("");
+}
+
+function pintaPanel(items) {
+  const r = items[sel]; if (!r) return;
+  const p = r.p;
+  const enlaces = [
+    p.urlCineteca ? `<a href="${esc(p.urlCineteca)}" target="_blank" rel="noopener">Ficha en Cineteca</a>` : "",
+    p.urlImdb ? `<a href="${esc(p.urlImdb)}" target="_blank" rel="noopener">IMDb</a>` : "",
+  ].filter(Boolean).join(" · ");
+
+  pn.innerHTML = `<div class="panel">
+    <h2>${esc(p.titulo)}${p.tituloOriginal ? `<span class="orig">${esc(p.tituloOriginal)}</span>` : ""}</h2>
+    ${p.sinopsis ? `<p class="sinopsis">${esc(p.sinopsis)}</p>` : ""}
+    <dl class="dl">
+      <div><dt>Dirección</dt><dd>${esc(p.director) || "—"}</dd></div>
+      <div><dt>País y año</dt><dd>${esc(p.pais) || "—"}${p.ano ? ` · <span class="tnum">${p.ano}</span>` : ""}</dd></div>
+      <div><dt>Duración</dt><dd class="tnum">${p.duracion ? p.duracion + " min" : "—"}</dd></div>
+      ${r.sala ? `<div><dt>Sala</dt><dd>${esc(r.sala)}</dd></div>` : ""}
+    </dl>
+    <div class="times" style="margin-top:20px">
+      ${horas(r, "badge badge-secondary tnum")}</div>
+    <div class="scores">
+      ${hayCritica ? score("Crítica", p.critica, p.critica / 100, "%") : ""}
+
+    </div>
+    ${p.criticaFuente ? `<p class="src">${esc(p.criticaFuente)}</p>` : ""}
+    <hr class="sep">
+    ${p.trailer ? `
+      <p class="rt">Tráiler</p>
+      <div class="trailer" data-yt="${esc(p.trailer)}">
+        <button class="play" type="button" aria-label="Reproducir tráiler en silencio">
+          <img src="https://i.ytimg.com/vi/${esc(p.trailer)}/hqdefault.jpg" alt="" loading="lazy">
+          <span class="ico"><span><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></span></span>
+        </button>
+      </div>
+      <hr class="sep">` : ""}
+    ${p.resenas?.length
+      ? `<p class="rt">${p.resenas.length} reseña${p.resenas.length > 1 ? "s" : ""}</p>
+         <div class="quotes">${p.resenas.map(x => `
+           <p class="quote">“${esc(x.texto)}”<cite>${esc(x.autor)}</cite></p>`).join("")}</div>`
+      : `<p class="rt">Sin reseñas disponibles para esta película.</p>`}
+    ${enlaces ? `<p class="src" style="margin-top:16px">${enlaces}</p>` : ""}
+  </div>`;
+}
+
+function vacio(titulo, detalle) {
+  document.querySelector(".split").append(pn); pn.hidden = false;
+  ls.innerHTML = "";
+  pn.innerHTML = `<div class="msg"><b>${esc(titulo)}</b>${esc(detalle)}</div>`;
+}
+
+function nombreSede(id) { return CART.sedes.find(s => s.id === id)?.nombre || id; }
+
+/* Repinta todo para la combinación (sede, fecha) actual y la deja en la URL. */
+let stopTrailer = () => {};
+function pinta() {
+  stopTrailer();
+  const items = filas();
+  sub.textContent = fechaLarga(fecha) + (nota ? ` · ${nota}` : "");
+  history.replaceState(null, "", `?sede=${encodeURIComponent(sede)}&fecha=${encodeURIComponent(fecha)}${orden !== "calificacion" ? `&orden=${orden}` : ""}`);
+  if (!items.length) {
+    vacio(`Sin funciones en ${nombreSede(sede)}`, `No hay programación para el ${fechaLarga(fecha).toLowerCase()}. Prueba otra sede u otro día.`);
+    return;
+  }
+  if (sel >= items.length) sel = 0;
+  pn.remove(); pintaLista(items); pintaPanel(items);
+  const mobile = window.innerWidth <= 720;
+  pn.hidden = mobile && !abierto;
+  for (const button of ls.querySelectorAll('.item')) {
+    const active = (!mobile || abierto) && Number(button.dataset.i) === sel;
+    if (mobile) button.setAttribute('aria-expanded', String(active));
+    button.setAttribute('aria-current', String(active));
+    button.setAttribute('aria-controls', 'pn');
+    button.querySelector('.n').insertAdjacentHTML('beforeend', '<span class="toggle-mark" aria-hidden="true">'+(active?'⌃':'⌄')+'</span>');
+  }
+  const selected = ls.querySelector('[data-i="'+sel+'"]');
+  if (mobile) selected.after(pn); else document.querySelector('.split').append(pn);
+  if (mobile) pn.querySelector('h2')?.remove();
+  if (!hayCritica) pn.querySelector('.scores')?.remove();
+  const trailer = pn.querySelector('.trailer');
+  if (trailer) {
+    const trailerLabel = trailer.previousElementSibling;
+    if (trailerLabel?.classList.contains('rt')) trailerLabel.remove();
+    pn.querySelector('.panel').prepend(trailer);
+    if (abierto || !mobile) {
+      const film = items[sel].p;
+      const verified = film.trailer === 'apErqeR1IqU' ? ['O2uaTE3eXcg'] : [];
+      stopTrailer = startTrailer(trailer, [film.trailer, ...verified, ...(film.trailers || [])]);
+    }
+  }
+
+  pn.querySelector('.panel').insertAdjacentHTML('beforeend','<button class="btn close-detail" type="button">Cerrar ficha ⌃</button>');
+}
+
+function pintaControles() {
+  selSede.innerHTML = CART.sedes.map(s => `<option value="${esc(s.id)}">${esc(s.nombre)}</option>`).join("");
+  selFecha.innerHTML = CART.fechas.map(f => `<option value="${esc(f)}">${esc(f === CART.hoy ? `Hoy · ${fechaCorta(f)}` : fechaCorta(f))}</option>`).join("");
+  selSede.value = sede; selFecha.value = fecha; selOrden.value = orden;
+  selSede.disabled = selFecha.disabled = selOrden.disabled = false;
+}
+
+ls.addEventListener("click", e => {
+  const b = e.target.closest(".item"); if (!b) return;
+  const next=Number(b.dataset.i); abierto=next===sel?!abierto:true; sel=next; pinta();ls.querySelector('[data-i="'+sel+'"]').focus({preventScroll:true});
+});
+selSede.addEventListener("change", () => { sede = selSede.value; sel = 0; abierto=false; pinta(); });
+selFecha.addEventListener("change", () => { fecha = selFecha.value; sel = 0; abierto=false; pinta(); });
+selOrden.addEventListener("change", () => { orden = selOrden.value; sel = 0; abierto=false; pinta(); });
+
+pn.addEventListener('click',e=>{if(e.target.closest('.close-detail')){abierto=false;pinta();const button=ls.querySelector('[data-i="'+sel+'"]');button.focus({preventScroll:true});button.scrollIntoView({block:'nearest'});}});
+let mobileLayout = window.innerWidth <= 720;
+window.addEventListener('resize', () => {
+  const next = window.innerWidth <= 720;
+  if (next !== mobileLayout) { mobileLayout = next; if (CART && fecha) pinta(); }
+});
+/* Respaldo local: la última cartelera que cargó bien se guarda en el teléfono.
+   Si la red falla (o Pages está a medio desplegar), se muestra esa copia con una
+   nota discreta en lugar de un error. */
+const RESPALDO = "aura.cartelera";
+let nota = "";
+const guardaRespaldo = d => { try { localStorage.setItem(RESPALDO, JSON.stringify(d)); } catch { /* sin espacio o modo privado */ } };
+const leeRespaldo = () => { try { return JSON.parse(localStorage.getItem(RESPALDO)); } catch { return null; } };
+const conDatos = d => d?.funciones?.length && d?.sedes?.length && d?.fechas?.length;
+
+/* Un JSON puede descargarse bien aunque el proceso diario haya fallado. */
+function notaActualizacion(generadoEn, hoy) {
+  const gen = generadoEn ? new Date(generadoEn) : null;
+  if (!gen || isNaN(gen)) return "No se pudo verificar cuándo se actualizó la cartelera";
+  const dia = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Mexico_City" }).format(gen);
+  if (dia >= hoy) return "";
+  const fecha = new Intl.DateTimeFormat("es-MX", {
+    timeZone: "America/Mexico_City", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit"
+  }).format(gen);
+  return `Sin actualizar hoy · Última actualización: ${fecha}. Confirma los horarios en Cineteca`;
+}
+
+function arranca(d) {
+  CART = d;
+  if (!conDatos(d)) {
+    sub.textContent = "";
+    vacio(d.pendiente ? "Aún no hay cartelera" : "Hoy no hay funciones",
+      d.pendiente
+        ? "La cartelera se genera cada mañana; el primer build todavía no corre."
+        : "No se encontraron funciones programadas.");
+    return;
+  }
+  hayCritica = Object.values(d.peliculas).some(p => p.critica != null);
+  // "Hoy" lo decide el reloj del navegador en hora CDMX, no la fecha en que se
+  // generó el JSON: si el cron se retrasa, la app no muestra ayer como hoy.
+  // Los días ya pasados salen del selector.
+  d.hoy = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Mexico_City" }).format(new Date());
+  const aviso = notaActualizacion(d.generadoEn, d.hoy);
+  nota = [nota, aviso].filter(Boolean).join(" · ");
+  const vigentes = d.fechas.filter(f => f >= d.hoy);
+  if (!vigentes.length) {
+    sub.textContent = nota || "No hay fechas vigentes en la cartelera guardada";
+    vacio("La cartelera guardada ya venció", "Consulta la cartelera actual en cinetecanacional.net. Volveremos a mostrar funciones cuando se actualicen los datos.");
+    return;
+  }
+  d.fechas = vigentes;
+  // Estado inicial: lo que venga en la URL si es válido; si no, Xoco y hoy.
+  const q = new URLSearchParams(location.search);
+  sede  = d.sedes.some(s => s.id === q.get("sede")) ? q.get("sede") : (d.sedes.find(s => s.id === "003") || d.sedes[0]).id;
+  fecha = d.fechas.includes(q.get("fecha")) ? q.get("fecha") : (d.fechas.find(f => f >= d.hoy) || d.fechas[0]);
+  orden = ORDENES.includes(q.get("orden")) ? q.get("orden") : "calificacion";
+  pintaControles(); pinta();
+}
+
+/* cache:"no-store" para que el navegador no sirva la cartelera de ayer. */
+fetch("../data/cartelera.json", { cache: "no-store" })
+  .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+  .then(d => {
+    if (conDatos(d)) guardaRespaldo(d);
+    arranca(d);
+  })
+  .catch(err => {
+    const previo = leeRespaldo();
+    if (conDatos(previo)) {
+      const gen = previo.generadoEn ? new Date(previo.generadoEn) : null;
+      nota = gen && !isNaN(gen)
+        ? `cartelera guardada el ${new Intl.DateTimeFormat("es-MX", { timeZone: "America/Mexico_City", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }).format(gen)}`
+        : "cartelera guardada";
+      arranca(previo);
+      return;
+    }
+    sub.textContent = "";
+    vacio("No se pudo cargar la cartelera", `${err.message}. Vuelve a intentar en un momento.`);
+  });
+</script>
+</body>
+</html>

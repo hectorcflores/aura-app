@@ -1,12 +1,14 @@
 import { fallback } from './fallback.mjs';
 const upstream = 'https://raw.githubusercontent.com/hectorcflores/aura-app/main/app/';
-const types = {'index.html':'text/html; charset=utf-8','trailer-player.js':'text/javascript; charset=utf-8','favicon.svg':'image/svg+xml','imdb-logo.svg':'image/svg+xml','data/cartelera.json':'application/json; charset=utf-8'};
+const types = {'index.html':'text/html; charset=utf-8','app.js':'text/javascript; charset=utf-8','style.css':'text/css; charset=utf-8','logo.svg':'image/svg+xml','classic/index.html':'text/html; charset=utf-8','classic/trailer-player.js':'text/javascript; charset=utf-8','classic/favicon.svg':'image/svg+xml','classic/imdb-logo.svg':'image/svg+xml','trailer-player.js':'text/javascript; charset=utf-8','favicon.svg':'image/svg+xml','imdb-logo.svg':'image/svg+xml','data/cartelera.json':'application/json; charset=utf-8'};
 export default {
  async fetch(request, env, ctx) {
   if (!['GET','HEAD'].includes(request.method)) return new Response('Method not allowed',{status:405});
   const url=new URL(request.url);
   let path=url.pathname.replace(/^\/(?:app\/)?/,'');
   if(path===''||path==='app')path='index.html';
+  if(path==='classic')return Response.redirect(url.origin+url.pathname+'/'+url.search,302);
+  if(path==='classic/')path='classic/index.html';
   if(!Object.hasOwn(types,path))return new Response('Not found',{status:404});
   const key=new Request(url.origin+'/'+path);
   let cache,saved;
