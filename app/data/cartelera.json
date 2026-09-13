@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-12T21:32:44.857Z",
+  "generadoEn": "2026-09-13T04:31:46.678Z",
   "hoy": "2026-09-12",
   "sedes": [
     {
@@ -27,6 +27,117 @@
     "2026-09-17"
   ],
   "peliculas": {
+    "HO00009933": {
+      "titulo": "Cars 20 aniversario DOB",
+      "tituloOriginal": "Cars",
+      "director": "John Lasseter",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 116,
+      "filmId": "HO00009933",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009933?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009933&cinemas=003",
+      "sinopsis": "Cars narra la historia de Rayo McQueen, un veloz aspirante a campeón de carreras que está a punto de conseguir el éxito, la fama y todo con lo que sueña. Rayo, por un desvío equivocado, termina en el polvoriento y olvidado pueblo de Radiator Springs. Ahí la actitud arrogante de McQueen comienza a desvanecerse cuando aprende el valor de la amistad. Este filme, que cumple 20 años de haberse estrenado, crea una reflexión sobre la vida moderna, el ego y la importancia que tiene la comunidad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "XszNWHhpaTc",
+      "trailers": [
+        "XszNWHhpaTc",
+        "nuQDFYpPUh4",
+        "8ZMklX5BzTo",
+        "1uq5eJHwio4",
+        "ZhA7Ai0kJkk",
+        "bOs0p2E4sZw",
+        "hNakp500Pgc",
+        "b-bmxAfNsK0",
+        "7C1mDnF6NnA",
+        "Ak8igkuLhAE",
+        "dMaU2ixutGg"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.3,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "A fun one to watch. <em'Cars'</em is very good Disney, not quite in the upper echelons of their releases but certainly close.",
+          "autor": "r96sk",
+          "url": "https://www.themoviedb.org/review/5f3005ba559d220037768e1f"
+        },
+        {
+          "texto": "A commercial, critical and merchandising success... but with a cliché story. When it came out, this movie was publicized and sold like hotcakes. It was a fever. A mania.",
+          "autor": "Filipe Manuel Neto",
+          "url": "https://www.themoviedb.org/review/63b001a357530e0080141f95"
+        },
+        {
+          "texto": "Had no intention to ever see this movie. Another one my daughter wanted to watch with me. I actually liked it and thought it was hilarious.",
+          "autor": "Andre Gonzales",
+          "url": "https://www.themoviedb.org/review/6452edad33ad8f01380d11eb"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0317219/",
+      "imdbId": "tt0317219",
+      "tmdbId": 920,
+      "votos": 548714
+    },
+    "HO00009806": {
+      "titulo": "Coyote Vs Acme DOB",
+      "tituloOriginal": "Coyote vs. Acme",
+      "director": "Dave Green",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 98,
+      "filmId": "HO00009806",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009806?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009806&cinemas=003",
+      "sinopsis": "El icónico personaje de los Looney Toons está cansado de sus intentos fallidos por atrapar al Correcaminos debido a los productos defectuosos de ACME. Al increíble estilo híbrido de Space Jam, esta hilarante comedia de acción real y animación nos muestra cómo el Coyote contrata a un abogado humano para demandar al gigante corporativo. El caso se complica al enfrentar al implacable representante de la empresa (John Cena), desatando un juicio sumamente caótico acompañado de divertidos cameos.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "Yj-Nm47IW9k",
+      "trailers": [
+        "Yj-Nm47IW9k",
+        "gFAw7jxJOsY",
+        "V_ueAlyvn6A",
+        "WQRoa6l4bwI",
+        "soYBxkggwKQ",
+        "7wrdvTn9jcc",
+        "tyQBh0vKUtw",
+        "Fncl62R3PMM",
+        "F-PGig35gk4",
+        "QaRq1oymgL8",
+        "4WwrjXE3_QM",
+        "kMsiD1Nky5I",
+        "GXmAP6XyZ7g",
+        "H-43VeYGiPM",
+        "qT6kR2nHI8M",
+        "G11SytnNYqI"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.5,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "It may not look the way classic animation fans want it to look. Still, Coyote vs. ACME is worthwhile for its ingenuity in both its homage to old cartoons and its clever storytelling, and…",
+          "autor": "Chris Sawin",
+          "url": "https://www.themoviedb.org/review/6a861469c6a463f1960b91e2"
+        },
+        {
+          "texto": "Come to think of it, I'm surprised that in the super-litigious US of A it took almost a century for anyone to cotton that \"ACME\" products were rubbish! Well now \"Wile E.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6a8c82a3774d919fe7e8f3b4"
+        },
+        {
+          "texto": "I read an article inspired by this movie. It said top 10 anti-capitalist films like this movie. It included They Live.",
+          "autor": "Chandler Danier",
+          "url": "https://www.themoviedb.org/review/6a9649470c60b46b973cac0c"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt1756855/",
+      "imdbId": "tt1756855",
+      "tmdbId": 1204680,
+      "votos": 20931
+    },
     "HO00009956": {
       "titulo": "Coyote Vs Acme SUB",
       "tituloOriginal": "Coyote VS Acme",
@@ -83,7 +194,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 21422
+      "votos": 20931
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -153,6 +264,33 @@
       "tmdbId": 1258509,
       "votos": 2407
     },
+    "HO00010061": {
+      "titulo": "El desconocido del gran arco",
+      "tituloOriginal": "L'INCONNU DE LA GRANDE ARCHE",
+      "director": "Stéphane Demoustier",
+      "pais": "Francia",
+      "ano": 2025,
+      "duracion": 104,
+      "filmId": "HO00010061",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010061?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010061&cinemas=003",
+      "sinopsis": "En 1983, François Mitterrand convocó el mayor concurso de arquitectura de la historia. Su objetivo: erigir un nuevo monumento en París y convertirlo en la insignia de su mandato presidencial. Para sorpresa de todos, el ganador fue un absoluto desconocido: Johan Otto von Spreckelsen, un profesor de arquitectura de Copenhague quien se convirtió en el centro de todas las miradas. El filme parte de la psicología del protagonista y las adversidades que enfrenta su proyecto para hablar de temas complejos como la ética profesional y el enfrentamiento entre idealismo y poder político.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "FhtqB5aq1t8",
+      "trailers": [
+        "FhtqB5aq1t8"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt32398150/",
+      "imdbId": "tt32398150",
+      "tmdbId": 1290424,
+      "votos": 2210
+    },
     "HO00009139": {
       "titulo": "El príncipe de Nanawa",
       "tituloOriginal": null,
@@ -209,7 +347,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22507216/",
       "imdbId": "tt22507216",
       "tmdbId": 1269644,
-      "votos": 4798
+      "votos": 4794
     },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
@@ -297,7 +435,7 @@
       "urlImdb": "https://www.imdb.com/title/tt20414360/",
       "imdbId": "tt20414360",
       "tmdbId": 1171153,
-      "votos": 2202
+      "votos": 2201
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -375,7 +513,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15181326/",
       "imdbId": "tt15181326",
       "tmdbId": 1263012,
-      "votos": 14105
+      "votos": 14087
     },
     "HO00009763": {
       "titulo": "Lo que queda de ti",
@@ -410,7 +548,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 3010
+      "votos": 3009
     },
     "HO00007608": {
       "titulo": "Los demonios del amanecer",
@@ -527,7 +665,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35854741/",
       "imdbId": "tt35854741",
       "tmdbId": 1437703,
-      "votos": 405
+      "votos": 397
     },
     "HO00009847": {
       "titulo": "Oh, fortuna",
@@ -553,6 +691,47 @@
       "imdbId": "tt40196240",
       "tmdbId": 1762928,
       "votos": 0
+    },
+    "HO00009931": {
+      "titulo": "Ponyo y el secreto de la sirenita DOB",
+      "tituloOriginal": "Gake no Ue no Ponyo",
+      "director": "Hayao Miyazaki",
+      "pais": "Japón",
+      "ano": 2008,
+      "duracion": 103,
+      "filmId": "HO00009931",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009931?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009931&cinemas=003",
+      "sinopsis": "Este filme sigue a Ponyo, una pequeña sirena dorada que emprende una excursión prohibida y escapa de su hogar submarino. En el mundo de la superficie conoce a Sosuke, un niño que la rescata y la cuida. Al enterarse, el padre de Ponyo la regresa al reino del océano, pero el deseo de ella por volverse humana es tan poderoso que logra liberarse, provocando un desequilibrio que pone en peligro a la aldea de Sosuke. Hayao Miyazaki crea una mágica historia sobre la amistad, el amor y la fuerza de los sueños.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "4YpxyQit8fk",
+      "trailers": [
+        "4YpxyQit8fk",
+        "89LbtkHG0c4",
+        "T7FLp3mdyhY",
+        "h6XP82TyFWw",
+        "HvddJqBYrc8",
+        "nMHwfrdZDVQ",
+        "aYYmKmdCNsQ",
+        "CsR3KVgBzSM",
+        "pfGDfDjAdSE"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.6,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "The animation and score is some of Ghibli’s best. The story is definitely simpler than most Ghibli movies, but that’s fine. Not all Ghibli movies need to be super deep and complex.",
+          "autor": "Jstewart2007",
+          "url": "https://www.themoviedb.org/review/69682218cb8deebf44e863f4"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0876563/",
+      "imdbId": "tt0876563",
+      "tmdbId": 12429,
+      "votos": 188970
     },
     "HO00009958": {
       "titulo": "Ponyo y el secreto de la sirenita SUB",
@@ -593,7 +772,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 188980
+      "votos": 188970
     },
     "HO00009561": {
       "titulo": "Resurrection",
@@ -649,32 +828,33 @@
       "tmdbId": 1440130,
       "votos": 17
     },
-    "HO00010060": {
-      "titulo": "Solo una ilusión",
-      "tituloOriginal": "JUSTE UNE ILLUSION",
-      "director": "Eric Toledano",
-      "pais": "Olivier Nakache, Francia",
-      "ano": 2026,
-      "duracion": 119,
-      "filmId": "HO00010060",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010060?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010060&cinemas=003",
-      "sinopsis": "La historia se sitúa en 1985 en los suburbios de París. Vincent está a punto de cumplir 13 años y su vida transcurre entre su hermano mayor distante, sus padres en constante conflicto y sus amigos de la escuela. Mientras trata de entender por qué los adultos están tan perdidos, compartiremos sus dudas sobre la identidad cultural, la amistad, la familia, la religión y los primeros atisbos del amor. Una comedia tierna y luminosa sobre esa edad en la que la esperanza de cambiar el mundo no era \"sólo una ilusión\". Los directores de Amigos se sumergen en el pasado para contarnos una hermosa historia sobre el paso a la adultez con trasfondo de retrato familiar.",
+    "HO00009280": {
+      "titulo": "Sueños (sexo-amor)",
+      "tituloOriginal": "Drømmer",
+      "director": "Johan Haugerud",
+      "pais": "Noruega",
+      "ano": 2024,
+      "duracion": 110,
+      "filmId": "HO00009280",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009280?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009280&cinemas=003",
+      "sinopsis": "Ganadora al Oso de Oro por Mejor Película en el Festival Internacional de Cine de Berlín, Sueños presenta a Johanne, una chica que experimenta su primer amor con su profesora de francés. Deseando preservar sus sentimientos, la joven documenta sus emociones y experiencias por escrito. Cuando su madre y su abuela leen su diario quedan cautivadas por sus cualidades literarias y la aconsejan publicarlo. Esta segunda entrega de la trilogía escrita y dirigida por Dag Johan Haugerud “Sex, Love, Dreams”, lleva al espectador a navegar el contraste entre los ideales románticos y la realidad, sumergiéndose en un viaje a través de las intensas emociones del autodescubrimiento, el amor y la sexualidad.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "vZtK0AdeXk8",
+      "trailer": "FcNSszeOkSc",
       "trailers": [
-        "vZtK0AdeXk8"
+        "FcNSszeOkSc",
+        "ijqwWwGdHZY"
       ],
-      "trailerFuente": "TMDB",
+      "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.3,
+      "publico": 7.2,
       "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt36842933/",
-      "imdbId": "tt36842933",
-      "tmdbId": 1404684,
-      "votos": 1473
+      "urlImdb": "https://www.imdb.com/title/tt30810787/",
+      "imdbId": "tt30810787",
+      "tmdbId": 1228682,
+      "votos": 3979
     },
     "HO00009555": {
       "titulo": "Tus dos muertos",
@@ -773,7 +953,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35298123/",
       "imdbId": "tt35298123",
       "tmdbId": 1240889,
-      "votos": 9499
+      "votos": 9442
     },
     "HO00009758": {
       "titulo": "Animanimales",
@@ -799,142 +979,6 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
-    },
-    "HO00009933": {
-      "titulo": "Cars 20 aniversario DOB",
-      "tituloOriginal": "Cars",
-      "director": "John Lasseter",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 116,
-      "filmId": "HO00009933",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009933?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009933&cinemas=001",
-      "sinopsis": "Cars narra la historia de Rayo McQueen, un veloz aspirante a campeón de carreras que está a punto de conseguir el éxito, la fama y todo con lo que sueña. Rayo, por un desvío equivocado, termina en el polvoriento y olvidado pueblo de Radiator Springs. Ahí la actitud arrogante de McQueen comienza a desvanecerse cuando aprende el valor de la amistad. Este filme, que cumple 20 años de haberse estrenado, crea una reflexión sobre la vida moderna, el ego y la importancia que tiene la comunidad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "XszNWHhpaTc",
-      "trailers": [
-        "XszNWHhpaTc",
-        "nuQDFYpPUh4",
-        "8ZMklX5BzTo",
-        "1uq5eJHwio4",
-        "ZhA7Ai0kJkk",
-        "bOs0p2E4sZw",
-        "hNakp500Pgc",
-        "b-bmxAfNsK0",
-        "7C1mDnF6NnA",
-        "Ak8igkuLhAE",
-        "dMaU2ixutGg"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "A fun one to watch. <em'Cars'</em is very good Disney, not quite in the upper echelons of their releases but certainly close.",
-          "autor": "r96sk",
-          "url": "https://www.themoviedb.org/review/5f3005ba559d220037768e1f"
-        },
-        {
-          "texto": "A commercial, critical and merchandising success... but with a cliché story. When it came out, this movie was publicized and sold like hotcakes. It was a fever. A mania.",
-          "autor": "Filipe Manuel Neto",
-          "url": "https://www.themoviedb.org/review/63b001a357530e0080141f95"
-        },
-        {
-          "texto": "Had no intention to ever see this movie. Another one my daughter wanted to watch with me. I actually liked it and thought it was hilarious.",
-          "autor": "Andre Gonzales",
-          "url": "https://www.themoviedb.org/review/6452edad33ad8f01380d11eb"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0317219/",
-      "imdbId": "tt0317219",
-      "tmdbId": 920,
-      "votos": 548770
-    },
-    "HO00009806": {
-      "titulo": "Coyote Vs Acme DOB",
-      "tituloOriginal": "Coyote vs. Acme",
-      "director": "Dave Green",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 98,
-      "filmId": "HO00009806",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009806?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009806&cinemas=001",
-      "sinopsis": "El icónico personaje de los Looney Toons está cansado de sus intentos fallidos por atrapar al Correcaminos debido a los productos defectuosos de ACME. Al increíble estilo híbrido de Space Jam, esta hilarante comedia de acción real y animación nos muestra cómo el Coyote contrata a un abogado humano para demandar al gigante corporativo. El caso se complica al enfrentar al implacable representante de la empresa (John Cena), desatando un juicio sumamente caótico acompañado de divertidos cameos.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "Yj-Nm47IW9k",
-      "trailers": [
-        "Yj-Nm47IW9k",
-        "gFAw7jxJOsY",
-        "V_ueAlyvn6A",
-        "WQRoa6l4bwI",
-        "soYBxkggwKQ",
-        "7wrdvTn9jcc",
-        "tyQBh0vKUtw",
-        "Fncl62R3PMM",
-        "F-PGig35gk4",
-        "QaRq1oymgL8",
-        "4WwrjXE3_QM",
-        "kMsiD1Nky5I",
-        "GXmAP6XyZ7g",
-        "H-43VeYGiPM",
-        "qT6kR2nHI8M",
-        "G11SytnNYqI"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.5,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "It may not look the way classic animation fans want it to look. Still, Coyote vs. ACME is worthwhile for its ingenuity in both its homage to old cartoons and its clever storytelling, and…",
-          "autor": "Chris Sawin",
-          "url": "https://www.themoviedb.org/review/6a861469c6a463f1960b91e2"
-        },
-        {
-          "texto": "Come to think of it, I'm surprised that in the super-litigious US of A it took almost a century for anyone to cotton that \"ACME\" products were rubbish! Well now \"Wile E.",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6a8c82a3774d919fe7e8f3b4"
-        },
-        {
-          "texto": "I read an article inspired by this movie. It said top 10 anti-capitalist films like this movie. It included They Live.",
-          "autor": "Chandler Danier",
-          "url": "https://www.themoviedb.org/review/6a9649470c60b46b973cac0c"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt1756855/",
-      "imdbId": "tt1756855",
-      "tmdbId": 1204680,
-      "votos": 21422
-    },
-    "HO00010057": {
-      "titulo": "Hasta que Dios se acuerde de nosotros/Ensayo sobre",
-      "tituloOriginal": "Hasta que Dios se acuerde de nosotros",
-      "director": "Víctor Cartas Valdivia",
-      "pais": "Jesús André González Arias, Isabella Hernández Sánchez, México",
-      "ano": 2025,
-      "duracion": 15,
-      "filmId": "HO00010057",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010057?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010057&cinemas=001",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt31227393/",
-      "imdbId": "tt31227393",
-      "tmdbId": 1354184,
-      "votos": 0
     },
     "HO00009850": {
       "titulo": "John Lilly y el ECCO",
@@ -1077,34 +1121,7 @@
       "urlImdb": "https://www.imdb.com/title/tt33764258/",
       "imdbId": "tt33764258",
       "tmdbId": 1368337,
-      "votos": 487590
-    },
-    "HO00010046": {
-      "titulo": "La reina del Amazonas",
-      "tituloOriginal": "La Reina del Amazonas",
-      "director": "Juan Agudelo",
-      "pais": "Colombia",
-      "ano": 2025,
-      "duracion": 90,
-      "filmId": "HO00010046",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010046?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010046&cinemas=002",
-      "sinopsis": "En la triple frontera amazónica entre Colombia, Perú y Brasil, tres mujeres trans de distintas etnias compiten por la corona de un certamen de belleza indígena. Entre ensayos y recuerdos, su participación se convierte en un acto de resistencia frente a los prejuicios y en una celebración de la diversidad amazónica.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "elEcp_NNDjw",
-      "trailers": [
-        "elEcp_NNDjw"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1602560,
-      "votos": 0
+      "votos": 486661
     },
     "HO00009848": {
       "titulo": "Las catadoras de Hitler",
@@ -1144,7 +1161,7 @@
       "urlImdb": "https://www.imdb.com/title/tt27811248/",
       "imdbId": "tt27811248",
       "tmdbId": 1291712,
-      "votos": 3102
+      "votos": 3101
     },
     "HO00009846": {
       "titulo": "Matrioshka",
@@ -1172,72 +1189,6 @@
       "imdbId": "tt25679778",
       "tmdbId": 1307759,
       "votos": 45
-    },
-    "HO00009931": {
-      "titulo": "Ponyo y el secreto de la sirenita DOB",
-      "tituloOriginal": "Gake no Ue no Ponyo",
-      "director": "Hayao Miyazaki",
-      "pais": "Japón",
-      "ano": 2008,
-      "duracion": 103,
-      "filmId": "HO00009931",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009931?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009931&cinemas=002",
-      "sinopsis": "Este filme sigue a Ponyo, una pequeña sirena dorada que emprende una excursión prohibida y escapa de su hogar submarino. En el mundo de la superficie conoce a Sosuke, un niño que la rescata y la cuida. Al enterarse, el padre de Ponyo la regresa al reino del océano, pero el deseo de ella por volverse humana es tan poderoso que logra liberarse, provocando un desequilibrio que pone en peligro a la aldea de Sosuke. Hayao Miyazaki crea una mágica historia sobre la amistad, el amor y la fuerza de los sueños.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "4YpxyQit8fk",
-      "trailers": [
-        "4YpxyQit8fk",
-        "89LbtkHG0c4",
-        "T7FLp3mdyhY",
-        "h6XP82TyFWw",
-        "HvddJqBYrc8",
-        "nMHwfrdZDVQ",
-        "aYYmKmdCNsQ",
-        "CsR3KVgBzSM",
-        "pfGDfDjAdSE"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.6,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "The animation and score is some of Ghibli’s best. The story is definitely simpler than most Ghibli movies, but that’s fine. Not all Ghibli movies need to be super deep and complex.",
-          "autor": "Jstewart2007",
-          "url": "https://www.themoviedb.org/review/69682218cb8deebf44e863f4"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0876563/",
-      "imdbId": "tt0876563",
-      "tmdbId": 12429,
-      "votos": 188980
-    },
-    "HO00010045": {
-      "titulo": "Réquiem: por los siglos de los siglos/Mi tía peque",
-      "tituloOriginal": "Arte y cultura",
-      "director": "Varios",
-      "pais": "Varios",
-      "ano": 2026,
-      "duracion": 65,
-      "filmId": "HO00010045",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010045?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010045&cinemas=002",
-      "sinopsis": "El documental recupera momentos fundamentales de la vida de la escritora mexicana Elena Garro, explorando su trayectoria, su legado literario y las distintas dimensiones de su figura. A través de su historia, se propone una mirada íntima a la mujer y autora detrás de una obra fundamental de la literatura mexicana.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1643178,
-      "votos": 0
     },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
@@ -1267,61 +1218,6 @@
       "imdbId": "tt18301776",
       "tmdbId": 1318711,
       "votos": 78
-    },
-    "HO00010061": {
-      "titulo": "El desconocido del gran arco",
-      "tituloOriginal": "L'INCONNU DE LA GRANDE ARCHE",
-      "director": "Stéphane Demoustier",
-      "pais": "Francia",
-      "ano": 2025,
-      "duracion": 104,
-      "filmId": "HO00010061",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010061?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010061&cinemas=003",
-      "sinopsis": "En 1983, François Mitterrand convocó el mayor concurso de arquitectura de la historia. Su objetivo: erigir un nuevo monumento en París y convertirlo en la insignia de su mandato presidencial. Para sorpresa de todos, el ganador fue un absoluto desconocido: Johan Otto von Spreckelsen, un profesor de arquitectura de Copenhague quien se convirtió en el centro de todas las miradas. El filme parte de la psicología del protagonista y las adversidades que enfrenta su proyecto para hablar de temas complejos como la ética profesional y el enfrentamiento entre idealismo y poder político.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "FhtqB5aq1t8",
-      "trailers": [
-        "FhtqB5aq1t8"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt32398150/",
-      "imdbId": "tt32398150",
-      "tmdbId": 1290424,
-      "votos": 2215
-    },
-    "HO00009280": {
-      "titulo": "Sueños (sexo-amor)",
-      "tituloOriginal": "Drømmer",
-      "director": "Johan Haugerud",
-      "pais": "Noruega",
-      "ano": 2024,
-      "duracion": 110,
-      "filmId": "HO00009280",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009280?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009280&cinemas=003",
-      "sinopsis": "Ganadora al Oso de Oro por Mejor Película en el Festival Internacional de Cine de Berlín, Sueños presenta a Johanne, una chica que experimenta su primer amor con su profesora de francés. Deseando preservar sus sentimientos, la joven documenta sus emociones y experiencias por escrito. Cuando su madre y su abuela leen su diario quedan cautivadas por sus cualidades literarias y la aconsejan publicarlo. Esta segunda entrega de la trilogía escrita y dirigida por Dag Johan Haugerud “Sex, Love, Dreams”, lleva al espectador a navegar el contraste entre los ideales románticos y la realidad, sumergiéndose en un viaje a través de las intensas emociones del autodescubrimiento, el amor y la sexualidad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "FcNSszeOkSc",
-      "trailers": [
-        "FcNSszeOkSc",
-        "ijqwWwGdHZY"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.2,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt30810787/",
-      "imdbId": "tt30810787",
-      "tmdbId": 1228682,
-      "votos": 3980
     },
     "HO00010062": {
       "titulo": "El camino",
@@ -1373,7 +1269,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35495035/",
       "imdbId": "tt35495035",
       "tmdbId": 1376415,
-      "votos": 1619
+      "votos": 1605
     },
     "HO00010063": {
       "titulo": "Me encontraste",
@@ -1398,7 +1294,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35526093/",
       "imdbId": "tt35526093",
       "tmdbId": 1166170,
-      "votos": 640
+      "votos": 637
     },
     "HO00010064": {
       "titulo": "El crimen del 3er piso",
@@ -1425,7 +1321,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 765
+      "votos": 760
     },
     "HO00003885": {
       "titulo": "El sembrador",
@@ -1478,6 +1374,110 @@
       "imdbId": "tt4896920",
       "tmdbId": 345908,
       "votos": 172
+    },
+    "HO00010060": {
+      "titulo": "Solo una ilusión",
+      "tituloOriginal": "JUSTE UNE ILLUSION",
+      "director": "Eric Toledano",
+      "pais": "Olivier Nakache, Francia",
+      "ano": 2026,
+      "duracion": 119,
+      "filmId": "HO00010060",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010060?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010060&cinemas=003",
+      "sinopsis": "La historia se sitúa en 1985 en los suburbios de París. Vincent está a punto de cumplir 13 años y su vida transcurre entre su hermano mayor distante, sus padres en constante conflicto y sus amigos de la escuela. Mientras trata de entender por qué los adultos están tan perdidos, compartiremos sus dudas sobre la identidad cultural, la amistad, la familia, la religión y los primeros atisbos del amor. Una comedia tierna y luminosa sobre esa edad en la que la esperanza de cambiar el mundo no era \"sólo una ilusión\". Los directores de Amigos se sumergen en el pasado para contarnos una hermosa historia sobre el paso a la adultez con trasfondo de retrato familiar.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "vZtK0AdeXk8",
+      "trailers": [
+        "vZtK0AdeXk8"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt36842933/",
+      "imdbId": "tt36842933",
+      "tmdbId": 1404684,
+      "votos": 1473
+    },
+    "HO00010057": {
+      "titulo": "Hasta que Dios se acuerde de nosotros/Ensayo sobre",
+      "tituloOriginal": "Hasta que Dios se acuerde de nosotros",
+      "director": "Víctor Cartas Valdivia",
+      "pais": "Jesús André González Arias, Isabella Hernández Sánchez, México",
+      "ano": 2025,
+      "duracion": 15,
+      "filmId": "HO00010057",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010057?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010057&cinemas=001",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt31227393/",
+      "imdbId": "tt31227393",
+      "tmdbId": 1354184,
+      "votos": 0
+    },
+    "HO00010046": {
+      "titulo": "La reina del Amazonas",
+      "tituloOriginal": "La Reina del Amazonas",
+      "director": "Juan Agudelo",
+      "pais": "Colombia",
+      "ano": 2025,
+      "duracion": 90,
+      "filmId": "HO00010046",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010046?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010046&cinemas=002",
+      "sinopsis": "En la triple frontera amazónica entre Colombia, Perú y Brasil, tres mujeres trans de distintas etnias compiten por la corona de un certamen de belleza indígena. Entre ensayos y recuerdos, su participación se convierte en un acto de resistencia frente a los prejuicios y en una celebración de la diversidad amazónica.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "elEcp_NNDjw",
+      "trailers": [
+        "elEcp_NNDjw"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1602560,
+      "votos": 0
+    },
+    "HO00010045": {
+      "titulo": "Réquiem: por los siglos de los siglos/Mi tía peque",
+      "tituloOriginal": "Arte y cultura",
+      "director": "Varios",
+      "pais": "Varios",
+      "ano": 2026,
+      "duracion": 65,
+      "filmId": "HO00010045",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010045?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010045&cinemas=002",
+      "sinopsis": "El documental recupera momentos fundamentales de la vida de la escritora mexicana Elena Garro, explorando su trayectoria, su legado literario y las distintas dimensiones de su figura. A través de su historia, se propone una mirada íntima a la mujer y autora detrás de una obra fundamental de la literatura mexicana.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1643178,
+      "votos": 0
     },
     "HO00010056": {
       "titulo": "Los cangrejos",
@@ -1577,502 +1577,6 @@
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009956",
-      "sala": null,
-      "horarios": [
-        "15:00",
-        "17:30",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00008666",
-      "sala": null,
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009557",
-      "sala": null,
-      "horarios": [
-        "16:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009139",
-      "sala": null,
-      "horarios": [
-        "16:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009563",
-      "sala": null,
-      "horarios": [
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009424",
-      "sala": null,
-      "horarios": [
-        "14:00",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009929",
-      "sala": null,
-      "horarios": [
-        "16:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009559",
-      "sala": null,
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009787",
-      "sala": null,
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009872",
-      "sala": null,
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009763",
-      "sala": null,
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00007608",
-      "sala": null,
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00008486",
-      "sala": null,
-      "horarios": [
-        "14:30",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009426",
-      "sala": null,
-      "horarios": [
-        "14:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009698",
-      "sala": null,
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009847",
-      "sala": null,
-      "horarios": [
-        "16:30",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009958",
-      "sala": null,
-      "horarios": [
-        "16:00",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009561",
-      "sala": null,
-      "horarios": [
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009814",
-      "sala": null,
-      "horarios": [
-        "16:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00010060",
-      "sala": null,
-      "horarios": [
-        "16:00",
-        "18:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009555",
-      "sala": null,
-      "horarios": [
-        "14:15",
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009256",
-      "sala": null,
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009798",
-      "sala": null,
-      "horarios": [
-        "14:00",
-        "16:15",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009758",
-      "sala": null,
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009933",
-      "sala": null,
-      "horarios": [
-        "12:15",
-        "14:40",
-        "17:00",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009806",
-      "sala": null,
-      "horarios": [
-        "13:30",
-        "15:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009956",
-      "sala": null,
-      "horarios": [
-        "17:30",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00010057",
-      "sala": null,
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009850",
-      "sala": null,
-      "horarios": [
-        "13:10",
-        "15:10",
-        "17:10",
-        "19:10"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009787",
-      "sala": null,
-      "horarios": [
-        "13:40",
-        "16:00",
-        "18:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009958",
-      "sala": null,
-      "horarios": [
-        "16:30",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009932",
-      "sala": null,
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009798",
-      "sala": null,
-      "horarios": [
-        "11:20",
-        "13:40",
-        "16:00",
-        "18:20",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009849",
-      "sala": null,
-      "horarios": [
-        "13:10",
-        "17:10",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009933",
-      "sala": null,
-      "horarios": [
-        "11:00",
-        "13:20",
-        "15:40",
-        "18:00",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009563",
-      "sala": null,
-      "horarios": [
-        "11:30",
-        "15:30",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009850",
-      "sala": null,
-      "horarios": [
-        "11:50",
-        "14:00",
-        "15:50",
-        "18:10",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009759",
-      "sala": null,
-      "horarios": [
-        "13:00",
-        "16:20",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00010046",
-      "sala": null,
-      "horarios": [
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009848",
-      "sala": null,
-      "horarios": [
-        "12:30",
-        "15:00",
-        "17:30",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009846",
-      "sala": null,
-      "horarios": [
-        "13:30",
-        "17:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009426",
-      "sala": null,
-      "horarios": [
-        "12:10",
-        "14:10",
-        "16:30",
-        "18:50",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009931",
-      "sala": null,
-      "horarios": [
-        "12:00",
-        "14:20",
-        "16:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009958",
-      "sala": null,
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00010045",
-      "sala": null,
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009932",
-      "sala": null,
-      "horarios": [
-        "12:50",
-        "14:50",
-        "16:50",
-        "18:50",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009851",
-      "sala": null,
-      "horarios": [
-        "11:10",
-        "15:10",
-        "19:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-12",
-      "pelicula": "HO00009555",
-      "sala": null,
-      "horarios": [
-        "12:40",
-        "15:10",
-        "17:40",
-        "20:10"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-09-13",
@@ -4371,6 +3875,502 @@
       "pelicula": "HO00009555",
       "sala": null,
       "horarios": [
+        "15:10",
+        "17:40",
+        "20:10"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009956",
+      "sala": null,
+      "horarios": [
+        "15:00",
+        "17:30",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00008666",
+      "sala": null,
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009557",
+      "sala": null,
+      "horarios": [
+        "16:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009139",
+      "sala": null,
+      "horarios": [
+        "16:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009563",
+      "sala": null,
+      "horarios": [
+        "18:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009424",
+      "sala": null,
+      "horarios": [
+        "14:00",
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009929",
+      "sala": null,
+      "horarios": [
+        "16:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009559",
+      "sala": null,
+      "horarios": [
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009787",
+      "sala": null,
+      "horarios": [
+        "16:30",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009872",
+      "sala": null,
+      "horarios": [
+        "20:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009763",
+      "sala": null,
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00007608",
+      "sala": null,
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00008486",
+      "sala": null,
+      "horarios": [
+        "14:30",
+        "18:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009426",
+      "sala": null,
+      "horarios": [
+        "14:30",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009698",
+      "sala": null,
+      "horarios": [
+        "15:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009847",
+      "sala": null,
+      "horarios": [
+        "16:30",
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009958",
+      "sala": null,
+      "horarios": [
+        "16:00",
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009561",
+      "sala": null,
+      "horarios": [
+        "20:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009814",
+      "sala": null,
+      "horarios": [
+        "16:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00010060",
+      "sala": null,
+      "horarios": [
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009555",
+      "sala": null,
+      "horarios": [
+        "14:15",
+        "20:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009256",
+      "sala": null,
+      "horarios": [
+        "21:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009798",
+      "sala": null,
+      "horarios": [
+        "14:00",
+        "16:15",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009758",
+      "sala": null,
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009933",
+      "sala": null,
+      "horarios": [
+        "12:15",
+        "14:40",
+        "17:00",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009806",
+      "sala": null,
+      "horarios": [
+        "13:30",
+        "15:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009956",
+      "sala": null,
+      "horarios": [
+        "17:30",
+        "19:50"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00010057",
+      "sala": null,
+      "horarios": [
+        "16:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009850",
+      "sala": null,
+      "horarios": [
+        "13:10",
+        "15:10",
+        "17:10",
+        "19:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009787",
+      "sala": null,
+      "horarios": [
+        "13:40",
+        "16:00",
+        "18:15"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009958",
+      "sala": null,
+      "horarios": [
+        "16:30",
+        "18:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009932",
+      "sala": null,
+      "horarios": [
+        "13:00",
+        "15:00",
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009798",
+      "sala": null,
+      "horarios": [
+        "11:20",
+        "13:40",
+        "16:00",
+        "18:20",
+        "20:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009849",
+      "sala": null,
+      "horarios": [
+        "13:10",
+        "17:10",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009933",
+      "sala": null,
+      "horarios": [
+        "11:00",
+        "13:20",
+        "15:40",
+        "18:00",
+        "20:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009563",
+      "sala": null,
+      "horarios": [
+        "11:30",
+        "15:30",
+        "19:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009850",
+      "sala": null,
+      "horarios": [
+        "11:50",
+        "14:00",
+        "15:50",
+        "18:10",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009759",
+      "sala": null,
+      "horarios": [
+        "13:00",
+        "16:20",
+        "19:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00010046",
+      "sala": null,
+      "horarios": [
+        "19:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009848",
+      "sala": null,
+      "horarios": [
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009846",
+      "sala": null,
+      "horarios": [
+        "13:30",
+        "17:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009426",
+      "sala": null,
+      "horarios": [
+        "12:10",
+        "14:10",
+        "16:30",
+        "18:50",
+        "20:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009931",
+      "sala": null,
+      "horarios": [
+        "12:00",
+        "14:20",
+        "16:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009958",
+      "sala": null,
+      "horarios": [
+        "19:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00010045",
+      "sala": null,
+      "horarios": [
+        "17:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009932",
+      "sala": null,
+      "horarios": [
+        "12:50",
+        "14:50",
+        "16:50",
+        "18:50",
+        "20:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009851",
+      "sala": null,
+      "horarios": [
+        "11:10",
+        "15:10",
+        "19:10"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-12",
+      "pelicula": "HO00009555",
+      "sala": null,
+      "horarios": [
+        "12:40",
         "15:10",
         "17:40",
         "20:10"
