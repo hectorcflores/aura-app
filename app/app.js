@@ -18,7 +18,7 @@ const days=document.createElement('nav');days.className='screening-days';days.se
 const tomorrow=()=>{const d=new Date(today()+'T12:00:00Z');d.setUTCDate(d.getUTCDate()+1);return d.toISOString().slice(0,10);};
 const venues=[['003','Xoco'],['002','Churubusco'],['001','Chapultepec']];
 function updateDays(){days.innerHTML=`<div class="venue-tabs">${venues.map(([id,name])=>`<button data-venue="${id}" aria-pressed="${sede===id}">${name}</button>`).join('')}</div>`;}
-days.onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.venue)sede=b.dataset.venue;const u=new URL(location.href);u.searchParams.set('fecha',date);u.searchParams.set('sede',sede);history.replaceState(null,'',u);updateDays();render();wall.scrollTop=0;};
+days.onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.venue)sede=b.dataset.venue;pan={x:0,y:0};zoom=1;const u=new URL(location.href);u.searchParams.set('fecha',date);u.searchParams.set('sede',sede);history.replaceState(null,'',u);updateDays();render();wall.scrollTop=0;};
 document.body.append(days);updateDays();
 const atlas=document.createElement('div');atlas.className='moving-atlas';wall.append(atlas);
 function render(){
@@ -31,7 +31,21 @@ function render(){
  if(!items.length){atlas.innerHTML='<p class="empty-state">No hay trailers disponibles para esta sede y fecha.</p>';updateMotion();return;}
  layout();observer=new IntersectionObserver(entries=>{for(const e of entries){const i=+e.target.dataset.index;if(e.isIntersecting)visible.add(i);else visible.delete(i);}syncPlayers();},{root:wall,rootMargin:'0px',threshold:0});atlas.querySelectorAll('.tile').forEach(t=>observer.observe(t));updateMotion();
 }
-function layout(){document.body.dataset.view='ribbons';}
+function layout(){
+ mode='ribbons';document.body.dataset.view=mode;controls.querySelectorAll('[data-mode]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.mode===mode)));
+ const W=innerWidth,H=innerHeight,mobile=W<700,unit=mobile?W*.56:W*.29;
+ atlas.querySelectorAll('.tile:not(.failed)').forEach((t,i)=>{
+ let x=0,y=0,w=unit,h=unit*.57,r=0,z=1;const col=i%4,row=Math.floor(i/4);
+ if(mode==='scatter'){w=unit*(i%5===0?1.25:.87);h=w*.59;x=(col-1.45)*unit*1.16+(row%2)*unit*.35;y=(row-1.5)*unit*.81;r=[-5,3,-2,5][i%4];}
+ if(mode==='ribbons'){w=mobile?W*.78:W*.37;h=w*.55;x=(col-1.5)*(w+12)+(row%2)*w*.45;y=(row-1.3)*(h+18);r=row%2?-6:6;}
+ if(mode==='orbit'){const ring=i<9?0:1,n=ring?Math.max(1,items.length-9):8,j=ring?i-9:i-1,angle=(j/n)*Math.PI*2;const rx=(mobile?W*.66:W*.36)*(ring?1.95:1),ry=(mobile?H*.32:H*.32)*(ring?1.95:1);w=unit*(i===0?1.12:ring?.82:.85);h=w*.57;x=i===0?-w/2:Math.cos(angle)*rx-w/2;y=i===0?-h/2:Math.sin(angle)*ry-h/2;r=i===0?0:Math.sin(angle)*9;}
+ if(mode==='depth'){const scale=[1.25,.72,1,.84][i%4];w=unit*scale;h=w*.62;x=(col-1.5)*unit*1.02+(row%2)*unit*.33;y=(row-1.55)*unit*.75;r=[-8,6,-3,8][i%4];z=Math.round(scale*10);}
+ if(mode==='mosaic'){w=mobile?W*.68:W*.34;h=w*.64;x=(col-1.5)*(w+5)+(row%2)*(w*.25);y=(row-1.5)*(h+5);r=0;}
+ Object.assign(t.style,{left:`${x}px`,top:`${y}px`,width:`${w}px`,height:`${h}px`,transform:`rotate(${r}deg)`,zIndex:z});
+ });applyTransform();
+}
+function applyTransform(){atlas.style.transform=`translate(${pan.x}px,${pan.y}px) scale(${zoom})`;}
+
 function syncPlayers(){
  if(!apiReady)return;
  const active=!paused&&!document.hidden&&!dialog.open;
@@ -69,6 +83,12 @@ function syncPlayers(){
 window.onYouTubeIframeAPIReady=()=>{apiReady=true;syncPlayers();};
 function updateMotion(){document.body.classList.toggle('paused',paused);motion.setAttribute('aria-label',paused?'Reproducir trailers':'Pausar trailers');motion.removeAttribute('title');motion.innerHTML=paused?'<svg viewBox="0 0 24 24"><path d="m8 5 11 7-11 7z"/></svg>':'<svg viewBox="0 0 24 24"><path d="M8 5v14M16 5v14"/></svg>';syncPlayers();}
 motion.onclick=()=>{paused=!paused;stalled.clear();atlas.querySelectorAll('.stalled').forEach(t=>t.classList.remove('stalled'));updateMotion();};
+wall.addEventListener('pointerdown',e=>{if(e.isPrimary===false||e.button!==0)return;suppressClick=false;drag={id:e.pointerId,x:e.clientX,y:e.clientY,ox:pan.x,oy:pan.y,moved:false};});
+window.addEventListener('pointermove',e=>{if(!drag||e.pointerId!==drag.id)return;const dx=e.clientX-drag.x,dy=e.clientY-drag.y;if(Math.hypot(dx,dy)>8)drag.moved=true;if(drag.moved){pan={x:Math.max(-2400,Math.min(2400,drag.ox+dx)),y:Math.max(-2000,Math.min(2000,drag.oy+dy))};applyTransform();}});
+window.addEventListener('pointerup',e=>{if(!drag||e.pointerId!==drag.id)return;suppressClick=!!drag.moved;drag=null;});window.addEventListener('pointercancel',()=>drag=null);
+wall.addEventListener('wheel',e=>{e.preventDefault();if(e.ctrlKey){zoom=Math.max(.5,Math.min(1.8,zoom-e.deltaY*.004));}else{pan.x-=e.deltaX;pan.y-=e.deltaY;}applyTransform();},{passive:false});
+window.addEventListener('keydown',e=>{if(dialog.open||!e.key.startsWith('Arrow'))return;e.preventDefault();pan.x+=e.key==='ArrowRight'?-130:e.key==='ArrowLeft'?130:0;pan.y+=e.key==='ArrowDown'?-130:e.key==='ArrowUp'?130:0;applyTransform();});
+window.addEventListener('resize',layout);
 function openCard(i){const r=items[i],p=r.p;opened=wall.querySelector('[data-index="'+i+'"]');const venue=data.sedes.find(s=>s.id===sede)?.nombre||'Cineteca';
  document.querySelector('#detail-content').innerHTML=`<div class="detail-video"><iframe src="https://www.youtube-nocookie.com/embed/${esc(p.trailer)}?autoplay=1&mute=1&playsinline=1&rel=0" title="Tráiler de ${esc(p.titulo)}" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div class="panel"><h2 id="film-title">${esc(p.titulo)}${p.tituloOriginal?`<span class="orig">${esc(p.tituloOriginal)}</span>`:''}</h2>${p.sinopsis?`<p class="sinopsis">${esc(p.sinopsis)}</p>`:''}<dl class="dl"><div><dt>Dirección</dt><dd>${esc(p.director)||'—'}</dd></div><div><dt>País y año</dt><dd>${esc(p.pais)} · ${esc(p.ano)}</dd></div><div><dt>Duración</dt><dd>${esc(p.duracion)} min</dd></div><div><dt>Sede${r.rooms.size?' · Sala':''}</dt><dd>${esc(venue)}${r.rooms.size?' · '+esc([...r.rooms].join(' · ')):''}</dd></div></dl><p class="date-label">${esc(new Intl.DateTimeFormat('es-MX',{dateStyle:'full',timeZone:'UTC'}).format(new Date(date+'T12:00:00Z')))}</p><div class="times">${[...r.times].sort().map(h=>`<span class="badge">${esc(h)}</span>`).join('')}</div>${p.critica!=null?`<div class="scores">Crítica <strong>${esc(p.critica)}%</strong></div>`:''}${p.publico!=null?`<div class="scores"><span>${esc(p.publicoFuente||'Público')} rating</span> <strong>${Number(p.publico).toFixed(1)}</strong><span> · ${Number(p.votos||0).toLocaleString('es-MX')} votos</span></div>`:''}<hr class="sep">${p.resenas?.length?`<div class="quotes">${p.resenas.map(x=>`<blockquote>“${esc(x.texto)}”<cite>${x.url?`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.autor)}</a>`:esc(x.autor)}</cite></blockquote>`).join('')}</div>`:'<p class="rt">Sin reseñas disponibles para esta película.</p>'}<div class="links"><a href="${esc(p.urlCineteca)}" target="_blank" rel="noopener">Ficha en Cineteca ↗</a>${p.urlImdb?`<a href="${esc(p.urlImdb)}" target="_blank" rel="noopener">IMDb ↗</a>`:''}</div><p class="source-note">Cartelera de Aura · Actualizada ${esc(new Intl.DateTimeFormat('es-MX',{dateStyle:'short',timeStyle:'short',timeZone:'America/Mexico_City'}).format(new Date(data.generadoEn)))}. Confirma las funciones en Cineteca.</p><p class="source-note">Information courtesy of IMDb (https://www.imdb.com). Used with permission. · Datos de películas de TMDB.</p></div>`;
  dialog.showModal();dialog.scrollTop=0;syncPlayers();}

@@ -34,7 +34,7 @@ header.aura-header{height:var(--masthead-height);padding-bottom:62px}
 .screening-days button{color:#ddd;min-height:44px;padding:0 15px}
 .screening-days button[aria-pressed=true]{background:#fff;color:#000}
 #wall{overflow-y:auto;overflow-x:hidden;touch-action:pan-y;cursor:auto;overscroll-behavior-y:contain;padding:22px 0 85px!important}
-.moving-atlas{position:relative;left:auto;top:auto;width:min(100%,900px);height:auto;margin:0 auto;transform:none!important;will-change:auto;display:flex;flex-direction:column;gap:26px}
+.moving-atlas{position:relative;left:auto;top:auto;width:min(100%,900px);height:auto;margin:0 auto;will-change:auto;display:flex;flex-direction:column;gap:26px}
 .moving-atlas .tile:nth-child(n){position:relative;flex:none;width:88%;height:auto;aspect-ratio:16/9;margin-left:2%;transform:rotate(4deg);transition:none;border-radius:5px}
 .moving-atlas .tile:nth-child(even){margin-left:10%;transform:rotate(-4deg)}
 .constellation-controls{left:auto;right:16px;bottom:max(16px,env(safe-area-inset-bottom));transform:none;width:auto;max-width:none;padding:3px;background:#fff;border:0}
@@ -46,3 +46,9 @@ header.aura-header{height:var(--masthead-height);padding-bottom:62px}
 @media(max-height:550px){:root{--masthead-height:155px}.screening-days{top:95px}}
 
 #schedule-status:empty{display:none}#schedule-status{position:fixed;z-index:31;top:var(--masthead-height);left:0;right:0;margin:0;padding:8px 12px;background:#222;color:#fff;text-align:center;font-size:13px}
+
+/* Restore the saved option 2 geometry, with the selected header above it. */
+#wall{overflow:hidden;touch-action:none;cursor:grab;padding:0!important}
+#wall:active{cursor:grabbing}
+.moving-atlas{position:absolute;left:50%;top:50%;width:0;height:0;margin:0;display:block;transform:translate(0,0);transform-origin:0 0;will-change:transform}
+.moving-atlas .tile:nth-child(n){position:absolute;margin:0;aspect-ratio:auto;border-radius:0;transition:none}
