@@ -17,8 +17,8 @@ controls.innerHTML='';document.body.append(controls);controls.append(motion);
 const days=document.createElement('nav');days.className='screening-days';days.setAttribute('aria-label','Cartelera de Xoco');
 const tomorrow=()=>{const d=new Date(today()+'T12:00:00Z');d.setUTCDate(d.getUTCDate()+1);return d.toISOString().slice(0,10);};
 const venues=[['003','Xoco'],['002','Churubusco'],['001','Chapultepec']];
-function updateDays(){days.innerHTML=`<div class="venue-tabs">${venues.map(([id,name])=>`<button data-venue="${id}" aria-pressed="${sede===id}">${name}</button>`).join('')}</div><div class="date-tabs"><button data-date="${today()}" aria-pressed="${date===today()}">Hoy</button><button data-date="${tomorrow()}" aria-pressed="${date===tomorrow()}">Mañana</button></div>`;}
-days.onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.venue)sede=b.dataset.venue;if(b.dataset.date)date=b.dataset.date;const u=new URL(location.href);u.searchParams.set('fecha',date);u.searchParams.set('sede',sede);history.replaceState(null,'',u);updateDays();render();wall.scrollTop=0;};
+function updateDays(){days.innerHTML=`<div class="venue-tabs">${venues.map(([id,name])=>`<button data-venue="${id}" aria-pressed="${sede===id}">${name}</button>`).join('')}</div>`;}
+days.onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.venue)sede=b.dataset.venue;const u=new URL(location.href);u.searchParams.set('fecha',date);u.searchParams.set('sede',sede);history.replaceState(null,'',u);updateDays();render();wall.scrollTop=0;};
 document.body.append(days);updateDays();
 const atlas=document.createElement('div');atlas.className='moving-atlas';wall.append(atlas);
 function render(){
