@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-15T12:38:55.355Z",
+  "generadoEn": "2026-09-15T18:16:46.107Z",
   "hoy": "2026-09-15",
   "sedes": [
     {
@@ -80,7 +80,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 23820
+      "votos": 23468
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -206,7 +206,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22507216/",
       "imdbId": "tt22507216",
       "tmdbId": 1269644,
-      "votos": 4828
+      "votos": 4822
     },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
@@ -288,7 +288,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35495035/",
       "imdbId": "tt35495035",
       "tmdbId": 1376415,
-      "votos": 1676
+      "votos": 1668
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -411,7 +411,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35854741/",
       "imdbId": "tt35854741",
       "tmdbId": 1437703,
-      "votos": 448
+      "votos": 445
     },
     "HO00009847": {
       "titulo": "Oh, fortuna",
@@ -477,7 +477,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189050
+      "votos": 189039
     },
     "HO00009814": {
       "titulo": "Señoritas",
@@ -603,7 +603,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35298123/",
       "imdbId": "tt35298123",
       "tmdbId": 1240889,
-      "votos": 9761
+      "votos": 9711
     },
     "HO00009933": {
       "titulo": "Cars 20 aniversario DOB",
@@ -656,7 +656,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 549118
+      "votos": 549038
     },
     "HO00009806": {
       "titulo": "Coyote Vs Acme DOB",
@@ -714,7 +714,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 23820
+      "votos": 23468
     },
     "HO00009850": {
       "titulo": "John Lilly y el ECCO",
@@ -777,7 +777,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 3020
+      "votos": 3017
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -892,7 +892,7 @@
       "urlImdb": "https://www.imdb.com/title/tt33764258/",
       "imdbId": "tt33764258",
       "tmdbId": 1368337,
-      "votos": 492857
+      "votos": 491713
     },
     "HO00009848": {
       "titulo": "Las catadoras de Hitler",
@@ -1000,7 +1000,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189050
+      "votos": 189039
     },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
@@ -1106,7 +1106,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15181326/",
       "imdbId": "tt15181326",
       "tmdbId": 1263012,
-      "votos": 14185
+      "votos": 14180
     },
     "HO00007608": {
       "titulo": "Los demonios del amanecer",
@@ -1159,7 +1159,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35526093/",
       "imdbId": "tt35526093",
       "tmdbId": 1166170,
-      "votos": 649
+      "votos": 647
     },
     "HO00009561": {
       "titulo": "Resurrection",
@@ -1266,7 +1266,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 796
+      "votos": 791
     },
     "HO00003885": {
       "titulo": "El sembrador",
