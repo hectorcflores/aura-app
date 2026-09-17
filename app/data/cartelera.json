@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-09-16T18:14:30.823Z",
-  "hoy": "2026-09-16",
+  "generadoEn": "2026-09-17T12:34:32.941Z",
+  "hoy": "2026-09-17",
   "sedes": [
     {
       "id": "003",
@@ -19,9 +19,9 @@
     }
   ],
   "fechas": [
-    "2026-09-16",
     "2026-09-17",
-    "2026-09-22"
+    "2026-09-22",
+    "2026-09-23"
   ],
   "peliculas": {
     "HO00009956": {
@@ -80,7 +80,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 24432
+      "votos": 25293
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -107,48 +107,32 @@
       "tmdbId": 1446468,
       "votos": 0
     },
-    "HO00009557": {
-      "titulo": "El amor que permanece",
-      "tituloOriginal": "Ástin sem eftir er",
-      "director": "Hlynur Pálmason",
-      "pais": "Islandia-Dinamarca-Suecia-Francia",
-      "ano": 2025,
-      "duracion": 119,
-      "filmId": "HO00009557",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009557?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009557&cinemas=003",
-      "sinopsis": "Después de su separación, Anna y Magnus intentan sostener una relación cercana y cordial por el bien de sus tres hijos, sin embargo, algo no termina de funcionar entre ellos y cada encuentro se llena de una tensión silenciosa que impregna cada espacio compartido. Entre ese silencio crecen sus hijos, quienes intentan afianzar su personalidad a partir de los sentimientos que sobreviven a la separación. Hlynur Pálmason construye en su más reciente trabajo una historia íntima, donde la imagen cobra una fuerza emocional desbordante, al configurar desde la visualidad explícita los procesos de duelo, frustración y amor, dando como resultado una cinta sencilla pero profunda que traza nuevos intereses en el desarrollo temático del cineasta islandés.",
+    "HO00010064": {
+      "titulo": "El crimen del 3er piso",
+      "tituloOriginal": "LE CRIME DU 3e ÉTAGE",
+      "director": "Rémi Bezançon",
+      "pais": "Francia",
+      "ano": 2026,
+      "duracion": 104,
+      "filmId": "HO00010064",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010064?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010064&cinemas=003",
+      "sinopsis": "Colette, una profesora universitaria especialista en la obra de Alfred Hitchcock, sospecha que su vecino ha cometido un asesinato. Su esposo François, un escritor de novelas policíacas, al principio duda de su teoría, pero termina por dejarse llevar por la disparatada investigación de Colette. A medida que se acumulan las pistas y el misterio crece, la pareja se convierte en un inesperado dúo de detectives para descifrar si realmente ocurrió un crimen en el 3er piso. Un thriller ligero y magistralmente elaborado que sirve como homenaje al Maestro del Suspenso.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "7ameBmuSaWU",
+      "trailer": "w5W9KtBWeVc",
       "trailers": [
-        "7ameBmuSaWU",
-        "zTXxFy43FtE",
-        "uHFLOvM3hD0",
-        "hNoIamouAjI",
-        "ZQD_VITdUas",
-        "jZ0fdmesr-w"
+        "w5W9KtBWeVc"
       ],
-      "trailerFuente": "Cineteca Nacional",
+      "trailerFuente": "TMDB",
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.8,
+      "publico": 6.3,
       "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Divorce can have a very strange effect on a family, both for the separating partners and for anyone in their household, especially children.",
-          "autor": "Brent Marchant",
-          "url": "https://www.themoviedb.org/review/68f8743a9cf01156bbb9069b"
-        },
-        {
-          "texto": "\"Anna\" (Saga Garðarsdóttir) is an artist/sculptor, separated from her herring fisherman husband \"Maggi\" (Sverrir Gudnason) and bringing up their three kids.",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6a9a673d0119776d308988b4"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt33381401/",
-      "imdbId": "tt33381401",
-      "tmdbId": 1258509,
-      "votos": 2417
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt38814447/",
+      "imdbId": "tt38814447",
+      "tmdbId": 1471224,
+      "votos": 806
     },
     "HO00009139": {
       "titulo": "El príncipe de Nanawa",
@@ -178,35 +162,30 @@
       "tmdbId": 808224,
       "votos": 51
     },
-    "HO00009563": {
-      "titulo": "Expulsado del paraíso",
-      "tituloOriginal": "Amrum",
-      "director": "Fatih Akin",
-      "pais": "Alemania",
-      "ano": 2025,
-      "duracion": 93,
-      "filmId": "HO00009563",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009563?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009563&cinemas=003",
-      "sinopsis": "A finales de 1945, durante los últimos días del régimen nazi, la lejana isla alemana de Amrum, hogar de balleneros y cazadores de focas, vive totalmente ajena a los horrores de la guerra. Nanning, un niño cercano a su adolescencia y con un profundo sentido de deber, está encargado de cuidar a su madre, una fanática hitleriana que recientemente ha dado a luz. El chico pasa sus días cazando, pescando, encargándose de los cultivos y haciendo lo que sea necesario para ayudar a mantener a flote a su familia. Expulsado del paraíso, la película más reciente del cineasta alemán de ascendencia turca Fatih Akin, es un viaje de reconocimiento donde el amor y la generosidad son la guía que Nanning utiliza para encaminarse a su verdadera identidad, enfrentado a procesos de cambio de una nación a la que parece no pertenecer.",
+    "HO00003885": {
+      "titulo": "El sembrador",
+      "tituloOriginal": null,
+      "director": "Melissa Elizondo",
+      "pais": "México",
+      "ano": 2018,
+      "duracion": 85,
+      "filmId": "HO00003885",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00003885?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00003885&cinemas=003",
+      "sinopsis": "Bartolomé, maestro en una escuela multigrado entre las montañas de Chiapas, sabe bien que la enseñanza no se basa solamente en libros de texto y no cabe en las cuatro paredes de un salón de clases. Un verdadero sembrador de conocimiento desenreda su filosofía y método y se convierte en un faro de esperanza para la creación de un modelo humanista de educación basado en la curiosidad y el amor por el mundo exterior. El sembrador hace un retrato de la valiosa labor de este maestro rural, así como del entrañable grupo de niños tseltales que aprenden todos los días de él.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "g3hT_fu_vfg",
-      "trailers": [
-        "g3hT_fu_vfg",
-        "UkVe-bfMSfw",
-        "-izT0MKkvZY",
-        "jMEXPmF8FxU"
-      ],
-      "trailerFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.2,
+      "publico": 7.9,
       "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt22507216/",
-      "imdbId": "tt22507216",
-      "tmdbId": 1269644,
-      "votos": 4834
+      "urlImdb": "https://www.imdb.com/title/tt7238368/",
+      "imdbId": "tt7238368",
+      "tmdbId": 553788,
+      "votos": 123
     },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
@@ -294,7 +273,7 @@
       "urlImdb": "https://www.imdb.com/title/tt20414360/",
       "imdbId": "tt20414360",
       "tmdbId": 1171153,
-      "votos": 2206
+      "votos": 2207
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -372,7 +351,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15181326/",
       "imdbId": "tt15181326",
       "tmdbId": 1263012,
-      "votos": 14205
+      "votos": 14237
     },
     "HO00009763": {
       "titulo": "Lo que queda de ti",
@@ -407,7 +386,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 3021
+      "votos": 3026
     },
     "HO00007608": {
       "titulo": "Los demonios del amanecer",
@@ -465,31 +444,6 @@
       "tmdbId": 1323322,
       "votos": 16
     },
-    "HO00010063": {
-      "titulo": "Me encontraste",
-      "tituloOriginal": "L’ÂME IDÉALE",
-      "director": "Alice Vial",
-      "pais": "Francia",
-      "ano": 2025,
-      "duracion": 96,
-      "filmId": "HO00010063",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010063?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010063&cinemas=003",
-      "sinopsis": "Elsa, es una mujer soltera que ha perdido la esperanza en el amor y que se dedica de lleno a su trabajo como doctora. Tiene un don muy peculiar que complica su existencia y que mantiene en secreto: puede ver y hablar con los muertos. Una noche conoce a Oscar, un hombre divertido y encantador que la hace creer de nuevo en el amor. Pero justo cuando empieza a enamorarse, descubre que su historia no es tan real como creía…",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.8,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35526093/",
-      "imdbId": "tt35526093",
-      "tmdbId": 1166170,
-      "votos": 651
-    },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
       "tituloOriginal": null,
@@ -521,6 +475,35 @@
       "imdbId": "tt15716284",
       "tmdbId": 1232350,
       "votos": 513
+    },
+    "HO00009698": {
+      "titulo": "Moscas",
+      "tituloOriginal": null,
+      "director": "Fernando Eimbcke",
+      "pais": "México-España",
+      "ano": 2026,
+      "duracion": 99,
+      "filmId": "HO00009698",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009698?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009698&cinemas=003",
+      "sinopsis": "Moscas marca el regreso de Fernando Eimbcke con una conmovedora comedia melodramática sobre la pérdida, la compañía y la resiliencia. Cuando Cristian y su padre se mudan temporalmente al departamento de Olga mientras la madre del niño recibe tratamiento médico, surge un inesperado vínculo entre personajes unidos por la ausencia. Con una destacada fotografía en blanco y negro por la cinefotógrafa María Secco, la película encuentra ternura y humor en medio del dolor cotidiano.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "eoxLjS5hXF0",
+      "trailers": [
+        "eoxLjS5hXF0",
+        "qI_JqLRJh74",
+        "wtuCOy5ZW6A"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.5,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35854741/",
+      "imdbId": "tt35854741",
+      "tmdbId": 1437703,
+      "votos": 479
     },
     "HO00009847": {
       "titulo": "Oh, fortuna",
@@ -586,7 +569,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189062
+      "votos": 189088
     },
     "HO00009561": {
       "titulo": "Resurrection",
@@ -641,33 +624,6 @@
       "imdbId": "tt33997262",
       "tmdbId": 1440130,
       "votos": 17
-    },
-    "HO00009555": {
-      "titulo": "Tus dos muertos",
-      "tituloOriginal": null,
-      "director": "Daniel Castro Zimbrón",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 102,
-      "filmId": "HO00009555",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009555?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009555&cinemas=003",
-      "sinopsis": "Cipriano Zuzunaga es un policía judicial que ha visto pasar sus mejores días y vive en una depresión que lo mantiene errante y atormentado, lo que lo ha orillado a perder contacto con la realidad. Cuando el hijo no reconocido de un famoso diputado es secuestrado, Zuzunaga es encomendado para realizar la investigación del caso y conducir una solitaria búsqueda que terminará por confrontarlo con su propio pasado. Este filme, basado en la novela homónima de Jorge Alberto Gudiño Hernández, explora la corrupción, la culpa y el pasado vertiginoso del protagonista, junto al planteamiento de una problemática común: el acceso a la justicia se ve condicionado por el estatus social y la posición económica.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "uBb0r0WKLOg",
-      "trailers": [
-        "uBb0r0WKLOg"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1365486,
-      "votos": 0
     },
     "HO00009256": {
       "titulo": "Un futuro brillante",
@@ -739,7 +695,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35298123/",
       "imdbId": "tt35298123",
       "tmdbId": 1240889,
-      "votos": 9802
+      "votos": 9914
     },
     "HO00009758": {
       "titulo": "Animanimales",
@@ -817,7 +773,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 549165
+      "votos": 549274
     },
     "HO00009806": {
       "titulo": "Coyote Vs Acme DOB",
@@ -875,7 +831,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 24432
+      "votos": 25293
     },
     "HO00009850": {
       "titulo": "John Lilly y el ECCO",
@@ -944,7 +900,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189062
+      "votos": 189088
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -998,6 +954,36 @@
       "imdbId": "tt21110404",
       "tmdbId": 654102,
       "votos": 62
+    },
+    "HO00009563": {
+      "titulo": "Expulsado del paraíso",
+      "tituloOriginal": "Amrum",
+      "director": "Fatih Akin",
+      "pais": "Alemania",
+      "ano": 2025,
+      "duracion": 93,
+      "filmId": "HO00009563",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009563?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009563&cinemas=002",
+      "sinopsis": "A finales de 1945, durante los últimos días del régimen nazi, la lejana isla alemana de Amrum, hogar de balleneros y cazadores de focas, vive totalmente ajena a los horrores de la guerra. Nanning, un niño cercano a su adolescencia y con un profundo sentido de deber, está encargado de cuidar a su madre, una fanática hitleriana que recientemente ha dado a luz. El chico pasa sus días cazando, pescando, encargándose de los cultivos y haciendo lo que sea necesario para ayudar a mantener a flote a su familia. Expulsado del paraíso, la película más reciente del cineasta alemán de ascendencia turca Fatih Akin, es un viaje de reconocimiento donde el amor y la generosidad son la guía que Nanning utiliza para encaminarse a su verdadera identidad, enfrentado a procesos de cambio de una nación a la que parece no pertenecer.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "g3hT_fu_vfg",
+      "trailers": [
+        "g3hT_fu_vfg",
+        "UkVe-bfMSfw",
+        "-izT0MKkvZY",
+        "jMEXPmF8FxU"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.2,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt22507216/",
+      "imdbId": "tt22507216",
+      "tmdbId": 1269644,
+      "votos": 4843
     },
     "HO00009759": {
       "titulo": "La odisea",
@@ -1059,7 +1045,7 @@
       "urlImdb": "https://www.imdb.com/title/tt33764258/",
       "imdbId": "tt33764258",
       "tmdbId": 1368337,
-      "votos": 493590
+      "votos": 495515
     },
     "HO00009848": {
       "titulo": "Las catadoras de Hitler",
@@ -1099,7 +1085,7 @@
       "urlImdb": "https://www.imdb.com/title/tt27811248/",
       "imdbId": "tt27811248",
       "tmdbId": 1291712,
-      "votos": 3110
+      "votos": 3114
     },
     "HO00009846": {
       "titulo": "Matrioshka",
@@ -1127,6 +1113,33 @@
       "imdbId": "tt25679778",
       "tmdbId": 1307759,
       "votos": 45
+    },
+    "HO00001991": {
+      "titulo": "Sopladora de hojas",
+      "tituloOriginal": null,
+      "director": "Alejandro Iglesias Mendizábal",
+      "pais": "México",
+      "ano": 2015,
+      "duracion": 90,
+      "filmId": "HO00001991",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00001991?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00001991&cinemas=002",
+      "sinopsis": "Alejandro Iglesias Mendizábal Alejandro Iglesias Mendizábal y Luis Montalvo. Luis Montalvo Color Aldo Marroquín. Gilberto González Penilla. Fabrizio Santini (Lucas), Francisco Paco Rueda (Emilio), Alejandro Guerrero (Rubén), Andrés Delgado (Martín), José Carlos Rodríguez (José Carlos). Laura Imperiale, Carlos Sosa y Samuel Sosa Cacerola Films, Viento del Norte Cine. Cacerola Films. B15.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "tKxw7v9BEp8",
+      "trailers": [
+        "tKxw7v9BEp8"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt4896920/",
+      "imdbId": "tt4896920",
+      "tmdbId": 345908,
+      "votos": 172
     },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
@@ -1157,113 +1170,32 @@
       "tmdbId": 1318711,
       "votos": 78
     },
-    "HO00010064": {
-      "titulo": "El crimen del 3er piso",
-      "tituloOriginal": "LE CRIME DU 3e ÉTAGE",
-      "director": "Rémi Bezançon",
-      "pais": "Francia",
-      "ano": 2026,
-      "duracion": 104,
-      "filmId": "HO00010064",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010064?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010064&cinemas=003",
-      "sinopsis": "Colette, una profesora universitaria especialista en la obra de Alfred Hitchcock, sospecha que su vecino ha cometido un asesinato. Su esposo François, un escritor de novelas policíacas, al principio duda de su teoría, pero termina por dejarse llevar por la disparatada investigación de Colette. A medida que se acumulan las pistas y el misterio crece, la pareja se convierte en un inesperado dúo de detectives para descifrar si realmente ocurrió un crimen en el 3er piso. Un thriller ligero y magistralmente elaborado que sirve como homenaje al Maestro del Suspenso.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "w5W9KtBWeVc",
-      "trailers": [
-        "w5W9KtBWeVc"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.3,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt38814447/",
-      "imdbId": "tt38814447",
-      "tmdbId": 1471224,
-      "votos": 798
-    },
-    "HO00003885": {
-      "titulo": "El sembrador",
+    "HO00009555": {
+      "titulo": "Tus dos muertos",
       "tituloOriginal": null,
-      "director": "Melissa Elizondo",
+      "director": "Daniel Castro Zimbrón",
       "pais": "México",
-      "ano": 2018,
-      "duracion": 85,
-      "filmId": "HO00003885",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00003885?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00003885&cinemas=003",
-      "sinopsis": "Bartolomé, maestro en una escuela multigrado entre las montañas de Chiapas, sabe bien que la enseñanza no se basa solamente en libros de texto y no cabe en las cuatro paredes de un salón de clases. Un verdadero sembrador de conocimiento desenreda su filosofía y método y se convierte en un faro de esperanza para la creación de un modelo humanista de educación basado en la curiosidad y el amor por el mundo exterior. El sembrador hace un retrato de la valiosa labor de este maestro rural, así como del entrañable grupo de niños tseltales que aprenden todos los días de él.",
+      "ano": 2025,
+      "duracion": 102,
+      "filmId": "HO00009555",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009555?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009555&cinemas=002",
+      "sinopsis": "Cipriano Zuzunaga es un policía judicial que ha visto pasar sus mejores días y vive en una depresión que lo mantiene errante y atormentado, lo que lo ha orillado a perder contacto con la realidad. Cuando el hijo no reconocido de un famoso diputado es secuestrado, Zuzunaga es encomendado para realizar la investigación del caso y conducir una solitaria búsqueda que terminará por confrontarlo con su propio pasado. Este filme, basado en la novela homónima de Jorge Alberto Gudiño Hernández, explora la corrupción, la culpa y el pasado vertiginoso del protagonista, junto al planteamiento de una problemática común: el acceso a la justicia se ve condicionado por el estatus social y la posición económica.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt7238368/",
-      "imdbId": "tt7238368",
-      "tmdbId": 553788,
-      "votos": 123
-    },
-    "HO00009698": {
-      "titulo": "Moscas",
-      "tituloOriginal": null,
-      "director": "Fernando Eimbcke",
-      "pais": "México-España",
-      "ano": 2026,
-      "duracion": 99,
-      "filmId": "HO00009698",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009698?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009698&cinemas=003",
-      "sinopsis": "Moscas marca el regreso de Fernando Eimbcke con una conmovedora comedia melodramática sobre la pérdida, la compañía y la resiliencia. Cuando Cristian y su padre se mudan temporalmente al departamento de Olga mientras la madre del niño recibe tratamiento médico, surge un inesperado vínculo entre personajes unidos por la ausencia. Con una destacada fotografía en blanco y negro por la cinefotógrafa María Secco, la película encuentra ternura y humor en medio del dolor cotidiano.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "eoxLjS5hXF0",
+      "trailer": "uBb0r0WKLOg",
       "trailers": [
-        "eoxLjS5hXF0",
-        "qI_JqLRJh74",
-        "wtuCOy5ZW6A"
+        "uBb0r0WKLOg"
       ],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.5,
-      "publicoFuente": "IMDb",
+      "publico": null,
+      "publicoFuente": null,
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35854741/",
-      "imdbId": "tt35854741",
-      "tmdbId": 1437703,
-      "votos": 462
-    },
-    "HO00001991": {
-      "titulo": "Sopladora de hojas",
-      "tituloOriginal": null,
-      "director": "Alejandro Iglesias Mendizábal",
-      "pais": "México",
-      "ano": 2015,
-      "duracion": 90,
-      "filmId": "HO00001991",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00001991?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00001991&cinemas=002",
-      "sinopsis": "Alejandro Iglesias Mendizábal Alejandro Iglesias Mendizábal y Luis Montalvo. Luis Montalvo Color Aldo Marroquín. Gilberto González Penilla. Fabrizio Santini (Lucas), Francisco Paco Rueda (Emilio), Alejandro Guerrero (Rubén), Andrés Delgado (Martín), José Carlos Rodríguez (José Carlos). Laura Imperiale, Carlos Sosa y Samuel Sosa Cacerola Films, Viento del Norte Cine. Cacerola Films. B15.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "tKxw7v9BEp8",
-      "trailers": [
-        "tKxw7v9BEp8"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt4896920/",
-      "imdbId": "tt4896920",
-      "tmdbId": 345908,
-      "votos": 172
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1365486,
+      "votos": 0
     },
     "HO00009892": {
       "titulo": "La isla de las mujeres",
@@ -1289,481 +1221,52 @@
       "imdbId": "tt0252551",
       "tmdbId": 485419,
       "votos": 47
+    },
+    "HO00008250": {
+      "titulo": "La cocina",
+      "tituloOriginal": null,
+      "director": "Alonso Ruizpalacios",
+      "pais": "México-Estados Unidos",
+      "ano": 2024,
+      "duracion": 139,
+      "filmId": "HO00008250",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008250?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008250&cinemas=001",
+      "sinopsis": "Es la frenética hora del almuerzo en The Grill, un restaurante para turistas en Manhattan, Nueva York, y un administrador advierte que falta dinero en la cuenta de una de las cajas. Todos los cocineros indocumentados son investigados, pero Pedro, un soñador al mismo tiempo que alborotador, se convierte en el principal sospechoso. Julia, su amante, que no quiere comprometerse en ninguna relación afectiva, le pidió una fuerte cantidad para practicarse un aborto. Rashid, el dueño de The Grill, migrante árabe, le ha prometido ayudarle con sus papeles de residencia legal. Pero una serie de revelaciones lo van sumergiendo en una espiral que acabará por hacerle parar la línea de producción de una de las cocinas más activas de la ciudad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "lCFaQKaOXNU",
+      "trailers": [
+        "lCFaQKaOXNU",
+        "v_LSvin_TdI",
+        "bIkO5zfbsnY",
+        "dyEA8XN-s6I",
+        "MXhtJ5sBYXU",
+        "USBei3T-s7g"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "If you saw “Boiling Point” (2021) then you’ll get the gist of this drama set in an hectic New York restaurant kitchen.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/67e819606214525cd5638082"
+        },
+        {
+          "texto": "La Cocina: Society in a Pressure Cooker Not every film needs to be an Aesop's fable, and \"La Cocina\" understands this perfectly.",
+          "autor": "badelf",
+          "url": "https://www.themoviedb.org/review/690df63c212f6c374bce7b42"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt19864832/",
+      "imdbId": "tt19864832",
+      "tmdbId": 966238,
+      "votos": 5353
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009956",
-      "sala": null,
-      "horarios": [
-        "17:30",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00008666",
-      "sala": null,
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009557",
-      "sala": null,
-      "horarios": [
-        "16:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009139",
-      "sala": null,
-      "horarios": [
-        "16:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009563",
-      "sala": null,
-      "horarios": [
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009424",
-      "sala": null,
-      "horarios": [
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009929",
-      "sala": null,
-      "horarios": [
-        "16:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009559",
-      "sala": null,
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009787",
-      "sala": null,
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009872",
-      "sala": null,
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009763",
-      "sala": null,
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00007608",
-      "sala": null,
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00008486",
-      "sala": null,
-      "horarios": [
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00010063",
-      "sala": null,
-      "horarios": [
-        "16:00",
-        "18:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009426",
-      "sala": null,
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009847",
-      "sala": null,
-      "horarios": [
-        "16:30",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009958",
-      "sala": null,
-      "horarios": [
-        "16:00",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009561",
-      "sala": null,
-      "horarios": [
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009814",
-      "sala": null,
-      "horarios": [
-        "16:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009555",
-      "sala": null,
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009256",
-      "sala": null,
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009798",
-      "sala": null,
-      "horarios": [
-        "14:10",
-        "16:25",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009758",
-      "sala": null,
-      "horarios": [
-        "16:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009933",
-      "sala": null,
-      "horarios": [
-        "14:40",
-        "17:00",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009806",
-      "sala": null,
-      "horarios": [
-        "14:00",
-        "16:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009956",
-      "sala": null,
-      "horarios": [
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009850",
-      "sala": null,
-      "horarios": [
-        "15:10",
-        "17:10",
-        "19:10"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009787",
-      "sala": null,
-      "horarios": [
-        "14:20",
-        "16:35",
-        "18:50"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009763",
-      "sala": null,
-      "horarios": [
-        "14:05",
-        "16:55",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009931",
-      "sala": null,
-      "horarios": [
-        "14:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009958",
-      "sala": null,
-      "horarios": [
-        "16:30",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009932",
-      "sala": null,
-      "horarios": [
-        "15:00",
-        "17:00",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009798",
-      "sala": null,
-      "horarios": [
-        "13:40",
-        "16:00",
-        "18:20",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009849",
-      "sala": null,
-      "horarios": [
-        "13:10",
-        "17:10",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009933",
-      "sala": null,
-      "horarios": [
-        "13:20",
-        "15:40",
-        "18:00",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009563",
-      "sala": null,
-      "horarios": [
-        "12:20",
-        "14:30",
-        "17:00",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009850",
-      "sala": null,
-      "horarios": [
-        "14:00",
-        "15:50",
-        "18:10",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009759",
-      "sala": null,
-      "horarios": [
-        "13:00",
-        "16:20",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009848",
-      "sala": null,
-      "horarios": [
-        "12:30",
-        "15:00",
-        "17:30",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009846",
-      "sala": null,
-      "horarios": [
-        "13:30",
-        "15:30",
-        "17:30",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009426",
-      "sala": null,
-      "horarios": [
-        "12:10",
-        "14:10",
-        "16:30",
-        "18:50",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009931",
-      "sala": null,
-      "horarios": [
-        "12:00",
-        "14:20",
-        "16:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009958",
-      "sala": null,
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009932",
-      "sala": null,
-      "horarios": [
-        "12:50",
-        "14:50",
-        "16:50",
-        "18:50",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009851",
-      "sala": null,
-      "horarios": [
-        "15:10",
-        "19:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-16",
-      "pelicula": "HO00009555",
-      "sala": null,
-      "horarios": [
-        "12:40",
-        "15:10",
-        "17:40",
-        "20:10"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-09-17",
@@ -2241,6 +1744,15 @@
       "sala": null,
       "horarios": [
         "18:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-23",
+      "pelicula": "HO00008250",
+      "sala": null,
+      "horarios": [
+        "17:00"
       ]
     }
   ]
