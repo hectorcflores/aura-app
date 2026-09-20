@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f6f6f4">
+<title>Aura — Two rows</title>
+<style>
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;background:#f6f6f4}body{overflow:hidden}
+main{height:100svh;display:flex;flex-direction:column;justify-content:space-between;padding:max(14px,env(safe-area-inset-top)) clamp(12px,3vw,42px) max(14px,env(safe-area-inset-bottom))}
+.row{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px;width:100%}
+.film{position:relative;aspect-ratio:16/9;overflow:hidden;background:#e9e9e5;border:0;padding:0;cursor:pointer}
+.film img,.stage{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.stage{opacity:0;transition:opacity .5s;pointer-events:none}.film.playing .stage{opacity:1}
+.stage iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.film:focus-visible{outline:2px solid #111;outline-offset:3px}
+@media(max-width:600px){main{padding-left:10px;padding-right:10px}.row{gap:4px}}
+@media(prefers-reduced-motion:reduce){.stage{transition:none}}
+</style>
+</head>
+<body>
+<main aria-label="Trailers de Aura"><section class="row" id="top" aria-label="Primera fila"></section><section class="row" id="bottom" aria-label="Segunda fila"></section></main>
+<script>
+const players=[],tiles=[];
+let resolveApi;
+const api=new Promise(resolve=>resolveApi=resolve);
+window.onYouTubeIframeAPIReady=()=>resolveApi();
+const tag=document.createElement('script');tag.src='https://www.youtube.com/iframe_api';document.head.append(tag);
+async function start(){
+ const response=await fetch('../../app/data/cartelera.json',{cache:'no-store'});
+ if(!response.ok)throw Error('Cartelera unavailable');
+ const data=await response.json(),query=new URLSearchParams(location.search),sede=query.get('sede')||'003';
+ const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Mexico_City'}).format(new Date());
+ const dates=[...new Set(data.funciones.filter(f=>f.sede===sede).map(f=>f.fecha))].sort();
+ const date=dates.includes(query.get('fecha'))?query.get('fecha'):(dates.find(d=>d>=today)||dates.at(-1));
+ const films=[...new Set(data.funciones.filter(f=>f.sede===sede&&f.fecha===date).map(f=>f.pelicula))]
+ .map(id=>data.peliculas[id]).filter(p=>p?.trailer).sort((a,b)=>(b.votos||0)-(a.votos||0)).slice(0,10);
+ films.forEach((film,i)=>{
+  const tile=document.createElement('button');tile.className='film';tile.setAttribute('aria-label',film.titulo+' — activar sonido');tile.setAttribute('aria-pressed','false');
+  const poster=document.createElement('img');poster.src='https://i.ytimg.com/vi/'+encodeURIComponent(film.trailer)+'/hqdefault.jpg';poster.alt='';tile.append(poster);
+  const stage=document.createElement('div');stage.className='stage';const mount=document.createElement('div');mount.id='trailer-'+i;stage.append(mount);tile.append(stage);
+  document.getElementById(i<Math.ceil(films.length/2)?'top':'bottom').append(tile);tiles.push(tile);
+  tile.onclick=()=>{const player=players[i];if(!player)return;const muted=player.isMuted();players.forEach((p,j)=>{p?.mute();tiles[j].setAttribute('aria-pressed','false');});if(muted){player.unMute();player.playVideo();tile.setAttribute('aria-pressed','true');}else player.mute();};
+ });
+ await api;
+ films.forEach((film,i)=>{players[i]=new YT.Player('trailer-'+i,{videoId:film.trailer,playerVars:{autoplay:1,mute:1,controls:0,playsinline:1,start:10,rel:0,disablekb:1,fs:0},events:{
+ onReady:e=>{e.target.mute();e.target.playVideo();},
+ onStateChange:e=>{if(e.data===1)setTimeout(()=>{if(e.target.getPlayerState()===1)tiles[i].classList.add('playing');},1800);if(e.data===0){e.target.seekTo(10,true);e.target.playVideo();}},
+ onError:()=>tiles[i].classList.remove('playing')
+ }});});
+}
+document.addEventListener('visibilitychange',()=>players.forEach(p=>{if(document.hidden)p?.pauseVideo();else p?.playVideo();}));
+start().catch(error=>console.error(error));
+</script>
+</body>
+</html>
