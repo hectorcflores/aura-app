@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-21T14:01:02.229Z",
+  "generadoEn": "2026-09-21T19:33:08.951Z",
   "hoy": "2026-09-21",
   "sedes": [
     {
@@ -1083,68 +1083,6 @@
       "tmdbId": 1338956,
       "votos": 0
     },
-    "HO00009759": {
-      "titulo": "La odisea",
-      "tituloOriginal": "The Odyssey",
-      "director": "Christopher Nolan",
-      "pais": "Reino Unido",
-      "ano": 2026,
-      "duracion": 172,
-      "filmId": "HO00009759",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009759?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009759&cinemas=002",
-      "sinopsis": "Con el estilo metódico que lo caracteriza, el director Christopher Nolan adaptó para el cine la historia más famosa de la literatura épica. Matt Damon interpreta a Odiseo, un combatiente griego que, concluida la guerra, debe emprender un viaje lleno de enfrentamientos contra criaturas mitológicas, deidades e incluso los peligros del mar para regresar a Ítaca, su hogar. Con esta producción, cuyo desarrollo dedicó casi dos décadas, Nolan culmina uno de los proyectos más ambiciosos de su carrera.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "8un_UztYsw0",
-      "trailers": [
-        "8un_UztYsw0",
-        "ub41K58GvFg",
-        "iuS9JkUjnQY",
-        "7GciuQJFsWE",
-        "kx3pmGx24Tg",
-        "X9nUrOnHlz0",
-        "07DAunCV3Mw",
-        "aUWTVfwdm-c",
-        "uZR0s1THqg0",
-        "p6W3EWqpvZ4",
-        "gIiZ7acBx34",
-        "aQP316HV8Ek",
-        "jjAlx6gdWz4",
-        "k6aYIQjfutw",
-        "HI_1D7lzkwg",
-        "GT37prVAl6o",
-        "AyIZ9tiiN8I",
-        "ie6k69mpHHI",
-        "f_bKjZeJBBI",
-        "Mzw2ttJD2qQ"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.4,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Monty Python couldn't improve on this. Suffice to say, someone doesn't know their classical Greek history/mythology too well.",
-          "autor": "MovieGuys",
-          "url": "https://www.themoviedb.org/review/6a55abb707cf27ca7fcf26ba"
-        },
-        {
-          "texto": "Check out my full review @ https://www.manuelsbento.com/the-odyssey-2026-christopher-nolans-most-faithful-epic-is-also-his-most-ambitious-one/ Rating: A+ (updated after second viewing) THE…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6a57bb188acab94fa30511d1"
-        },
-        {
-          "texto": "The hype was massive, the crowd was packed, but the boredom in the theatre at the end credits said it all. A 172-minute film felt like it was a 6+ hour watch.",
-          "autor": "AlphaLucifer",
-          "url": "https://www.themoviedb.org/review/6a5a45359163f0f6e3b855d8"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt33764258/",
-      "imdbId": "tt33764258",
-      "tmdbId": 1368337,
-      "votos": 501920
-    },
     "HO00009848": {
       "titulo": "Las catadoras de Hitler",
       "tituloOriginal": "Le assaggiatrici",
@@ -1292,6 +1230,68 @@
       "imdbId": "tt0194378",
       "tmdbId": 49984,
       "votos": 2208
+    },
+    "HO00009759": {
+      "titulo": "La odisea",
+      "tituloOriginal": "The Odyssey",
+      "director": "Christopher Nolan",
+      "pais": "Reino Unido",
+      "ano": 2026,
+      "duracion": 172,
+      "filmId": "HO00009759",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009759?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009759&cinemas=002",
+      "sinopsis": "Con el estilo metódico que lo caracteriza, el director Christopher Nolan adaptó para el cine la historia más famosa de la literatura épica. Matt Damon interpreta a Odiseo, un combatiente griego que, concluida la guerra, debe emprender un viaje lleno de enfrentamientos contra criaturas mitológicas, deidades e incluso los peligros del mar para regresar a Ítaca, su hogar. Con esta producción, cuyo desarrollo dedicó casi dos décadas, Nolan culmina uno de los proyectos más ambiciosos de su carrera.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "8un_UztYsw0",
+      "trailers": [
+        "8un_UztYsw0",
+        "ub41K58GvFg",
+        "iuS9JkUjnQY",
+        "7GciuQJFsWE",
+        "kx3pmGx24Tg",
+        "X9nUrOnHlz0",
+        "07DAunCV3Mw",
+        "aUWTVfwdm-c",
+        "uZR0s1THqg0",
+        "p6W3EWqpvZ4",
+        "gIiZ7acBx34",
+        "aQP316HV8Ek",
+        "jjAlx6gdWz4",
+        "k6aYIQjfutw",
+        "HI_1D7lzkwg",
+        "GT37prVAl6o",
+        "AyIZ9tiiN8I",
+        "ie6k69mpHHI",
+        "f_bKjZeJBBI",
+        "Mzw2ttJD2qQ"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.4,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Monty Python couldn't improve on this. Suffice to say, someone doesn't know their classical Greek history/mythology too well.",
+          "autor": "MovieGuys",
+          "url": "https://www.themoviedb.org/review/6a55abb707cf27ca7fcf26ba"
+        },
+        {
+          "texto": "Check out my full review @ https://www.manuelsbento.com/the-odyssey-2026-christopher-nolans-most-faithful-epic-is-also-his-most-ambitious-one/ Rating: A+ (updated after second viewing) THE…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6a57bb188acab94fa30511d1"
+        },
+        {
+          "texto": "The hype was massive, the crowd was packed, but the boredom in the theatre at the end credits said it all. A 172-minute film felt like it was a 6+ hour watch.",
+          "autor": "AlphaLucifer",
+          "url": "https://www.themoviedb.org/review/6a5a45359163f0f6e3b855d8"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt33764258/",
+      "imdbId": "tt33764258",
+      "tmdbId": 1368337,
+      "votos": 501920
     },
     "HO00009559": {
       "titulo": "La chica de Colonia",
@@ -1914,15 +1914,6 @@
         "15:10",
         "17:10",
         "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-21",
-      "pelicula": "HO00009759",
-      "sala": null,
-      "horarios": [
-        "13:00"
       ]
     },
     {
@@ -3372,6 +3363,15 @@
         "14:30",
         "17:00",
         "19:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-21",
+      "pelicula": "HO00009759",
+      "sala": null,
+      "horarios": [
+        "13:00"
       ]
     }
   ]
