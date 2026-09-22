@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-22T12:34:20.389Z",
+  "generadoEn": "2026-09-22T18:09:01.248Z",
   "hoy": "2026-09-22",
   "sedes": [
     {
@@ -1459,7 +1459,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009956",
-      "sala": null,
+      "sala": "Sala 2",
       "horarios": [
         "15:30",
         "18:00"
@@ -1469,7 +1469,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00008666",
-      "sala": null,
+      "sala": "Sala 5",
       "horarios": [
         "15:00"
       ]
@@ -1478,7 +1478,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009934",
-      "sala": null,
+      "sala": "Sala 1",
       "horarios": [
         "20:00"
       ]
@@ -1487,7 +1487,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009557",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "15:00"
       ]
@@ -1496,7 +1496,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00010061",
-      "sala": null,
+      "sala": "Sala 3",
       "horarios": [
         "16:00",
         "18:30",
@@ -1507,7 +1507,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009139",
-      "sala": null,
+      "sala": "Sala 6",
       "horarios": [
         "19:30"
       ]
@@ -1516,7 +1516,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009424",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "16:30"
       ]
@@ -1525,7 +1525,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009787",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "21:00"
       ]
@@ -1534,7 +1534,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009892",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "18:00"
       ]
@@ -1543,7 +1543,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009872",
-      "sala": null,
+      "sala": "Sala 9",
       "horarios": [
         "21:00"
       ]
@@ -1552,7 +1552,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009763",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "20:30"
       ]
@@ -1561,7 +1561,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00008486",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "16:15"
       ]
@@ -1570,7 +1570,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009426",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "17:00",
         "19:00"
@@ -1580,7 +1580,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009698",
-      "sala": null,
+      "sala": "Sala 9",
       "horarios": [
         "15:30"
       ]
@@ -1589,7 +1589,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009958",
-      "sala": null,
+      "sala": "Sala 1",
       "horarios": [
         "15:00",
         "17:30"
@@ -1599,7 +1599,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009561",
-      "sala": null,
+      "sala": "Sala 9",
       "horarios": [
         "17:45"
       ]
@@ -1608,7 +1608,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009814",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "14:15",
         "18:30"
@@ -1627,7 +1627,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009555",
-      "sala": null,
+      "sala": "Sala 6",
       "horarios": [
         "17:00"
       ]
@@ -1636,7 +1636,7 @@
       "sede": "003",
       "fecha": "2026-09-22",
       "pelicula": "HO00009256",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "14:00"
       ]
@@ -1645,7 +1645,7 @@
       "sede": "001",
       "fecha": "2026-09-22",
       "pelicula": "HO00009933",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "14:30",
         "16:50",
@@ -1656,7 +1656,7 @@
       "sede": "001",
       "fecha": "2026-09-22",
       "pelicula": "HO00009806",
-      "sala": null,
+      "sala": "Sala 2",
       "horarios": [
         "13:30",
         "15:30"
@@ -1666,7 +1666,7 @@
       "sede": "001",
       "fecha": "2026-09-22",
       "pelicula": "HO00009956",
-      "sala": null,
+      "sala": "Sala 2",
       "horarios": [
         "17:30",
         "19:30"
@@ -1676,7 +1676,7 @@
       "sede": "001",
       "fecha": "2026-09-22",
       "pelicula": "HO00008162",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "13:30",
         "15:25",
@@ -1688,7 +1688,7 @@
       "sede": "001",
       "fecha": "2026-09-22",
       "pelicula": "HO00009850",
-      "sala": null,
+      "sala": "Sala 5",
       "horarios": [
         "13:00"
       ]
@@ -1697,7 +1697,7 @@
       "sede": "001",
       "fecha": "2026-09-22",
       "pelicula": "HO00009787",
-      "sala": null,
+      "sala": "Sala 1",
       "horarios": [
         "13:40",
         "16:00",
@@ -1708,7 +1708,7 @@
       "sede": "001",
       "fecha": "2026-09-22",
       "pelicula": "HO00009763",
-      "sala": null,
+      "sala": "Sala 6",
       "horarios": [
         "13:40",
         "16:40",
@@ -1719,7 +1719,7 @@
       "sede": "001",
       "fecha": "2026-09-22",
       "pelicula": "HO00009931",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "13:25",
         "15:25"
@@ -1729,7 +1729,7 @@
       "sede": "001",
       "fecha": "2026-09-22",
       "pelicula": "HO00009958",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "17:25",
         "19:25"
@@ -1739,7 +1739,7 @@
       "sede": "001",
       "fecha": "2026-09-22",
       "pelicula": "HO00009932",
-      "sala": null,
+      "sala": "Sala 3",
       "horarios": [
         "13:00",
         "15:00",
@@ -1751,7 +1751,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009798",
-      "sala": null,
+      "sala": "Sala 1",
       "horarios": [
         "13:40",
         "16:00",
@@ -1763,7 +1763,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009933",
-      "sala": null,
+      "sala": "Sala 12",
       "horarios": [
         "13:20",
         "15:40",
@@ -1775,7 +1775,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009563",
-      "sala": null,
+      "sala": "Sala 11",
       "horarios": [
         "14:50",
         "16:50",
@@ -1786,7 +1786,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009935",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "14:10",
         "16:30",
@@ -1798,7 +1798,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009850",
-      "sala": null,
+      "sala": "Sala 5",
       "horarios": [
         "15:10",
         "17:10",
@@ -1809,7 +1809,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009759",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "13:00",
         "16:20",
@@ -1820,7 +1820,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009848",
-      "sala": null,
+      "sala": "Sala 6",
       "horarios": [
         "15:00",
         "17:30",
@@ -1831,7 +1831,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009426",
-      "sala": null,
+      "sala": "Sala 2",
       "horarios": [
         "14:00",
         "16:10",
@@ -1843,7 +1843,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009931",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "14:20",
         "16:40"
@@ -1853,7 +1853,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009958",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "19:00"
       ]
@@ -1862,7 +1862,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009932",
-      "sala": null,
+      "sala": "Sala 3",
       "horarios": [
         "15:20",
         "17:20",
@@ -1873,7 +1873,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009851",
-      "sala": null,
+      "sala": "Sala 9",
       "horarios": [
         "13:30",
         "15:30",
@@ -1885,7 +1885,7 @@
       "sede": "002",
       "fecha": "2026-09-22",
       "pelicula": "HO00009555",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "14:30",
         "17:00",
@@ -1896,7 +1896,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009956",
-      "sala": null,
+      "sala": "Sala 2",
       "horarios": [
         "15:30",
         "18:00",
@@ -1907,7 +1907,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00008666",
-      "sala": null,
+      "sala": "Sala 5",
       "horarios": [
         "14:30"
       ]
@@ -1916,7 +1916,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009557",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "14:00"
       ]
@@ -1925,7 +1925,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009139",
-      "sala": null,
+      "sala": "Sala 6",
       "horarios": [
         "19:30"
       ]
@@ -1934,7 +1934,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009563",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "16:30"
       ]
@@ -1943,7 +1943,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009424",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "16:30"
       ]
@@ -1952,7 +1952,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009929",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "18:30"
       ]
@@ -1961,7 +1961,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009559",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "18:30"
       ]
@@ -1970,7 +1970,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009787",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "14:30",
         "21:00"
@@ -1980,7 +1980,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009872",
-      "sala": null,
+      "sala": "Sala 9",
       "horarios": [
         "21:00"
       ]
@@ -1989,7 +1989,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009763",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "20:30"
       ]
@@ -1998,7 +1998,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00008486",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "16:15",
         "20:30"
@@ -2008,7 +2008,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009426",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "17:00",
         "19:00"
@@ -2018,7 +2018,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009698",
-      "sala": null,
+      "sala": "Sala 9",
       "horarios": [
         "15:30"
       ]
@@ -2027,7 +2027,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009847",
-      "sala": null,
+      "sala": "Sala 5",
       "horarios": [
         "20:00"
       ]
@@ -2036,7 +2036,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009958",
-      "sala": null,
+      "sala": "Sala 1",
       "horarios": [
         "15:00",
         "17:30"
@@ -2046,7 +2046,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009561",
-      "sala": null,
+      "sala": "Sala 9",
       "horarios": [
         "17:45"
       ]
@@ -2055,7 +2055,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009814",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "14:15",
         "18:30"
@@ -2065,7 +2065,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00010060",
-      "sala": null,
+      "sala": "Sala 3",
       "horarios": [
         "16:00",
         "18:30",
@@ -2076,7 +2076,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009280",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "21:00"
       ]
@@ -2085,7 +2085,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009555",
-      "sala": null,
+      "sala": "Sala 6",
       "horarios": [
         "17:00"
       ]
@@ -2094,7 +2094,7 @@
       "sede": "003",
       "fecha": "2026-09-23",
       "pelicula": "HO00009256",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "14:00"
       ]
@@ -2103,7 +2103,7 @@
       "sede": "001",
       "fecha": "2026-09-23",
       "pelicula": "HO00009933",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "14:30",
         "16:50",
@@ -2114,7 +2114,7 @@
       "sede": "001",
       "fecha": "2026-09-23",
       "pelicula": "HO00009806",
-      "sala": null,
+      "sala": "Sala 2",
       "horarios": [
         "13:30",
         "15:30"
@@ -2124,7 +2124,7 @@
       "sede": "001",
       "fecha": "2026-09-23",
       "pelicula": "HO00009956",
-      "sala": null,
+      "sala": "Sala 2",
       "horarios": [
         "17:30",
         "19:30"
@@ -2134,7 +2134,7 @@
       "sede": "001",
       "fecha": "2026-09-23",
       "pelicula": "HO00008162",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "13:30",
         "15:25",
@@ -2146,7 +2146,7 @@
       "sede": "001",
       "fecha": "2026-09-23",
       "pelicula": "HO00009850",
-      "sala": null,
+      "sala": "Sala 5",
       "horarios": [
         "14:30"
       ]
@@ -2155,7 +2155,7 @@
       "sede": "001",
       "fecha": "2026-09-23",
       "pelicula": "HO00008250",
-      "sala": null,
+      "sala": "Sala 5",
       "horarios": [
         "17:00"
       ]
@@ -2164,7 +2164,7 @@
       "sede": "001",
       "fecha": "2026-09-23",
       "pelicula": "HO00009787",
-      "sala": null,
+      "sala": "Sala 1",
       "horarios": [
         "13:40",
         "16:00",
@@ -2175,7 +2175,7 @@
       "sede": "001",
       "fecha": "2026-09-23",
       "pelicula": "HO00009763",
-      "sala": null,
+      "sala": "Sala 6",
       "horarios": [
         "13:40"
       ]
@@ -2184,7 +2184,7 @@
       "sede": "001",
       "fecha": "2026-09-23",
       "pelicula": "HO00009931",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "13:25",
         "15:25"
@@ -2194,7 +2194,7 @@
       "sede": "001",
       "fecha": "2026-09-23",
       "pelicula": "HO00009958",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "17:25",
         "19:25"
@@ -2204,7 +2204,7 @@
       "sede": "001",
       "fecha": "2026-09-23",
       "pelicula": "HO00009932",
-      "sala": null,
+      "sala": "Sala 3",
       "horarios": [
         "13:00",
         "15:00",
@@ -2216,7 +2216,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009798",
-      "sala": null,
+      "sala": "Sala 1",
       "horarios": [
         "13:40",
         "16:00",
@@ -2228,7 +2228,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009933",
-      "sala": null,
+      "sala": "Sala 12",
       "horarios": [
         "13:20",
         "15:40",
@@ -2240,7 +2240,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009563",
-      "sala": null,
+      "sala": "Sala 11",
       "horarios": [
         "14:50",
         "16:50",
@@ -2251,7 +2251,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009935",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "14:10",
         "16:30",
@@ -2263,7 +2263,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009850",
-      "sala": null,
+      "sala": "Sala 5",
       "horarios": [
         "15:10",
         "17:10",
@@ -2274,7 +2274,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009759",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "13:00",
         "16:20",
@@ -2285,7 +2285,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009848",
-      "sala": null,
+      "sala": "Sala 6",
       "horarios": [
         "15:00",
         "17:30",
@@ -2296,7 +2296,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009426",
-      "sala": null,
+      "sala": "Sala 2",
       "horarios": [
         "14:00",
         "16:10",
@@ -2308,7 +2308,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009931",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "14:20",
         "16:40"
@@ -2318,7 +2318,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009958",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "19:00"
       ]
@@ -2327,7 +2327,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009932",
-      "sala": null,
+      "sala": "Sala 3",
       "horarios": [
         "13:10",
         "15:20",
@@ -2339,7 +2339,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009851",
-      "sala": null,
+      "sala": "Sala 9",
       "horarios": [
         "13:30",
         "15:30"
@@ -2349,7 +2349,7 @@
       "sede": "002",
       "fecha": "2026-09-23",
       "pelicula": "HO00009555",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "14:30",
         "17:00",
@@ -2360,7 +2360,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009956",
-      "sala": null,
+      "sala": "Sala 2",
       "horarios": [
         "15:30",
         "18:00",
@@ -2371,7 +2371,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00008666",
-      "sala": null,
+      "sala": "Sala 5",
       "horarios": [
         "15:00",
         "18:45"
@@ -2381,7 +2381,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009934",
-      "sala": null,
+      "sala": "Sala 1",
       "horarios": [
         "20:00"
       ]
@@ -2390,7 +2390,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00010062",
-      "sala": null,
+      "sala": "Sala 3",
       "horarios": [
         "16:00",
         "18:30",
@@ -2401,7 +2401,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009139",
-      "sala": null,
+      "sala": "Sala 6",
       "horarios": [
         "19:30"
       ]
@@ -2410,7 +2410,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00006138",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "18:00"
       ]
@@ -2419,7 +2419,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009424",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "16:30"
       ]
@@ -2428,7 +2428,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009929",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "18:30"
       ]
@@ -2437,7 +2437,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009559",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "15:00"
       ]
@@ -2446,7 +2446,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009787",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "14:30",
         "21:00"
@@ -2456,7 +2456,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009872",
-      "sala": null,
+      "sala": "Sala 9",
       "horarios": [
         "21:00"
       ]
@@ -2465,7 +2465,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009763",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "20:30"
       ]
@@ -2474,7 +2474,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00008486",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "16:15",
         "20:30"
@@ -2484,7 +2484,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009426",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "17:00",
         "19:00"
@@ -2494,7 +2494,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009698",
-      "sala": null,
+      "sala": "Sala 9",
       "horarios": [
         "15:30"
       ]
@@ -2503,7 +2503,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009847",
-      "sala": null,
+      "sala": "Sala 5",
       "horarios": [
         "16:45",
         "20:30"
@@ -2513,7 +2513,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009958",
-      "sala": null,
+      "sala": "Sala 1",
       "horarios": [
         "15:00",
         "17:30"
@@ -2523,7 +2523,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009561",
-      "sala": null,
+      "sala": "Sala 9",
       "horarios": [
         "17:45"
       ]
@@ -2532,7 +2532,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009814",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "14:15",
         "18:30"
@@ -2542,7 +2542,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009555",
-      "sala": null,
+      "sala": "Sala 6",
       "horarios": [
         "17:00"
       ]
@@ -2551,7 +2551,7 @@
       "sede": "003",
       "fecha": "2026-09-24",
       "pelicula": "HO00009256",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "14:00"
       ]
@@ -2571,7 +2571,7 @@
       "sede": "001",
       "fecha": "2026-09-24",
       "pelicula": "HO00009933",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "14:30",
         "16:50",
@@ -2582,7 +2582,7 @@
       "sede": "001",
       "fecha": "2026-09-24",
       "pelicula": "HO00009806",
-      "sala": null,
+      "sala": "Sala 2",
       "horarios": [
         "13:30",
         "15:30"
@@ -2592,7 +2592,7 @@
       "sede": "001",
       "fecha": "2026-09-24",
       "pelicula": "HO00009956",
-      "sala": null,
+      "sala": "Sala 2",
       "horarios": [
         "17:30",
         "19:30"
@@ -2602,7 +2602,7 @@
       "sede": "001",
       "fecha": "2026-09-24",
       "pelicula": "HO00008162",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "13:30",
         "15:25",
@@ -2614,7 +2614,7 @@
       "sede": "001",
       "fecha": "2026-09-24",
       "pelicula": "HO00009850",
-      "sala": null,
+      "sala": "Sala 5",
       "horarios": [
         "13:10",
         "15:10",
@@ -2626,7 +2626,7 @@
       "sede": "001",
       "fecha": "2026-09-24",
       "pelicula": "HO00009787",
-      "sala": null,
+      "sala": "Sala 1",
       "horarios": [
         "13:40",
         "16:00",
@@ -2637,7 +2637,7 @@
       "sede": "001",
       "fecha": "2026-09-24",
       "pelicula": "HO00009763",
-      "sala": null,
+      "sala": "Sala 6",
       "horarios": [
         "13:40",
         "16:40",
@@ -2648,7 +2648,7 @@
       "sede": "001",
       "fecha": "2026-09-24",
       "pelicula": "HO00009931",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "13:25",
         "15:25"
@@ -2658,7 +2658,7 @@
       "sede": "001",
       "fecha": "2026-09-24",
       "pelicula": "HO00009958",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "17:25",
         "19:25"
@@ -2668,7 +2668,7 @@
       "sede": "001",
       "fecha": "2026-09-24",
       "pelicula": "HO00009932",
-      "sala": null,
+      "sala": "Sala 3",
       "horarios": [
         "13:00",
         "15:00",
@@ -2680,7 +2680,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009798",
-      "sala": null,
+      "sala": "Sala 1",
       "horarios": [
         "13:40",
         "16:00",
@@ -2692,7 +2692,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009933",
-      "sala": null,
+      "sala": "Sala 12",
       "horarios": [
         "13:20",
         "15:40",
@@ -2704,7 +2704,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00007318",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "18:00"
       ]
@@ -2713,7 +2713,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009563",
-      "sala": null,
+      "sala": "Sala 11",
       "horarios": [
         "14:50",
         "16:50",
@@ -2724,7 +2724,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009935",
-      "sala": null,
+      "sala": "Sala 4",
       "horarios": [
         "14:10",
         "16:30",
@@ -2736,7 +2736,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009850",
-      "sala": null,
+      "sala": "Sala 5",
       "horarios": [
         "15:10",
         "17:10",
@@ -2747,7 +2747,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009759",
-      "sala": null,
+      "sala": "Sala 7",
       "horarios": [
         "13:00"
       ]
@@ -2756,7 +2756,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009848",
-      "sala": null,
+      "sala": "Sala 6",
       "horarios": [
         "15:00",
         "17:30",
@@ -2767,7 +2767,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009426",
-      "sala": null,
+      "sala": "Sala 2",
       "horarios": [
         "14:00",
         "16:10",
@@ -2779,7 +2779,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009931",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "14:20",
         "16:40"
@@ -2789,7 +2789,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009958",
-      "sala": null,
+      "sala": "Sala 10",
       "horarios": [
         "19:00"
       ]
@@ -2798,7 +2798,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009932",
-      "sala": null,
+      "sala": "Sala 3",
       "horarios": [
         "13:10",
         "15:20",
@@ -2810,7 +2810,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009851",
-      "sala": null,
+      "sala": "Sala 9",
       "horarios": [
         "13:30",
         "15:30",
@@ -2822,7 +2822,7 @@
       "sede": "002",
       "fecha": "2026-09-24",
       "pelicula": "HO00009555",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "14:30",
         "17:00",
