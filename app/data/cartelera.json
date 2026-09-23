@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-09-22T18:09:01.248Z",
-  "hoy": "2026-09-22",
+  "generadoEn": "2026-09-23T12:44:13.800Z",
+  "hoy": "2026-09-23",
   "sedes": [
     {
       "id": "003",
@@ -19,9 +19,9 @@
     }
   ],
   "fechas": [
-    "2026-09-22",
     "2026-09-23",
-    "2026-09-24"
+    "2026-09-24",
+    "2026-09-29"
   ],
   "peliculas": {
     "HO00009956": {
@@ -84,7 +84,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 28856
+      "votos": 29470
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -110,51 +110,6 @@
       "imdbId": null,
       "tmdbId": 1446468,
       "votos": 0
-    },
-    "HO00009934": {
-      "titulo": "Dogtooth: Canino",
-      "tituloOriginal": "Kynodontas",
-      "director": "Yorgos Lanthimos",
-      "pais": "Grecia",
-      "ano": 2009,
-      "duracion": 97,
-      "filmId": "HO00009934",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009934?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009934&cinemas=003",
-      "sinopsis": "Canino narra la historia de una familia griega que vive recluida en su casa. El matrimonio manipula a sus tres hijos con reglas absurdas para convencerlos de que el mundo exterior es un territorio prohibido, al cual sólo podrán acceder cuando se les caiga un diente canino. En este filme, nominado al Óscar como mejor película en lengua no inglesa, el director Yorgos Lanthimos logra transitar la comedia negra y el terror psicológico, creando un cuestionamiento hacia las estructuras sociales que conocemos.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "YJe4eZ9l5KY",
-      "trailers": [
-        "YJe4eZ9l5KY",
-        "0bYpMPXXsvI",
-        "ElVysSnB3yg"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Doogtooth, the official Greek entry to the 2011 Academy Awards, is nominated for Best Foreign Film.",
-          "autor": "MoHA",
-          "url": "https://www.themoviedb.org/review/55d9073192514143e6002fa9"
-        },
-        {
-          "texto": "Unnamed parents (Christos Stergioglou and Michele Valley) are so obsessed with their children that they have, over the years, created an walled environment in which they see nobody but each…",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6636091a8de0ae0129f5f362"
-        },
-        {
-          "texto": "<em'Dogtooth'</em is certainly a Yorgos Lanthimos film! On the whole, I found this fascinating. It gets quite disturbing in parts, as you'd expect from this director, but all in all it is…",
-          "autor": "r96sk",
-          "url": "https://www.themoviedb.org/review/67a6b35edf55e8f213f0fb93"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt1379182/",
-      "imdbId": "tt1379182",
-      "tmdbId": 38810,
-      "votos": 125058
     },
     "HO00009557": {
       "titulo": "El amor que permanece",
@@ -197,34 +152,7 @@
       "urlImdb": "https://www.imdb.com/title/tt33381401/",
       "imdbId": "tt33381401",
       "tmdbId": 1258509,
-      "votos": 2430
-    },
-    "HO00010061": {
-      "titulo": "El desconocido del gran arco",
-      "tituloOriginal": "L'INCONNU DE LA GRANDE ARCHE",
-      "director": "Stéphane Demoustier",
-      "pais": "Francia",
-      "ano": 2025,
-      "duracion": 104,
-      "filmId": "HO00010061",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010061?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010061&cinemas=003",
-      "sinopsis": "En 1983, François Mitterrand convocó el mayor concurso de arquitectura de la historia. Su objetivo: erigir un nuevo monumento en París y convertirlo en la insignia de su mandato presidencial. Para sorpresa de todos, el ganador fue un absoluto desconocido: Johan Otto von Spreckelsen, un profesor de arquitectura de Copenhague quien se convirtió en el centro de todas las miradas. El filme parte de la psicología del protagonista y las adversidades que enfrenta su proyecto para hablar de temas complejos como la ética profesional y el enfrentamiento entre idealismo y poder político.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "FhtqB5aq1t8",
-      "trailers": [
-        "FhtqB5aq1t8"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt32398150/",
-      "imdbId": "tt32398150",
-      "tmdbId": 1290424,
-      "votos": 2272
+      "votos": 2433
     },
     "HO00009139": {
       "titulo": "El príncipe de Nanawa",
@@ -254,6 +182,36 @@
       "tmdbId": 808224,
       "votos": 51
     },
+    "HO00009563": {
+      "titulo": "Expulsado del paraíso",
+      "tituloOriginal": "Amrum",
+      "director": "Fatih Akin",
+      "pais": "Alemania",
+      "ano": 2025,
+      "duracion": 93,
+      "filmId": "HO00009563",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009563?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009563&cinemas=003",
+      "sinopsis": "A finales de 1945, durante los últimos días del régimen nazi, la lejana isla alemana de Amrum, hogar de balleneros y cazadores de focas, vive totalmente ajena a los horrores de la guerra. Nanning, un niño cercano a su adolescencia y con un profundo sentido de deber, está encargado de cuidar a su madre, una fanática hitleriana que recientemente ha dado a luz. El chico pasa sus días cazando, pescando, encargándose de los cultivos y haciendo lo que sea necesario para ayudar a mantener a flote a su familia. Expulsado del paraíso, la película más reciente del cineasta alemán de ascendencia turca Fatih Akin, es un viaje de reconocimiento donde el amor y la generosidad son la guía que Nanning utiliza para encaminarse a su verdadera identidad, enfrentado a procesos de cambio de una nación a la que parece no pertenecer.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "g3hT_fu_vfg",
+      "trailers": [
+        "g3hT_fu_vfg",
+        "UkVe-bfMSfw",
+        "-izT0MKkvZY",
+        "jMEXPmF8FxU"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.2,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt22507216/",
+      "imdbId": "tt22507216",
+      "tmdbId": 1269644,
+      "votos": 4912
+    },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
       "tituloOriginal": "Kix",
@@ -280,7 +238,67 @@
       "urlImdb": "https://www.imdb.com/title/tt32034405/",
       "imdbId": "tt32034405",
       "tmdbId": 1161396,
-      "votos": 1394
+      "votos": 1396
+    },
+    "HO00009929": {
+      "titulo": "La bachata del biónico",
+      "tituloOriginal": "La Bachata de Bionico",
+      "director": "Yoel Morales",
+      "pais": "República Dominicana",
+      "ano": 2024,
+      "duracion": 80,
+      "filmId": "HO00009929",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009929?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009929&cinemas=003",
+      "sinopsis": "Bionico es un romántico empedernido, y además adicto al crack, que debe tomar el control de su vida antes de que su prometida salga del centro de rehabilitación. Acompañado de su amigo Calvita, Bionico intentará dejar las drogas y conseguir dinero y casa, metiéndose en varios aprietos en el proceso. Ganadora del Premio del Público en el Festival South by Southwest, La bachata de Bionico es una irreverente comedia que, con la forma de un falso documental, presenta una visión cruda del amor en una ciudad caribeña.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "Kt-CneiN1og",
+      "trailers": [
+        "Kt-CneiN1og"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.5,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt29566944/",
+      "imdbId": "tt29566944",
+      "tmdbId": 1234410,
+      "votos": 106
+    },
+    "HO00009559": {
+      "titulo": "La chica de Colonia",
+      "tituloOriginal": "Köln 75",
+      "director": "Ido Fluk",
+      "pais": "Alemania-Polonia-Bélgica",
+      "ano": 2025,
+      "duracion": 116,
+      "filmId": "HO00009559",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009559?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009559&cinemas=003",
+      "sinopsis": "Basada en hechos reales, La chica de Colonia sigue la historia de Vera Brandes, icono adolescente de la escena musical en los años 70, quien logra orquestar el mayor hito de la historia del jazz: el legendario concierto del pianista Keith Jarret en la Ópera de Colonia de donde nace The Köln Concert, el bestseller de jazz. Este filme emplea recursos dinámicos, como la ruptura de la cuarta pared y una estética retro, para crear una divertida historia que captura la tenacidad juvenil de la protagonista.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "MvSAETBVXT8",
+      "trailers": [
+        "MvSAETBVXT8",
+        "l5EJqwP71DA",
+        "jqHbSwUhgiM",
+        "Nh77kkXoOpk",
+        "9nJH4WZSQUw",
+        "YdJ5NJBp5DE",
+        "j83Ps9SmpF8"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.1,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt20414360/",
+      "imdbId": "tt20414360",
+      "tmdbId": 1171153,
+      "votos": 2226
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -315,31 +333,6 @@
       "imdbId": "tt37813097",
       "tmdbId": 1459062,
       "votos": 182
-    },
-    "HO00009892": {
-      "titulo": "La isla de las mujeres",
-      "tituloOriginal": null,
-      "director": "Rafael Baledón",
-      "pais": "México",
-      "ano": 1953,
-      "duracion": 90,
-      "filmId": "HO00009892",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009892?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009892&cinemas=003",
-      "sinopsis": "Tin Tan llega en una de sus aventuras a una isla desconocida. Para su sorpresa está regida completamente por mujeres. Pronto se enamora de una de ellas al mismo tiempo que comienza a incitar a la rebelión de los hombres oprimidos de la isla.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.8,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0252551/",
-      "imdbId": "tt0252551",
-      "tmdbId": 485419,
-      "votos": 47
     },
     "HO00009872": {
       "titulo": "La negociación",
@@ -383,7 +376,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15181326/",
       "imdbId": "tt15181326",
       "tmdbId": 1263012,
-      "votos": 14351
+      "votos": 14387
     },
     "HO00009763": {
       "titulo": "Lo que queda de ti",
@@ -418,7 +411,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 3037
+      "votos": 3040
     },
     "HO00008486": {
       "titulo": "Los sueños que compartimos",
@@ -478,7 +471,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15716284/",
       "imdbId": "tt15716284",
       "tmdbId": 1232350,
-      "votos": 514
+      "votos": 516
     },
     "HO00009698": {
       "titulo": "Moscas",
@@ -501,13 +494,38 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.5,
+      "publico": 7.4,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt35854741/",
       "imdbId": "tt35854741",
       "tmdbId": 1437703,
-      "votos": 539
+      "votos": 548
+    },
+    "HO00009847": {
+      "titulo": "Oh, fortuna",
+      "tituloOriginal": "Oh",
+      "director": "Luis Ayhllón",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 95,
+      "filmId": "HO00009847",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009847?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009847&cinemas=003",
+      "sinopsis": "Luis Ayhllón. Luis Ayhllón.. Sergio Matamoros Color Carlo Ayhllón. Luis Ayhllón. Roberto Bolado. Alexis Briseño Jaramillo Alejandrina García Zavala Carlos Abraham Gongo Margareth Linares Emmanuel Pavía Ernesto Rocha Priscila Rosado Francisco Aurelio Sánchez Marya Sotelo David Zambrano Diego Alonso Sergio Biviano Mario Loría María Elena Olivares Joe Behrens Sergio Biviano Sebastián Cobos Francisco Medina Fran Lozano Aarón Mendoza Daniela Semiramis. Teresa García Hernández, Entraña Teatro.. Luis Ayhllón. B15.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt40196240/",
+      "imdbId": "tt40196240",
+      "tmdbId": 1762928,
+      "votos": 0
     },
     "HO00009958": {
       "titulo": "Ponyo y el secreto de la sirenita SUB",
@@ -548,7 +566,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189189
+      "votos": 189211
     },
     "HO00009561": {
       "titulo": "Resurrection",
@@ -604,32 +622,66 @@
       "tmdbId": 1440130,
       "votos": 17
     },
-    "HO00008759": {
-      "titulo": "Silvia Prieto",
-      "tituloOriginal": null,
-      "director": "Martin Rejtman",
-      "pais": "Argentina",
-      "ano": 1999,
-      "duracion": 92,
-      "filmId": "HO00008759",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008759?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008759&cinemas=003",
-      "sinopsis": "Al cumplir 27, Silvia Prieto decide cambiar de vida: deja la marihuana y busca trabajo. Al descubrir que otras mujeres comparten su nombre, desarrolla una extraña obsesión por las “otras” Silvias, una obsesión que implica desentrañar el enigma de su propia identidad.",
+    "HO00010060": {
+      "titulo": "Solo una ilusión",
+      "tituloOriginal": "JUSTE UNE ILLUSION",
+      "director": "Eric Toledano",
+      "pais": "Olivier Nakache, Francia",
+      "ano": 2026,
+      "duracion": 119,
+      "filmId": "HO00010060",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010060?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010060&cinemas=003",
+      "sinopsis": "La historia se sitúa en 1985 en los suburbios de París. Vincent está a punto de cumplir 13 años y su vida transcurre entre su hermano mayor distante, sus padres en constante conflicto y sus amigos de la escuela. Mientras trata de entender por qué los adultos están tan perdidos, compartiremos sus dudas sobre la identidad cultural, la amistad, la familia, la religión y los primeros atisbos del amor. Una comedia tierna y luminosa sobre esa edad en la que la esperanza de cambiar el mundo no era \"sólo una ilusión\". Los directores de Amigos se sumergen en el pasado para contarnos una hermosa historia sobre el paso a la adultez con trasfondo de retrato familiar.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "3GXv9eY7UuM",
+      "trailer": "vZtK0AdeXk8",
       "trailers": [
-        "3GXv9eY7UuM"
+        "vZtK0AdeXk8"
       ],
       "trailerFuente": "TMDB",
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.8,
+      "publico": 7.3,
       "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0194378/",
-      "imdbId": "tt0194378",
-      "tmdbId": 49984,
-      "votos": 2208
+      "urlImdb": "https://www.imdb.com/title/tt36842933/",
+      "imdbId": "tt36842933",
+      "tmdbId": 1404684,
+      "votos": 1623
+    },
+    "HO00009280": {
+      "titulo": "Sueños (sexo-amor)",
+      "tituloOriginal": "Drømmer",
+      "director": "Johan Haugerud",
+      "pais": "Noruega",
+      "ano": 2024,
+      "duracion": 110,
+      "filmId": "HO00009280",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009280?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009280&cinemas=003",
+      "sinopsis": "Ganadora al Oso de Oro por Mejor Película en el Festival Internacional de Cine de Berlín, Sueños presenta a Johanne, una chica que experimenta su primer amor con su profesora de francés. Deseando preservar sus sentimientos, la joven documenta sus emociones y experiencias por escrito. Cuando su madre y su abuela leen su diario quedan cautivadas por sus cualidades literarias y la aconsejan publicarlo. Esta segunda entrega de la trilogía escrita y dirigida por Dag Johan Haugerud “Sex, Love, Dreams”, lleva al espectador a navegar el contraste entre los ideales románticos y la realidad, sumergiéndose en un viaje a través de las intensas emociones del autodescubrimiento, el amor y la sexualidad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "FcNSszeOkSc",
+      "trailers": [
+        "FcNSszeOkSc",
+        "ijqwWwGdHZY"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.2,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Diarist \"Johanne\" (Ella Øverbye) is coming to the end of her school life when she takes quite a shine to her French teacher \"Johanna\" (Selome Emnetu).",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6aabae61fcc6612a19c53901"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt30810787/",
+      "imdbId": "tt30810787",
+      "tmdbId": 1228682,
+      "votos": 4007
     },
     "HO00009555": {
       "titulo": "Tus dos muertos",
@@ -737,7 +789,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 549793
+      "votos": 549878
     },
     "HO00009806": {
       "titulo": "Coyote Vs Acme DOB",
@@ -799,7 +851,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 28856
+      "votos": 29470
     },
     "HO00008162": {
       "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
@@ -826,7 +878,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7246476/",
       "imdbId": "tt7246476",
       "tmdbId": 671296,
-      "votos": 68
+      "votos": 70
     },
     "HO00009850": {
       "titulo": "John Lilly y el ECCO",
@@ -855,6 +907,49 @@
       "imdbId": "tt35532467",
       "tmdbId": 1220334,
       "votos": 79
+    },
+    "HO00008250": {
+      "titulo": "La cocina",
+      "tituloOriginal": null,
+      "director": "Alonso Ruizpalacios",
+      "pais": "México-Estados Unidos",
+      "ano": 2024,
+      "duracion": 139,
+      "filmId": "HO00008250",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008250?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008250&cinemas=001",
+      "sinopsis": "Es la frenética hora del almuerzo en The Grill, un restaurante para turistas en Manhattan, Nueva York, y un administrador advierte que falta dinero en la cuenta de una de las cajas. Todos los cocineros indocumentados son investigados, pero Pedro, un soñador al mismo tiempo que alborotador, se convierte en el principal sospechoso. Julia, su amante, que no quiere comprometerse en ninguna relación afectiva, le pidió una fuerte cantidad para practicarse un aborto. Rashid, el dueño de The Grill, migrante árabe, le ha prometido ayudarle con sus papeles de residencia legal. Pero una serie de revelaciones lo van sumergiendo en una espiral que acabará por hacerle parar la línea de producción de una de las cocinas más activas de la ciudad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "lCFaQKaOXNU",
+      "trailers": [
+        "lCFaQKaOXNU",
+        "v_LSvin_TdI",
+        "bIkO5zfbsnY",
+        "dyEA8XN-s6I",
+        "MXhtJ5sBYXU",
+        "USBei3T-s7g"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "If you saw “Boiling Point” (2021) then you’ll get the gist of this drama set in an hectic New York restaurant kitchen.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/67e819606214525cd5638082"
+        },
+        {
+          "texto": "La Cocina: Society in a Pressure Cooker Not every film needs to be an Aesop's fable, and \"La Cocina\" understands this perfectly.",
+          "autor": "badelf",
+          "url": "https://www.themoviedb.org/review/690df63c212f6c374bce7b42"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt19864832/",
+      "imdbId": "tt19864832",
+      "tmdbId": 966238,
+      "votos": 5363
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -895,7 +990,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189189
+      "votos": 189211
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -955,7 +1050,7 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.9,
+      "publico": 6.8,
       "publicoFuente": "IMDb",
       "resenas": [
         {
@@ -972,37 +1067,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35298123/",
       "imdbId": "tt35298123",
       "tmdbId": 1240889,
-      "votos": 12459
-    },
-    "HO00009563": {
-      "titulo": "Expulsado del paraíso",
-      "tituloOriginal": "Amrum",
-      "director": "Fatih Akin",
-      "pais": "Alemania",
-      "ano": 2025,
-      "duracion": 93,
-      "filmId": "HO00009563",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009563?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009563&cinemas=002",
-      "sinopsis": "A finales de 1945, durante los últimos días del régimen nazi, la lejana isla alemana de Amrum, hogar de balleneros y cazadores de focas, vive totalmente ajena a los horrores de la guerra. Nanning, un niño cercano a su adolescencia y con un profundo sentido de deber, está encargado de cuidar a su madre, una fanática hitleriana que recientemente ha dado a luz. El chico pasa sus días cazando, pescando, encargándose de los cultivos y haciendo lo que sea necesario para ayudar a mantener a flote a su familia. Expulsado del paraíso, la película más reciente del cineasta alemán de ascendencia turca Fatih Akin, es un viaje de reconocimiento donde el amor y la generosidad son la guía que Nanning utiliza para encaminarse a su verdadera identidad, enfrentado a procesos de cambio de una nación a la que parece no pertenecer.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "g3hT_fu_vfg",
-      "trailers": [
-        "g3hT_fu_vfg",
-        "UkVe-bfMSfw",
-        "-izT0MKkvZY",
-        "jMEXPmF8FxU"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.2,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt22507216/",
-      "imdbId": "tt22507216",
-      "tmdbId": 1269644,
-      "votos": 4906
+      "votos": 13104
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1091,7 +1156,7 @@
       "urlImdb": "https://www.imdb.com/title/tt33764258/",
       "imdbId": "tt33764258",
       "tmdbId": 1368337,
-      "votos": 502732
+      "votos": 503998
     },
     "HO00009848": {
       "titulo": "Las catadoras de Hitler",
@@ -1131,7 +1196,7 @@
       "urlImdb": "https://www.imdb.com/title/tt27811248/",
       "imdbId": "tt27811248",
       "tmdbId": 1291712,
-      "votos": 3125
+      "votos": 3129
     },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
@@ -1162,194 +1227,50 @@
       "tmdbId": 1318711,
       "votos": 79
     },
-    "HO00009929": {
-      "titulo": "La bachata del biónico",
-      "tituloOriginal": "La Bachata de Bionico",
-      "director": "Yoel Morales",
-      "pais": "República Dominicana",
-      "ano": 2024,
-      "duracion": 80,
-      "filmId": "HO00009929",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009929?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009929&cinemas=003",
-      "sinopsis": "Bionico es un romántico empedernido, y además adicto al crack, que debe tomar el control de su vida antes de que su prometida salga del centro de rehabilitación. Acompañado de su amigo Calvita, Bionico intentará dejar las drogas y conseguir dinero y casa, metiéndose en varios aprietos en el proceso. Ganadora del Premio del Público en el Festival South by Southwest, La bachata de Bionico es una irreverente comedia que, con la forma de un falso documental, presenta una visión cruda del amor en una ciudad caribeña.",
+    "HO00009934": {
+      "titulo": "Dogtooth: Canino",
+      "tituloOriginal": "Kynodontas",
+      "director": "Yorgos Lanthimos",
+      "pais": "Grecia",
+      "ano": 2009,
+      "duracion": 97,
+      "filmId": "HO00009934",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009934?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009934&cinemas=003",
+      "sinopsis": "Canino narra la historia de una familia griega que vive recluida en su casa. El matrimonio manipula a sus tres hijos con reglas absurdas para convencerlos de que el mundo exterior es un territorio prohibido, al cual sólo podrán acceder cuando se les caiga un diente canino. En este filme, nominado al Óscar como mejor película en lengua no inglesa, el director Yorgos Lanthimos logra transitar la comedia negra y el terror psicológico, creando un cuestionamiento hacia las estructuras sociales que conocemos.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "Kt-CneiN1og",
+      "trailer": "YJe4eZ9l5KY",
       "trailers": [
-        "Kt-CneiN1og"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.5,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt29566944/",
-      "imdbId": "tt29566944",
-      "tmdbId": 1234410,
-      "votos": 106
-    },
-    "HO00009559": {
-      "titulo": "La chica de Colonia",
-      "tituloOriginal": "Köln 75",
-      "director": "Ido Fluk",
-      "pais": "Alemania-Polonia-Bélgica",
-      "ano": 2025,
-      "duracion": 116,
-      "filmId": "HO00009559",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009559?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009559&cinemas=003",
-      "sinopsis": "Basada en hechos reales, La chica de Colonia sigue la historia de Vera Brandes, icono adolescente de la escena musical en los años 70, quien logra orquestar el mayor hito de la historia del jazz: el legendario concierto del pianista Keith Jarret en la Ópera de Colonia de donde nace The Köln Concert, el bestseller de jazz. Este filme emplea recursos dinámicos, como la ruptura de la cuarta pared y una estética retro, para crear una divertida historia que captura la tenacidad juvenil de la protagonista.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "MvSAETBVXT8",
-      "trailers": [
-        "MvSAETBVXT8",
-        "l5EJqwP71DA",
-        "jqHbSwUhgiM",
-        "Nh77kkXoOpk",
-        "9nJH4WZSQUw",
-        "YdJ5NJBp5DE",
-        "j83Ps9SmpF8"
+        "YJe4eZ9l5KY",
+        "0bYpMPXXsvI",
+        "ElVysSnB3yg"
       ],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
       "publico": 7.1,
       "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt20414360/",
-      "imdbId": "tt20414360",
-      "tmdbId": 1171153,
-      "votos": 2221
-    },
-    "HO00009847": {
-      "titulo": "Oh, fortuna",
-      "tituloOriginal": "Oh",
-      "director": "Luis Ayhllón",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 95,
-      "filmId": "HO00009847",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009847?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009847&cinemas=003",
-      "sinopsis": "Luis Ayhllón. Luis Ayhllón.. Sergio Matamoros Color Carlo Ayhllón. Luis Ayhllón. Roberto Bolado. Alexis Briseño Jaramillo Alejandrina García Zavala Carlos Abraham Gongo Margareth Linares Emmanuel Pavía Ernesto Rocha Priscila Rosado Francisco Aurelio Sánchez Marya Sotelo David Zambrano Diego Alonso Sergio Biviano Mario Loría María Elena Olivares Joe Behrens Sergio Biviano Sebastián Cobos Francisco Medina Fran Lozano Aarón Mendoza Daniela Semiramis. Teresa García Hernández, Entraña Teatro.. Luis Ayhllón. B15.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt40196240/",
-      "imdbId": "tt40196240",
-      "tmdbId": 1762928,
-      "votos": 0
-    },
-    "HO00010060": {
-      "titulo": "Solo una ilusión",
-      "tituloOriginal": "JUSTE UNE ILLUSION",
-      "director": "Eric Toledano",
-      "pais": "Olivier Nakache, Francia",
-      "ano": 2026,
-      "duracion": 119,
-      "filmId": "HO00010060",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010060?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010060&cinemas=003",
-      "sinopsis": "La historia se sitúa en 1985 en los suburbios de París. Vincent está a punto de cumplir 13 años y su vida transcurre entre su hermano mayor distante, sus padres en constante conflicto y sus amigos de la escuela. Mientras trata de entender por qué los adultos están tan perdidos, compartiremos sus dudas sobre la identidad cultural, la amistad, la familia, la religión y los primeros atisbos del amor. Una comedia tierna y luminosa sobre esa edad en la que la esperanza de cambiar el mundo no era \"sólo una ilusión\". Los directores de Amigos se sumergen en el pasado para contarnos una hermosa historia sobre el paso a la adultez con trasfondo de retrato familiar.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "vZtK0AdeXk8",
-      "trailers": [
-        "vZtK0AdeXk8"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt36842933/",
-      "imdbId": "tt36842933",
-      "tmdbId": 1404684,
-      "votos": 1614
-    },
-    "HO00009280": {
-      "titulo": "Sueños (sexo-amor)",
-      "tituloOriginal": "Drømmer",
-      "director": "Johan Haugerud",
-      "pais": "Noruega",
-      "ano": 2024,
-      "duracion": 110,
-      "filmId": "HO00009280",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009280?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009280&cinemas=003",
-      "sinopsis": "Ganadora al Oso de Oro por Mejor Película en el Festival Internacional de Cine de Berlín, Sueños presenta a Johanne, una chica que experimenta su primer amor con su profesora de francés. Deseando preservar sus sentimientos, la joven documenta sus emociones y experiencias por escrito. Cuando su madre y su abuela leen su diario quedan cautivadas por sus cualidades literarias y la aconsejan publicarlo. Esta segunda entrega de la trilogía escrita y dirigida por Dag Johan Haugerud “Sex, Love, Dreams”, lleva al espectador a navegar el contraste entre los ideales románticos y la realidad, sumergiéndose en un viaje a través de las intensas emociones del autodescubrimiento, el amor y la sexualidad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "FcNSszeOkSc",
-      "trailers": [
-        "FcNSszeOkSc",
-        "ijqwWwGdHZY"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.2,
-      "publicoFuente": "IMDb",
       "resenas": [
         {
-          "texto": "Diarist \"Johanne\" (Ella Øverbye) is coming to the end of her school life when she takes quite a shine to her French teacher \"Johanna\" (Selome Emnetu).",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6aabae61fcc6612a19c53901"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt30810787/",
-      "imdbId": "tt30810787",
-      "tmdbId": 1228682,
-      "votos": 4005
-    },
-    "HO00008250": {
-      "titulo": "La cocina",
-      "tituloOriginal": null,
-      "director": "Alonso Ruizpalacios",
-      "pais": "México-Estados Unidos",
-      "ano": 2024,
-      "duracion": 139,
-      "filmId": "HO00008250",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008250?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008250&cinemas=001",
-      "sinopsis": "Es la frenética hora del almuerzo en The Grill, un restaurante para turistas en Manhattan, Nueva York, y un administrador advierte que falta dinero en la cuenta de una de las cajas. Todos los cocineros indocumentados son investigados, pero Pedro, un soñador al mismo tiempo que alborotador, se convierte en el principal sospechoso. Julia, su amante, que no quiere comprometerse en ninguna relación afectiva, le pidió una fuerte cantidad para practicarse un aborto. Rashid, el dueño de The Grill, migrante árabe, le ha prometido ayudarle con sus papeles de residencia legal. Pero una serie de revelaciones lo van sumergiendo en una espiral que acabará por hacerle parar la línea de producción de una de las cocinas más activas de la ciudad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "lCFaQKaOXNU",
-      "trailers": [
-        "lCFaQKaOXNU",
-        "v_LSvin_TdI",
-        "bIkO5zfbsnY",
-        "dyEA8XN-s6I",
-        "MXhtJ5sBYXU",
-        "USBei3T-s7g"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "If you saw “Boiling Point” (2021) then you’ll get the gist of this drama set in an hectic New York restaurant kitchen.",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/67e819606214525cd5638082"
+          "texto": "Doogtooth, the official Greek entry to the 2011 Academy Awards, is nominated for Best Foreign Film.",
+          "autor": "MoHA",
+          "url": "https://www.themoviedb.org/review/55d9073192514143e6002fa9"
         },
         {
-          "texto": "La Cocina: Society in a Pressure Cooker Not every film needs to be an Aesop's fable, and \"La Cocina\" understands this perfectly.",
-          "autor": "badelf",
-          "url": "https://www.themoviedb.org/review/690df63c212f6c374bce7b42"
+          "texto": "Unnamed parents (Christos Stergioglou and Michele Valley) are so obsessed with their children that they have, over the years, created an walled environment in which they see nobody but each…",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6636091a8de0ae0129f5f362"
+        },
+        {
+          "texto": "<em'Dogtooth'</em is certainly a Yorgos Lanthimos film! On the whole, I found this fascinating. It gets quite disturbing in parts, as you'd expect from this director, but all in all it is…",
+          "autor": "r96sk",
+          "url": "https://www.themoviedb.org/review/67a6b35edf55e8f213f0fb93"
         }
       ],
-      "urlImdb": "https://www.imdb.com/title/tt19864832/",
-      "imdbId": "tt19864832",
-      "tmdbId": 966238,
-      "votos": 5361
+      "urlImdb": "https://www.imdb.com/title/tt1379182/",
+      "imdbId": "tt1379182",
+      "tmdbId": 38810,
+      "votos": 125073
     },
     "HO00010062": {
       "titulo": "El camino",
@@ -1374,7 +1295,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39814688/",
       "imdbId": "tt39814688",
       "tmdbId": 1404604,
-      "votos": 340
+      "votos": 343
     },
     "HO00006138": {
       "titulo": "El reino de Dios",
@@ -1452,446 +1373,47 @@
       "imdbId": "tt14670172",
       "tmdbId": 640334,
       "votos": 24
+    },
+    "HO00009893": {
+      "titulo": "El caimán humano",
+      "tituloOriginal": "The Alligator People",
+      "director": "Roy Del Ruth",
+      "pais": "México",
+      "ano": 1959,
+      "duracion": 74,
+      "filmId": "HO00009893",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009893?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009893&cinemas=003",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "NxRAlmJYUNo",
+      "trailers": [
+        "NxRAlmJYUNo"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 5.6,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "What seems to begin in the southern gothic vein, complete with voiceover narrative by a newlywed (likable Beverly Garland) concerning the sudden and mysterious disappearance of her husband,…",
+          "autor": "stugood",
+          "url": "https://www.themoviedb.org/review/5c93f4909251417318746294"
+        },
+        {
+          "texto": "Deep in the Louisiana bog is a cryptic estate with reptilian secrets A woman (Beverly Garland) seeks her missing husband (Richard Crane) deep in the bayous of Cajun Country.",
+          "autor": "Wuchak",
+          "url": "https://www.themoviedb.org/review/621299f689b56100422aa8aa"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0052549/",
+      "imdbId": "tt0052549",
+      "tmdbId": 43105,
+      "votos": 2909
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "15:30",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00008666",
-      "sala": "Sala 5",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009934",
-      "sala": "Sala 1",
-      "horarios": [
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009557",
-      "sala": "Sala 4",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00010061",
-      "sala": "Sala 3",
-      "horarios": [
-        "16:00",
-        "18:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009139",
-      "sala": "Sala 6",
-      "horarios": [
-        "19:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009424",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009787",
-      "sala": "Sala 7",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009892",
-      "sala": "Sala 4",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009872",
-      "sala": "Sala 9",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009763",
-      "sala": "Sala 8",
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00008486",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009426",
-      "sala": "Sala 7",
-      "horarios": [
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009698",
-      "sala": "Sala 9",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009958",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:00",
-        "17:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009561",
-      "sala": "Sala 9",
-      "horarios": [
-        "17:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009814",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:15",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00008759",
-      "sala": null,
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009555",
-      "sala": "Sala 6",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009256",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009933",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:30",
-        "16:50",
-        "19:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009806",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:30",
-        "15:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "17:30",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00008162",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:30",
-        "15:25",
-        "17:20",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009850",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009787",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:40",
-        "16:00",
-        "18:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009763",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:40",
-        "16:40",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009931",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:25",
-        "15:25"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009958",
-      "sala": "Sala 7",
-      "horarios": [
-        "17:25",
-        "19:25"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009932",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009798",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:40",
-        "16:00",
-        "18:20",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009933",
-      "sala": "Sala 12",
-      "horarios": [
-        "13:20",
-        "15:40",
-        "18:00",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009563",
-      "sala": "Sala 11",
-      "horarios": [
-        "14:50",
-        "16:50",
-        "18:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009935",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:10",
-        "16:30",
-        "18:40",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009850",
-      "sala": "Sala 5",
-      "horarios": [
-        "15:10",
-        "17:10",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009759",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:00",
-        "16:20",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009848",
-      "sala": "Sala 6",
-      "horarios": [
-        "15:00",
-        "17:30",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009426",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:00",
-        "16:10",
-        "18:10",
-        "20:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009931",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:20",
-        "16:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009958",
-      "sala": "Sala 10",
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009932",
-      "sala": "Sala 3",
-      "horarios": [
-        "15:20",
-        "17:20",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009851",
-      "sala": "Sala 9",
-      "horarios": [
-        "13:30",
-        "15:30",
-        "17:40",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-22",
-      "pelicula": "HO00009555",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:30",
-        "17:00",
-        "19:30"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-09-23",
@@ -2827,6 +2349,15 @@
         "14:30",
         "17:00",
         "19:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009893",
+      "sala": "Sala 4",
+      "horarios": [
+        "18:00"
       ]
     }
   ]
