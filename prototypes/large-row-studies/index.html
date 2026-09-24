@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f6f6f4"><title>Aura — Filas ampliadas</title>
+<style>
+*{box-sizing:border-box}html,body{margin:0;height:100%;background:#f6f6f4}body{overflow:hidden}
+main{height:100svh;display:flex;flex-direction:column;justify-content:space-between;padding:18px 24px;touch-action:none}
+.row{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;width:100%;flex:none}
+.film{display:block;position:relative;width:100%;aspect-ratio:16/9;max-height:36svh;overflow:hidden;background:#e6e6e2;border:0;padding:0;cursor:pointer}
+.film img,.stage{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.stage{opacity:0;transition:opacity .4s;pointer-events:none}.film.playing .stage{opacity:1}
+.stage iframe{position:absolute;width:100%;height:100%;inset:0;border:0}
+.film:focus-visible{outline:2px solid #111;outline-offset:3px}
+main.changing .row{animation:reveal .35s ease-out}
+@keyframes reveal{from{opacity:.35;transform:translateY(var(--entry,15px))}to{opacity:1;transform:none}}
+body[data-option="2"] main{padding:0}
+body[data-option="2"] .row{gap:4px}
+body[data-option="3"] .row{width:84%}
+body[data-option="3"] #bottom{align-self:flex-end}
+body[data-option="4"] main{padding:12px}
+body[data-option="4"] .film{aspect-ratio:4/3;height:38svh;max-height:38svh}
+body[data-option="4"] .stage iframe{width:134%;left:-17%}
+body[data-option="5"] main{padding:12px}
+body[data-option="5"] .row{grid-template-columns:1.5fr 1fr;align-items:start}
+body[data-option="5"] #bottom{grid-template-columns:1fr 1.5fr;align-items:end}
+body[data-option="5"] .film{max-height:40svh}
+@media(max-width:650px){
+ main{padding:max(18px,env(safe-area-inset-top)) 16px max(18px,env(safe-area-inset-bottom))}
+ .row{grid-template-columns:1fr!important}
+ .film{max-height:39svh}
+ body[data-option="2"] main{padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+ body[data-option="3"] .row{width:88%}
+ body[data-option="4"] main{padding:max(10px,env(safe-area-inset-top)) 10px max(10px,env(safe-area-inset-bottom))}
+ body[data-option="4"] .film{height:auto;max-height:40svh}
+ body[data-option="5"] #top{width:100%}
+ body[data-option="5"] #top .film{aspect-ratio:4/3;max-height:42svh}
+ body[data-option="5"] #top .stage iframe{width:134%;left:-17%}
+ body[data-option="5"] #bottom{width:82%;align-self:flex-end}
+}
+@media(prefers-reduced-motion:reduce){.stage{transition:none}main.changing .row{animation:none}}
+</style>
+</head>
+<body>
+<main tabindex="0" aria-label="Aura. Desliza hacia arriba para cambiar de películas y hacia abajo para volver."><section class="row" id="top" aria-label="Trailers superiores"></section><section class="row" id="bottom" aria-label="Trailers inferiores"></section></main>
+<script>
+const query=new URLSearchParams(location.search),option=['1','2','3','4','5'].includes(query.get('opcion'))?query.get('opcion'):'1';
+document.body.dataset.option=option;document.title='Aura — Filas ampliadas '+option;
+const main=document.querySelector('main'),mobile=matchMedia('(max-width:650px)');
+let films=[],players=[],tiles=[],page=0,generation=0,apiReady=false,lastMove=0,gesture=null;
+let suppressClick=false;
+const count=()=>mobile.matches?2:4;
+function paint(){
+ generation++;const epoch=generation;
+ players.forEach(p=>p?.destroy?.());players=[];tiles=[];
+ document.querySelectorAll('.row').forEach(r=>r.replaceChildren());
+ const offset=Math.min(page*count(),Math.max(0,films.length-count()));
+ const selected=films.slice(offset,offset+count());
+ selected.forEach((film,i)=>{
+  const tile=document.createElement('button');tile.className='film';tile.setAttribute('aria-label',film.titulo+' — activar o silenciar sonido');tile.setAttribute('aria-pressed','false');
+  const image=document.createElement('img');image.src='https://i.ytimg.com/vi/'+encodeURIComponent(film.trailer)+'/hqdefault.jpg';image.alt='';tile.append(image);
+  const stage=document.createElement('div');stage.className='stage';const mount=document.createElement('div');mount.id='player-'+epoch+'-'+i;stage.append(mount);tile.append(stage);
+  document.getElementById(i<Math.ceil(selected.length/2)?'top':'bottom').append(tile);tiles.push(tile);
+  tile.onclick=()=>{if(suppressClick)return;const p=players[i];if(!p?.isMuted)return;const muted=p.isMuted();players.forEach((other,j)=>{other?.mute?.();tiles[j]?.setAttribute('aria-pressed','false');});if(muted){p.unMute();p.playVideo();tile.setAttribute('aria-pressed','true');}};
+  if(apiReady)players[i]=new YT.Player(mount.id,{videoId:film.trailer,playerVars:{autoplay:1,mute:1,controls:0,playsinline:1,start:10,rel:0,disablekb:1,fs:0},events:{
+   onReady:e=>{if(epoch!==generation)return;e.target.mute();if(!document.hidden)e.target.playVideo();},
+   onStateChange:e=>{if(epoch!==generation)return;if(e.data===1)setTimeout(()=>{if(epoch===generation&&e.target.getPlayerState()===1)tile.classList.add('playing');},1800);if(e.data===0){e.target.seekTo(10,true);e.target.playVideo();}},
+   onError:()=>tile.classList.remove('playing')
+  }});
+ });
+}
+function move(direction){
+ if(!films.length||Date.now()-lastMove<550)return;
+ const next=Math.max(0,Math.min(Math.ceil(films.length/count())-1,page+direction));
+ if(next===page)return;lastMove=Date.now();page=next;paint();
+ main.style.setProperty('--entry',direction>0?'15px':'-15px');main.classList.remove('changing');void main.offsetWidth;main.classList.add('changing');
+}
+main.addEventListener('pointerdown',e=>{gesture={x:e.clientX,y:e.clientY,id:e.pointerId};suppressClick=false;});
+main.addEventListener('pointermove',e=>{if(gesture&&Math.abs(e.clientY-gesture.y)>12)suppressClick=true;});
+window.addEventListener('pointerup',e=>{if(!gesture||e.pointerId!==gesture.id)return;const dy=e.clientY-gesture.y,dx=e.clientX-gesture.x;gesture=null;if(Math.abs(dy)>45&&Math.abs(dy)>Math.abs(dx)){suppressClick=true;move(dy<0?1:-1);}});
+window.addEventListener('pointercancel',()=>gesture=null);
+main.addEventListener('wheel',e=>{e.preventDefault();if(Math.abs(e.deltaY)>20&&Math.abs(e.deltaY)>Math.abs(e.deltaX))move(e.deltaY>0?1:-1);},{passive:false});
+window.addEventListener('keydown',e=>{if(['ArrowDown','ArrowUp','PageDown','PageUp'].includes(e.key)){e.preventDefault();move(['ArrowDown','PageDown'].includes(e.key)?1:-1);}});
+mobile.addEventListener('change',()=>{page=0;paint();});
+document.addEventListener('visibilitychange',()=>players.forEach(p=>{if(document.hidden)p?.pauseVideo?.();else p?.playVideo?.();}));
+window.onYouTubeIframeAPIReady=()=>{apiReady=true;if(films.length)paint();};
+const script=document.createElement('script');script.src='https://www.youtube.com/iframe_api';document.head.append(script);
+async function start(){
+ const response=await fetch('../../app/data/cartelera.json',{cache:'no-store'});if(!response.ok)throw Error('Cartelera unavailable');
+ const data=await response.json(),sede=query.get('sede')||'003',today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Mexico_City'}).format(new Date());
+ const dates=[...new Set(data.funciones.filter(f=>f.sede===sede).map(f=>f.fecha))].sort();
+ const date=dates.includes(query.get('fecha'))?query.get('fecha'):(dates.find(d=>d>=today)||dates.at(-1));
+ films=[...new Set(data.funciones.filter(f=>f.sede===sede&&f.fecha===date).map(f=>f.pelicula))].map(id=>data.peliculas[id]).filter(p=>p?.trailer).sort((a,b)=>(b.votos||0)-(a.votos||0));
+ paint();
+}
+start().catch(console.error);
+</script>
+</body></html>
