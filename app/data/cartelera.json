@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-24T12:42:24.541Z",
+  "generadoEn": "2026-09-24T18:28:22.291Z",
   "hoy": "2026-09-24",
   "sedes": [
     {
@@ -20,7 +20,12 @@
   ],
   "fechas": [
     "2026-09-24",
-    "2026-09-29"
+    "2026-09-25",
+    "2026-09-26",
+    "2026-09-27",
+    "2026-09-28",
+    "2026-09-29",
+    "2026-09-30"
   ],
   "peliculas": {
     "HO00009956": {
@@ -83,7 +88,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 30143
+      "votos": 30039
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -153,7 +158,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125088
+      "votos": 125081
     },
     "HO00010062": {
       "titulo": "El camino",
@@ -178,7 +183,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39814688/",
       "imdbId": "tt39814688",
       "tmdbId": 1404604,
-      "votos": 346
+      "votos": 345
     },
     "HO00009139": {
       "titulo": "El príncipe de Nanawa",
@@ -397,7 +402,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15181326/",
       "imdbId": "tt15181326",
       "tmdbId": 1263012,
-      "votos": 14416
+      "votos": 14411
     },
     "HO00009763": {
       "titulo": "Lo que queda de ti",
@@ -492,7 +497,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15716284/",
       "imdbId": "tt15716284",
       "tmdbId": 1232350,
-      "votos": 517
+      "votos": 516
     },
     "HO00009698": {
       "titulo": "Moscas",
@@ -521,7 +526,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35854741/",
       "imdbId": "tt35854741",
       "tmdbId": 1437703,
-      "votos": 562
+      "votos": 560
     },
     "HO00009847": {
       "titulo": "Oh, fortuna",
@@ -587,7 +592,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189240
+      "votos": 189238
     },
     "HO00009561": {
       "titulo": "Resurrection",
@@ -774,7 +779,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 550024
+      "votos": 549968
     },
     "HO00009806": {
       "titulo": "Coyote Vs Acme DOB",
@@ -836,7 +841,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 30143
+      "votos": 30039
     },
     "HO00008162": {
       "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
@@ -932,7 +937,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189240
+      "votos": 189238
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1009,7 +1014,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35298123/",
       "imdbId": "tt35298123",
       "tmdbId": 1240889,
-      "votos": 13875
+      "votos": 13678
     },
     "HO00007318": {
       "titulo": "Donde duermen los pájaros",
@@ -1066,7 +1071,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22507216/",
       "imdbId": "tt22507216",
       "tmdbId": 1269644,
-      "votos": 4929
+      "votos": 4925
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1155,7 +1160,7 @@
       "urlImdb": "https://www.imdb.com/title/tt33764258/",
       "imdbId": "tt33764258",
       "tmdbId": 1368337,
-      "votos": 505750
+      "votos": 505144
     },
     "HO00009848": {
       "titulo": "Las catadoras de Hitler",
@@ -1195,7 +1200,7 @@
       "urlImdb": "https://www.imdb.com/title/tt27811248/",
       "imdbId": "tt27811248",
       "tmdbId": 1291712,
-      "votos": 3131
+      "votos": 3130
     },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
@@ -1225,6 +1230,573 @@
       "imdbId": "tt18301776",
       "tmdbId": 1318711,
       "votos": 79
+    },
+    "HO00010080": {
+      "titulo": "Doble Patria",
+      "tituloOriginal": "Zweitland",
+      "director": "Michael Kofler",
+      "pais": "• Alemania/Italia/Austria",
+      "ano": 2025,
+      "duracion": 112,
+      "filmId": "HO00010080",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010080?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010080&cinemas=003",
+      "sinopsis": "Acompañado del corto Alimento para cerdos IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.8,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35668693/",
+      "imdbId": "tt35668693",
+      "tmdbId": 1457025,
+      "votos": 103
+    },
+    "HO00010064": {
+      "titulo": "El crimen del 3er piso",
+      "tituloOriginal": "LE CRIME DU 3e ÉTAGE",
+      "director": "Rémi Bezançon",
+      "pais": "Francia",
+      "ano": 2026,
+      "duracion": 104,
+      "filmId": "HO00010064",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010064?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010064&cinemas=003",
+      "sinopsis": "Colette, una profesora universitaria especialista en la obra de Alfred Hitchcock, sospecha que su vecino ha cometido un asesinato. Su esposo François, un escritor de novelas policíacas, al principio duda de su teoría, pero termina por dejarse llevar por la disparatada investigación de Colette. A medida que se acumulan las pistas y el misterio crece, la pareja se convierte en un inesperado dúo de detectives para descifrar si realmente ocurrió un crimen en el 3er piso. Un thriller ligero y magistralmente elaborado que sirve como homenaje al Maestro del Suspenso.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "w5W9KtBWeVc",
+      "trailers": [
+        "w5W9KtBWeVc"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt38814447/",
+      "imdbId": "tt38814447",
+      "tmdbId": 1471224,
+      "votos": 889
+    },
+    "HO00010081": {
+      "titulo": "El juicio de Hein",
+      "tituloOriginal": "Der Heimatlose",
+      "director": "Kai Stänicke",
+      "pais": "Alemania",
+      "ano": 2026,
+      "duracion": 122,
+      "filmId": "HO00010081",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010081?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010081&cinemas=003",
+      "sinopsis": "Acompañado del corto Flores IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.4,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt33522697/",
+      "imdbId": "tt33522697",
+      "tmdbId": 1476466,
+      "votos": 181
+    },
+    "HO00009278": {
+      "titulo": "La desaparición de Josef Mengele",
+      "tituloOriginal": "Das Verschwinden des Josef Mengele",
+      "director": "Kirill Serebrennikov",
+      "pais": "Francia-Alemania-México-Uruguay",
+      "ano": 2024,
+      "duracion": 135,
+      "filmId": "HO00009278",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009278?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009278&cinemas=003",
+      "sinopsis": "Con base en la novela homónima de Olivier Guez, la película se centra en la vida de Josef Mengele después de la Segunda Guerra Mundial. Tras cometer grandes atrocidades en Auschwitz, este médico nazi intenta rehacer su vida clandestinamente en Sudamérica. A través de los ojos de su hijo, quien lo reencuentra, Mengele se enfrenta a un pasado que ya no puede ignorar. De Buenos Aires a Paraguay y Brasil, el hombre que llegó a ser conocido como “El Ángel de la muerte” organizará su metódica desaparición para evitar cualquier tipo de juicio. La desaparición de Josef Mengele, del director ruso Kirill Serebrennikov, logra capturar el aura estéril del médico alemán sin caer en el sensacionalismo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "Bdb8ZNTE7UY",
+      "trailers": [
+        "Bdb8ZNTE7UY",
+        "FFVFBwoyrZg"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt22852560/",
+      "imdbId": "tt22852560",
+      "tmdbId": 1037264,
+      "votos": 2045
+    },
+    "HO00009790": {
+      "titulo": "Las ruinas nuevas",
+      "tituloOriginal": null,
+      "director": "Manuel Embalse",
+      "pais": "Argentina",
+      "ano": 2024,
+      "duracion": 89,
+      "filmId": "HO00009790",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009790?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009790&cinemas=003",
+      "sinopsis": "Manuel Embalse presenta en su segundo largometraje un ensayo audiovisual que se aproxima, al igual que otras producciones del colectivo Antes muerto cine, a lo experimental. Un diario digital donde los géneros hibridan, transitando por el documental y adoptando cuestionamientos y líneas de pensamiento de la ciencia ficción. Embalse desarrolla una divagación ensayística en torno a la basura electrónica. ¿A dónde va?, ¿quién la ensambla?, ¿quién la desarma? y ¿qué historia contaría sobre nuestra existencia humana? son algunas de las preguntas que se pondrán sobre la mesa. En el camino por intentar responderlas iremos descubriendo las ruinas de un mundo que cohabita con nosotres en total sigilo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "-ppDSwWLGfs",
+      "trailers": [
+        "-ppDSwWLGfs"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1252645,
+      "votos": 0
+    },
+    "HO00010065": {
+      "titulo": "Mary y Max SUB",
+      "tituloOriginal": "Mary and Max",
+      "director": "Adam Elliot",
+      "pais": "Australia",
+      "ano": 2009,
+      "duracion": 92,
+      "filmId": "HO00010065",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010065?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010065&cinemas=003",
+      "sinopsis": "Después de 15 años, la aclamada ópera prima en stop motion de Adam Elliot (recientemente reconocido por Memorias de un caracol) por fin se estrena en salas mexicanas. La película narra la vida y relación de dos amigos por correspondencia muy diferentes: Mary, una solitaria chica australiana, y Max, un hombre con síndrome de Asperger que vive en Nueva York. Con un estilo visual que abraza la imperfección y la textura rústica, la cinta aborda con ternura y humor negro temas como la amistad, el alcoholismo, la soledad y la ansiedad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "kc_bf-7NNEA",
+      "trailers": [
+        "kc_bf-7NNEA",
+        "kGATShQbydk"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Mary and Max- Am I sad or happy? Am I philosopher? It's hard to understand weird people. Oh, actually, I'm weird. It's hard to understand normal people.",
+          "autor": "Asa_movies",
+          "url": "https://www.themoviedb.org/review/58e246e0c3a36872de00d543"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0978762/",
+      "imdbId": "tt0978762",
+      "tmdbId": 24238,
+      "votos": 203432
+    },
+    "HO00009936": {
+      "titulo": "Cocodrilos",
+      "tituloOriginal": null,
+      "director": "J. Xavier Velasco",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 100,
+      "filmId": "HO00009936",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009936?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009936&cinemas=001",
+      "sinopsis": "Un joven fotoperiodista de Veracruz arriesgará su vida para descubrir una verdad impactante tras hacerse cargo de la investigación que su amiga y mentora, también periodista, dejó inconclusa al caer víctima del crimen organizado. Cocodrilos, el primer largometraje del cineasta veracruzano J. Xavier Velasco, es un contundente thriller criminal que rinde homenaje a los periodistas que han perdido la vida en el ejercicio de su oficio, y que denuncia la crisis política en la que está enterrado el país.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "iHhfP7yQh_Q",
+      "trailers": [
+        "iHhfP7yQh_Q"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.5,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt21413704/",
+      "imdbId": "tt21413704",
+      "tmdbId": 1199946,
+      "votos": 67
+    },
+    "HO00010076": {
+      "titulo": "Hombre al agua",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010076",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010076?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010076&cinemas=001",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "_TCEC8MYILI",
+      "trailers": [
+        "_TCEC8MYILI"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt39019415/",
+      "imdbId": "tt39019415",
+      "tmdbId": 1632166,
+      "votos": 28
+    },
+    "HO00009939": {
+      "titulo": "Mary y Max DOB",
+      "tituloOriginal": "Mary and Max",
+      "director": "Adam Elliot",
+      "pais": "Australia",
+      "ano": 2009,
+      "duracion": 92,
+      "filmId": "HO00009939",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009939?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009939&cinemas=001",
+      "sinopsis": "Después de 15 años, la aclamada ópera prima en stop motion de Adam Elliot (recientemente reconocido por Memorias de un caracol) por fin se estrena en salas mexicanas. La película narra la vida y relación de dos amigos por correspondencia muy diferentes: Mary, una solitaria chica australiana, y Max, un hombre con síndrome de Asperger que vive en Nueva York. Con un estilo visual que abraza la imperfección y la textura rústica, la cinta aborda con ternura y humor negro temas como la amistad, el alcoholismo, la soledad y la ansiedad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "kc_bf-7NNEA",
+      "trailers": [
+        "kc_bf-7NNEA",
+        "kGATShQbydk"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Mary and Max- Am I sad or happy? Am I philosopher? It's hard to understand weird people. Oh, actually, I'm weird. It's hard to understand normal people.",
+          "autor": "Asa_movies",
+          "url": "https://www.themoviedb.org/review/58e246e0c3a36872de00d543"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0978762/",
+      "imdbId": "tt0978762",
+      "tmdbId": 24238,
+      "votos": 203432
+    },
+    "HO00004792": {
+      "titulo": "Nazarín",
+      "tituloOriginal": null,
+      "director": "Luis Buñuel",
+      "pais": "México",
+      "ano": 1958,
+      "duracion": 95,
+      "filmId": "HO00004792",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00004792?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00004792&cinemas=002",
+      "sinopsis": "A principios del siglo XX el padre Nazario vive pobremente en un mesón del Centro Histórico de la Ciudad de México. Las prostitutas que viven ahí lo insultan y lo roban. Una de ellas, Andara. riñe y mata a su rival, por lo que se oculta de la policía en la habitación del religioso, quien la atiende. Nazario evita el suicidio de Beatriz (Marga López), despechada por el abandono de su novio. Otra prostituta la denuncia a Andara quien quema su ropa ensangrentada antes de huir, incendiando la casona. Nazarín es calumniado por protegerla y ha de abandonar el lugar. El sacerdote recorre entonces los caminos rurales buscando hacer el bien y subsistiendo de la caridad, acompañado por Beatriz y Andara, que lo consideran un santo. Pero al intentar hacer el bien, provoca estropicios y conflictos, incluso en un pueblo asolado por la peste. Tras ser arrestado, descubrirá que la caridad y los buenos actos se encuentran en los lugares más inesperados.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "32LJAbqIP_g",
+      "trailers": [
+        "32LJAbqIP_g",
+        "lGv9P_LLxuE"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0051983/",
+      "imdbId": "tt0051983",
+      "tmdbId": 35124,
+      "votos": 7067
+    },
+    "HO00010060": {
+      "titulo": "Solo una ilusión",
+      "tituloOriginal": "JUSTE UNE ILLUSION",
+      "director": "Eric Toledano",
+      "pais": "Olivier Nakache, Francia",
+      "ano": 2026,
+      "duracion": 119,
+      "filmId": "HO00010060",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010060?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010060&cinemas=002",
+      "sinopsis": "La historia se sitúa en 1985 en los suburbios de París. Vincent está a punto de cumplir 13 años y su vida transcurre entre su hermano mayor distante, sus padres en constante conflicto y sus amigos de la escuela. Mientras trata de entender por qué los adultos están tan perdidos, compartiremos sus dudas sobre la identidad cultural, la amistad, la familia, la religión y los primeros atisbos del amor. Una comedia tierna y luminosa sobre esa edad en la que la esperanza de cambiar el mundo no era \"sólo una ilusión\". Los directores de Amigos se sumergen en el pasado para contarnos una hermosa historia sobre el paso a la adultez con trasfondo de retrato familiar.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "vZtK0AdeXk8",
+      "trailers": [
+        "vZtK0AdeXk8"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt36842933/",
+      "imdbId": "tt36842933",
+      "tmdbId": 1404684,
+      "votos": 1637
+    },
+    "HO00010059": {
+      "titulo": "Abandonado",
+      "tituloOriginal": "L’ABANDON",
+      "director": "Vincent Garenq",
+      "pais": "Francia",
+      "ano": 2026,
+      "duracion": 100,
+      "filmId": "HO00010059",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010059?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010059&cinemas=003",
+      "sinopsis": "Pocos años después del atentado contra el semanario Charlie Hebdo, el profesor Samuel Paty dirige un debate sobre la libertad de expresión en una escuela de las afueras de París. Una mentira amplificada por las redes sociales y distorsionada por el extremismo, desata una peligrosa espiral que nadie logra detener. Las voces chocan para confrontar una verdad devastadora: cómo un rumor, un clic y la inacción colectiva pueden conducir a consecuencias irreparables. Basada en hechos reales, la película reconstruye los once últimos días del profesor Paty, asesinado en 2020.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.6,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt40435390/",
+      "imdbId": "tt40435390",
+      "tmdbId": 1645368,
+      "votos": 574
+    },
+    "HO00010083": {
+      "titulo": "Dos montañas oprimen mi pecho",
+      "tituloOriginal": "Two Mountains Weighing Down My Chest",
+      "director": "Viv Li",
+      "pais": "Alemania/Países Bajo",
+      "ano": 2026,
+      "duracion": 86,
+      "filmId": "HO00010083",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010083?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010083&cinemas=003",
+      "sinopsis": "Acompañado del corto Las voces del despeñadero IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt39215184/",
+      "imdbId": "tt39215184",
+      "tmdbId": 1599790,
+      "votos": 49
+    },
+    "HO00010082": {
+      "titulo": "Finding Connection",
+      "tituloOriginal": null,
+      "director": "Florian Karner",
+      "pais": "Alemania",
+      "ano": 2026,
+      "duracion": 86,
+      "filmId": "HO00010082",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010082?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010082&cinemas=003",
+      "sinopsis": "Acompañado del corto Los días de Alfredo IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.5,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt31645419/",
+      "imdbId": "tt31645419",
+      "tmdbId": 1624471,
+      "votos": 17
+    },
+    "HO00009861": {
+      "titulo": "Staatsschutz /Prosecution",
+      "tituloOriginal": "Staatsschutz",
+      "director": "Faraz Shariat",
+      "pais": "Alemania",
+      "ano": 2023,
+      "duracion": 113,
+      "filmId": "HO00009861",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009861?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009861&cinemas=003",
+      "sinopsis": "Acompañado del corto Alicia IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt39213126/",
+      "imdbId": "tt39213126",
+      "tmdbId": 1599784,
+      "votos": 364
+    },
+    "HO00010085": {
+      "titulo": "Allegro Pastell",
+      "tituloOriginal": null,
+      "director": "Anna RolleR",
+      "pais": null,
+      "ano": 2026,
+      "duracion": 100,
+      "filmId": "HO00010085",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010085?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010085&cinemas=003",
+      "sinopsis": "Acompañado del corto Desdoblandome IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "vzSTEYgoIXY",
+      "trailers": [
+        "vzSTEYgoIXY"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 5.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt31041943/",
+      "imdbId": "tt31041943",
+      "tmdbId": 1303657,
+      "votos": 190
+    },
+    "HO00010084": {
+      "titulo": "Entiendo su descontento",
+      "tituloOriginal": "(Ich verstehe Ihren Unmut",
+      "director": "Kilian Armando Friedric",
+      "pais": "Alemania",
+      "ano": 2026,
+      "duracion": 93,
+      "filmId": "HO00010084",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010084?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010084&cinemas=003",
+      "sinopsis": "Acompañado del corto Horas extra IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "UQV_rc0EQFU",
+      "trailers": [
+        "UQV_rc0EQFU"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.4,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt39368062/",
+      "imdbId": "tt39368062",
+      "tmdbId": 1616184,
+      "votos": 89
+    },
+    "HO00009960": {
+      "titulo": "La copia perfecta",
+      "tituloOriginal": "L’AFFAIRE BOJARSKI",
+      "director": "Jean-Paul Salomé",
+      "pais": "Francia",
+      "ano": 2025,
+      "duracion": 128,
+      "filmId": "HO00009960",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009960?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009960&cinemas=003",
+      "sinopsis": "Basado en hechos reales en la Francia de la posguerra, el filme cuenta la historia de Jan Bojarski, un refugiado polaco, que acaparó los titulares al convertirse en el falsificador más ingenioso de su tiempo. Durante años, Bojarski fabricó billetes tan perfectos que engañaban al mismísimo Banco de Francia. Su trabajo atrajo la atención del comisario Mattei, y lo que empezó como un secreto muy bien guardado se convirtió en una persecución obsesiva. El relato sumerge al espectador en las fascinantes técnicas artesanales de un auténtico artista de la falsificación que llevaba una peligrosa doble vida con repercusiones personales.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "bN_jzKGJyvA",
+      "trailers": [
+        "bN_jzKGJyvA"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35495035/",
+      "imdbId": "tt35495035",
+      "tmdbId": 1376415,
+      "votos": 1800
+    },
+    "HO00010090": {
+      "titulo": "Short Export Programme",
+      "tituloOriginal": null,
+      "director": "Varios",
+      "pais": "Alemania",
+      "ano": 2026,
+      "duracion": 120,
+      "filmId": "HO00010090",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010090?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010090&cinemas=003",
+      "sinopsis": "Como los claveles (Wie die Nelken) Sala de estar (Living Room) Madre de un hijo (Mother of a son) Alegría (Joy) Corríjanme si estoy equivocado (Korrigiert mich, falls ich falsch liege) Sábana (Kutte)",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00010063": {
+      "titulo": "Me encontraste",
+      "tituloOriginal": "L’ÂME IDÉALE",
+      "director": "Alice Vial",
+      "pais": "Francia",
+      "ano": 2025,
+      "duracion": 96,
+      "filmId": "HO00010063",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010063?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010063&cinemas=002",
+      "sinopsis": "Elsa, es una mujer soltera que ha perdido la esperanza en el amor y que se dedica de lleno a su trabajo como doctora. Tiene un don muy peculiar que complica su existencia y que mantiene en secreto: puede ver y hablar con los muertos. Una noche conoce a Oscar, un hombre divertido y encantador que la hace creer de nuevo en el amor. Pero justo cuando empieza a enamorarse, descubre que su historia no es tan real como creía…",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.8,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35526093/",
+      "imdbId": "tt35526093",
+      "tmdbId": 1166170,
+      "votos": 685
+    },
+    "HO00010086": {
+      "titulo": "Wholetrain",
+      "tituloOriginal": null,
+      "director": "Florian Gaag",
+      "pais": null,
+      "ano": 2006,
+      "duracion": 82,
+      "filmId": "HO00010086",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010086?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010086&cinemas=003",
+      "sinopsis": "Noche tras noche, un grupo de grafiteros sale para decorar los trenes del metro de Múnich con sus obras… hasta que aparece otra crew. Se desencadena una feroz competición creativa que cambiará para siempre la vida de todos los involucrados. Wholetrain es un emocionante drama cargado de intensidad que nos sumerge en el secreto mundo del grafiti.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "oNKTp3Ta_Oc",
+      "trailers": [
+        "oNKTp3Ta_Oc"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0498203/",
+      "imdbId": "tt0498203",
+      "tmdbId": 14231,
+      "votos": 1144
     },
     "HO00009893": {
       "titulo": "El caimán humano",
@@ -1262,7 +1834,161 @@
       "urlImdb": "https://www.imdb.com/title/tt0052549/",
       "imdbId": "tt0052549",
       "tmdbId": 43105,
-      "votos": 2910
+      "votos": 2909
+    },
+    "HO00010087": {
+      "titulo": "La condesa sangrienta",
+      "tituloOriginal": "(Die Blutgräfin",
+      "director": "Ulrike Ottinger",
+      "pais": "Austria/Luxemburgo/Alemania",
+      "ano": 2026,
+      "duracion": 120,
+      "filmId": "HO00010087",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010087?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010087&cinemas=003",
+      "sinopsis": "Ulrike Ottinger Ulrike Ottinger, con la participación de Elfriede Jelinek en los diálogos.. Martin Gschlacht Color Wolfgang Mitterer. Pia Dumont. Isabelle Huppert, Birgit Minichmayr, Thomas Schubert, Lars Eidinger, André Jung, Marco Lorenzini, Karl Markovics, Tom Neuwirth.. Alexander Dumreicher-Ivanceanu, Bady Minck, Bettina Brokemper. Amour Fou Vienna, Amour Fou Luxembourg, Heimatfilm, Ulrike Ottinger Filmproduktion.. Goethe Institut. C.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "jNG343pAJxI",
+      "trailers": [
+        "jNG343pAJxI"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 5.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt28151657/",
+      "imdbId": "tt28151657",
+      "tmdbId": 1251608,
+      "votos": 128
+    },
+    "HO00009938": {
+      "titulo": "Poirot, último testigo",
+      "tituloOriginal": "Poirot",
+      "director": "Francesc Relea",
+      "pais": "España y Chile",
+      "ano": 2025,
+      "duracion": 65,
+      "filmId": "HO00009938",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009938?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009938&cinemas=003",
+      "sinopsis": "Más de medio siglo de la historia cultural y política de Chile y España está documentada por la cámara del chileno Luis Poirot, que pasó una década exiliado en Barcelona. A los 85 años, el veterano fotógrafo es la memoria viva de un Chile que desaparece. Es el último testigo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt33087600/",
+      "imdbId": "tt33087600",
+      "tmdbId": 1465915,
+      "votos": 0
+    },
+    "HO00010061": {
+      "titulo": "El desconocido del gran arco",
+      "tituloOriginal": "L'INCONNU DE LA GRANDE ARCHE",
+      "director": "Stéphane Demoustier",
+      "pais": "Francia",
+      "ano": 2025,
+      "duracion": 104,
+      "filmId": "HO00010061",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010061?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010061&cinemas=002",
+      "sinopsis": "En 1983, François Mitterrand convocó el mayor concurso de arquitectura de la historia. Su objetivo: erigir un nuevo monumento en París y convertirlo en la insignia de su mandato presidencial. Para sorpresa de todos, el ganador fue un absoluto desconocido: Johan Otto von Spreckelsen, un profesor de arquitectura de Copenhague quien se convirtió en el centro de todas las miradas. El filme parte de la psicología del protagonista y las adversidades que enfrenta su proyecto para hablar de temas complejos como la ética profesional y el enfrentamiento entre idealismo y poder político.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "FhtqB5aq1t8",
+      "trailers": [
+        "FhtqB5aq1t8"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt32398150/",
+      "imdbId": "tt32398150",
+      "tmdbId": 1290424,
+      "votos": 2281
+    },
+    "HO00010089": {
+      "titulo": "Estrellas rojas sobre el campo",
+      "tituloOriginal": "Rote Sterne überm Feld",
+      "director": "Laura Laab",
+      "pais": "Alemania",
+      "ano": 2025,
+      "duracion": 133,
+      "filmId": "HO00010089",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010089?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010089&cinemas=003",
+      "sinopsis": "Acompañado del corto El canto del jaguar IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.2,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35150158/",
+      "imdbId": "tt35150158",
+      "tmdbId": 1174023,
+      "votos": 55
+    },
+    "HO00010088": {
+      "titulo": "Golpear al mundo con el puño",
+      "tituloOriginal": "(Mit der Faust in die Welt schlagen",
+      "director": "Constanze Klaue",
+      "pais": "Alemania",
+      "ano": 2025,
+      "duracion": 110,
+      "filmId": "HO00010088",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010088?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010088&cinemas=003",
+      "sinopsis": "Constanze Klaue. Constanze Klaue, basada libremente en la novela homónima de Lukas Rietzschel.. Florian Brückner. Color PC Nackt.. Emma Alice Gräf, Andreas Wodraschke.. Anton Franke, Camille Moltzen, Anja Schneider, Christian Näthe, Katrin Röver, Hannes Wegener, Meinhard Neumann, Steffi Kühnert, Johannes Scheidweiler, Moritz Hoyer.. Alexander Wadouh, Gabriele Simon, Martin Heisler, Roxana Richters. Flare Film, Chromosom Film.. Goethe Institut. B.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt26414209/",
+      "imdbId": "tt26414209",
+      "tmdbId": 1338472,
+      "votos": 258
+    },
+    "HO00010093": {
+      "titulo": "Elton John: Live at Estadio do Flamengo, Rio de ja",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010093",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010093?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010093&cinemas=001",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     }
   },
   "funciones": [
@@ -1741,11 +2467,2950 @@
     },
     {
       "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009956",
+      "sala": "Sala 2",
+      "horarios": [
+        "16:00",
+        "18:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00008666",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00010080",
+      "sala": "Sala 7",
+      "horarios": [
+        "15:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009934",
+      "sala": "Sala 9",
+      "horarios": [
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00010064",
+      "sala": "Sala 3",
+      "horarios": [
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00010081",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009139",
+      "sala": "Sala 6",
+      "horarios": [
+        "16:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009563",
+      "sala": "Sala 4",
+      "horarios": [
+        "15:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009424",
+      "sala": "Sala 8",
+      "horarios": [
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009929",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009278",
+      "sala": "Sala 2",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009787",
+      "sala": "Sala 9",
+      "horarios": [
+        "15:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009790",
+      "sala": "Sala 10",
+      "horarios": [
+        "19:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009763",
+      "sala": "Sala 8",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00008486",
+      "sala": "Sala 10",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00010065",
+      "sala": "Sala 1",
+      "horarios": [
+        "19:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009426",
+      "sala": "Sala 8",
+      "horarios": [
+        "16:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009698",
+      "sala": "Sala 4",
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009847",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:45",
+        "18:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009958",
+      "sala": "Sala 1",
+      "horarios": [
+        "14:00",
+        "16:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009561",
+      "sala": "Sala 9",
+      "horarios": [
+        "17:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009814",
+      "sala": "Sala 4",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009555",
+      "sala": "Sala 6",
+      "horarios": [
+        "14:30",
+        "20:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009256",
+      "sala": "Sala 10",
+      "horarios": [
+        "16:15"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009758",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009933",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009936",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:00",
+        "15:00",
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00010076",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:00",
+        "16:30",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00008162",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009278",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:15",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009787",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:20",
+        "17:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009939",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00010065",
+      "sala": "Sala 7",
+      "horarios": [
+        "17:55",
+        "19:45"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009931",
+      "sala": "Sala 5",
+      "horarios": [
+        "13:25",
+        "15:25"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009958",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:25",
+        "19:25"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009932",
+      "sala": "Sala 6",
+      "horarios": [
+        "15:35",
+        "19:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009933",
+      "sala": "Sala 10",
+      "horarios": [
+        "12:50",
+        "15:20",
+        "17:40",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009936",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:50",
+        "17:10",
+        "19:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009935",
+      "sala": "Sala 3",
+      "horarios": [
+        "15:10",
+        "17:20",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009850",
+      "sala": "Sala 9",
+      "horarios": [
+        "13:50",
+        "15:40",
+        "18:00",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009848",
+      "sala": "Sala 6 · Sala 4",
+      "horarios": [
+        "13:30",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009939",
+      "sala": "Sala 12",
+      "horarios": [
+        "15:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00010065",
+      "sala": "Sala 12",
+      "horarios": [
+        "13:00",
+        "17:00",
+        "19:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009426",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:30",
+        "16:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00004792",
+      "sala": "Sala 6",
+      "horarios": [
+        "19:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009931",
+      "sala": "Sala 7",
+      "horarios": [
+        "14:00",
+        "16:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009958",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:30",
+        "20:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009932",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:10",
+        "16:10",
+        "18:10",
+        "20:10"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00010060",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009851",
+      "sala": "Sala 11",
+      "horarios": [
+        "13:40",
+        "16:40",
+        "18:50",
+        "20:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-25",
+      "pelicula": "HO00009555",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:10",
+        "16:50",
+        "19:50"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00010059",
+      "sala": "Sala 3",
+      "horarios": [
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009933",
+      "sala": "Sala 3",
+      "horarios": [
+        "12:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009806",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009956",
+      "sala": "Sala 2",
+      "horarios": [
+        "16:00",
+        "18:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00008666",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009934",
+      "sala": "Sala 9",
+      "horarios": [
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00010083",
+      "sala": "Sala 7",
+      "horarios": [
+        "15:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009139",
+      "sala": "Sala 6",
+      "horarios": [
+        "16:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009563",
+      "sala": "Sala 4",
+      "horarios": [
+        "15:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00010082",
+      "sala": "Sala 7",
+      "horarios": [
+        "12:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009424",
+      "sala": "Sala 8",
+      "horarios": [
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009929",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009278",
+      "sala": "Sala 2",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009787",
+      "sala": "Sala 9",
+      "horarios": [
+        "15:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009790",
+      "sala": "Sala 10",
+      "horarios": [
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009763",
+      "sala": "Sala 8",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00008486",
+      "sala": "Sala 10",
+      "horarios": [
+        "14:00",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00010065",
+      "sala": "Sala 1",
+      "horarios": [
+        "19:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009426",
+      "sala": "Sala 8",
+      "horarios": [
+        "16:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009698",
+      "sala": "Sala 4",
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009847",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:45",
+        "18:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009931",
+      "sala": "Sala 1",
+      "horarios": [
+        "12:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009958",
+      "sala": "Sala 1",
+      "horarios": [
+        "14:15",
+        "16:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009561",
+      "sala": "Sala 9",
+      "horarios": [
+        "17:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009814",
+      "sala": "Sala 4",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009861",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009555",
+      "sala": "Sala 6",
+      "horarios": [
+        "14:30",
+        "20:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009256",
+      "sala": "Sala 10",
+      "horarios": [
+        "16:15"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009758",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009933",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009936",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:00",
+        "15:00",
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00010076",
+      "sala": "Sala 8",
+      "horarios": [
+        "12:00",
+        "14:20",
+        "16:40",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00008162",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009278",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:15",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009787",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:20",
+        "17:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009939",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00010065",
+      "sala": "Sala 7",
+      "horarios": [
+        "17:55",
+        "19:45"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009931",
+      "sala": "Sala 5",
+      "horarios": [
+        "13:05",
+        "15:15"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009958",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:30",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009932",
+      "sala": "Sala 6",
+      "horarios": [
+        "15:35",
+        "19:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009933",
+      "sala": "Sala 10",
+      "horarios": [
+        "12:50",
+        "15:20",
+        "17:40",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009936",
+      "sala": "Sala 2",
+      "horarios": [
+        "12:30",
+        "14:50",
+        "17:10",
+        "19:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00010062",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009935",
+      "sala": "Sala 3",
+      "horarios": [
+        "12:40",
+        "15:10",
+        "17:20",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009850",
+      "sala": "Sala 9",
+      "horarios": [
+        "11:50",
+        "13:50",
+        "15:40",
+        "18:00",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009848",
+      "sala": "Sala 6",
+      "horarios": [
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009939",
+      "sala": "Sala 12",
+      "horarios": [
+        "11:10",
+        "15:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00010065",
+      "sala": "Sala 12",
+      "horarios": [
+        "13:05",
+        "17:00",
+        "19:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009426",
+      "sala": "Sala 4",
+      "horarios": [
+        "12:20",
+        "14:30",
+        "16:30",
+        "18:20",
+        "20:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009931",
+      "sala": "Sala 7",
+      "horarios": [
+        "11:40",
+        "14:00",
+        "16:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009958",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:30",
+        "20:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009932",
+      "sala": "Sala 8",
+      "horarios": [
+        "12:00",
+        "14:10",
+        "16:10",
+        "18:10",
+        "20:10"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009851",
+      "sala": "Sala 11",
+      "horarios": [
+        "11:30",
+        "13:40",
+        "16:40",
+        "18:50",
+        "20:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-26",
+      "pelicula": "HO00009555",
+      "sala": "Sala 5",
+      "horarios": [
+        "11:20",
+        "14:10",
+        "16:50",
+        "19:50"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00010085",
+      "sala": "Sala 7",
+      "horarios": [
+        "19:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009933",
+      "sala": "Sala 3",
+      "horarios": [
+        "12:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009806",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009956",
+      "sala": "Sala 2",
+      "horarios": [
+        "16:00",
+        "18:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00008666",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009934",
+      "sala": "Sala 9",
+      "horarios": [
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009139",
+      "sala": "Sala 6",
+      "horarios": [
+        "16:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00010084",
+      "sala": "Sala 7",
+      "horarios": [
+        "16:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009563",
+      "sala": "Sala 4",
+      "horarios": [
+        "15:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009424",
+      "sala": "Sala 8",
+      "horarios": [
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009929",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009960",
+      "sala": "Sala 3",
+      "horarios": [
+        "15:00",
+        "17:45",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009278",
+      "sala": "Sala 2",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009787",
+      "sala": "Sala 9",
+      "horarios": [
+        "15:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009790",
+      "sala": "Sala 10",
+      "horarios": [
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009763",
+      "sala": "Sala 8",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00008486",
+      "sala": "Sala 10",
+      "horarios": [
+        "14:00",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00010065",
+      "sala": "Sala 1",
+      "horarios": [
+        "19:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009426",
+      "sala": "Sala 8",
+      "horarios": [
+        "16:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009698",
+      "sala": "Sala 4",
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009847",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:45",
+        "18:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009931",
+      "sala": "Sala 1",
+      "horarios": [
+        "12:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009958",
+      "sala": "Sala 1",
+      "horarios": [
+        "14:15",
+        "16:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009561",
+      "sala": "Sala 9",
+      "horarios": [
+        "17:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009814",
+      "sala": "Sala 4",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00010090",
+      "sala": "Sala 7",
+      "horarios": [
+        "12:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009555",
+      "sala": "Sala 6",
+      "horarios": [
+        "14:30",
+        "20:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009256",
+      "sala": "Sala 10",
+      "horarios": [
+        "16:15"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009758",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009933",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009936",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:00",
+        "15:00",
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00010076",
+      "sala": "Sala 8",
+      "horarios": [
+        "12:00",
+        "14:20",
+        "16:40",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00008162",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009278",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:15",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009787",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:20",
+        "17:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009939",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00010065",
+      "sala": "Sala 7",
+      "horarios": [
+        "17:55",
+        "19:45"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009931",
+      "sala": "Sala 5",
+      "horarios": [
+        "13:05",
+        "15:15"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009958",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:30",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009932",
+      "sala": "Sala 6",
+      "horarios": [
+        "15:35",
+        "19:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009933",
+      "sala": "Sala 10",
+      "horarios": [
+        "12:50",
+        "15:20",
+        "17:40",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009936",
+      "sala": "Sala 2",
+      "horarios": [
+        "12:30",
+        "14:50",
+        "17:10",
+        "19:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009935",
+      "sala": "Sala 3",
+      "horarios": [
+        "12:40",
+        "15:10",
+        "17:20",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009850",
+      "sala": "Sala 9",
+      "horarios": [
+        "11:50",
+        "13:50",
+        "15:40",
+        "18:00",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009848",
+      "sala": "Sala 6",
+      "horarios": [
+        "11:00",
+        "13:30",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009939",
+      "sala": "Sala 12",
+      "horarios": [
+        "11:10",
+        "15:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00010065",
+      "sala": "Sala 12",
+      "horarios": [
+        "13:05",
+        "17:00",
+        "19:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00010063",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009426",
+      "sala": "Sala 4",
+      "horarios": [
+        "12:20",
+        "14:30",
+        "16:30",
+        "18:20",
+        "20:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009931",
+      "sala": "Sala 7",
+      "horarios": [
+        "11:40",
+        "14:00",
+        "16:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009958",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:30",
+        "20:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009932",
+      "sala": "Sala 8",
+      "horarios": [
+        "12:00",
+        "14:10",
+        "16:10",
+        "18:10",
+        "20:10"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009851",
+      "sala": "Sala 11",
+      "horarios": [
+        "11:30",
+        "13:40",
+        "16:40",
+        "18:50",
+        "20:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-27",
+      "pelicula": "HO00009555",
+      "sala": "Sala 5",
+      "horarios": [
+        "11:20",
+        "14:10",
+        "16:50",
+        "19:50"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009956",
+      "sala": "Sala 2",
+      "horarios": [
+        "16:00",
+        "18:15",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00008666",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009934",
+      "sala": "Sala 9",
+      "horarios": [
+        "14:00",
+        "16:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009139",
+      "sala": "Sala 6",
+      "horarios": [
+        "16:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009563",
+      "sala": "Sala 4",
+      "horarios": [
+        "15:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009424",
+      "sala": "Sala 7",
+      "horarios": [
+        "19:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009929",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009278",
+      "sala": "Sala 1",
+      "horarios": [
+        "20:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009787",
+      "sala": "Sala 7",
+      "horarios": [
+        "16:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009790",
+      "sala": "Sala 10",
+      "horarios": [
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009763",
+      "sala": "Sala 8",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00008486",
+      "sala": "Sala 10",
+      "horarios": [
+        "14:00",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00010065",
+      "sala": "Sala 3",
+      "horarios": [
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009426",
+      "sala": "Sala 8",
+      "horarios": [
+        "16:30",
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009698",
+      "sala": "Sala 4",
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009847",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:45",
+        "18:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009958",
+      "sala": "Sala 1",
+      "horarios": [
+        "15:30",
+        "17:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009814",
+      "sala": "Sala 4",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009555",
+      "sala": "Sala 6",
+      "horarios": [
+        "14:30",
+        "20:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009256",
+      "sala": "Sala 10",
+      "horarios": [
+        "16:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00010086",
+      "sala": "Sala 7",
+      "horarios": [
+        "21:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009933",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009936",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:00",
+        "15:00",
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00010076",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:00",
+        "16:30",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00008162",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009278",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:15",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009787",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:20",
+        "17:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009939",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00010065",
+      "sala": "Sala 7",
+      "horarios": [
+        "17:55",
+        "19:45"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009931",
+      "sala": "Sala 5",
+      "horarios": [
+        "13:25",
+        "15:25"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009958",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:25",
+        "19:25"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009932",
+      "sala": "Sala 6",
+      "horarios": [
+        "15:35",
+        "19:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00010059",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009933",
+      "sala": "Sala 10",
+      "horarios": [
+        "12:50",
+        "15:20",
+        "17:40",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009936",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:50",
+        "17:10",
+        "19:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009935",
+      "sala": "Sala 3",
+      "horarios": [
+        "15:10",
+        "17:20",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009850",
+      "sala": "Sala 9",
+      "horarios": [
+        "13:40",
+        "15:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009848",
+      "sala": "Sala 6 · Sala 4",
+      "horarios": [
+        "13:30",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009939",
+      "sala": "Sala 12",
+      "horarios": [
+        "15:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00010065",
+      "sala": "Sala 12",
+      "horarios": [
+        "13:00",
+        "17:00",
+        "19:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009426",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:30",
+        "16:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009931",
+      "sala": "Sala 7",
+      "horarios": [
+        "14:00",
+        "16:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009958",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:30",
+        "20:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009932",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:10",
+        "16:10",
+        "18:10",
+        "20:10"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009851",
+      "sala": "Sala 11",
+      "horarios": [
+        "13:40",
+        "16:40",
+        "18:50",
+        "20:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-28",
+      "pelicula": "HO00009555",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:10",
+        "16:50",
+        "19:50"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009956",
+      "sala": "Sala 2",
+      "horarios": [
+        "16:00",
+        "18:15",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
       "fecha": "2026-09-29",
       "pelicula": "HO00009893",
       "sala": "Sala 4",
       "horarios": [
         "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009139",
+      "sala": "Sala 6",
+      "horarios": [
+        "16:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009563",
+      "sala": "Sala 4",
+      "horarios": [
+        "15:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009424",
+      "sala": "Sala 7",
+      "horarios": [
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009929",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00010087",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009278",
+      "sala": "Sala 1",
+      "horarios": [
+        "20:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009787",
+      "sala": "Sala 7",
+      "horarios": [
+        "16:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009790",
+      "sala": "Sala 10",
+      "horarios": [
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009763",
+      "sala": "Sala 8",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00008486",
+      "sala": "Sala 10",
+      "horarios": [
+        "14:00",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00010065",
+      "sala": "Sala 3",
+      "horarios": [
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009426",
+      "sala": "Sala 8",
+      "horarios": [
+        "16:30",
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009847",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009938",
+      "sala": "Sala 9",
+      "horarios": [
+        "19:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009958",
+      "sala": "Sala 1",
+      "horarios": [
+        "15:30",
+        "17:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009561",
+      "sala": "Sala 9",
+      "horarios": [
+        "15:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009555",
+      "sala": "Sala 6",
+      "horarios": [
+        "14:30",
+        "20:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009256",
+      "sala": "Sala 10",
+      "horarios": [
+        "16:15"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009933",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009936",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:00",
+        "15:00",
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00010076",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:00",
+        "16:30",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00008162",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009278",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:15",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009787",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:20",
+        "17:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009939",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00010065",
+      "sala": "Sala 7",
+      "horarios": [
+        "17:55",
+        "19:45"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009931",
+      "sala": "Sala 5",
+      "horarios": [
+        "13:25",
+        "15:25"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009958",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:25",
+        "19:25"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009932",
+      "sala": "Sala 6",
+      "horarios": [
+        "15:35",
+        "19:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009933",
+      "sala": "Sala 10",
+      "horarios": [
+        "12:50",
+        "15:20",
+        "17:40",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009936",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:50",
+        "17:10",
+        "19:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00010061",
+      "sala": "Sala 1",
+      "horarios": [
+        "15:30",
+        "18:00",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009935",
+      "sala": "Sala 3",
+      "horarios": [
+        "15:10",
+        "17:20",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009850",
+      "sala": "Sala 9",
+      "horarios": [
+        "13:50",
+        "15:40",
+        "18:00",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009848",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:30",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009939",
+      "sala": "Sala 12",
+      "horarios": [
+        "15:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00010065",
+      "sala": "Sala 12",
+      "horarios": [
+        "13:00",
+        "17:00",
+        "19:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009426",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:30",
+        "16:30",
+        "18:20",
+        "20:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009931",
+      "sala": "Sala 7",
+      "horarios": [
+        "14:00",
+        "16:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009958",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:30",
+        "20:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009932",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:10",
+        "16:10",
+        "18:10",
+        "20:10"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009851",
+      "sala": "Sala 11",
+      "horarios": [
+        "13:40",
+        "16:40",
+        "18:50",
+        "20:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-29",
+      "pelicula": "HO00009555",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:10",
+        "16:50",
+        "19:50"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009956",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:00",
+        "16:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00008666",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009934",
+      "sala": "Sala 9",
+      "horarios": [
+        "15:15",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00010089",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009563",
+      "sala": "Sala 4",
+      "horarios": [
+        "15:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00010088",
+      "sala": "Sala 7",
+      "horarios": [
+        "15:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009424",
+      "sala": "Sala 7",
+      "horarios": [
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009929",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009278",
+      "sala": "Sala 1",
+      "horarios": [
+        "20:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009790",
+      "sala": "Sala 10",
+      "horarios": [
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009763",
+      "sala": "Sala 8",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00008486",
+      "sala": "Sala 10",
+      "horarios": [
+        "14:00",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00010065",
+      "sala": "Sala 3",
+      "horarios": [
+        "16:00",
+        "18:30",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009426",
+      "sala": "Sala 8",
+      "horarios": [
+        "16:30",
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009698",
+      "sala": "Sala 4",
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009847",
+      "sala": "Sala 5",
+      "horarios": [
+        "20:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009958",
+      "sala": "Sala 1",
+      "horarios": [
+        "15:30",
+        "17:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009561",
+      "sala": "Sala 9",
+      "horarios": [
+        "17:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009814",
+      "sala": "Sala 4",
+      "horarios": [
+        "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009555",
+      "sala": "Sala 6",
+      "horarios": [
+        "15:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009256",
+      "sala": "Sala 10",
+      "horarios": [
+        "16:15"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009758",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009933",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009936",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:00",
+        "15:00",
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00010093",
+      "sala": null,
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00010076",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:00",
+        "16:30",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00008162",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009278",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:15",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009787",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:25"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009939",
+      "sala": null,
+      "horarios": []
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00010065",
+      "sala": "Sala 7",
+      "horarios": [
+        "17:55",
+        "19:45"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009931",
+      "sala": "Sala 5",
+      "horarios": [
+        "15:25"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009958",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:25",
+        "19:25"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009933",
+      "sala": "Sala 10",
+      "horarios": [
+        "12:50",
+        "15:20",
+        "17:40",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009936",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:50",
+        "17:10",
+        "19:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009935",
+      "sala": "Sala 3",
+      "horarios": [
+        "15:10",
+        "17:20",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009850",
+      "sala": "Sala 9",
+      "horarios": [
+        "13:40",
+        "15:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009960",
+      "sala": "Sala 1",
+      "horarios": [
+        "15:30",
+        "18:00",
+        "20:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009848",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:30",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009939",
+      "sala": "Sala 12",
+      "horarios": [
+        "15:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00010065",
+      "sala": "Sala 12",
+      "horarios": [
+        "13:00",
+        "17:00",
+        "19:00",
+        "21:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009426",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:30",
+        "16:30",
+        "18:20",
+        "20:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009931",
+      "sala": "Sala 7",
+      "horarios": [
+        "14:00",
+        "16:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009958",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:30",
+        "20:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009932",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:10",
+        "16:10",
+        "18:10",
+        "20:10"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009851",
+      "sala": "Sala 11",
+      "horarios": [
+        "13:40",
+        "16:40",
+        "18:50",
+        "20:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
+      "pelicula": "HO00009555",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:10",
+        "16:50",
+        "19:50"
       ]
     }
   ]
