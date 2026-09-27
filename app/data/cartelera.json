@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-09-26T17:47:56.346Z",
-  "hoy": "2026-09-26",
+  "generadoEn": "2026-09-27T12:59:24.118Z",
+  "hoy": "2026-09-27",
   "sedes": [
     {
       "id": "003",
@@ -19,39 +19,41 @@
     }
   ],
   "fechas": [
-    "2026-09-26",
     "2026-09-27",
     "2026-09-28",
     "2026-09-29",
     "2026-09-30",
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "peliculas": {
-    "HO00010059": {
-      "titulo": "Abandonado",
-      "tituloOriginal": "L’ABANDON",
-      "director": "Vincent Garenq",
-      "pais": "Francia",
+    "HO00010085": {
+      "titulo": "Allegro Pastell",
+      "tituloOriginal": null,
+      "director": "Anna RolleR",
+      "pais": null,
       "ano": 2026,
       "duracion": 100,
-      "filmId": "HO00010059",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010059?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010059&cinemas=003",
-      "sinopsis": "Pocos años después del atentado contra el semanario Charlie Hebdo, el profesor Samuel Paty dirige un debate sobre la libertad de expresión en una escuela de las afueras de París. Una mentira amplificada por las redes sociales y distorsionada por el extremismo, desata una peligrosa espiral que nadie logra detener. Las voces chocan para confrontar una verdad devastadora: cómo un rumor, un clic y la inacción colectiva pueden conducir a consecuencias irreparables. Basada en hechos reales, la película reconstruye los once últimos días del profesor Paty, asesinado en 2020.",
+      "filmId": "HO00010085",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010085?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010085&cinemas=003",
+      "sinopsis": "Acompañado del corto Desdoblandome IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
+      "trailer": "vzSTEYgoIXY",
+      "trailers": [
+        "vzSTEYgoIXY"
+      ],
+      "trailerFuente": "TMDB",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.6,
+      "publico": 5.7,
       "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt40435390/",
-      "imdbId": "tt40435390",
-      "tmdbId": 1645368,
-      "votos": 587
+      "urlImdb": "https://www.imdb.com/title/tt31041943/",
+      "imdbId": "tt31041943",
+      "tmdbId": 1303657,
+      "votos": 192
     },
     "HO00009933": {
       "titulo": "Cars 20 aniversario DOB",
@@ -104,7 +106,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 550151
+      "votos": 550232
     },
     "HO00009806": {
       "titulo": "Coyote Vs Acme DOB",
@@ -144,7 +146,7 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.5,
+      "publico": 7.4,
       "publicoFuente": "IMDb",
       "resenas": [
         {
@@ -166,7 +168,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 31069
+      "votos": 31542
     },
     "HO00009956": {
       "titulo": "Coyote Vs Acme SUB",
@@ -206,7 +208,7 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.5,
+      "publico": 7.4,
       "publicoFuente": "IMDb",
       "resenas": [
         {
@@ -228,7 +230,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 31069
+      "votos": 31542
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -298,32 +300,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125106
-    },
-    "HO00010083": {
-      "titulo": "Dos montañas oprimen mi pecho",
-      "tituloOriginal": "Two Mountains Weighing Down My Chest",
-      "director": "Viv Li",
-      "pais": "Alemania/Países Bajo",
-      "ano": 2026,
-      "duracion": 86,
-      "filmId": "HO00010083",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010083?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010083&cinemas=003",
-      "sinopsis": "Acompañado del corto Las voces del despeñadero IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt39215184/",
-      "imdbId": "tt39215184",
-      "tmdbId": 1599790,
-      "votos": 49
+      "votos": 125123
     },
     "HO00009139": {
       "titulo": "El príncipe de Nanawa",
@@ -345,13 +322,40 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.9,
+      "publico": 8,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt30006845/",
       "imdbId": "tt30006845",
       "tmdbId": 808224,
-      "votos": 52
+      "votos": 53
+    },
+    "HO00010084": {
+      "titulo": "Entiendo su descontento",
+      "tituloOriginal": "(Ich verstehe Ihren Unmut",
+      "director": "Kilian Armando Friedric",
+      "pais": "Alemania",
+      "ano": 2026,
+      "duracion": 93,
+      "filmId": "HO00010084",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010084?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010084&cinemas=003",
+      "sinopsis": "Acompañado del corto Horas extra IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "UQV_rc0EQFU",
+      "trailers": [
+        "UQV_rc0EQFU"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.4,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt39368062/",
+      "imdbId": "tt39368062",
+      "tmdbId": 1616184,
+      "votos": 90
     },
     "HO00009563": {
       "titulo": "Expulsado del paraíso",
@@ -381,32 +385,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22507216/",
       "imdbId": "tt22507216",
       "tmdbId": 1269644,
-      "votos": 4938
-    },
-    "HO00010082": {
-      "titulo": "Finding Connection",
-      "tituloOriginal": null,
-      "director": "Florian Karner",
-      "pais": "Alemania",
-      "ano": 2026,
-      "duracion": 86,
-      "filmId": "HO00010082",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010082?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010082&cinemas=003",
-      "sinopsis": "Acompañado del corto Los días de Alfredo IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.5,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt31645419/",
-      "imdbId": "tt31645419",
-      "tmdbId": 1624471,
-      "votos": 17
+      "votos": 4950
     },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
@@ -463,6 +442,33 @@
       "tmdbId": 1234410,
       "votos": 106
     },
+    "HO00009960": {
+      "titulo": "La copia perfecta",
+      "tituloOriginal": "L’AFFAIRE BOJARSKI",
+      "director": "Jean-Paul Salomé",
+      "pais": "Francia",
+      "ano": 2025,
+      "duracion": 128,
+      "filmId": "HO00009960",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009960?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009960&cinemas=003",
+      "sinopsis": "Basado en hechos reales en la Francia de la posguerra, el filme cuenta la historia de Jan Bojarski, un refugiado polaco, que acaparó los titulares al convertirse en el falsificador más ingenioso de su tiempo. Durante años, Bojarski fabricó billetes tan perfectos que engañaban al mismísimo Banco de Francia. Su trabajo atrajo la atención del comisario Mattei, y lo que empezó como un secreto muy bien guardado se convirtió en una persecución obsesiva. El relato sumerge al espectador en las fascinantes técnicas artesanales de un auténtico artista de la falsificación que llevaba una peligrosa doble vida con repercusiones personales.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "bN_jzKGJyvA",
+      "trailers": [
+        "bN_jzKGJyvA"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35495035/",
+      "imdbId": "tt35495035",
+      "tmdbId": 1376415,
+      "votos": 1840
+    },
     "HO00009278": {
       "titulo": "La desaparición de Josef Mengele",
       "tituloOriginal": "Das Verschwinden des Josef Mengele",
@@ -489,7 +495,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2050
+      "votos": 2054
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -523,7 +529,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37813097/",
       "imdbId": "tt37813097",
       "tmdbId": 1459062,
-      "votos": 184
+      "votos": 186
     },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
@@ -585,7 +591,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 3050
+      "votos": 3053
     },
     "HO00008486": {
       "titulo": "Los sueños que compartimos",
@@ -647,7 +653,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203460
+      "votos": 203482
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -708,7 +714,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35854741/",
       "imdbId": "tt35854741",
       "tmdbId": 1437703,
-      "votos": 574
+      "votos": 581
     },
     "HO00009847": {
       "titulo": "Oh, fortuna",
@@ -774,7 +780,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189281
+      "votos": 189316
     },
     "HO00009958": {
       "titulo": "Ponyo y el secreto de la sirenita SUB",
@@ -815,7 +821,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189281
+      "votos": 189316
     },
     "HO00009561": {
       "titulo": "Resurrection",
@@ -871,30 +877,30 @@
       "tmdbId": 1440130,
       "votos": 17
     },
-    "HO00009861": {
-      "titulo": "Staatsschutz /Prosecution",
-      "tituloOriginal": "Staatsschutz",
-      "director": "Faraz Shariat",
+    "HO00010090": {
+      "titulo": "Short Export Programme",
+      "tituloOriginal": null,
+      "director": "Varios",
       "pais": "Alemania",
-      "ano": 2023,
-      "duracion": 113,
-      "filmId": "HO00009861",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009861?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009861&cinemas=003",
-      "sinopsis": "Acompañado del corto Alicia IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "ano": 2026,
+      "duracion": 120,
+      "filmId": "HO00010090",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010090?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010090&cinemas=003",
+      "sinopsis": "Como los claveles (Wie die Nelken) Sala de estar (Living Room) Madre de un hijo (Mother of a son) Alegría (Joy) Corríjanme si estoy equivocado (Korrigiert mich, falls ich falsch liege) Sábana (Kutte)",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "IMDb",
+      "publico": null,
+      "publicoFuente": null,
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt39213126/",
-      "imdbId": "tt39213126",
-      "tmdbId": 1599784,
-      "votos": 376
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00009555": {
       "titulo": "Tus dos muertos",
@@ -1001,7 +1007,7 @@
       "urlImdb": "https://www.imdb.com/title/tt21413704/",
       "imdbId": "tt21413704",
       "tmdbId": 1199946,
-      "votos": 67
+      "votos": 68
     },
     "HO00010076": {
       "titulo": "Hombre al agua",
@@ -1022,13 +1028,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.4,
+      "publico": 6.6,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 31
+      "votos": 38
     },
     "HO00008162": {
       "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
@@ -1055,7 +1061,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7246476/",
       "imdbId": "tt7246476",
       "tmdbId": 671296,
-      "votos": 75
+      "votos": 77
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -1089,7 +1095,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203460
+      "votos": 203482
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1118,31 +1124,6 @@
       "imdbId": "tt27672943",
       "tmdbId": 1478001,
       "votos": 15
-    },
-    "HO00010062": {
-      "titulo": "El camino",
-      "tituloOriginal": "COMPOSTELLE",
-      "director": "Yann Samuell",
-      "pais": "Francia",
-      "ano": 2026,
-      "duracion": 113,
-      "filmId": "HO00010062",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010062?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010062&cinemas=002",
-      "sinopsis": "Fred y Adam no se conocen. Ella es una mujer de 40 años que intenta reconciliarse con su pasado, y él un adolescente con problemas de abandono que intenta canalizar su ira. Por azares del destino, emprenden juntos el camino hacia Santiago de Compostela. Entre enfrentamientos y momentos de complicidad, a medida que avanzan, su vínculo se fortalece y el Camino se convierte para ambos en una oportunidad para empezar de nuevo.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.6,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt39814688/",
-      "imdbId": "tt39814688",
-      "tmdbId": 1404604,
-      "votos": 349
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1237,7 +1218,32 @@
       "urlImdb": "https://www.imdb.com/title/tt27811248/",
       "imdbId": "tt27811248",
       "tmdbId": 1291712,
-      "votos": 3141
+      "votos": 3150
+    },
+    "HO00010063": {
+      "titulo": "Me encontraste",
+      "tituloOriginal": "L’ÂME IDÉALE",
+      "director": "Alice Vial",
+      "pais": "Francia",
+      "ano": 2025,
+      "duracion": 96,
+      "filmId": "HO00010063",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010063?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010063&cinemas=002",
+      "sinopsis": "Elsa, es una mujer soltera que ha perdido la esperanza en el amor y que se dedica de lleno a su trabajo como doctora. Tiene un don muy peculiar que complica su existencia y que mantiene en secreto: puede ver y hablar con los muertos. Una noche conoce a Oscar, un hombre divertido y encantador que la hace creer de nuevo en el amor. Pero justo cuando empieza a enamorarse, descubre que su historia no es tan real como creía…",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.8,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35526093/",
+      "imdbId": "tt35526093",
+      "tmdbId": 1166170,
+      "votos": 689
     },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
@@ -1268,137 +1274,6 @@
       "tmdbId": 1318711,
       "votos": 79
     },
-    "HO00010085": {
-      "titulo": "Allegro Pastell",
-      "tituloOriginal": null,
-      "director": "Anna RolleR",
-      "pais": null,
-      "ano": 2026,
-      "duracion": 100,
-      "filmId": "HO00010085",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010085?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010085&cinemas=003",
-      "sinopsis": "Acompañado del corto Desdoblandome IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "vzSTEYgoIXY",
-      "trailers": [
-        "vzSTEYgoIXY"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 5.7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt31041943/",
-      "imdbId": "tt31041943",
-      "tmdbId": 1303657,
-      "votos": 191
-    },
-    "HO00010084": {
-      "titulo": "Entiendo su descontento",
-      "tituloOriginal": "(Ich verstehe Ihren Unmut",
-      "director": "Kilian Armando Friedric",
-      "pais": "Alemania",
-      "ano": 2026,
-      "duracion": 93,
-      "filmId": "HO00010084",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010084?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010084&cinemas=003",
-      "sinopsis": "Acompañado del corto Horas extra IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "UQV_rc0EQFU",
-      "trailers": [
-        "UQV_rc0EQFU"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.4,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt39368062/",
-      "imdbId": "tt39368062",
-      "tmdbId": 1616184,
-      "votos": 89
-    },
-    "HO00009960": {
-      "titulo": "La copia perfecta",
-      "tituloOriginal": "L’AFFAIRE BOJARSKI",
-      "director": "Jean-Paul Salomé",
-      "pais": "Francia",
-      "ano": 2025,
-      "duracion": 128,
-      "filmId": "HO00009960",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009960?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009960&cinemas=003",
-      "sinopsis": "Basado en hechos reales en la Francia de la posguerra, el filme cuenta la historia de Jan Bojarski, un refugiado polaco, que acaparó los titulares al convertirse en el falsificador más ingenioso de su tiempo. Durante años, Bojarski fabricó billetes tan perfectos que engañaban al mismísimo Banco de Francia. Su trabajo atrajo la atención del comisario Mattei, y lo que empezó como un secreto muy bien guardado se convirtió en una persecución obsesiva. El relato sumerge al espectador en las fascinantes técnicas artesanales de un auténtico artista de la falsificación que llevaba una peligrosa doble vida con repercusiones personales.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "bN_jzKGJyvA",
-      "trailers": [
-        "bN_jzKGJyvA"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35495035/",
-      "imdbId": "tt35495035",
-      "tmdbId": 1376415,
-      "votos": 1825
-    },
-    "HO00010090": {
-      "titulo": "Short Export Programme",
-      "tituloOriginal": null,
-      "director": "Varios",
-      "pais": "Alemania",
-      "ano": 2026,
-      "duracion": 120,
-      "filmId": "HO00010090",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010090?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010090&cinemas=003",
-      "sinopsis": "Como los claveles (Wie die Nelken) Sala de estar (Living Room) Madre de un hijo (Mother of a son) Alegría (Joy) Corríjanme si estoy equivocado (Korrigiert mich, falls ich falsch liege) Sábana (Kutte)",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010063": {
-      "titulo": "Me encontraste",
-      "tituloOriginal": "L’ÂME IDÉALE",
-      "director": "Alice Vial",
-      "pais": "Francia",
-      "ano": 2025,
-      "duracion": 96,
-      "filmId": "HO00010063",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010063?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010063&cinemas=002",
-      "sinopsis": "Elsa, es una mujer soltera que ha perdido la esperanza en el amor y que se dedica de lleno a su trabajo como doctora. Tiene un don muy peculiar que complica su existencia y que mantiene en secreto: puede ver y hablar con los muertos. Una noche conoce a Oscar, un hombre divertido y encantador que la hace creer de nuevo en el amor. Pero justo cuando empieza a enamorarse, descubre que su historia no es tan real como creía…",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.8,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35526093/",
-      "imdbId": "tt35526093",
-      "tmdbId": 1166170,
-      "votos": 687
-    },
     "HO00010086": {
       "titulo": "Wholetrain",
       "tituloOriginal": null,
@@ -1425,6 +1300,31 @@
       "imdbId": "tt0498203",
       "tmdbId": 14231,
       "votos": 1144
+    },
+    "HO00010059": {
+      "titulo": "Abandonado",
+      "tituloOriginal": "L’ABANDON",
+      "director": "Vincent Garenq",
+      "pais": "Francia",
+      "ano": 2026,
+      "duracion": 100,
+      "filmId": "HO00010059",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010059?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010059&cinemas=002",
+      "sinopsis": "Pocos años después del atentado contra el semanario Charlie Hebdo, el profesor Samuel Paty dirige un debate sobre la libertad de expresión en una escuela de las afueras de París. Una mentira amplificada por las redes sociales y distorsionada por el extremismo, desata una peligrosa espiral que nadie logra detener. Las voces chocan para confrontar una verdad devastadora: cómo un rumor, un clic y la inacción colectiva pueden conducir a consecuencias irreparables. Basada en hechos reales, la película reconstruye los once últimos días del profesor Paty, asesinado en 2020.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.6,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt40435390/",
+      "imdbId": "tt40435390",
+      "tmdbId": 1645368,
+      "votos": 592
     },
     "HO00009893": {
       "titulo": "El caimán humano",
@@ -1489,7 +1389,7 @@
       "urlImdb": "https://www.imdb.com/title/tt28151657/",
       "imdbId": "tt28151657",
       "tmdbId": 1251608,
-      "votos": 132
+      "votos": 133
     },
     "HO00009938": {
       "titulo": "Poirot, último testigo",
@@ -1591,7 +1491,7 @@
       "urlImdb": "https://www.imdb.com/title/tt26414209/",
       "imdbId": "tt26414209",
       "tmdbId": 1338472,
-      "votos": 258
+      "votos": 259
     },
     "HO00010093": {
       "titulo": "Elton John: Live at Estadio do Flamengo, Rio de ja",
@@ -1682,7 +1582,7 @@
       "urlImdb": "https://www.imdb.com/title/tt10366574/",
       "imdbId": "tt10366574",
       "tmdbId": 670981,
-      "votos": 4767
+      "votos": 4768
     },
     "HO00010070": {
       "titulo": "Chico ou o París da delicadeza perdida",
@@ -1734,7 +1634,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 909
+      "votos": 920
     },
     "HO00010128": {
       "titulo": "Una historia de Hong Gil-dong",
@@ -1789,568 +1689,59 @@
       "imdbId": "tt0419434",
       "tmdbId": 16018,
       "votos": 3744
+    },
+    "HO00010131": {
+      "titulo": "Animación coreana el aliento de la imágenes",
+      "tituloOriginal": "Programa de cortometrajes",
+      "director": "Choe Jeonghyeon",
+      "pais": null,
+      "ano": 1983,
+      "duracion": 34,
+      "filmId": "HO00010131",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010131?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010131&cinemas=003",
+      "sinopsis": "Este programa de cortometrajes presenta seis películas de destacades cineastas: Choe Jeonghyeon, Lee Yong-bae, Kim Hyeon-ju, An Jae-hun y Han Hye-jin, figuras imprescindibles del cine independiente y de animación clásica de Corea del Sur. Los filmes abordan metafórica y directamente las tensiones sociales de la época, mostrando el dolor y la búsqueda de la libertad bajo los regímenes políticos de la Corea de los años 80. Entre los títulos se encuentran Insect Net (1983), Cicatriz (1984) y Cuando llegue ese día (1987), la trilogía de Choe Jeonghyeon. Destaca también Still Unbroken (1994), ganador del Premio a la Excelencia en la primera edición de El Festival de Cortometrajes de Seúl en 1994.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00010129": {
+      "titulo": "Hopi y Chadol Bawi",
+      "tituloOriginal": null,
+      "director": "Shin Dong-hun",
+      "pais": "Corea del Sur",
+      "ano": 1967,
+      "duracion": 74,
+      "filmId": "HO00010129",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010129?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010129&cinemas=003",
+      "sinopsis": "Tras el éxito de A Story of Hong Gil-dong, se planeó una secuela, pero el director Shin Dong-hun tuvo desacuerdos con la productora, por lo que optó por hacer una especie de spin off centrado en dos personajes secundarios. La película es una emocionante y colorida aventura inspirada en el arquetipo del espadachín errante, que cuenta la historia de Hopi, un ladrón que cambia de vida después de recibir entrenamiento en artes marciales y, finalmente, defiende al país del ataque de un general.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00010059",
-      "sala": "Sala 3",
-      "horarios": [
-        "16:00",
-        "18:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009933",
-      "sala": "Sala 3",
-      "horarios": [
-        "12:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009806",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:00",
-        "18:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00008666",
-      "sala": "Sala 5",
-      "horarios": [
-        "17:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009934",
-      "sala": "Sala 9",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00010083",
-      "sala": "Sala 7",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009139",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009563",
-      "sala": "Sala 4",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00010082",
-      "sala": "Sala 7",
-      "horarios": [
-        "12:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009424",
-      "sala": "Sala 8",
-      "horarios": [
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009929",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009278",
-      "sala": "Sala 2",
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009787",
-      "sala": "Sala 9",
-      "horarios": [
-        "15:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009790",
-      "sala": "Sala 10",
-      "horarios": [
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009763",
-      "sala": "Sala 8",
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00008486",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:00",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00010065",
-      "sala": "Sala 1",
-      "horarios": [
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009426",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009698",
-      "sala": "Sala 4",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009847",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:45",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "12:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009958",
-      "sala": "Sala 1",
-      "horarios": [
-        "14:15",
-        "16:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009561",
-      "sala": "Sala 9",
-      "horarios": [
-        "17:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009814",
-      "sala": "Sala 4",
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009861",
-      "sala": "Sala 7",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009555",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:30",
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009256",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009758",
-      "sala": null,
-      "horarios": [
-        "13:00",
-        "16:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009933",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:30",
-        "15:50",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009936",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00010076",
-      "sala": "Sala 8",
-      "horarios": [
-        "12:00",
-        "14:20",
-        "16:40",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00008162",
-      "sala": "Sala 4",
-      "horarios": [
-        "12:15",
-        "14:10",
-        "16:10",
-        "18:05",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009278",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:15",
-        "16:00",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009787",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:20",
-        "17:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "12:20",
-        "14:15",
-        "16:05"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "17:55",
-        "19:45"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009931",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:05",
-        "15:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009958",
-      "sala": "Sala 5",
-      "horarios": [
-        "17:30",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009932",
-      "sala": "Sala 6",
-      "horarios": [
-        "15:35",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009933",
-      "sala": "Sala 10",
-      "horarios": [
-        "12:50",
-        "15:20",
-        "17:40",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009936",
-      "sala": "Sala 2",
-      "horarios": [
-        "12:30",
-        "14:50",
-        "17:10",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00010062",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:00",
-        "15:30",
-        "18:00",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009935",
-      "sala": "Sala 3",
-      "horarios": [
-        "12:40",
-        "15:10",
-        "17:20",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009850",
-      "sala": "Sala 9",
-      "horarios": [
-        "11:50",
-        "13:50",
-        "15:40",
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009848",
-      "sala": "Sala 6",
-      "horarios": [
-        "11:00",
-        "13:30",
-        "16:00",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009939",
-      "sala": "Sala 12",
-      "horarios": [
-        "11:10",
-        "15:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00010065",
-      "sala": "Sala 12",
-      "horarios": [
-        "13:05",
-        "17:00",
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009426",
-      "sala": "Sala 4",
-      "horarios": [
-        "12:20",
-        "14:30",
-        "16:30",
-        "18:20",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009931",
-      "sala": "Sala 7",
-      "horarios": [
-        "11:40",
-        "14:00",
-        "16:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009958",
-      "sala": "Sala 7",
-      "horarios": [
-        "18:30",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009932",
-      "sala": "Sala 8",
-      "horarios": [
-        "12:00",
-        "14:10",
-        "16:10",
-        "18:10",
-        "20:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009851",
-      "sala": "Sala 11",
-      "horarios": [
-        "11:30",
-        "13:40",
-        "16:40",
-        "18:50",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-09-26",
-      "pelicula": "HO00009555",
-      "sala": "Sala 5",
-      "horarios": [
-        "11:20",
-        "14:10",
-        "16:50",
-        "19:50"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-09-27",
@@ -4792,6 +4183,24 @@
       "sala": "Sala 5",
       "horarios": [
         "17:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-03",
+      "pelicula": "HO00010131",
+      "sala": "Sala 8",
+      "horarios": [
+        "12:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-03",
+      "pelicula": "HO00010129",
+      "sala": "Sala 8",
+      "horarios": [
+        "20:00"
       ]
     }
   ]
