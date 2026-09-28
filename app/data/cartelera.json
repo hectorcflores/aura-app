@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-28T15:22:41.936Z",
+  "generadoEn": "2026-09-28T17:42:25.164Z",
   "hoy": "2026-09-28",
   "sedes": [
     {
@@ -88,7 +88,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 32192
+      "votos": 32302
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -158,7 +158,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125141
+      "votos": 125149
     },
     "HO00009139": {
       "titulo": "El príncipe de Nanawa",
@@ -216,7 +216,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22507216/",
       "imdbId": "tt22507216",
       "tmdbId": 1269644,
-      "votos": 4957
+      "votos": 4968
     },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
@@ -333,7 +333,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37813097/",
       "imdbId": "tt37813097",
       "tmdbId": 1459062,
-      "votos": 186
+      "votos": 187
     },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
@@ -457,7 +457,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203511
+      "votos": 203523
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -584,7 +584,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189341
+      "votos": 189352
     },
     "HO00009814": {
       "titulo": "Señoritas",
@@ -746,7 +746,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 550328
+      "votos": 550351
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -794,13 +794,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.4,
+      "publico": 6.5,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 48
+      "votos": 49
     },
     "HO00008162": {
       "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
@@ -861,7 +861,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203511
+      "votos": 203523
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -902,7 +902,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189341
+      "votos": 189352
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -955,7 +955,7 @@
       "urlImdb": "https://www.imdb.com/title/tt40435390/",
       "imdbId": "tt40435390",
       "tmdbId": 1645368,
-      "votos": 600
+      "votos": 601
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1050,7 +1050,7 @@
       "urlImdb": "https://www.imdb.com/title/tt27811248/",
       "imdbId": "tt27811248",
       "tmdbId": 1291712,
-      "votos": 3161
+      "votos": 3166
     },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
@@ -1223,7 +1223,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32398150/",
       "imdbId": "tt32398150",
       "tmdbId": 1290424,
-      "votos": 2297
+      "votos": 2299
     },
     "HO00010089": {
       "titulo": "Estrellas rojas sobre el campo",
@@ -1350,7 +1350,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35495035/",
       "imdbId": "tt35495035",
       "tmdbId": 1376415,
-      "votos": 1852
+      "votos": 1854
     },
     "HO00010080": {
       "titulo": "Doble Patria",
@@ -1468,7 +1468,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 941
+      "votos": 956
     },
     "HO00010128": {
       "titulo": "Una historia de Hong Gil-dong",
