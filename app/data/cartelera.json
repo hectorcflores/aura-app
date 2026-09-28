@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-28T17:42:25.164Z",
+  "generadoEn": "2026-09-28T20:36:41.983Z",
   "hoy": "2026-09-28",
   "sedes": [
     {
@@ -1352,6 +1352,31 @@
       "tmdbId": 1376415,
       "votos": 1854
     },
+    "HO00010112": {
+      "titulo": "Barlovento",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010112",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010112?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010112&cinemas=003",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt14134176/",
+      "imdbId": "tt14134176",
+      "tmdbId": 1365088,
+      "votos": 0
+    },
     "HO00010080": {
       "titulo": "Doble Patria",
       "tituloOriginal": "Zweitland",
@@ -1376,6 +1401,56 @@
       "imdbId": "tt35668693",
       "tmdbId": 1457025,
       "votos": 104
+    },
+    "HO00010109": {
+      "titulo": "Gato en mi mente",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010109",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010109?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010109&cinemas=003",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00010119": {
+      "titulo": "La marca del jaguar: el despertar del fuego",
+      "tituloOriginal": "La Marca del Jaguar: El despertar del fuego",
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010119",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010119?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010119&cinemas=003",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt21107832/",
+      "imdbId": "tt21107832",
+      "tmdbId": 1745291,
+      "votos": 0
     },
     "HO00005416": {
       "titulo": "Noche de fuego",
@@ -2984,6 +3059,15 @@
     {
       "sede": "003",
       "fecha": "2026-10-01",
+      "pelicula": "HO00010112",
+      "sala": "Sala 9",
+      "horarios": [
+        "17:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-01",
       "pelicula": "HO00009956",
       "sala": "Sala 2",
       "horarios": [
@@ -3008,6 +3092,15 @@
       "sala": "Sala 6",
       "horarios": [
         "16:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-01",
+      "pelicula": "HO00010109",
+      "sala": "Sala 9",
+      "horarios": [
+        "19:30"
       ]
     },
     {
@@ -3044,6 +3137,15 @@
       "sala": "Sala 7",
       "horarios": [
         "15:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-01",
+      "pelicula": "HO00010119",
+      "sala": "Sala 9",
+      "horarios": [
+        "14:00"
       ]
     },
     {
