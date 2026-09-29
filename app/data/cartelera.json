@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-29T14:01:29.938Z",
+  "generadoEn": "2026-09-29T15:57:46.626Z",
   "hoy": "2026-09-29",
   "sedes": [
     {
@@ -88,7 +88,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 32827
+      "votos": 32893
     },
     "HO00009893": {
       "titulo": "El caimán humano",
@@ -184,7 +184,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22507216/",
       "imdbId": "tt22507216",
       "tmdbId": 1269644,
-      "votos": 4977
+      "votos": 4983
     },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
@@ -390,7 +390,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 3062
+      "votos": 3063
     },
     "HO00008486": {
       "titulo": "Los sueños que compartimos",
@@ -452,7 +452,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203543
+      "votos": 203555
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -575,7 +575,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189374
+      "votos": 189376
     },
     "HO00009561": {
       "titulo": "Resurrection",
@@ -710,7 +710,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 550456
+      "votos": 550471
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -764,7 +764,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 50
+      "votos": 52
     },
     "HO00008162": {
       "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
@@ -825,7 +825,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203543
+      "votos": 203555
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -866,7 +866,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189374
+      "votos": 189376
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -921,7 +921,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32398150/",
       "imdbId": "tt32398150",
       "tmdbId": 1290424,
-      "votos": 2303
+      "votos": 2305
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1016,7 +1016,7 @@
       "urlImdb": "https://www.imdb.com/title/tt27811248/",
       "imdbId": "tt27811248",
       "tmdbId": 1291712,
-      "votos": 3168
+      "votos": 3170
     },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
@@ -1115,7 +1115,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125170
+      "votos": 125172
     },
     "HO00010089": {
       "titulo": "Estrellas rojas sobre el campo",
@@ -1194,7 +1194,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35854741/",
       "imdbId": "tt35854741",
       "tmdbId": 1437703,
-      "votos": 601
+      "votos": 603
     },
     "HO00009814": {
       "titulo": "Señoritas",
@@ -1298,7 +1298,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35495035/",
       "imdbId": "tt35495035",
       "tmdbId": 1376415,
-      "votos": 1873
+      "votos": 1874
     },
     "HO00010112": {
       "titulo": "Barlovento",
@@ -1491,7 +1491,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 964
+      "votos": 968
     },
     "HO00010128": {
       "titulo": "Una historia de Hong Gil-dong",
