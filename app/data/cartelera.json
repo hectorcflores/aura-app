@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-29T15:57:46.626Z",
+  "generadoEn": "2026-09-29T19:28:07.504Z",
   "hoy": "2026-09-29",
   "sedes": [
     {
@@ -88,7 +88,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 32893
+      "votos": 32827
     },
     "HO00009893": {
       "titulo": "El caimán humano",
@@ -184,7 +184,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22507216/",
       "imdbId": "tt22507216",
       "tmdbId": 1269644,
-      "votos": 4983
+      "votos": 4977
     },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
@@ -390,7 +390,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 3063
+      "votos": 3062
     },
     "HO00008486": {
       "titulo": "Los sueños que compartimos",
@@ -452,7 +452,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203555
+      "votos": 203543
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -575,7 +575,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189376
+      "votos": 189374
     },
     "HO00009561": {
       "titulo": "Resurrection",
@@ -710,7 +710,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 550471
+      "votos": 550456
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -764,7 +764,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 52
+      "votos": 50
     },
     "HO00008162": {
       "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
@@ -776,7 +776,7 @@
       "filmId": "HO00008162",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008162?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008162&cinemas=001",
-      "sinopsis": "Federico Cecchetti Federico Cecchetti, Pierre Saint-Martin. Emiliano Motta. Omar Guzmán. François Négret, José Cruz Apachoachi, Esther González, Olivier Rabourdin, Sylvie Testud, Felipe Fuentes Chávez, Martín Makawi, Nicolas Sotnikoff. Edher Campos, Jana Diaz Juhl, Pau Brunet Machete. Mantícora Distribución. A.",
+      "sinopsis": "Federico Cecchetti Federico Cecchetti, Pierre Saint-Martin. Emiliano Motta. Omar Guzmán. François Négret, José Cruz Apachoachi, Esther González, Olivier Rabourdin, Sylvie Testud, Felipe Fuentes Chávez, Martín Makawi, Nicolas Sotnikoff. Edher Campos, Jana Diaz Juhl, Pau Brunet Machete. Mantícora Distribución. B.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "lTZ10Zhx_dk",
       "trailers": [
@@ -825,7 +825,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203555
+      "votos": 203543
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -866,7 +866,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189376
+      "votos": 189374
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -921,7 +921,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32398150/",
       "imdbId": "tt32398150",
       "tmdbId": 1290424,
-      "votos": 2305
+      "votos": 2303
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1016,7 +1016,7 @@
       "urlImdb": "https://www.imdb.com/title/tt27811248/",
       "imdbId": "tt27811248",
       "tmdbId": 1291712,
-      "votos": 3170
+      "votos": 3168
     },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
@@ -1115,7 +1115,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125172
+      "votos": 125170
     },
     "HO00010089": {
       "titulo": "Estrellas rojas sobre el campo",
@@ -1194,7 +1194,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35854741/",
       "imdbId": "tt35854741",
       "tmdbId": 1437703,
-      "votos": 603
+      "votos": 601
     },
     "HO00009814": {
       "titulo": "Señoritas",
@@ -1298,7 +1298,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35495035/",
       "imdbId": "tt35495035",
       "tmdbId": 1376415,
-      "votos": 1874
+      "votos": 1873
     },
     "HO00010112": {
       "titulo": "Barlovento",
@@ -1385,7 +1385,7 @@
       "filmId": "HO00010119",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010119?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010119&cinemas=003",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsis": "Xilacatzin, un joven guerrero de Tlatelolco, es señalado por una misteriosa marca de jaguar y acusado injustamente de traición. Para salvar a su pueblo, deberá descender al inframundo y recuperar una reliquia sagrada antes de que la oscuridad devore al sol.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
@@ -1491,7 +1491,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 968
+      "votos": 964
     },
     "HO00010128": {
       "titulo": "Una historia de Hong Gil-dong",
@@ -1548,7 +1548,7 @@
       "votos": 3745
     },
     "HO00010131": {
-      "titulo": "Animación coreana el aliento de la imágenes",
+      "titulo": "Charla Animación coreana el aliento de la imágenes",
       "tituloOriginal": "Programa de cortometrajes",
       "director": "Choe Jeonghyeon",
       "pais": null,
