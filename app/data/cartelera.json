@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-30T15:58:08.218Z",
+  "generadoEn": "2026-09-30T19:27:39.447Z",
   "hoy": "2026-09-30",
   "sedes": [
     {
@@ -88,7 +88,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 33223
+      "votos": 33315
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -158,7 +158,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125181
+      "votos": 125187
     },
     "HO00010089": {
       "titulo": "Estrellas rojas sobre el campo",
@@ -213,7 +213,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22507216/",
       "imdbId": "tt22507216",
       "tmdbId": 1269644,
-      "votos": 4989
+      "votos": 4993
     },
     "HO00010088": {
       "titulo": "Golpear al mundo con el puño",
@@ -383,7 +383,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 3065
+      "votos": 3067
     },
     "HO00008486": {
       "titulo": "Los sueños que compartimos",
@@ -445,7 +445,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203561
+      "votos": 203577
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -506,7 +506,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35854741/",
       "imdbId": "tt35854741",
       "tmdbId": 1437703,
-      "votos": 616
+      "votos": 617
     },
     "HO00009847": {
       "titulo": "Oh, fortuna",
@@ -572,7 +572,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189400
+      "votos": 189416
     },
     "HO00009561": {
       "titulo": "Resurrection",
@@ -759,7 +759,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 550565
+      "votos": 550578
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -838,7 +838,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 59
+      "votos": 60
     },
     "HO00008162": {
       "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
@@ -899,7 +899,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37813097/",
       "imdbId": "tt37813097",
       "tmdbId": 1459062,
-      "votos": 187
+      "votos": 189
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -933,7 +933,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203561
+      "votos": 203577
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -974,7 +974,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189400
+      "votos": 189416
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1056,7 +1056,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35495035/",
       "imdbId": "tt35495035",
       "tmdbId": 1376415,
-      "votos": 1891
+      "votos": 1893
     },
     "HO00009848": {
       "titulo": "Las catadoras de Hitler",
@@ -1096,7 +1096,35 @@
       "urlImdb": "https://www.imdb.com/title/tt27811248/",
       "imdbId": "tt27811248",
       "tmdbId": 1291712,
-      "votos": 3172
+      "votos": 3175
+    },
+    "HO00009932": {
+      "titulo": "Sobre las olas",
+      "tituloOriginal": null,
+      "director": "Horacio Alcalá",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 97,
+      "filmId": "HO00009932",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009932?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009932&cinemas=002",
+      "sinopsis": "En un místico pueblo llamado Magdala, se desatará un vórtice de locura cuando tres maletines llenos de dinero lleguen en manos de un productor español. A partir de ese momento, Gloria Zamora, una madre devota al futuro musical de su hijo, se verá atravesada por el deseo de convertirse en la emperatriz de su localidad. Juntando elementos del realismo mágico con el cine costumbrista, Horacio Alcalá y Ángeles Cruz crean un universo lleno de misterio, avaricia y redención.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "RyKz8vGQVYo",
+      "trailers": [
+        "RyKz8vGQVYo",
+        "rfl16I3p6fM"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt27672943/",
+      "imdbId": "tt27672943",
+      "tmdbId": 1478001,
+      "votos": 15
     },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
@@ -1296,35 +1324,7 @@
       "urlImdb": "https://www.imdb.com/title/tt10366574/",
       "imdbId": "tt10366574",
       "tmdbId": 670981,
-      "votos": 4770
-    },
-    "HO00009932": {
-      "titulo": "Sobre las olas",
-      "tituloOriginal": null,
-      "director": "Horacio Alcalá",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 97,
-      "filmId": "HO00009932",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009932?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009932&cinemas=001",
-      "sinopsis": "En un místico pueblo llamado Magdala, se desatará un vórtice de locura cuando tres maletines llenos de dinero lleguen en manos de un productor español. A partir de ese momento, Gloria Zamora, una madre devota al futuro musical de su hijo, se verá atravesada por el deseo de convertirse en la emperatriz de su localidad. Juntando elementos del realismo mágico con el cine costumbrista, Horacio Alcalá y Ángeles Cruz crean un universo lleno de misterio, avaricia y redención.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "RyKz8vGQVYo",
-      "trailers": [
-        "RyKz8vGQVYo",
-        "rfl16I3p6fM"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt27672943/",
-      "imdbId": "tt27672943",
-      "tmdbId": 1478001,
-      "votos": 15
+      "votos": 4771
     },
     "HO00010070": {
       "titulo": "Chico ou o París da delicadeza perdida",
@@ -1376,7 +1376,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 972
+      "votos": 975
     },
     "HO00010128": {
       "titulo": "Una historia de Hong Gil-dong",
@@ -1951,6 +1951,16 @@
     {
       "sede": "002",
       "fecha": "2026-09-30",
+      "pelicula": "HO00009932",
+      "sala": "Sala 4",
+      "horarios": [
+        "16:20",
+        "20:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-09-30",
       "pelicula": "HO00009851",
       "sala": "Sala 11",
       "horarios": [
@@ -2409,9 +2419,7 @@
       "pelicula": "HO00009426",
       "sala": "Sala 4",
       "horarios": [
-        "14:30",
         "16:30",
-        "18:20",
         "20:20"
       ]
     },
@@ -2422,6 +2430,16 @@
       "sala": "Sala 7",
       "horarios": [
         "14:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-01",
+      "pelicula": "HO00009932",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:20",
+        "18:20"
       ]
     },
     {
