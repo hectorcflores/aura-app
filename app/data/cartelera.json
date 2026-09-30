@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-09-30T13:38:17.660Z",
+  "generadoEn": "2026-09-30T15:58:08.218Z",
   "hoy": "2026-09-30",
   "sedes": [
     {
@@ -88,7 +88,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 33315
+      "votos": 33223
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -158,7 +158,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125187
+      "votos": 125181
     },
     "HO00010089": {
       "titulo": "Estrellas rojas sobre el campo",
@@ -213,7 +213,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22507216/",
       "imdbId": "tt22507216",
       "tmdbId": 1269644,
-      "votos": 4993
+      "votos": 4989
     },
     "HO00010088": {
       "titulo": "Golpear al mundo con el puño",
@@ -383,7 +383,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 3067
+      "votos": 3065
     },
     "HO00008486": {
       "titulo": "Los sueños que compartimos",
@@ -445,7 +445,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203577
+      "votos": 203561
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -506,7 +506,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35854741/",
       "imdbId": "tt35854741",
       "tmdbId": 1437703,
-      "votos": 617
+      "votos": 616
     },
     "HO00009847": {
       "titulo": "Oh, fortuna",
@@ -572,7 +572,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189416
+      "votos": 189400
     },
     "HO00009561": {
       "titulo": "Resurrection",
@@ -759,7 +759,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 550578
+      "votos": 550565
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -838,7 +838,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 60
+      "votos": 59
     },
     "HO00008162": {
       "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
@@ -899,7 +899,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37813097/",
       "imdbId": "tt37813097",
       "tmdbId": 1459062,
-      "votos": 189
+      "votos": 187
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -933,7 +933,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203577
+      "votos": 203561
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -974,7 +974,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189416
+      "votos": 189400
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1056,7 +1056,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35495035/",
       "imdbId": "tt35495035",
       "tmdbId": 1376415,
-      "votos": 1893
+      "votos": 1891
     },
     "HO00009848": {
       "titulo": "Las catadoras de Hitler",
@@ -1096,7 +1096,7 @@
       "urlImdb": "https://www.imdb.com/title/tt27811248/",
       "imdbId": "tt27811248",
       "tmdbId": 1291712,
-      "votos": 3175
+      "votos": 3172
     },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
@@ -1296,7 +1296,7 @@
       "urlImdb": "https://www.imdb.com/title/tt10366574/",
       "imdbId": "tt10366574",
       "tmdbId": 670981,
-      "votos": 4771
+      "votos": 4770
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1376,7 +1376,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 975
+      "votos": 972
     },
     "HO00010128": {
       "titulo": "Una historia de Hong Gil-dong",
