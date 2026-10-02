@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-02T13:49:49.300Z",
+  "generadoEn": "2026-10-02T19:23:46.690Z",
   "hoy": "2026-10-02",
   "sedes": [
     {
@@ -1313,31 +1313,6 @@
       "tmdbId": 1318711,
       "votos": 79
     },
-    "HO00010118": {
-      "titulo": "Aquella sombra desvanecía",
-      "tituloOriginal": "AQUELLA SOMBRA DESVANECÍA",
-      "director": "Samuel Urbina",
-      "pais": "Perú",
-      "ano": 2025,
-      "duracion": 76,
-      "filmId": "HO00010118",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010118?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010118&cinemas=003",
-      "sinopsis": "Sol, de 58 años, mantiene su hogar tocando el teclado en velorios nocturnos en Piura. Vive con Junior, su hijo universitario, que está por graduarse y sueña con irse a Lima. Cruzando el desierto en coche, ambos conviven en tensa calma: ella teme quedarse atrás, y él sabe que debe partir",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt38625455/",
-      "imdbId": "tt38625455",
-      "tmdbId": 1558434,
-      "votos": 0
-    },
     "HO00010106": {
       "titulo": "Bailando solo",
       "tituloOriginal": "BAILANDO SOLO",
@@ -2500,7 +2475,7 @@
       "sede": "003",
       "fecha": "2026-10-02",
       "pelicula": "HO00010104",
-      "sala": "Sala 9",
+      "sala": null,
       "horarios": [
         "20:30"
       ]
@@ -2844,15 +2819,6 @@
         "16:50",
         "18:50",
         "20:50"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-03",
-      "pelicula": "HO00010118",
-      "sala": "Sala 9",
-      "horarios": [
-        "16:00"
       ]
     },
     {
