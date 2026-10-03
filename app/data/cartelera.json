@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-03T12:29:49.360Z",
+  "generadoEn": "2026-10-03T18:01:26.700Z",
   "hoy": "2026-10-03",
   "sedes": [
     {
@@ -132,7 +132,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 550829
+      "votos": 550866
     },
     "HO00010131": {
       "titulo": "Charla Animación coreana el aliento de la imágenes",
@@ -219,7 +219,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 35757
+      "votos": 35892
     },
     "HO00009956": {
       "titulo": "Coyote Vs Acme SUB",
@@ -281,7 +281,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 35757
+      "votos": 35892
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -411,7 +411,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 2712
+      "votos": 3877
     },
     "HO00010080": {
       "titulo": "Doble Patria",
@@ -481,7 +481,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125230
+      "votos": 125236
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -789,7 +789,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 3067
+      "votos": 3068
     },
     "HO00008486": {
       "titulo": "Los sueños que compartimos",
@@ -851,7 +851,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203622
+      "votos": 203628
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -949,7 +949,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189481
+      "votos": 189493
     },
     "HO00009861": {
       "titulo": "Staatsschutz /Prosecution",
@@ -1152,13 +1152,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 6,
+      "publico": 5.9,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 73
+      "votos": 74
     },
     "HO00008162": {
       "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
@@ -1219,7 +1219,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203622
+      "votos": 203628
     },
     "HO00010061": {
       "titulo": "El desconocido del gran arco",
@@ -1246,7 +1246,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32398150/",
       "imdbId": "tt32398150",
       "tmdbId": 1290424,
-      "votos": 2322
+      "votos": 2324
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1342,7 +1342,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189481
+      "votos": 189493
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1420,7 +1420,7 @@
       "trailerFuente": "TMDB",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.2,
+      "publico": 7.1,
       "publicoFuente": "IMDb",
       "resenas": [
         {
@@ -1432,7 +1432,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39196981/",
       "imdbId": "tt39196981",
       "tmdbId": 1599181,
-      "votos": 126
+      "votos": 128
     },
     "HO00010101": {
       "titulo": "Disciplina",
@@ -1596,7 +1596,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35495035/",
       "imdbId": "tt35495035",
       "tmdbId": 1376415,
-      "votos": 1927
+      "votos": 1930
     },
     "HO00010116": {
       "titulo": "Así llegó la noche",
@@ -1937,7 +1937,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36842933/",
       "imdbId": "tt36842933",
       "tmdbId": 1404684,
-      "votos": 1796
+      "votos": 1801
     },
     "HO00010062": {
       "titulo": "El camino",
@@ -2014,7 +2014,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35526093/",
       "imdbId": "tt35526093",
       "tmdbId": 1166170,
-      "votos": 720
+      "votos": 722
     },
     "HO00010071": {
       "titulo": "Patti Smith: Dream of life",
