@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-10-02T19:23:46.690Z",
-  "hoy": "2026-10-02",
+  "generadoEn": "2026-10-03T12:29:49.360Z",
+  "hoy": "2026-10-03",
   "sedes": [
     {
       "id": "003",
@@ -19,41 +19,39 @@
     }
   ],
   "fechas": [
-    "2026-10-02",
     "2026-10-03",
     "2026-10-04",
     "2026-10-05",
     "2026-10-06",
     "2026-10-07",
-    "2026-10-08"
+    "2026-10-08",
+    "2026-10-09"
   ],
   "peliculas": {
-    "HO00010085": {
-      "titulo": "Allegro Pastell",
-      "tituloOriginal": null,
-      "director": "Anna RolleR",
-      "pais": null,
+    "HO00010106": {
+      "titulo": "Bailando solo",
+      "tituloOriginal": "BAILANDO SOLO",
+      "director": "Gilberto González Penilla",
+      "pais": "México",
       "ano": 2026,
-      "duracion": 100,
-      "filmId": "HO00010085",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010085?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010085&cinemas=003",
-      "sinopsis": "Acompañado del corto Desdoblandome IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "duracion": 90,
+      "filmId": "HO00010106",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010106?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010106&cinemas=003",
+      "sinopsis": "Gilberto González Penilla Alfredo Mendoza Aguilar, Gilberto González Penilla. Uriel Villalobos Alva. Kryhzal Olalde Dávila, Gilberto González Penilla. Hernán Mendoza, Carmen Beato, Tiaré Scanda, Alexis Ayala. Janeth Mora Gonzalez , Jessica Villegas Lattuada, Ernesto Martínez Arévalo Payasito Films, Nopal Army Films. Transmutación Festival de Cine Contemporáneo. B.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "vzSTEYgoIXY",
-      "trailers": [
-        "vzSTEYgoIXY"
-      ],
-      "trailerFuente": "TMDB",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 5.7,
-      "publicoFuente": "IMDb",
+      "publico": null,
+      "publicoFuente": null,
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt31041943/",
-      "imdbId": "tt31041943",
-      "tmdbId": 1303657,
-      "votos": 196
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00010091": {
       "titulo": "Barrio triste",
@@ -82,6 +80,146 @@
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
       "votos": 242
+    },
+    "HO00009933": {
+      "titulo": "Cars 20 aniversario DOB",
+      "tituloOriginal": "Cars",
+      "director": "John Lasseter",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 116,
+      "filmId": "HO00009933",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009933?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009933&cinemas=003",
+      "sinopsis": "Cars narra la historia de Rayo McQueen, un veloz aspirante a campeón de carreras que está a punto de conseguir el éxito, la fama y todo con lo que sueña. Rayo, por un desvío equivocado, termina en el polvoriento y olvidado pueblo de Radiator Springs. Ahí la actitud arrogante de McQueen comienza a desvanecerse cuando aprende el valor de la amistad. Este filme, que cumple 20 años de haberse estrenado, crea una reflexión sobre la vida moderna, el ego y la importancia que tiene la comunidad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "XszNWHhpaTc",
+      "trailers": [
+        "XszNWHhpaTc",
+        "nuQDFYpPUh4",
+        "8ZMklX5BzTo",
+        "1uq5eJHwio4",
+        "ZhA7Ai0kJkk",
+        "bOs0p2E4sZw",
+        "hNakp500Pgc",
+        "b-bmxAfNsK0",
+        "7C1mDnF6NnA",
+        "Ak8igkuLhAE",
+        "dMaU2ixutGg"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.3,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "A fun one to watch. <em'Cars'</em is very good Disney, not quite in the upper echelons of their releases but certainly close.",
+          "autor": "r96sk",
+          "url": "https://www.themoviedb.org/review/5f3005ba559d220037768e1f"
+        },
+        {
+          "texto": "A commercial, critical and merchandising success... but with a cliché story. When it came out, this movie was publicized and sold like hotcakes. It was a fever. A mania.",
+          "autor": "Filipe Manuel Neto",
+          "url": "https://www.themoviedb.org/review/63b001a357530e0080141f95"
+        },
+        {
+          "texto": "Had no intention to ever see this movie. Another one my daughter wanted to watch with me. I actually liked it and thought it was hilarious.",
+          "autor": "Andre Gonzales",
+          "url": "https://www.themoviedb.org/review/6452edad33ad8f01380d11eb"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0317219/",
+      "imdbId": "tt0317219",
+      "tmdbId": 920,
+      "votos": 550829
+    },
+    "HO00010131": {
+      "titulo": "Charla Animación coreana el aliento de la imágenes",
+      "tituloOriginal": "Programa de cortometrajes",
+      "director": "Choe Jeonghyeon",
+      "pais": null,
+      "ano": 1983,
+      "duracion": 34,
+      "filmId": "HO00010131",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010131?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010131&cinemas=003",
+      "sinopsis": "Este programa de cortometrajes presenta seis películas de destacades cineastas: Choe Jeonghyeon, Lee Yong-bae, Kim Hyeon-ju, An Jae-hun y Han Hye-jin, figuras imprescindibles del cine independiente y de animación clásica de Corea del Sur. Los filmes abordan metafórica y directamente las tensiones sociales de la época, mostrando el dolor y la búsqueda de la libertad bajo los regímenes políticos de la Corea de los años 80. Entre los títulos se encuentran Insect Net (1983), Cicatriz (1984) y Cuando llegue ese día (1987), la trilogía de Choe Jeonghyeon. Destaca también Still Unbroken (1994), ganador del Premio a la Excelencia en la primera edición de El Festival de Cortometrajes de Seúl en 1994.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00009806": {
+      "titulo": "Coyote Vs Acme DOB",
+      "tituloOriginal": "Coyote vs. Acme",
+      "director": "Dave Green",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 98,
+      "filmId": "HO00009806",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009806?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009806&cinemas=003",
+      "sinopsis": "El icónico personaje de los Looney Toons está cansado de sus intentos fallidos por atrapar al Correcaminos debido a los productos defectuosos de ACME. Al increíble estilo híbrido de Space Jam, esta hilarante comedia de acción real y animación nos muestra cómo el Coyote contrata a un abogado humano para demandar al gigante corporativo. El caso se complica al enfrentar al implacable representante de la empresa (John Cena), desatando un juicio sumamente caótico acompañado de divertidos cameos.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "Yj-Nm47IW9k",
+      "trailers": [
+        "Yj-Nm47IW9k",
+        "gFAw7jxJOsY",
+        "V_ueAlyvn6A",
+        "WQRoa6l4bwI",
+        "soYBxkggwKQ",
+        "qdZf3jYcpCI",
+        "eQcD2wwfBZE",
+        "4ZIINnHufZ4",
+        "7wrdvTn9jcc",
+        "8SFmY_2r0Aw",
+        "tyQBh0vKUtw",
+        "Fncl62R3PMM",
+        "F-PGig35gk4",
+        "QaRq1oymgL8",
+        "4WwrjXE3_QM",
+        "kMsiD1Nky5I",
+        "GXmAP6XyZ7g",
+        "H-43VeYGiPM",
+        "qT6kR2nHI8M",
+        "G11SytnNYqI"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.4,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "It may not look the way classic animation fans want it to look. Still, Coyote vs. ACME is worthwhile for its ingenuity in both its homage to old cartoons and its clever storytelling, and…",
+          "autor": "Chris Sawin",
+          "url": "https://www.themoviedb.org/review/6a861469c6a463f1960b91e2"
+        },
+        {
+          "texto": "Come to think of it, I'm surprised that in the super-litigious US of A it took almost a century for anyone to cotton that \"ACME\" products were rubbish! Well now \"Wile E.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6a8c82a3774d919fe7e8f3b4"
+        },
+        {
+          "texto": "I read an article inspired by this movie. It said top 10 anti-capitalist films like this movie. It included They Live.",
+          "autor": "Chandler Danier",
+          "url": "https://www.themoviedb.org/review/6a9649470c60b46b973cac0c"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt1756855/",
+      "imdbId": "tt1756855",
+      "tmdbId": 1204680,
+      "votos": 35757
     },
     "HO00009956": {
       "titulo": "Coyote Vs Acme SUB",
@@ -143,7 +281,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 35091
+      "votos": 35757
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -192,6 +330,9 @@
         "xU2jWSsaWY0",
         "4jNrucYsh4A",
         "4t4X-_26gWo",
+        "fikKMZZiLD0",
+        "8w_FKSN-y6A",
+        "ALHX6r2djxk",
         "uv97lf4WeAA",
         "yDddzCN-NRU",
         "3KjN109cmPU",
@@ -248,7 +389,7 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.2,
+      "publico": 7.3,
       "publicoFuente": "IMDb",
       "resenas": [
         {
@@ -260,12 +401,87 @@
           "texto": "Some movies seem destined for mixed reactions. That may be somewhat apparent before their release, but it invariably surfaces once in distribution.",
           "autor": "Brent Marchant",
           "url": "https://www.themoviedb.org/review/6abf996349e4886648081a14"
+        },
+        {
+          "texto": "Check out my full review @ https://www.manuelsbento.com/digger-2026-tom-cruise-and-alejandro-g-inarritu-make-noise-worth-arguing-about/ Rating: B DIGGER hammers its numerous capitalistic…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6abff30bee56fd7493b09a3b"
         }
       ],
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 1150
+      "votos": 2712
+    },
+    "HO00010080": {
+      "titulo": "Doble Patria",
+      "tituloOriginal": "Zweitland",
+      "director": "Michael Kofler",
+      "pais": "• Alemania/Italia/Austria",
+      "ano": 2025,
+      "duracion": 112,
+      "filmId": "HO00010080",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010080?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010080&cinemas=003",
+      "sinopsis": "Acompañado del corto Alimento para cerdos IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.8,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35668693/",
+      "imdbId": "tt35668693",
+      "tmdbId": 1457025,
+      "votos": 105
+    },
+    "HO00009934": {
+      "titulo": "Dogtooth: Canino",
+      "tituloOriginal": "Kynodontas",
+      "director": "Yorgos Lanthimos",
+      "pais": "Grecia",
+      "ano": 2009,
+      "duracion": 97,
+      "filmId": "HO00009934",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009934?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009934&cinemas=003",
+      "sinopsis": "Canino narra la historia de una familia griega que vive recluida en su casa. El matrimonio manipula a sus tres hijos con reglas absurdas para convencerlos de que el mundo exterior es un territorio prohibido, al cual sólo podrán acceder cuando se les caiga un diente canino. En este filme, nominado al Óscar como mejor película en lengua no inglesa, el director Yorgos Lanthimos logra transitar la comedia negra y el terror psicológico, creando un cuestionamiento hacia las estructuras sociales que conocemos.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "YJe4eZ9l5KY",
+      "trailers": [
+        "YJe4eZ9l5KY",
+        "0bYpMPXXsvI",
+        "ElVysSnB3yg"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Doogtooth, the official Greek entry to the 2011 Academy Awards, is nominated for Best Foreign Film.",
+          "autor": "MoHA",
+          "url": "https://www.themoviedb.org/review/55d9073192514143e6002fa9"
+        },
+        {
+          "texto": "Unnamed parents (Christos Stergioglou and Michele Valley) are so obsessed with their children that they have, over the years, created an walled environment in which they see nobody but each…",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6636091a8de0ae0129f5f362"
+        },
+        {
+          "texto": "<em'Dogtooth'</em is certainly a Yorgos Lanthimos film! On the whole, I found this fascinating. It gets quite disturbing in parts, as you'd expect from this director, but all in all it is…",
+          "autor": "r96sk",
+          "url": "https://www.themoviedb.org/review/67a6b35edf55e8f213f0fb93"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt1379182/",
+      "imdbId": "tt1379182",
+      "tmdbId": 38810,
+      "votos": 125230
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -295,55 +511,61 @@
       "tmdbId": 1303398,
       "votos": 19
     },
-    "HO00010089": {
-      "titulo": "Estrellas rojas sobre el campo",
-      "tituloOriginal": "Rote Sterne überm Feld",
-      "director": "Laura Laab",
+    "HO00010081": {
+      "titulo": "El juicio de Hein",
+      "tituloOriginal": "Der Heimatlose",
+      "director": "Kai Stänicke",
       "pais": "Alemania",
-      "ano": 2025,
-      "duracion": 133,
-      "filmId": "HO00010089",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010089?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010089&cinemas=003",
-      "sinopsis": "Acompañado del corto El canto del jaguar IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "ano": 2026,
+      "duracion": 122,
+      "filmId": "HO00010081",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010081?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010081&cinemas=003",
+      "sinopsis": "Acompañado del corto Flores IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.2,
+      "publico": 7.4,
       "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35150158/",
-      "imdbId": "tt35150158",
-      "tmdbId": 1174023,
-      "votos": 56
+      "resenas": [
+        {
+          "texto": "Most of us would likely agree that we seek acceptance by society. But what does it take for that to happen?",
+          "autor": "Brent Marchant",
+          "url": "https://www.themoviedb.org/review/6ab8a4f1bb5231fea497b924"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt33522697/",
+      "imdbId": "tt33522697",
+      "tmdbId": 1476466,
+      "votos": 191
     },
-    "HO00010088": {
-      "titulo": "Golpear al mundo con el puño",
-      "tituloOriginal": "(Mit der Faust in die Welt schlagen",
-      "director": "Constanze Klaue",
+    "HO00010082": {
+      "titulo": "Finding Connection",
+      "tituloOriginal": null,
+      "director": "Florian Karner",
       "pais": "Alemania",
-      "ano": 2025,
-      "duracion": 110,
-      "filmId": "HO00010088",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010088?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010088&cinemas=003",
-      "sinopsis": "Constanze Klaue. Constanze Klaue, basada libremente en la novela homónima de Lukas Rietzschel.. Florian Brückner. Color PC Nackt.. Emma Alice Gräf, Andreas Wodraschke.. Anton Franke, Camille Moltzen, Anja Schneider, Christian Näthe, Katrin Röver, Hannes Wegener, Meinhard Neumann, Steffi Kühnert, Johannes Scheidweiler, Moritz Hoyer.. Alexander Wadouh, Gabriele Simon, Martin Heisler, Roxana Richters. Flare Film, Chromosom Film.. Goethe Institut. B.",
+      "ano": 2026,
+      "duracion": 86,
+      "filmId": "HO00010082",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010082?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010082&cinemas=003",
+      "sinopsis": "Acompañado del corto Los días de Alfredo IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.7,
+      "publico": 7.5,
       "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt26414209/",
-      "imdbId": "tt26414209",
-      "tmdbId": 1338472,
-      "votos": 259
+      "urlImdb": "https://www.imdb.com/title/tt31645419/",
+      "imdbId": "tt31645419",
+      "tmdbId": 1624471,
+      "votos": 17
     },
     "HO00009562": {
       "titulo": "Gracias por operar con nuestro banco",
@@ -373,6 +595,31 @@
       "imdbId": "tt28254159",
       "tmdbId": 1225590,
       "votos": 360
+    },
+    "HO00010129": {
+      "titulo": "Hopi y Chadol Bawi",
+      "tituloOriginal": null,
+      "director": "Shin Dong-hun",
+      "pais": "Corea del Sur",
+      "ano": 1967,
+      "duracion": 74,
+      "filmId": "HO00010129",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010129?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010129&cinemas=003",
+      "sinopsis": "Tras el éxito de A Story of Hong Gil-dong, se planeó una secuela, pero el director Shin Dong-hun tuvo desacuerdos con la productora, por lo que optó por hacer una especie de spin off centrado en dos personajes secundarios. La película es una emocionante y colorida aventura inspirada en el arquetipo del espadachín errante, que cuenta la historia de Hopi, un ladrón que cambia de vida después de recibir entrenamiento en artes marciales y, finalmente, defiende al país del ataque de un general.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
@@ -455,7 +702,32 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2073
+      "votos": 2074
+    },
+    "HO00010105": {
+      "titulo": "Las lágrimas de Bael",
+      "tituloOriginal": "Las Lágrimas de Bael",
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010105",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010105?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010105&cinemas=003",
+      "sinopsis": "En la frenética Ciudad de México, Las lágrimas de Bael sigue a Capitán Gato, un traficante de poca monta que busca venganza por el asesinato de su hijo. Lo que comenzó como documental sobre el inframundo criminal evolucionó en un retrato ficticio que difumina la línea entre realidad e imaginación.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt22005744/",
+      "imdbId": "tt22005744",
+      "tmdbId": 1727834,
+      "votos": 0
     },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
@@ -579,7 +851,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203615
+      "votos": 203622
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -613,31 +885,6 @@
       "tmdbId": 1232350,
       "votos": 518
     },
-    "HO00010103": {
-      "titulo": "Nostalgia de un futuro que no pudo ser",
-      "tituloOriginal": "NOSTALGIA DE UN FUTURO QUE NO PUDO SER",
-      "director": "Elisa Franco",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 61,
-      "filmId": "HO00010103",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010103?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010103&cinemas=003",
-      "sinopsis": "Elisa Franco Elisa Franco. Antonio Tranquilino. : Elisa Franco. Honoka Noguchi (Tetsu)Mónica Colin (Narradora)Arturo Hernández (Igor) Graciela Jiménez (La Bruja)Ruby Vizcarra (Aura) Muki Sabogal (Kenya)Ángel Saúl Álvarez (Dylan) Tonatiuh Torres (Rafa)Alfonso Aguilera (Kai)Monica Gutiérrez (Sofi). Franco BautistaElisa FrancoAndrea EstradaDavid Hurtado TolentinoAlexandra BallesterosJorge Leal Carrera Casa VermellaFlores de VeranoESCINE. Transmutación Festival de Cine Contemporáneo. B.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt38627967/",
-      "imdbId": "tt38627967",
-      "tmdbId": 1725166,
-      "votos": 0
-    },
     "HO00009847": {
       "titulo": "Oh, fortuna",
       "tituloOriginal": "Oh",
@@ -662,83 +909,6 @@
       "imdbId": "tt40196240",
       "tmdbId": 1762928,
       "votos": 0
-    },
-    "HO00010104": {
-      "titulo": "Para que no se te olvide",
-      "tituloOriginal": "PARA QUE NO SE TE OLVIDE",
-      "director": "Marcela Jabes",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 88,
-      "filmId": "HO00010104",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010104?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010104&cinemas=003",
-      "sinopsis": "Una joven que filma diariamente para preservar la memoria de su madre fallecida y una niña de 10 años que graba su cotidianidad para un padre ausente comienzan a observarse a través de sus cámaras, hasta que la niña cruza un agujero en la pared que conecta sus departamentos.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "92AdOvMn62k",
-      "trailers": [
-        "92AdOvMn62k"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt37762148/",
-      "imdbId": "tt37762148",
-      "tmdbId": 1400352,
-      "votos": 1
-    },
-    "HO00010099": {
-      "titulo": "Piedra y pluma",
-      "tituloOriginal": "STONE AND FEATHER",
-      "director": "Ragip Türk",
-      "pais": "Turquía",
-      "ano": 2026,
-      "duracion": 86,
-      "filmId": "HO00010099",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010099?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010099&cinemas=003",
-      "sinopsis": "Para recuperar a su hijo, enviado a un orfanato, Nazire libra una dura batalla tanto contra el sistema burocrático, que le impone condiciones insuperables, como contra la adinerada familia de acogida que desea adoptarlo, en una lucha desigual entre el amor materno y el poder del dinero.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt33345302/",
-      "imdbId": "tt33345302",
-      "tmdbId": 1660945,
-      "votos": 0
-    },
-    "HO00010098": {
-      "titulo": "Ponderosa",
-      "tituloOriginal": "PONDEROSA",
-      "director": "Rob Rice",
-      "pais": "EE. UU",
-      "ano": 2026,
-      "duracion": 90,
-      "filmId": "HO00010098",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010098?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010098&cinemas=003",
-      "sinopsis": "Cuando cierra el bufé donde trabaja la madre de Zeke, el joven se ve obligado a lidiar, casi sin ayuda, con las insinuaciones de un cliente habitual adinerado que está extrañamente obsesionado con convertirse en su padre, una relación cada vez más incómoda y ambigua.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 5,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt36125423/",
-      "imdbId": "tt36125423",
-      "tmdbId": 1448496,
-      "votos": 32
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -779,7 +949,32 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189466
+      "votos": 189481
+    },
+    "HO00009861": {
+      "titulo": "Staatsschutz /Prosecution",
+      "tituloOriginal": "Staatsschutz",
+      "director": "Faraz Shariat",
+      "pais": "Alemania",
+      "ano": 2023,
+      "duracion": 113,
+      "filmId": "HO00009861",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009861?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009861&cinemas=003",
+      "sinopsis": "Acompañado del corto Alicia IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt39213126/",
+      "imdbId": "tt39213126",
+      "tmdbId": 1599784,
+      "votos": 400
     },
     "HO00009555": {
       "titulo": "Tus dos muertos",
@@ -836,59 +1031,30 @@
       "tmdbId": 1397733,
       "votos": 73
     },
-    "HO00010128": {
-      "titulo": "Una historia de Hong Gil-dong",
-      "tituloOriginal": "A Story of Hong Gil-dong",
-      "director": "Shin Dong-hun",
-      "pais": "Corea del Sur",
-      "ano": 1967,
-      "duracion": 66,
-      "filmId": "HO00010128",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010128?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010128&cinemas=003",
-      "sinopsis": "Después de ser expulsado de su hogar, Hong Gil-dong, el hijo ilegítimo de un alto funcionario en la dinastía Joseon, comienza un camino de descubrimiento que lo llevará a crear su propio grupo de bandidos encargados de robar a los ricos para dar a los pobres. Esta cinta, considerada el primer largometraje animado de Corea del Sur, estuvo perdida por años hasta el 2008, cuando el Archivo de Cine Coreano (KOFA) realizó una restauración digital a partir de una copia de 16 mm proveniente de Japón.",
+    "HO00010114": {
+      "titulo": "Vía láctea programa 1 Cortometrajes en competencía",
+      "tituloOriginal": "VÍA LÁCTEA PROGRAMA 1 - CORTOMETRAJES EN COMPETENCIA TRANSMUTACIÓN CINE",
+      "director": "Varios",
+      "pais": null,
+      "ano": 2026,
+      "duracion": 113,
+      "filmId": "HO00010114",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010114?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010114&cinemas=003",
+      "sinopsis": "Varios ARS POETICA | DIR. FACUNDO TORRIERI | MÉXICO | 2026 | 8 MIN. INFINITY RIVER | DIR. GONÇALO PINA | PORTUGAL | 2025 | 22 MIN. XYZ | DIR. ALEXANDRE ALAGÔA | LUXEMBURGO, PORTUGAL | 2026 | 12 MIN. PROCASTINATION YOGA | DIR. PAULINA ZIÓŁKOWSKA | POLONIA | 2026 | 7 MIN. QUÉ TU HACE, SARA? | DIR. CAROLINA MEZA | CUBA, MÉXICO | 2026 | 16 MIN. MEMORIA DE UN CUERPO | DIR. ALFREDO PÉREZ ROUCO | MÉXICO | 2026 | 8 MIN. MY LITTLE NOTHING | DIR. LUCY KERR | EE. UU. | 2026 | 15 MIN. ONCE IN A FULL MOON | DIR. BANDE JAMES BOND | BÉLGICA | 2025 | 25 MIN.. Transmutación Festival de Cine Contemporáneo. C.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "FszuBwSzYSk",
-      "trailers": [
-        "FszuBwSzYSk"
-      ],
-      "trailerFuente": "TMDB",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.3,
-      "publicoFuente": "IMDb",
+      "publico": null,
+      "publicoFuente": null,
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0327306/",
-      "imdbId": "tt0327306",
-      "tmdbId": 411091,
-      "votos": 81
-    },
-    "HO00009959": {
-      "titulo": "American hardcore",
-      "tituloOriginal": "American Hardcore",
-      "director": "Paul Rachman",
-      "pais": "Estados Unidos",
-      "ano": 2006,
-      "duracion": 100,
-      "filmId": "HO00009959",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009959?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009959&cinemas=001",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "l1ZnFT2qAJU",
-      "trailers": [
-        "l1ZnFT2qAJU"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0419434/",
-      "imdbId": "tt0419434",
-      "tmdbId": 16018,
-      "votos": 3745
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00009758": {
       "titulo": "Animanimales",
@@ -914,59 +1080,6 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
-    },
-    "HO00009933": {
-      "titulo": "Cars 20 aniversario DOB",
-      "tituloOriginal": "Cars",
-      "director": "John Lasseter",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 116,
-      "filmId": "HO00009933",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009933?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009933&cinemas=001",
-      "sinopsis": "Cars narra la historia de Rayo McQueen, un veloz aspirante a campeón de carreras que está a punto de conseguir el éxito, la fama y todo con lo que sueña. Rayo, por un desvío equivocado, termina en el polvoriento y olvidado pueblo de Radiator Springs. Ahí la actitud arrogante de McQueen comienza a desvanecerse cuando aprende el valor de la amistad. Este filme, que cumple 20 años de haberse estrenado, crea una reflexión sobre la vida moderna, el ego y la importancia que tiene la comunidad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "XszNWHhpaTc",
-      "trailers": [
-        "XszNWHhpaTc",
-        "nuQDFYpPUh4",
-        "8ZMklX5BzTo",
-        "1uq5eJHwio4",
-        "ZhA7Ai0kJkk",
-        "bOs0p2E4sZw",
-        "hNakp500Pgc",
-        "b-bmxAfNsK0",
-        "7C1mDnF6NnA",
-        "Ak8igkuLhAE",
-        "dMaU2ixutGg"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "A fun one to watch. <em'Cars'</em is very good Disney, not quite in the upper echelons of their releases but certainly close.",
-          "autor": "r96sk",
-          "url": "https://www.themoviedb.org/review/5f3005ba559d220037768e1f"
-        },
-        {
-          "texto": "A commercial, critical and merchandising success... but with a cliché story. When it came out, this movie was publicized and sold like hotcakes. It was a fever. A mania.",
-          "autor": "Filipe Manuel Neto",
-          "url": "https://www.themoviedb.org/review/63b001a357530e0080141f95"
-        },
-        {
-          "texto": "Had no intention to ever see this movie. Another one my daughter wanted to watch with me. I actually liked it and thought it was hilarious.",
-          "autor": "Andre Gonzales",
-          "url": "https://www.themoviedb.org/review/6452edad33ad8f01380d11eb"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0317219/",
-      "imdbId": "tt0317219",
-      "tmdbId": 920,
-      "votos": 550762
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -1106,59 +1219,34 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203615
+      "votos": 203622
     },
-    "HO00010059": {
-      "titulo": "Abandonado",
-      "tituloOriginal": "L’ABANDON",
-      "director": "Vincent Garenq",
+    "HO00010061": {
+      "titulo": "El desconocido del gran arco",
+      "tituloOriginal": "L'INCONNU DE LA GRANDE ARCHE",
+      "director": "Stéphane Demoustier",
       "pais": "Francia",
-      "ano": 2026,
-      "duracion": 100,
-      "filmId": "HO00010059",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010059?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010059&cinemas=002",
-      "sinopsis": "Pocos años después del atentado contra el semanario Charlie Hebdo, el profesor Samuel Paty dirige un debate sobre la libertad de expresión en una escuela de las afueras de París. Una mentira amplificada por las redes sociales y distorsionada por el extremismo, desata una peligrosa espiral que nadie logra detener. Las voces chocan para confrontar una verdad devastadora: cómo un rumor, un clic y la inacción colectiva pueden conducir a consecuencias irreparables. Basada en hechos reales, la película reconstruye los once últimos días del profesor Paty, asesinado en 2020.",
+      "ano": 2025,
+      "duracion": 104,
+      "filmId": "HO00010061",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010061?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010061&cinemas=002",
+      "sinopsis": "En 1983, François Mitterrand convocó el mayor concurso de arquitectura de la historia. Su objetivo: erigir un nuevo monumento en París y convertirlo en la insignia de su mandato presidencial. Para sorpresa de todos, el ganador fue un absoluto desconocido: Johan Otto von Spreckelsen, un profesor de arquitectura de Copenhague quien se convirtió en el centro de todas las miradas. El filme parte de la psicología del protagonista y las adversidades que enfrenta su proyecto para hablar de temas complejos como la ética profesional y el enfrentamiento entre idealismo y poder político.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.6,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt40435390/",
-      "imdbId": "tt40435390",
-      "tmdbId": 1645368,
-      "votos": 623
-    },
-    "HO00001604": {
-      "titulo": "Canoa",
-      "tituloOriginal": "Canoa: memoria de un hecho vergonzoso",
-      "director": "Felipe Cazals",
-      "pais": "México",
-      "ano": 1975,
-      "duracion": 115,
-      "filmId": "HO00001604",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00001604?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00001604&cinemas=002",
-      "sinopsis": "Tras las fiestas patrias de 1968, un periodista recibe un despacho informativo sobre el linchamiento de varios jóvenes trabajadores de la Universidad de Puebla, que habían ido de excursión al cerro de La Malinche en el pueblo de San Miguel Canoa. Una lluvia torrencial les obligó a buscar alojamiento durante la noche, pero el cura local se los negó tras confundirlos con agitadores del movimiento estudiantil. Lucas, miembro de la disidente Central Campesina Independiente, les alberga en su casa, donde una turba azuzada en su contra los agrede sin escucharlos siguiera.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "-2RPx_RDOhw",
+      "trailer": "FhtqB5aq1t8",
       "trailers": [
-        "-2RPx_RDOhw"
+        "FhtqB5aq1t8"
       ],
       "trailerFuente": "TMDB",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.8,
+      "publico": 6.9,
       "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0131335/",
-      "imdbId": "tt0131335",
-      "tmdbId": 116982,
-      "votos": 2244
+      "urlImdb": "https://www.imdb.com/title/tt32398150/",
+      "imdbId": "tt32398150",
+      "tmdbId": 1290424,
+      "votos": 2322
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1254,7 +1342,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189466
+      "votos": 189481
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1312,371 +1400,6 @@
       "imdbId": "tt18301776",
       "tmdbId": 1318711,
       "votos": 79
-    },
-    "HO00010106": {
-      "titulo": "Bailando solo",
-      "tituloOriginal": "BAILANDO SOLO",
-      "director": "Gilberto González Penilla",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 90,
-      "filmId": "HO00010106",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010106?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010106&cinemas=003",
-      "sinopsis": "Gilberto González Penilla Alfredo Mendoza Aguilar, Gilberto González Penilla. Uriel Villalobos Alva. Kryhzal Olalde Dávila, Gilberto González Penilla. Hernán Mendoza, Carmen Beato, Tiaré Scanda, Alexis Ayala. Janeth Mora Gonzalez , Jessica Villegas Lattuada, Ernesto Martínez Arévalo Payasito Films, Nopal Army Films. Transmutación Festival de Cine Contemporáneo. B.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010131": {
-      "titulo": "Charla Animación coreana el aliento de la imágenes",
-      "tituloOriginal": "Programa de cortometrajes",
-      "director": "Choe Jeonghyeon",
-      "pais": null,
-      "ano": 1983,
-      "duracion": 34,
-      "filmId": "HO00010131",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010131?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010131&cinemas=003",
-      "sinopsis": "Este programa de cortometrajes presenta seis películas de destacades cineastas: Choe Jeonghyeon, Lee Yong-bae, Kim Hyeon-ju, An Jae-hun y Han Hye-jin, figuras imprescindibles del cine independiente y de animación clásica de Corea del Sur. Los filmes abordan metafórica y directamente las tensiones sociales de la época, mostrando el dolor y la búsqueda de la libertad bajo los regímenes políticos de la Corea de los años 80. Entre los títulos se encuentran Insect Net (1983), Cicatriz (1984) y Cuando llegue ese día (1987), la trilogía de Choe Jeonghyeon. Destaca también Still Unbroken (1994), ganador del Premio a la Excelencia en la primera edición de El Festival de Cortometrajes de Seúl en 1994.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00009806": {
-      "titulo": "Coyote Vs Acme DOB",
-      "tituloOriginal": "Coyote vs. Acme",
-      "director": "Dave Green",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 98,
-      "filmId": "HO00009806",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009806?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009806&cinemas=003",
-      "sinopsis": "El icónico personaje de los Looney Toons está cansado de sus intentos fallidos por atrapar al Correcaminos debido a los productos defectuosos de ACME. Al increíble estilo híbrido de Space Jam, esta hilarante comedia de acción real y animación nos muestra cómo el Coyote contrata a un abogado humano para demandar al gigante corporativo. El caso se complica al enfrentar al implacable representante de la empresa (John Cena), desatando un juicio sumamente caótico acompañado de divertidos cameos.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "Yj-Nm47IW9k",
-      "trailers": [
-        "Yj-Nm47IW9k",
-        "gFAw7jxJOsY",
-        "V_ueAlyvn6A",
-        "WQRoa6l4bwI",
-        "soYBxkggwKQ",
-        "qdZf3jYcpCI",
-        "eQcD2wwfBZE",
-        "4ZIINnHufZ4",
-        "7wrdvTn9jcc",
-        "8SFmY_2r0Aw",
-        "tyQBh0vKUtw",
-        "Fncl62R3PMM",
-        "F-PGig35gk4",
-        "QaRq1oymgL8",
-        "4WwrjXE3_QM",
-        "kMsiD1Nky5I",
-        "GXmAP6XyZ7g",
-        "H-43VeYGiPM",
-        "qT6kR2nHI8M",
-        "G11SytnNYqI"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.4,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "It may not look the way classic animation fans want it to look. Still, Coyote vs. ACME is worthwhile for its ingenuity in both its homage to old cartoons and its clever storytelling, and…",
-          "autor": "Chris Sawin",
-          "url": "https://www.themoviedb.org/review/6a861469c6a463f1960b91e2"
-        },
-        {
-          "texto": "Come to think of it, I'm surprised that in the super-litigious US of A it took almost a century for anyone to cotton that \"ACME\" products were rubbish! Well now \"Wile E.",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6a8c82a3774d919fe7e8f3b4"
-        },
-        {
-          "texto": "I read an article inspired by this movie. It said top 10 anti-capitalist films like this movie. It included They Live.",
-          "autor": "Chandler Danier",
-          "url": "https://www.themoviedb.org/review/6a9649470c60b46b973cac0c"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt1756855/",
-      "imdbId": "tt1756855",
-      "tmdbId": 1204680,
-      "votos": 35091
-    },
-    "HO00010080": {
-      "titulo": "Doble Patria",
-      "tituloOriginal": "Zweitland",
-      "director": "Michael Kofler",
-      "pais": "• Alemania/Italia/Austria",
-      "ano": 2025,
-      "duracion": 112,
-      "filmId": "HO00010080",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010080?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010080&cinemas=003",
-      "sinopsis": "Acompañado del corto Alimento para cerdos IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.8,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35668693/",
-      "imdbId": "tt35668693",
-      "tmdbId": 1457025,
-      "votos": 105
-    },
-    "HO00009934": {
-      "titulo": "Dogtooth: Canino",
-      "tituloOriginal": "Kynodontas",
-      "director": "Yorgos Lanthimos",
-      "pais": "Grecia",
-      "ano": 2009,
-      "duracion": 97,
-      "filmId": "HO00009934",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009934?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009934&cinemas=003",
-      "sinopsis": "Canino narra la historia de una familia griega que vive recluida en su casa. El matrimonio manipula a sus tres hijos con reglas absurdas para convencerlos de que el mundo exterior es un territorio prohibido, al cual sólo podrán acceder cuando se les caiga un diente canino. En este filme, nominado al Óscar como mejor película en lengua no inglesa, el director Yorgos Lanthimos logra transitar la comedia negra y el terror psicológico, creando un cuestionamiento hacia las estructuras sociales que conocemos.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "YJe4eZ9l5KY",
-      "trailers": [
-        "YJe4eZ9l5KY",
-        "0bYpMPXXsvI",
-        "ElVysSnB3yg"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Doogtooth, the official Greek entry to the 2011 Academy Awards, is nominated for Best Foreign Film.",
-          "autor": "MoHA",
-          "url": "https://www.themoviedb.org/review/55d9073192514143e6002fa9"
-        },
-        {
-          "texto": "Unnamed parents (Christos Stergioglou and Michele Valley) are so obsessed with their children that they have, over the years, created an walled environment in which they see nobody but each…",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6636091a8de0ae0129f5f362"
-        },
-        {
-          "texto": "<em'Dogtooth'</em is certainly a Yorgos Lanthimos film! On the whole, I found this fascinating. It gets quite disturbing in parts, as you'd expect from this director, but all in all it is…",
-          "autor": "r96sk",
-          "url": "https://www.themoviedb.org/review/67a6b35edf55e8f213f0fb93"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt1379182/",
-      "imdbId": "tt1379182",
-      "tmdbId": 38810,
-      "votos": 125227
-    },
-    "HO00010081": {
-      "titulo": "El juicio de Hein",
-      "tituloOriginal": "Der Heimatlose",
-      "director": "Kai Stänicke",
-      "pais": "Alemania",
-      "ano": 2026,
-      "duracion": 122,
-      "filmId": "HO00010081",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010081?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010081&cinemas=003",
-      "sinopsis": "Acompañado del corto Flores IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.4,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Most of us would likely agree that we seek acceptance by society. But what does it take for that to happen?",
-          "autor": "Brent Marchant",
-          "url": "https://www.themoviedb.org/review/6ab8a4f1bb5231fea497b924"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt33522697/",
-      "imdbId": "tt33522697",
-      "tmdbId": 1476466,
-      "votos": 191
-    },
-    "HO00010082": {
-      "titulo": "Finding Connection",
-      "tituloOriginal": null,
-      "director": "Florian Karner",
-      "pais": "Alemania",
-      "ano": 2026,
-      "duracion": 86,
-      "filmId": "HO00010082",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010082?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010082&cinemas=003",
-      "sinopsis": "Acompañado del corto Los días de Alfredo IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.5,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt31645419/",
-      "imdbId": "tt31645419",
-      "tmdbId": 1624471,
-      "votos": 17
-    },
-    "HO00010129": {
-      "titulo": "Hopi y Chadol Bawi",
-      "tituloOriginal": null,
-      "director": "Shin Dong-hun",
-      "pais": "Corea del Sur",
-      "ano": 1967,
-      "duracion": 74,
-      "filmId": "HO00010129",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010129?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010129&cinemas=003",
-      "sinopsis": "Tras el éxito de A Story of Hong Gil-dong, se planeó una secuela, pero el director Shin Dong-hun tuvo desacuerdos con la productora, por lo que optó por hacer una especie de spin off centrado en dos personajes secundarios. La película es una emocionante y colorida aventura inspirada en el arquetipo del espadachín errante, que cuenta la historia de Hopi, un ladrón que cambia de vida después de recibir entrenamiento en artes marciales y, finalmente, defiende al país del ataque de un general.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010105": {
-      "titulo": "Las lágrimas de Bael",
-      "tituloOriginal": "Las Lágrimas de Bael",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010105",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010105?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010105&cinemas=003",
-      "sinopsis": "En la frenética Ciudad de México, Las lágrimas de Bael sigue a Capitán Gato, un traficante de poca monta que busca venganza por el asesinato de su hijo. Lo que comenzó como documental sobre el inframundo criminal evolucionó en un retrato ficticio que difumina la línea entre realidad e imaginación.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt22005744/",
-      "imdbId": "tt22005744",
-      "tmdbId": 1727834,
-      "votos": 0
-    },
-    "HO00009861": {
-      "titulo": "Staatsschutz /Prosecution",
-      "tituloOriginal": "Staatsschutz",
-      "director": "Faraz Shariat",
-      "pais": "Alemania",
-      "ano": 2023,
-      "duracion": 113,
-      "filmId": "HO00009861",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009861?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009861&cinemas=003",
-      "sinopsis": "Acompañado del corto Alicia IMCINE PRESENTA Realizados con el apoyo del Programa Fomento al Cine Mexicano (Focine), los cortometrajes de la edición recorren historias nacidas de territorios, lenguas y experiencias diversas, reflejo de la riqueza creativa del cine nacional contemporáneo. En diálogo con la programación alemana, celebran el intercambio cultural y el encuentro a través del cine.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt39213126/",
-      "imdbId": "tt39213126",
-      "tmdbId": 1599784,
-      "votos": 398
-    },
-    "HO00010114": {
-      "titulo": "Vía láctea programa 1 Cortometrajes en competencía",
-      "tituloOriginal": "VÍA LÁCTEA PROGRAMA 1 - CORTOMETRAJES EN COMPETENCIA TRANSMUTACIÓN CINE",
-      "director": "Varios",
-      "pais": null,
-      "ano": 2026,
-      "duracion": 113,
-      "filmId": "HO00010114",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010114?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010114&cinemas=003",
-      "sinopsis": "Varios ARS POETICA | DIR. FACUNDO TORRIERI | MÉXICO | 2026 | 8 MIN. INFINITY RIVER | DIR. GONÇALO PINA | PORTUGAL | 2025 | 22 MIN. XYZ | DIR. ALEXANDRE ALAGÔA | LUXEMBURGO, PORTUGAL | 2026 | 12 MIN. PROCASTINATION YOGA | DIR. PAULINA ZIÓŁKOWSKA | POLONIA | 2026 | 7 MIN. QUÉ TU HACE, SARA? | DIR. CAROLINA MEZA | CUBA, MÉXICO | 2026 | 16 MIN. MEMORIA DE UN CUERPO | DIR. ALFREDO PÉREZ ROUCO | MÉXICO | 2026 | 8 MIN. MY LITTLE NOTHING | DIR. LUCY KERR | EE. UU. | 2026 | 15 MIN. ONCE IN A FULL MOON | DIR. BANDE JAMES BOND | BÉLGICA | 2025 | 25 MIN.. Transmutación Festival de Cine Contemporáneo. C.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010061": {
-      "titulo": "El desconocido del gran arco",
-      "tituloOriginal": "L'INCONNU DE LA GRANDE ARCHE",
-      "director": "Stéphane Demoustier",
-      "pais": "Francia",
-      "ano": 2025,
-      "duracion": 104,
-      "filmId": "HO00010061",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010061?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010061&cinemas=002",
-      "sinopsis": "En 1983, François Mitterrand convocó el mayor concurso de arquitectura de la historia. Su objetivo: erigir un nuevo monumento en París y convertirlo en la insignia de su mandato presidencial. Para sorpresa de todos, el ganador fue un absoluto desconocido: Johan Otto von Spreckelsen, un profesor de arquitectura de Copenhague quien se convirtió en el centro de todas las miradas. El filme parte de la psicología del protagonista y las adversidades que enfrenta su proyecto para hablar de temas complejos como la ética profesional y el enfrentamiento entre idealismo y poder político.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "FhtqB5aq1t8",
-      "trailers": [
-        "FhtqB5aq1t8"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt32398150/",
-      "imdbId": "tt32398150",
-      "tmdbId": 1290424,
-      "votos": 2321
     },
     "HO00010117": {
       "titulo": "Cronovisor",
@@ -1768,7 +1491,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37813097/",
       "imdbId": "tt37813097",
       "tmdbId": 1459062,
-      "votos": 189
+      "votos": 190
     },
     "HO00010119": {
       "titulo": "La marca del jaguar: el despertar del fuego",
@@ -1794,6 +1517,33 @@
       "imdbId": "tt21107832",
       "tmdbId": 1745291,
       "votos": 0
+    },
+    "HO00010128": {
+      "titulo": "Una historia de Hong Gil-dong",
+      "tituloOriginal": "A Story of Hong Gil-dong",
+      "director": "Shin Dong-hun",
+      "pais": "Corea del Sur",
+      "ano": 1967,
+      "duracion": 66,
+      "filmId": "HO00010128",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010128?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010128&cinemas=003",
+      "sinopsis": "Después de ser expulsado de su hogar, Hong Gil-dong, el hijo ilegítimo de un alto funcionario en la dinastía Joseon, comienza un camino de descubrimiento que lo llevará a crear su propio grupo de bandidos encargados de robar a los ricos para dar a los pobres. Esta cinta, considerada el primer largometraje animado de Corea del Sur, estuvo perdida por años hasta el 2008, cuando el Archivo de Cine Coreano (KOFA) realizó una restauración digital a partir de una copia de 16 mm proveniente de Japón.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "FszuBwSzYSk",
+      "trailers": [
+        "FszuBwSzYSk"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0327306/",
+      "imdbId": "tt0327306",
+      "tmdbId": 411091,
+      "votos": 81
     },
     "HO00010115": {
       "titulo": "Vía láctea programa 2 Cortometrajes en competencía",
@@ -1846,7 +1596,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35495035/",
       "imdbId": "tt35495035",
       "tmdbId": 1376415,
-      "votos": 1913
+      "votos": 1927
     },
     "HO00010116": {
       "titulo": "Así llegó la noche",
@@ -2029,7 +1779,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 988
+      "votos": 993
     },
     "HO00010107": {
       "titulo": "Cuadro negro",
@@ -2187,7 +1937,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36842933/",
       "imdbId": "tt36842933",
       "tmdbId": 1404684,
-      "votos": 1786
+      "votos": 1796
     },
     "HO00010062": {
       "titulo": "El camino",
@@ -2212,7 +1962,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39814688/",
       "imdbId": "tt39814688",
       "tmdbId": 1404604,
-      "votos": 368
+      "votos": 369
     },
     "HO00001156": {
       "titulo": "El hombre que vio demasiado",
@@ -2264,7 +2014,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35526093/",
       "imdbId": "tt35526093",
       "tmdbId": 1166170,
-      "votos": 719
+      "votos": 720
     },
     "HO00010071": {
       "titulo": "Patti Smith: Dream of life",
@@ -2290,537 +2040,34 @@
       "imdbId": "tt0940620",
       "tmdbId": 22498,
       "votos": 1133
+    },
+    "HO00010121": {
+      "titulo": "The upsetter: The life of music of Lee Scratch Per",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010121",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010121?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010121&cinemas=001",
+      "sinopsis": "Documental sobre uno de los artistas más fascinantes e influyentes de nuestro tiempo. La película empieza en la Jamaica rural, rastreando la misteriosa juventud de Perry, así como los notorios acontecimientos de sus años más prolíficos en Kingston",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010085",
-      "sala": "Sala 7",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010091",
-      "sala": "Sala 8",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "15:00",
-        "17:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00008666",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:45",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:45",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010078",
-      "sala": "Sala 10",
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010089",
-      "sala": "Sala 7",
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010088",
-      "sala": "Sala 7",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009562",
-      "sala": "Sala 4",
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009424",
-      "sala": "Sala 4",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009929",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:00",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009278",
-      "sala": "Sala 2",
-      "horarios": [
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009790",
-      "sala": "Sala 10",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009763",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00008486",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010065",
-      "sala": "Sala 3",
-      "horarios": [
-        "16:00",
-        "18:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009426",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010103",
-      "sala": "Sala 9",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009847",
-      "sala": "Sala 5",
-      "horarios": [
-        "16:45",
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010104",
-      "sala": null,
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010099",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010098",
-      "sala": "Sala 9",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009555",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:00",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009256",
-      "sala": "Sala 4",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010128",
-      "sala": "Sala 8",
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009959",
-      "sala": "Sala 5",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009758",
-      "sala": null,
-      "horarios": [
-        "13:00",
-        "16:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009933",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:30",
-        "15:50",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009936",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:00",
-        "17:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010075",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:15",
-        "16:50",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010078",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:50",
-        "16:15",
-        "18:50"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009875",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:45",
-        "16:00",
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010076",
-      "sala": "Sala 1",
-      "horarios": [
-        "14:00",
-        "16:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00008162",
-      "sala": "Sala 6",
-      "horarios": [
-        "15:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009278",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:40",
-        "15:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "17:40",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010059",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:00",
-        "15:30",
-        "18:00",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00001604",
-      "sala": "Sala 6",
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009933",
-      "sala": "Sala 7",
-      "horarios": [
-        "15:00",
-        "17:40",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009936",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:10",
-        "15:15",
-        "17:20",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010075",
-      "sala": "Sala 12",
-      "horarios": [
-        "14:00",
-        "17:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009562",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:10",
-        "16:20",
-        "18:30",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009935",
-      "sala": "Sala 5",
-      "horarios": [
-        "15:20",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009850",
-      "sala": "Sala 9",
-      "horarios": [
-        "13:30",
-        "15:40",
-        "17:50",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00010065",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:40",
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009426",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:50",
-        "16:00",
-        "18:10",
-        "20:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009931",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009958",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009932",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:20",
-        "17:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-02",
-      "pelicula": "HO00009851",
-      "sala": "Sala 11",
-      "horarios": [
-        "14:40",
-        "16:50",
-        "18:50",
-        "20:50"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-10-03",
@@ -5797,6 +5044,15 @@
         "16:50",
         "18:50",
         "20:50"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-10-09",
+      "pelicula": "HO00010121",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:00"
       ]
     }
   ]
