@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-05T15:57:21.861Z",
+  "generadoEn": "2026-10-05T21:31:40.469Z",
   "hoy": "2026-10-05",
   "sedes": [
     {
@@ -79,7 +79,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 242
+      "votos": 244
     },
     "HO00009956": {
       "titulo": "Coyote Vs Acme SUB",
@@ -141,7 +141,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 38195
+      "votos": 38639
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -275,7 +275,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 12112
+      "votos": 14238
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -320,7 +320,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125262
+      "votos": 125272
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -374,31 +374,6 @@
       "imdbId": "tt41514401",
       "tmdbId": 1658241,
       "votos": 0
-    },
-    "HO00010110": {
-      "titulo": "Espantapájaros",
-      "tituloOriginal": "SCARECROWS",
-      "director": "Laila Pakalniņa",
-      "pais": null,
-      "ano": 2025,
-      "duracion": 90,
-      "filmId": "HO00010110",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010110?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010110&cinemas=003",
-      "sinopsis": "Western ambientado en un aeropuerto: un relato visual sobre los «guardianes de la pista» y sus encuentros con la naturaleza. En esta urbe de tránsito rodeada de bosques y praderas, distintas especies cruzan caminos. A lo largo de cuatro estaciones en Letonia, especialistas en fauna guían la crónica.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
     },
     "HO00010100": {
       "titulo": "Fantasía",
@@ -454,7 +429,7 @@
       "urlImdb": "https://www.imdb.com/title/tt28254159/",
       "imdbId": "tt28254159",
       "tmdbId": 1225590,
-      "votos": 363
+      "votos": 364
     },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
@@ -625,69 +600,6 @@
       "tmdbId": 1252645,
       "votos": 0
     },
-    "HO00009763": {
-      "titulo": "Lo que queda de ti",
-      "tituloOriginal": "Allly baqi mink",
-      "director": "Cherien Dabis",
-      "pais": "Palestina-Chipre-Alemania-Jordania-Arabia Saudita-Grecia-Qatar",
-      "ano": 2025,
-      "duracion": 145,
-      "filmId": "HO00009763",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009763?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009763&cinemas=003",
-      "sinopsis": "En Lo que queda de ti, Cherien Dabis dirige y protagoniza un crudo relato inspirado en sus propias raíces. Un adolescente palestino sufre un ataque durante una protesta en Cisjordania; por eso su madre, Hanan, narra el doloroso recorrido de la familia Hammad desde el inicio de la invasión del ejército israelí en 1948 hasta la década de 2020. Esta historia sobre el trauma generacional expone la resiliencia y el dolor de las familias palestinas ante el arrebato de sus hogares e incluso de su propia humanidad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "KwSBhtlchD0",
-      "trailers": [
-        "KwSBhtlchD0",
-        "yCfa1uLuJTw",
-        "obY98vk76Hs"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.9,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Grand, sweeping epics with stories spanning many years (if not decades) have long been a staple of the movie industry, typically capturing numerous awards and big box office tallies, even…",
-          "autor": "Brent Marchant",
-          "url": "https://www.themoviedb.org/review/69573faef81a932fd2cbd1f5"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt29344894/",
-      "imdbId": "tt29344894",
-      "tmdbId": 1219620,
-      "votos": 3076
-    },
-    "HO00008486": {
-      "titulo": "Los sueños que compartimos",
-      "tituloOriginal": null,
-      "director": "Valentina Leduc",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 112,
-      "filmId": "HO00008486",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008486?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008486&cinemas=003",
-      "sinopsis": "Soñamos con otro mundo posible, donde hemos despertado al cuidado de la vida. Ubicándonos en un utópico 2050, vemos en retrospectiva algunos acontecimientos que ya suceden para lograr el objetivo: la organización comunitaria y la articulación de resistencias alrededor del mundo a partir del viaje transatlántico de comunidades mayas zapatistas.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "OV0GLmpQwsg",
-      "trailers": [
-        "OV0GLmpQwsg",
-        "XS6sqMBjNTo"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt36298835/",
-      "imdbId": "tt36298835",
-      "tmdbId": 1323322,
-      "votos": 16
-    },
     "HO00010065": {
       "titulo": "Mary y Max SUB",
       "tituloOriginal": "Mary and Max",
@@ -720,39 +632,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203689
-    },
-    "HO00009426": {
-      "titulo": "Memorias de un cuerpo que arde",
-      "tituloOriginal": null,
-      "director": "Antonella Sudasassi Furniss",
-      "pais": "Costa Rica-España",
-      "ano": 2024,
-      "duracion": 90,
-      "filmId": "HO00009426",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009426?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009426&cinemas=003",
-      "sinopsis": "Ana, Patricia y Mayela deciden que la vida no es sólo un archivo de recuerdos y emprenden un viaje a través de sus memorias para contar su historia, sus secretos, sus deseos, sus anhelos. En un acto de valentía íntima, desafían las expectativas sociales y se embarcan en una travesía personal para reclamar su libertad, su cuerpo y su derecho a sentir y gozar, demostrando que el deseo no tiene fecha de caducidad. La directora Antonella Sudasassi desarrolla una obra que mezcla testimonios reales y una puesta en escena guionizada, creando un diálogo colectivo que nos invita a reflexionar el camino que recorrieron nuestras ancestras para que hoy en día nuestra vida sea distinta y mejor a la de ellas.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "hMHksjYg-fE",
-      "trailers": [
-        "hMHksjYg-fE",
-        "aQ-lPTs6D2M",
-        "zu7ao_BOeM8",
-        "yhZw0zIfGXg",
-        "pLGHsORPIU4",
-        "Zsv4jNZsWGw"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.4,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt15716284/",
-      "imdbId": "tt15716284",
-      "tmdbId": 1232350,
-      "votos": 519
+      "votos": 203701
     },
     "HO00009847": {
       "titulo": "Oh, fortuna",
@@ -818,7 +698,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189572
+      "votos": 189587
     },
     "HO00009555": {
       "titulo": "Tus dos muertos",
@@ -873,7 +753,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36591330/",
       "imdbId": "tt36591330",
       "tmdbId": 1397733,
-      "votos": 73
+      "votos": 75
     },
     "HO00009933": {
       "titulo": "Cars 20 aniversario DOB",
@@ -926,7 +806,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 551016
+      "votos": 551043
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -999,13 +879,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 5.9,
+      "publico": 6,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 76
+      "votos": 77
     },
     "HO00008162": {
       "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
@@ -1066,7 +946,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203689
+      "votos": 203701
     },
     "HO00010077": {
       "titulo": "Soy Mario",
@@ -1120,7 +1000,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 1021
+      "votos": 1026
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1177,6 +1057,38 @@
       "tmdbId": 1220334,
       "votos": 79
     },
+    "HO00009426": {
+      "titulo": "Memorias de un cuerpo que arde",
+      "tituloOriginal": null,
+      "director": "Antonella Sudasassi Furniss",
+      "pais": "Costa Rica-España",
+      "ano": 2024,
+      "duracion": 90,
+      "filmId": "HO00009426",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009426?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009426&cinemas=002",
+      "sinopsis": "Ana, Patricia y Mayela deciden que la vida no es sólo un archivo de recuerdos y emprenden un viaje a través de sus memorias para contar su historia, sus secretos, sus deseos, sus anhelos. En un acto de valentía íntima, desafían las expectativas sociales y se embarcan en una travesía personal para reclamar su libertad, su cuerpo y su derecho a sentir y gozar, demostrando que el deseo no tiene fecha de caducidad. La directora Antonella Sudasassi desarrolla una obra que mezcla testimonios reales y una puesta en escena guionizada, creando un diálogo colectivo que nos invita a reflexionar el camino que recorrieron nuestras ancestras para que hoy en día nuestra vida sea distinta y mejor a la de ellas.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "hMHksjYg-fE",
+      "trailers": [
+        "hMHksjYg-fE",
+        "aQ-lPTs6D2M",
+        "zu7ao_BOeM8",
+        "yhZw0zIfGXg",
+        "pLGHsORPIU4",
+        "Zsv4jNZsWGw"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.4,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt15716284/",
+      "imdbId": "tt15716284",
+      "tmdbId": 1232350,
+      "votos": 520
+    },
     "HO00009958": {
       "titulo": "Ponyo y el secreto de la sirenita SUB",
       "tituloOriginal": "Gake no Ue no Ponyo",
@@ -1216,7 +1128,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189572
+      "votos": 189587
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1377,6 +1289,69 @@
       "tmdbId": 1554993,
       "votos": 1
     },
+    "HO00009763": {
+      "titulo": "Lo que queda de ti",
+      "tituloOriginal": "Allly baqi mink",
+      "director": "Cherien Dabis",
+      "pais": "Palestina-Chipre-Alemania-Jordania-Arabia Saudita-Grecia-Qatar",
+      "ano": 2025,
+      "duracion": 145,
+      "filmId": "HO00009763",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009763?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009763&cinemas=003",
+      "sinopsis": "En Lo que queda de ti, Cherien Dabis dirige y protagoniza un crudo relato inspirado en sus propias raíces. Un adolescente palestino sufre un ataque durante una protesta en Cisjordania; por eso su madre, Hanan, narra el doloroso recorrido de la familia Hammad desde el inicio de la invasión del ejército israelí en 1948 hasta la década de 2020. Esta historia sobre el trauma generacional expone la resiliencia y el dolor de las familias palestinas ante el arrebato de sus hogares e incluso de su propia humanidad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "KwSBhtlchD0",
+      "trailers": [
+        "KwSBhtlchD0",
+        "yCfa1uLuJTw",
+        "obY98vk76Hs"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.9,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Grand, sweeping epics with stories spanning many years (if not decades) have long been a staple of the movie industry, typically capturing numerous awards and big box office tallies, even…",
+          "autor": "Brent Marchant",
+          "url": "https://www.themoviedb.org/review/69573faef81a932fd2cbd1f5"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt29344894/",
+      "imdbId": "tt29344894",
+      "tmdbId": 1219620,
+      "votos": 3079
+    },
+    "HO00008486": {
+      "titulo": "Los sueños que compartimos",
+      "tituloOriginal": null,
+      "director": "Valentina Leduc",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 112,
+      "filmId": "HO00008486",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008486?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008486&cinemas=003",
+      "sinopsis": "Soñamos con otro mundo posible, donde hemos despertado al cuidado de la vida. Ubicándonos en un utópico 2050, vemos en retrospectiva algunos acontecimientos que ya suceden para lograr el objetivo: la organización comunitaria y la articulación de resistencias alrededor del mundo a partir del viaje transatlántico de comunidades mayas zapatistas.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "OV0GLmpQwsg",
+      "trailers": [
+        "OV0GLmpQwsg",
+        "XS6sqMBjNTo"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt36298835/",
+      "imdbId": "tt36298835",
+      "tmdbId": 1323322,
+      "votos": 16
+    },
     "HO00010102": {
       "titulo": "Mensajeros",
       "tituloOriginal": "MESSENGERS",
@@ -1456,7 +1431,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36842933/",
       "imdbId": "tt36842933",
       "tmdbId": 1404684,
-      "votos": 1825
+      "votos": 1832
     },
     "HO00010062": {
       "titulo": "El camino",
@@ -1481,7 +1456,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39814688/",
       "imdbId": "tt39814688",
       "tmdbId": 1404604,
-      "votos": 374
+      "votos": 377
     },
     "HO00001156": {
       "titulo": "El hombre que vio demasiado",
@@ -1558,7 +1533,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35526093/",
       "imdbId": "tt35526093",
       "tmdbId": 1166170,
-      "votos": 728
+      "votos": 732
     },
     "HO00010071": {
       "titulo": "Patti Smith: Dream of life",
@@ -1596,6 +1571,31 @@
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010121?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010121&cinemas=001",
       "sinopsis": "Documental sobre uno de los artistas más fascinantes e influyentes de nuestro tiempo. La película empieza en la Jamaica rural, rastreando la misteriosa juventud de Perry, así como los notorios acontecimientos de sus años más prolíficos en Kingston",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00010110": {
+      "titulo": "Espantapájaros",
+      "tituloOriginal": "SCARECROWS",
+      "director": "Laila Pakalniņa",
+      "pais": null,
+      "ano": 2025,
+      "duracion": 90,
+      "filmId": "HO00010110",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010110?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010110&cinemas=003",
+      "sinopsis": "Western ambientado en un aeropuerto: un relato visual sobre los «guardianes de la pista» y sus encuentros con la naturaleza. En esta urbe de tránsito rodeada de bosques y praderas, distintas especies cruzan caminos. A lo largo de cuatro estaciones en Letonia, especialistas en fauna guían la crónica.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
@@ -1691,15 +1691,6 @@
     {
       "sede": "003",
       "fecha": "2026-10-05",
-      "pelicula": "HO00010110",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-05",
       "pelicula": "HO00010100",
       "sala": "Sala 9",
       "horarios": [
@@ -1775,39 +1766,12 @@
     {
       "sede": "003",
       "fecha": "2026-10-05",
-      "pelicula": "HO00009763",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-05",
-      "pelicula": "HO00008486",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-05",
       "pelicula": "HO00010065",
       "sala": "Sala 3",
       "horarios": [
         "16:00",
         "18:30",
         "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-05",
-      "pelicula": "HO00009426",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:30"
       ]
     },
     {
@@ -2038,15 +2002,6 @@
       "horarios": [
         "13:30",
         "15:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-05",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:30"
       ]
     },
     {
@@ -3490,6 +3445,51 @@
       "sala": "Sala 5",
       "horarios": [
         "17:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-05",
+      "pelicula": "HO00010110",
+      "sala": "Sala 9",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-05",
+      "pelicula": "HO00009763",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-05",
+      "pelicula": "HO00008486",
+      "sala": "Sala 10",
+      "horarios": [
+        "14:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-05",
+      "pelicula": "HO00009426",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-05",
+      "pelicula": "HO00009939",
+      "sala": "Sala 10",
+      "horarios": [
+        "14:30"
       ]
     }
   ]
