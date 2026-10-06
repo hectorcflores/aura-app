@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-06T16:00:54.185Z",
+  "generadoEn": "2026-10-06T19:36:45.524Z",
   "hoy": "2026-10-06",
   "sedes": [
     {
@@ -113,7 +113,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 38639
+      "votos": 38980
     },
     "HO00010107": {
       "titulo": "Cuadro negro",
@@ -272,7 +272,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 14238
+      "votos": 15373
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -317,7 +317,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125272
+      "votos": 125281
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -454,7 +454,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2086
+      "votos": 2088
     },
     "HO00010108": {
       "titulo": "La exposición",
@@ -577,7 +577,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 3079
+      "votos": 3080
     },
     "HO00008486": {
       "titulo": "Los sueños que compartimos",
@@ -639,7 +639,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203701
+      "votos": 203710
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -791,7 +791,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189587
+      "votos": 189606
     },
     "HO00009555": {
       "titulo": "Tus dos muertos",
@@ -871,7 +871,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 551043
+      "votos": 551067
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -1011,7 +1011,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203701
+      "votos": 203710
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1107,7 +1107,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189587
+      "votos": 189606
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1162,7 +1162,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36842933/",
       "imdbId": "tt36842933",
       "tmdbId": 1404684,
-      "votos": 1832
+      "votos": 1836
     },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
@@ -1192,31 +1192,6 @@
       "imdbId": "tt18301776",
       "tmdbId": 1318711,
       "votos": 79
-    },
-    "HO00008666": {
-      "titulo": "Deshilando luz",
-      "tituloOriginal": "Deshilando Luz",
-      "director": "Valentina Pelayo Atilano",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 68,
-      "filmId": "HO00008666",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008666?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008666&cinemas=003",
-      "sinopsis": "Deshilando Luz es un ensayo fílmico experimental que entrelaza la mirada de la directora Valentina Pelayo con la de Elsa Atilano, artista textil. Las viñetas que Valentina encuentra en el archivo de su madre manifiestan la oración de los misterios del Rosario, una meditación que, al igual que la obra textil, se estructura en la repetición. En este filme la directora fabrica un homenaje póstumo a la muerte de Elsa, su madre, deshilando los trazos de su existencia, el duelo y la ausencia.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1446468,
-      "votos": 0
     },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
@@ -1322,7 +1297,32 @@
       "urlImdb": "https://www.imdb.com/title/tt39814688/",
       "imdbId": "tt39814688",
       "tmdbId": 1404604,
-      "votos": 377
+      "votos": 379
+    },
+    "HO00008666": {
+      "titulo": "Deshilando luz",
+      "tituloOriginal": "Deshilando Luz",
+      "director": "Valentina Pelayo Atilano",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 68,
+      "filmId": "HO00008666",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008666?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008666&cinemas=003",
+      "sinopsis": "Deshilando Luz es un ensayo fílmico experimental que entrelaza la mirada de la directora Valentina Pelayo con la de Elsa Atilano, artista textil. Las viñetas que Valentina encuentra en el archivo de su madre manifiestan la oración de los misterios del Rosario, una meditación que, al igual que la obra textil, se estructura en la repetición. En este filme la directora fabrica un homenaje póstumo a la muerte de Elsa, su madre, deshilando los trazos de su existencia, el duelo y la ausencia.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1446468,
+      "votos": 0
     },
     "HO00001156": {
       "titulo": "El hombre que vio demasiado",
@@ -1399,7 +1399,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35526093/",
       "imdbId": "tt35526093",
       "tmdbId": 1166170,
-      "votos": 732
+      "votos": 734
     },
     "HO00010071": {
       "titulo": "Patti Smith: Dream of life",
@@ -1947,15 +1947,6 @@
       "horarios": [
         "15:00",
         "17:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-07",
-      "pelicula": "HO00008666",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:00"
       ]
     },
     {
