@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-10-06T19:36:45.524Z",
-  "hoy": "2026-10-06",
+  "generadoEn": "2026-10-07T14:27:58.890Z",
+  "hoy": "2026-10-07",
   "sedes": [
     {
       "id": "003",
@@ -19,10 +19,10 @@
     }
   ],
   "fechas": [
-    "2026-10-06",
     "2026-10-07",
     "2026-10-08",
-    "2026-10-09"
+    "2026-10-09",
+    "2026-10-13"
   ],
   "peliculas": {
     "HO00010091": {
@@ -51,7 +51,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 244
+      "votos": 245
     },
     "HO00009956": {
       "titulo": "Coyote Vs Acme SUB",
@@ -113,57 +113,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 38980
-    },
-    "HO00010107": {
-      "titulo": "Cuadro negro",
-      "tituloOriginal": "CUADRO NEGRO",
-      "director": "Carolina Adriazola",
-      "pais": "José Luis Sepúlveda, Chile",
-      "ano": 2025,
-      "duracion": 126,
-      "filmId": "HO00010107",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010107?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010107&cinemas=003",
-      "sinopsis": "Sofía, una joven periodista inmersa en la creación de un documental artístico sobre el ejército chileno, regresa a vivir con su abuela tras un quiebre amoroso. Allí conoce a María, una mujer cuya visión del legado militar contrasta con la de su abuela, reflejando las tensiones de un país marcado por su historia.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1427790,
-      "votos": 0
-    },
-    "HO00010125": {
-      "titulo": "Del rancho a la televisión",
-      "tituloOriginal": null,
-      "director": "Ismael Rodríguez",
-      "pais": "México",
-      "ano": 1952,
-      "duracion": 100,
-      "filmId": "HO00010125",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010125?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010125&cinemas=003",
-      "sinopsis": "Oriundo de Pungarabatirimícuaro, Michoacán, el ranchero José Antonio viaja a la capital para convertirse en cantante. Ya en la famosa radiodifusora XEW, fracasa cuando, por envidias de una cantante rival, Graciela, la orquesta toca demasiado alto. José Antonio se enamora de Laura, la hija discapacitada del velador de la estación, quien también es cantante. Con la ayuda de don Pancho, padre de Laura, José Antonio consigue triunfar como cantante en la radio y más tarde en la televisión. Graciela seduce al ranchero y lo narcotiza, por lo que no puede asistir a una cita con un empresario cubano que desea contratarlo. Finalmente, José Antonio corresponde al amor de Laura.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.2,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0257527/",
-      "imdbId": "tt0257527",
-      "tmdbId": 363367,
-      "votos": 38
+      "votos": 39295
     },
     "HO00010075": {
       "titulo": "Digger",
@@ -272,7 +222,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 15373
+      "votos": 16956
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -317,7 +267,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125281
+      "votos": 125288
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -376,30 +326,58 @@
       "tmdbId": 1225590,
       "votos": 364
     },
-    "HO00010129": {
-      "titulo": "Hopi y Chadol Bawi",
-      "tituloOriginal": null,
-      "director": "Shin Dong-hun",
+    "HO00009424": {
+      "titulo": "Kix: El rey de las calles",
+      "tituloOriginal": "Kix",
+      "director": "Dávid Mikulán y Bálint Révész",
+      "pais": "Hungría-Francia-Croacia",
+      "ano": 2024,
+      "duracion": 92,
+      "filmId": "HO00009424",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009424?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009424&cinemas=003",
+      "sinopsis": "Sanyi es un niño de ocho años, salvaje y enérgico, que recorre las calles de Budapest en su patineta. La ciudad es su patio de juegos, un refugio lejos del diminuto departamento de una sola habitación de su familia. Un día, por casualidad, conoce a los cineastas Dávid Révész y Bálint Mikulán, lo que da lugar a una larga amistad y a una película íntima, indómita y cautivadora. A lo largo de 12 años, Kix documenta la vida de Sanyi, marcada por las dificultades familiares, los problemas escolares y “travesuras” que tienen consecuencias cada vez más graves. Con un estilo de video punk y realismo crudo, Kix combina una rebeldía total con un compromiso social genuino, incluso cuando la historia da un giro trágico.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "AqxhXqHV3xk",
+      "trailers": [
+        "AqxhXqHV3xk",
+        "Mx0TnmEjqbE"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt32034405/",
+      "imdbId": "tt32034405",
+      "tmdbId": 1161396,
+      "votos": 1398
+    },
+    "HO00010130": {
+      "titulo": "Kongjui & Patchui",
+      "tituloOriginal": "콩쥐 팥쥐",
+      "director": "Gang Tae-ung",
       "pais": "Corea del Sur",
-      "ano": 1967,
-      "duracion": 74,
-      "filmId": "HO00010129",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010129?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010129&cinemas=003",
-      "sinopsis": "Tras el éxito de A Story of Hong Gil-dong, se planeó una secuela, pero el director Shin Dong-hun tuvo desacuerdos con la productora, por lo que optó por hacer una especie de spin off centrado en dos personajes secundarios. La película es una emocionante y colorida aventura inspirada en el arquetipo del espadachín errante, que cuenta la historia de Hopi, un ladrón que cambia de vida después de recibir entrenamiento en artes marciales y, finalmente, defiende al país del ataque de un general.",
+      "ano": 1977,
+      "duracion": 75,
+      "filmId": "HO00010130",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010130?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010130&cinemas=003",
+      "sinopsis": "Tras el segundo matrimonio de su padre, la joven Kongju comienza a vivir con una cruel madrastra y su hermanastra Patchui, quienes la maltratan. Para impedir que asista a una fiesta familiar, Kongju recibirá una serie de tareas imposibles que ponen a prueba su voluntad y determinación, valores importantes para la cultura popular del período Joseon. Basado en un cuento tradicional coreano, Kongjui & Patchui, es el único filme coreano en stop-motion previo al 2000, junto a Heungbu and Nolbu (1967).",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
+      "publico": 6.5,
+      "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "urlImdb": "https://www.imdb.com/title/tt9156916/",
+      "imdbId": "tt9156916",
+      "tmdbId": 534935,
+      "votos": 18
     },
     "HO00009929": {
       "titulo": "La bachata del biónico",
@@ -454,34 +432,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2088
-    },
-    "HO00010108": {
-      "titulo": "La exposición",
-      "tituloOriginal": "THE EXPOSURE",
-      "director": "Thomas Imbach",
-      "pais": null,
-      "ano": 2025,
-      "duracion": 90,
-      "filmId": "HO00010108",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010108?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010108&cinemas=003",
-      "sinopsis": "Thomas Imbach Thomas Imbach. Ephrem Lüchinger. Thomas Imbach in collaboration with Rosa Albrecht, Andrew Bird, David Charap. Deleila Piasko, Milan Peschel, Jan Bülow, Katharina Schüttler, Claudia Hübschmann. Thomas Imbach, Flora Grolitsch, Andrea Štaka Okofilm Productions. Transmutación Festival de Cine Contemporáneo. C.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "7nwhnvsVtQQ",
-      "trailers": [
-        "7nwhnvsVtQQ"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt38554661/",
-      "imdbId": "tt38554661",
-      "tmdbId": 1554993,
-      "votos": 1
+      "votos": 2089
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -577,7 +528,7 @@
       "urlImdb": "https://www.imdb.com/title/tt29344894/",
       "imdbId": "tt29344894",
       "tmdbId": 1219620,
-      "votos": 3080
+      "votos": 3084
     },
     "HO00008486": {
       "titulo": "Los sueños que compartimos",
@@ -639,7 +590,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203710
+      "votos": 203720
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -673,33 +624,6 @@
       "tmdbId": 1232350,
       "votos": 520
     },
-    "HO00010102": {
-      "titulo": "Mensajeros",
-      "tituloOriginal": "MESSENGERS",
-      "director": "Jeffrey Zablotny",
-      "pais": "Canadá",
-      "ano": 2025,
-      "duracion": 45,
-      "filmId": "HO00010102",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010102?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010102&cinemas=003",
-      "sinopsis": "Una exploración poética de tres telescopios subterráneos ubicados en regiones remotas de Canadá, Japón y la Antártida, que revelan una nueva forma de percibir el universo desde dentro. Bajo tierra, la humanidad sueña con la tierra, buscando señales de un cosmos invisible.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "YKCs9ey1gpM",
-      "trailers": [
-        "YKCs9ey1gpM"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.3,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt36133237/",
-      "imdbId": "tt36133237",
-      "tmdbId": 1447250,
-      "votos": 17
-    },
     "HO00009847": {
       "titulo": "Oh, fortuna",
       "tituloOriginal": "Oh",
@@ -724,33 +648,6 @@
       "imdbId": "tt40196240",
       "tmdbId": 1762928,
       "votos": 0
-    },
-    "HO00010111": {
-      "titulo": "Pin de fartie",
-      "tituloOriginal": "PIN DE FARTIE",
-      "director": "Alejo Moguillansky",
-      "pais": "Argentina",
-      "ano": 2025,
-      "duracion": 106,
-      "filmId": "HO00010111",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010111?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010111&cinemas=003",
-      "sinopsis": "Alejo Moguillansky Luciana Acuña, Alejo Moguillansky,Mariano Llinás. Maxi Prietto. Alejo Moguillansky, Mariano Llinás. Santiago Gobernori, CleoMoguillansky, Laura Paredes, MarcosFerrante, Luciana Acuña, Maxi Prietto,Laura López Moyano, Fernando Tur,Margarita Fernández, Alejo Moguillansky. Laura Citarella, Ezequiel Pierri El Pampero Cine. Transmutación Festival de Cine Contemporáneo. B.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "e2q-umyxsg4",
-      "trailers": [
-        "e2q-umyxsg4"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.3,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt37660507/",
-      "imdbId": "tt37660507",
-      "tmdbId": 1517070,
-      "votos": 28
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -791,34 +688,35 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189606
+      "votos": 189613
     },
-    "HO00009555": {
-      "titulo": "Tus dos muertos",
+    "HO00009256": {
+      "titulo": "Un futuro brillante",
       "tituloOriginal": null,
-      "director": "Daniel Castro Zimbrón",
-      "pais": "México",
+      "director": "Lucía Garibaldi",
+      "pais": "Uruguay-Alemania-Argentina",
       "ano": 2025,
-      "duracion": 102,
-      "filmId": "HO00009555",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009555?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009555&cinemas=003",
-      "sinopsis": "Cipriano Zuzunaga es un policía judicial que ha visto pasar sus mejores días y vive en una depresión que lo mantiene errante y atormentado, lo que lo ha orillado a perder contacto con la realidad. Cuando el hijo no reconocido de un famoso diputado es secuestrado, Zuzunaga es encomendado para realizar la investigación del caso y conducir una solitaria búsqueda que terminará por confrontarlo con su propio pasado. Este filme, basado en la novela homónima de Jorge Alberto Gudiño Hernández, explora la corrupción, la culpa y el pasado vertiginoso del protagonista, junto al planteamiento de una problemática común: el acceso a la justicia se ve condicionado por el estatus social y la posición económica.",
+      "duracion": 98,
+      "filmId": "HO00009256",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009256?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009256&cinemas=003",
+      "sinopsis": "En un Uruguay ficticio devastado por plagas, la única salvación es “El Norte”, una utopía exclusiva para los jóvenes más brillantes. Elisa es la última joven de su comunidad y es seleccionada para unirse a la utopía, convirtiéndose en el orgullo y la envidia de los adultos. Pero una nueva vecina, la hará cuestionar la perfección de ese supuesto paraíso. Un futuro brillante es una cinta con elementos de ciencia ficción latinoamericana que nos invita a desafiar al sistema y tomar el control de nuestro destino.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "uBb0r0WKLOg",
+      "trailer": "2-FI1TYFMdw",
       "trailers": [
-        "uBb0r0WKLOg"
+        "2-FI1TYFMdw",
+        "N9tpeR3zm-I"
       ],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
+      "publico": 7.4,
+      "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1365486,
-      "votos": 0
+      "urlImdb": "https://www.imdb.com/title/tt36591330/",
+      "imdbId": "tt36591330",
+      "tmdbId": 1397733,
+      "votos": 75
     },
     "HO00009933": {
       "titulo": "Cars 20 aniversario DOB",
@@ -871,7 +769,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 551067
+      "votos": 551089
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -950,34 +848,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 77
-    },
-    "HO00008162": {
-      "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
-      "tituloOriginal": "Jíkuri. Viaje al país de los tarahumaras",
-      "director": "Federico Cecchetti",
-      "pais": "México",
-      "ano": 2024,
-      "duracion": 94,
-      "filmId": "HO00008162",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008162?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008162&cinemas=001",
-      "sinopsis": "Federico Cecchetti Federico Cecchetti, Pierre Saint-Martin. Emiliano Motta. Omar Guzmán. François Négret, José Cruz Apachoachi, Esther González, Olivier Rabourdin, Sylvie Testud, Felipe Fuentes Chávez, Martín Makawi, Nicolas Sotnikoff. Edher Campos, Jana Diaz Juhl, Pau Brunet Machete. Mantícora Distribución. B.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "lTZ10Zhx_dk",
-      "trailers": [
-        "lTZ10Zhx_dk"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt7246476/",
-      "imdbId": "tt7246476",
-      "tmdbId": 671296,
-      "votos": 82
+      "votos": 79
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -1011,7 +882,32 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203710
+      "votos": 203720
+    },
+    "HO00010062": {
+      "titulo": "El camino",
+      "tituloOriginal": "COMPOSTELLE",
+      "director": "Yann Samuell",
+      "pais": "Francia",
+      "ano": 2026,
+      "duracion": 113,
+      "filmId": "HO00010062",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010062?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010062&cinemas=002",
+      "sinopsis": "Fred y Adam no se conocen. Ella es una mujer de 40 años que intenta reconciliarse con su pasado, y él un adolescente con problemas de abandono que intenta canalizar su ira. Por azares del destino, emprenden juntos el camino hacia Santiago de Compostela. Entre enfrentamientos y momentos de complicidad, a medida que avanzan, su vínculo se fortalece y el Camino se convierte para ambos en una oportunidad para empezar de nuevo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt39814688/",
+      "imdbId": "tt39814688",
+      "tmdbId": 1404604,
+      "votos": 380
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1107,7 +1003,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189606
+      "votos": 189613
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1137,33 +1033,6 @@
       "tmdbId": 1478001,
       "votos": 15
     },
-    "HO00010060": {
-      "titulo": "Solo una ilusión",
-      "tituloOriginal": "JUSTE UNE ILLUSION",
-      "director": "Eric Toledano",
-      "pais": "Olivier Nakache, Francia",
-      "ano": 2026,
-      "duracion": 119,
-      "filmId": "HO00010060",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010060?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010060&cinemas=002",
-      "sinopsis": "La historia se sitúa en 1985 en los suburbios de París. Vincent está a punto de cumplir 13 años y su vida transcurre entre su hermano mayor distante, sus padres en constante conflicto y sus amigos de la escuela. Mientras trata de entender por qué los adultos están tan perdidos, compartiremos sus dudas sobre la identidad cultural, la amistad, la familia, la religión y los primeros atisbos del amor. Una comedia tierna y luminosa sobre esa edad en la que la esperanza de cambiar el mundo no era \"sólo una ilusión\". Los directores de Amigos se sumergen en el pasado para contarnos una hermosa historia sobre el paso a la adultez con trasfondo de retrato familiar.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "vZtK0AdeXk8",
-      "trailers": [
-        "vZtK0AdeXk8"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt36842933/",
-      "imdbId": "tt36842933",
-      "tmdbId": 1404684,
-      "votos": 1836
-    },
     "HO00009851": {
       "titulo": "Sugar Island, La isla de azúcar",
       "tituloOriginal": "Sugar Island",
@@ -1192,112 +1061,6 @@
       "imdbId": "tt18301776",
       "tmdbId": 1318711,
       "votos": 79
-    },
-    "HO00009424": {
-      "titulo": "Kix: El rey de las calles",
-      "tituloOriginal": "Kix",
-      "director": "Dávid Mikulán y Bálint Révész",
-      "pais": "Hungría-Francia-Croacia",
-      "ano": 2024,
-      "duracion": 92,
-      "filmId": "HO00009424",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009424?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009424&cinemas=003",
-      "sinopsis": "Sanyi es un niño de ocho años, salvaje y enérgico, que recorre las calles de Budapest en su patineta. La ciudad es su patio de juegos, un refugio lejos del diminuto departamento de una sola habitación de su familia. Un día, por casualidad, conoce a los cineastas Dávid Révész y Bálint Mikulán, lo que da lugar a una larga amistad y a una película íntima, indómita y cautivadora. A lo largo de 12 años, Kix documenta la vida de Sanyi, marcada por las dificultades familiares, los problemas escolares y “travesuras” que tienen consecuencias cada vez más graves. Con un estilo de video punk y realismo crudo, Kix combina una rebeldía total con un compromiso social genuino, incluso cuando la historia da un giro trágico.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "AqxhXqHV3xk",
-      "trailers": [
-        "AqxhXqHV3xk",
-        "Mx0TnmEjqbE"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt32034405/",
-      "imdbId": "tt32034405",
-      "tmdbId": 1161396,
-      "votos": 1398
-    },
-    "HO00010130": {
-      "titulo": "Kongjui & Patchui",
-      "tituloOriginal": "콩쥐 팥쥐",
-      "director": "Gang Tae-ung",
-      "pais": "Corea del Sur",
-      "ano": 1977,
-      "duracion": 75,
-      "filmId": "HO00010130",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010130?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010130&cinemas=003",
-      "sinopsis": "Tras el segundo matrimonio de su padre, la joven Kongju comienza a vivir con una cruel madrastra y su hermanastra Patchui, quienes la maltratan. Para impedir que asista a una fiesta familiar, Kongju recibirá una serie de tareas imposibles que ponen a prueba su voluntad y determinación, valores importantes para la cultura popular del período Joseon. Basado en un cuento tradicional coreano, Kongjui & Patchui, es el único filme coreano en stop-motion previo al 2000, junto a Heungbu and Nolbu (1967).",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.5,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt9156916/",
-      "imdbId": "tt9156916",
-      "tmdbId": 534935,
-      "votos": 18
-    },
-    "HO00009256": {
-      "titulo": "Un futuro brillante",
-      "tituloOriginal": null,
-      "director": "Lucía Garibaldi",
-      "pais": "Uruguay-Alemania-Argentina",
-      "ano": 2025,
-      "duracion": 98,
-      "filmId": "HO00009256",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009256?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009256&cinemas=003",
-      "sinopsis": "En un Uruguay ficticio devastado por plagas, la única salvación es “El Norte”, una utopía exclusiva para los jóvenes más brillantes. Elisa es la última joven de su comunidad y es seleccionada para unirse a la utopía, convirtiéndose en el orgullo y la envidia de los adultos. Pero una nueva vecina, la hará cuestionar la perfección de ese supuesto paraíso. Un futuro brillante es una cinta con elementos de ciencia ficción latinoamericana que nos invita a desafiar al sistema y tomar el control de nuestro destino.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "2-FI1TYFMdw",
-      "trailers": [
-        "2-FI1TYFMdw",
-        "N9tpeR3zm-I"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.4,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt36591330/",
-      "imdbId": "tt36591330",
-      "tmdbId": 1397733,
-      "votos": 75
-    },
-    "HO00010062": {
-      "titulo": "El camino",
-      "tituloOriginal": "COMPOSTELLE",
-      "director": "Yann Samuell",
-      "pais": "Francia",
-      "ano": 2026,
-      "duracion": 113,
-      "filmId": "HO00010062",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010062?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010062&cinemas=002",
-      "sinopsis": "Fred y Adam no se conocen. Ella es una mujer de 40 años que intenta reconciliarse con su pasado, y él un adolescente con problemas de abandono que intenta canalizar su ira. Por azares del destino, emprenden juntos el camino hacia Santiago de Compostela. Entre enfrentamientos y momentos de complicidad, a medida que avanzan, su vínculo se fortalece y el Camino se convierte para ambos en una oportunidad para empezar de nuevo.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt39814688/",
-      "imdbId": "tt39814688",
-      "tmdbId": 1404604,
-      "votos": 379
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -1351,6 +1114,33 @@
       "tmdbId": 363293,
       "votos": 219
     },
+    "HO00009555": {
+      "titulo": "Tus dos muertos",
+      "tituloOriginal": null,
+      "director": "Daniel Castro Zimbrón",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 102,
+      "filmId": "HO00009555",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009555?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009555&cinemas=003",
+      "sinopsis": "Cipriano Zuzunaga es un policía judicial que ha visto pasar sus mejores días y vive en una depresión que lo mantiene errante y atormentado, lo que lo ha orillado a perder contacto con la realidad. Cuando el hijo no reconocido de un famoso diputado es secuestrado, Zuzunaga es encomendado para realizar la investigación del caso y conducir una solitaria búsqueda que terminará por confrontarlo con su propio pasado. Este filme, basado en la novela homónima de Jorge Alberto Gudiño Hernández, explora la corrupción, la culpa y el pasado vertiginoso del protagonista, junto al planteamiento de una problemática común: el acceso a la justicia se ve condicionado por el estatus social y la posición económica.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "uBb0r0WKLOg",
+      "trailers": [
+        "uBb0r0WKLOg"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1365486,
+      "votos": 0
+    },
     "HO00009758": {
       "titulo": "Animanimales",
       "tituloOriginal": "ANIMANIMALES",
@@ -1376,6 +1166,33 @@
       "tmdbId": null,
       "votos": null
     },
+    "HO00008162": {
+      "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
+      "tituloOriginal": "Jíkuri. Viaje al país de los tarahumaras",
+      "director": "Federico Cecchetti",
+      "pais": "México",
+      "ano": 2024,
+      "duracion": 94,
+      "filmId": "HO00008162",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008162?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008162&cinemas=001",
+      "sinopsis": "Federico Cecchetti Federico Cecchetti, Pierre Saint-Martin. Emiliano Motta. Omar Guzmán. François Négret, José Cruz Apachoachi, Esther González, Olivier Rabourdin, Sylvie Testud, Felipe Fuentes Chávez, Martín Makawi, Nicolas Sotnikoff. Edher Campos, Jana Diaz Juhl, Pau Brunet Machete. Mantícora Distribución. B.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "lTZ10Zhx_dk",
+      "trailers": [
+        "lTZ10Zhx_dk"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt7246476/",
+      "imdbId": "tt7246476",
+      "tmdbId": 671296,
+      "votos": 82
+    },
     "HO00010063": {
       "titulo": "Me encontraste",
       "tituloOriginal": "L’ÂME IDÉALE",
@@ -1399,7 +1216,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35526093/",
       "imdbId": "tt35526093",
       "tmdbId": 1166170,
-      "votos": 734
+      "votos": 737
     },
     "HO00010071": {
       "titulo": "Patti Smith: Dream of life",
@@ -1450,485 +1267,34 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00008094": {
+      "titulo": "Borrasca en las almas",
+      "tituloOriginal": null,
+      "director": "Ismael Rodríguez",
+      "pais": "México",
+      "ano": 1954,
+      "duracion": 104,
+      "filmId": "HO00008094",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008094?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008094&cinemas=003",
+      "sinopsis": "Martha está casada con Pablo, un maestro de escuela que bebe mucho. Alicia, hermana gemela de Martha, y que fue una mujer prostituida, tuvo relaciones con Pablo cuando su hermana y él todavía eran novios. Rogelio está enamorado de Martha y por casualidad Alicia lo aloja en su casa. Allí, él la corteja y le propone matrimonio, pero luego se entera de su pasado y rompe con ella.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.1,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0249408/",
+      "imdbId": "tt0249408",
+      "tmdbId": 363515,
+      "votos": 23
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010091",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "15:00",
-        "17:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010107",
-      "sala": "Sala 9",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010125",
-      "sala": "Sala 4",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:45",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009934",
-      "sala": "Sala 10",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010078",
-      "sala": "Sala 10",
-      "horarios": [
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009562",
-      "sala": "Sala 7",
-      "horarios": [
-        "16:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010129",
-      "sala": "Sala 8",
-      "horarios": [
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009929",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:00",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009278",
-      "sala": "Sala 2",
-      "horarios": [
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010108",
-      "sala": "Sala 9",
-      "horarios": [
-        "20:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009787",
-      "sala": "Sala 8",
-      "horarios": [
-        "17:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009790",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009763",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00008486",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010065",
-      "sala": "Sala 3",
-      "horarios": [
-        "16:00",
-        "18:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009426",
-      "sala": "Sala 8",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010102",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009847",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010111",
-      "sala": "Sala 9",
-      "horarios": [
-        "18:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009555",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:00",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009933",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:30",
-        "15:50",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009936",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:00",
-        "17:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010075",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:15",
-        "16:50",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010078",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:50",
-        "16:15",
-        "18:50"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009875",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:45",
-        "16:00",
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010076",
-      "sala": "Sala 1",
-      "horarios": [
-        "14:00",
-        "16:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00008162",
-      "sala": "Sala 6",
-      "horarios": [
-        "15:00",
-        "19:10"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009278",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:15",
-        "16:20",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:40",
-        "15:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "17:40",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009933",
-      "sala": "Sala 7",
-      "horarios": [
-        "15:00",
-        "17:40",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009936",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:10",
-        "15:15",
-        "17:20",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010075",
-      "sala": "Sala 12",
-      "horarios": [
-        "14:00",
-        "17:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009562",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:10",
-        "16:20",
-        "18:30",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009935",
-      "sala": "Sala 5",
-      "horarios": [
-        "15:20",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009850",
-      "sala": "Sala 9",
-      "horarios": [
-        "13:30",
-        "15:40",
-        "17:50",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010065",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:40",
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009426",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:50",
-        "16:00",
-        "18:10",
-        "20:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009931",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:20",
-        "16:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009958",
-      "sala": "Sala 6",
-      "horarios": [
-        "18:40",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009932",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:20",
-        "17:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00010060",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:00",
-        "15:30",
-        "18:00",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-06",
-      "pelicula": "HO00009851",
-      "sala": "Sala 11",
-      "horarios": [
-        "14:40",
-        "16:50",
-        "18:50",
-        "20:50"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-10-07",
@@ -2820,6 +2186,15 @@
       "sala": "Sala 5",
       "horarios": [
         "17:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-13",
+      "pelicula": "HO00008094",
+      "sala": "Sala 4",
+      "horarios": [
+        "18:00"
       ]
     }
   ]
