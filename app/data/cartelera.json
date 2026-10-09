@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-09T14:20:47.910Z",
+  "generadoEn": "2026-10-09T19:34:39.775Z",
   "hoy": "2026-10-09",
   "sedes": [
     {
@@ -1048,31 +1048,6 @@
       "tmdbId": 24238,
       "votos": 203757
     },
-    "HO00010097": {
-      "titulo": "Pendiente",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010097",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010097?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010097&cinemas=001",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1669148,
-      "votos": 0
-    },
     "HO00006972": {
       "titulo": "Amor a la vuelta de la esquina",
       "tituloOriginal": null,
@@ -1530,6 +1505,31 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00010097": {
+      "titulo": "Pendiente",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010097",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010097?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010097&cinemas=001",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1669148,
+      "votos": 0
     }
   },
   "funciones": [
@@ -1868,21 +1868,13 @@
     {
       "sede": "001",
       "fecha": "2026-10-09",
-      "pelicula": "HO00010097",
-      "sala": "Sala 2",
-      "horarios": [
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-09",
       "pelicula": "HO00010096",
       "sala": "Sala 2",
       "horarios": [
         "13:00",
-        "15:00"
+        "15:00",
+        "17:00",
+        "19:00"
       ]
     },
     {
@@ -1979,15 +1971,6 @@
         "15:30",
         "18:00",
         "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-09",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "13:00"
       ]
     },
     {
@@ -2396,21 +2379,13 @@
     {
       "sede": "001",
       "fecha": "2026-10-10",
-      "pelicula": "HO00010097",
-      "sala": "Sala 2",
-      "horarios": [
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
       "pelicula": "HO00010096",
       "sala": "Sala 2",
       "horarios": [
         "13:00",
-        "15:00"
+        "15:00",
+        "17:00",
+        "19:00"
       ]
     },
     {
@@ -2943,21 +2918,13 @@
     {
       "sede": "001",
       "fecha": "2026-10-11",
-      "pelicula": "HO00010097",
-      "sala": "Sala 2",
-      "horarios": [
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-11",
       "pelicula": "HO00010096",
       "sala": "Sala 2",
       "horarios": [
         "13:00",
-        "15:00"
+        "15:00",
+        "17:00",
+        "19:00"
       ]
     },
     {
@@ -3463,21 +3430,13 @@
     {
       "sede": "001",
       "fecha": "2026-10-12",
-      "pelicula": "HO00010097",
-      "sala": "Sala 2",
-      "horarios": [
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-12",
       "pelicula": "HO00010096",
       "sala": "Sala 2",
       "horarios": [
         "13:00",
-        "15:00"
+        "15:00",
+        "17:00",
+        "19:00"
       ]
     },
     {
@@ -3942,21 +3901,13 @@
     {
       "sede": "001",
       "fecha": "2026-10-13",
-      "pelicula": "HO00010097",
-      "sala": "Sala 2",
-      "horarios": [
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
       "pelicula": "HO00010096",
       "sala": "Sala 2",
       "horarios": [
         "13:00",
-        "15:00"
+        "15:00",
+        "17:00",
+        "19:00"
       ]
     },
     {
@@ -4411,21 +4362,13 @@
     {
       "sede": "001",
       "fecha": "2026-10-14",
-      "pelicula": "HO00010097",
-      "sala": "Sala 2",
-      "horarios": [
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-14",
       "pelicula": "HO00010096",
       "sala": "Sala 2",
       "horarios": [
         "13:00",
-        "15:00"
+        "15:00",
+        "17:00",
+        "19:00"
       ]
     },
     {
@@ -4902,21 +4845,13 @@
     {
       "sede": "001",
       "fecha": "2026-10-15",
-      "pelicula": "HO00010097",
-      "sala": "Sala 2",
-      "horarios": [
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-15",
       "pelicula": "HO00010096",
       "sala": "Sala 2",
       "horarios": [
         "13:00",
-        "15:00"
+        "15:00",
+        "17:00",
+        "19:00"
       ]
     },
     {
@@ -5081,6 +5016,25 @@
         "16:10",
         "18:10",
         "20:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-10-09",
+      "pelicula": "HO00010097",
+      "sala": "Sala 2",
+      "horarios": [
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-09",
+      "pelicula": "HO00009939",
+      "sala": "Sala 10",
+      "horarios": [
+        "13:00"
       ]
     }
   ]
