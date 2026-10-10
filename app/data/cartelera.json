@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-10T13:36:02.174Z",
+  "generadoEn": "2026-10-10T18:41:31.741Z",
   "hoy": "2026-10-10",
   "sedes": [
     {
@@ -55,31 +55,6 @@
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
       "votos": 246
-    },
-    "HO00010154": {
-      "titulo": "Charla Tin Tan: El Rey del Spanglish",
-      "tituloOriginal": "Charla Tin Tan El Rey del Spanglish",
-      "director": "Ilan Stavans",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 120,
-      "filmId": "HO00010154",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010154?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010154&cinemas=003",
-      "sinopsis": "Ilan Stavans, profesor del Amherst College sobre el tema Tin Tan: el rey del spanglish. El doctor Stavans tiene como uno de sus intereses principales el estudio de la lengua y la cultura. En lo que tiene que ver con el cine, ha publicado ensayos sobre Cantinflas y, especialmente, sobre Tin Tan.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
     },
     "HO00009956": {
       "titulo": "Coyote Vs Acme SUB",
@@ -1456,6 +1431,31 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00010154": {
+      "titulo": "Charla Tin Tan: El Rey del Spanglish",
+      "tituloOriginal": "Charla Tin Tan El Rey del Spanglish",
+      "director": "Ilan Stavans",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 120,
+      "filmId": "HO00010154",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010154?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010154&cinemas=003",
+      "sinopsis": "Ilan Stavans, profesor del Amherst College sobre el tema Tin Tan: el rey del spanglish. El doctor Stavans tiene como uno de sus intereses principales el estudio de la lengua y la cultura. En lo que tiene que ver con el cine, ha publicado ensayos sobre Cantinflas y, especialmente, sobre Tin Tan.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     }
   },
   "funciones": [
@@ -1467,15 +1467,6 @@
       "horarios": [
         "14:00",
         "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010154",
-      "sala": "Sala 4",
-      "horarios": [
-        "12:00"
       ]
     },
     {
@@ -4443,6 +4434,15 @@
       "sala": "Sala 5",
       "horarios": [
         "17:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-10",
+      "pelicula": "HO00010154",
+      "sala": "Sala 4",
+      "horarios": [
+        "12:00"
       ]
     }
   ]
