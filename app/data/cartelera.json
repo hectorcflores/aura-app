@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-10-10T18:41:31.741Z",
-  "hoy": "2026-10-10",
+  "generadoEn": "2026-10-11T13:58:46.216Z",
+  "hoy": "2026-10-11",
   "sedes": [
     {
       "id": "003",
@@ -19,7 +19,6 @@
     }
   ],
   "fechas": [
-    "2026-10-10",
     "2026-10-11",
     "2026-10-12",
     "2026-10-13",
@@ -54,7 +53,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 246
+      "votos": 251
     },
     "HO00009956": {
       "titulo": "Coyote Vs Acme SUB",
@@ -94,7 +93,7 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.4,
+      "publico": 7.3,
       "publicoFuente": "IMDb",
       "resenas": [
         {
@@ -116,7 +115,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 40727
+      "votos": 41508
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -252,7 +251,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 25020
+      "votos": 27082
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -297,7 +296,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125333
+      "votos": 125345
     },
     "HO00010094": {
       "titulo": "El árbol mágico",
@@ -341,7 +340,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6192
+      "votos": 6213
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -363,13 +362,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.8,
+      "publico": 7,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt36047799/",
       "imdbId": "tt36047799",
       "tmdbId": 1303398,
-      "votos": 19
+      "votos": 20
     },
     "HO00009562": {
       "titulo": "Gracias por operar con nuestro banco",
@@ -451,7 +450,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32034405/",
       "imdbId": "tt32034405",
       "tmdbId": 1161396,
-      "votos": 1401
+      "votos": 1402
     },
     "HO00009929": {
       "titulo": "La bachata del biónico",
@@ -506,7 +505,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2099
+      "votos": 2100
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -584,25 +583,19 @@
       "trailer": "KwSBhtlchD0",
       "trailers": [
         "KwSBhtlchD0",
-        "yCfa1uLuJTw",
-        "obY98vk76Hs"
+        "Fm0mvwiP3Xw",
+        "bnXjXea3_IU"
       ],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.9,
+      "publico": 6.2,
       "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Grand, sweeping epics with stories spanning many years (if not decades) have long been a staple of the movie industry, typically capturing numerous awards and big box office tallies, even…",
-          "autor": "Brent Marchant",
-          "url": "https://www.themoviedb.org/review/69573faef81a932fd2cbd1f5"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt29344894/",
-      "imdbId": "tt29344894",
-      "tmdbId": 1219620,
-      "votos": 3092
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt25813918/",
+      "imdbId": "tt25813918",
+      "tmdbId": 1084695,
+      "votos": 202
     },
     "HO00008486": {
       "titulo": "Los sueños que compartimos",
@@ -664,7 +657,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203773
+      "votos": 203784
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -762,7 +755,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189682
+      "votos": 189715
     },
     "HO00010096": {
       "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
@@ -805,7 +798,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 1210
+      "votos": 1263
     },
     "HO00009555": {
       "titulo": "Tus dos muertos",
@@ -886,6 +879,33 @@
       "tmdbId": 1199946,
       "votos": 77
     },
+    "HO00010061": {
+      "titulo": "El desconocido del gran arco",
+      "tituloOriginal": "L'INCONNU DE LA GRANDE ARCHE",
+      "director": "Stéphane Demoustier",
+      "pais": "Francia",
+      "ano": 2025,
+      "duracion": 104,
+      "filmId": "HO00010061",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010061?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010061&cinemas=001",
+      "sinopsis": "En 1983, François Mitterrand convocó el mayor concurso de arquitectura de la historia. Su objetivo: erigir un nuevo monumento en París y convertirlo en la insignia de su mandato presidencial. Para sorpresa de todos, el ganador fue un absoluto desconocido: Johan Otto von Spreckelsen, un profesor de arquitectura de Copenhague quien se convirtió en el centro de todas las miradas. El filme parte de la psicología del protagonista y las adversidades que enfrenta su proyecto para hablar de temas complejos como la ética profesional y el enfrentamiento entre idealismo y poder político.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "FhtqB5aq1t8",
+      "trailers": [
+        "FhtqB5aq1t8"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt32398150/",
+      "imdbId": "tt32398150",
+      "tmdbId": 1290424,
+      "votos": 2361
+    },
     "HO00009875": {
       "titulo": "El violín",
       "tituloOriginal": null,
@@ -957,13 +977,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.7,
+      "publico": 7.6,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt7246476/",
       "imdbId": "tt7246476",
       "tmdbId": 671296,
-      "votos": 82
+      "votos": 83
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -997,34 +1017,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203773
-    },
-    "HO00010060": {
-      "titulo": "Solo una ilusión",
-      "tituloOriginal": "JUSTE UNE ILLUSION",
-      "director": "Eric Toledano",
-      "pais": "Olivier Nakache, Francia",
-      "ano": 2026,
-      "duracion": 119,
-      "filmId": "HO00010060",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010060?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010060&cinemas=001",
-      "sinopsis": "La historia se sitúa en 1985 en los suburbios de París. Vincent está a punto de cumplir 13 años y su vida transcurre entre su hermano mayor distante, sus padres en constante conflicto y sus amigos de la escuela. Mientras trata de entender por qué los adultos están tan perdidos, compartiremos sus dudas sobre la identidad cultural, la amistad, la familia, la religión y los primeros atisbos del amor. Una comedia tierna y luminosa sobre esa edad en la que la esperanza de cambiar el mundo no era \"sólo una ilusión\". Los directores de Amigos se sumergen en el pasado para contarnos una hermosa historia sobre el paso a la adultez con trasfondo de retrato familiar.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "vZtK0AdeXk8",
-      "trailers": [
-        "vZtK0AdeXk8"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt36842933/",
-      "imdbId": "tt36842933",
-      "tmdbId": 1404684,
-      "votos": 1876
+      "votos": 203784
     },
     "HO00009933": {
       "titulo": "Cars 20 aniversario DOB",
@@ -1077,7 +1070,34 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 551372
+      "votos": 551455
+    },
+    "HO00010064": {
+      "titulo": "El crimen del 3er piso",
+      "tituloOriginal": "LE CRIME DU 3e ÉTAGE",
+      "director": "Rémi Bezançon",
+      "pais": "Francia",
+      "ano": 2026,
+      "duracion": 104,
+      "filmId": "HO00010064",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010064?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010064&cinemas=002",
+      "sinopsis": "Colette, una profesora universitaria especialista en la obra de Alfred Hitchcock, sospecha que su vecino ha cometido un asesinato. Su esposo François, un escritor de novelas policíacas, al principio duda de su teoría, pero termina por dejarse llevar por la disparatada investigación de Colette. A medida que se acumulan las pistas y el misterio crece, la pareja se convierte en un inesperado dúo de detectives para descifrar si realmente ocurrió un crimen en el 3er piso. Un thriller ligero y magistralmente elaborado que sirve como homenaje al Maestro del Suspenso.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "w5W9KtBWeVc",
+      "trailers": [
+        "w5W9KtBWeVc"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.2,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt38814447/",
+      "imdbId": "tt38814447",
+      "tmdbId": 1471224,
+      "votos": 1060
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1170,7 +1190,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189682
+      "votos": 189715
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1192,67 +1212,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.7,
+      "publico": 7.6,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt27672943/",
       "imdbId": "tt27672943",
       "tmdbId": 1478001,
-      "votos": 15
-    },
-    "HO00010061": {
-      "titulo": "El desconocido del gran arco",
-      "tituloOriginal": "L'INCONNU DE LA GRANDE ARCHE",
-      "director": "Stéphane Demoustier",
-      "pais": "Francia",
-      "ano": 2025,
-      "duracion": 104,
-      "filmId": "HO00010061",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010061?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010061&cinemas=001",
-      "sinopsis": "En 1983, François Mitterrand convocó el mayor concurso de arquitectura de la historia. Su objetivo: erigir un nuevo monumento en París y convertirlo en la insignia de su mandato presidencial. Para sorpresa de todos, el ganador fue un absoluto desconocido: Johan Otto von Spreckelsen, un profesor de arquitectura de Copenhague quien se convirtió en el centro de todas las miradas. El filme parte de la psicología del protagonista y las adversidades que enfrenta su proyecto para hablar de temas complejos como la ética profesional y el enfrentamiento entre idealismo y poder político.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "FhtqB5aq1t8",
-      "trailers": [
-        "FhtqB5aq1t8"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt32398150/",
-      "imdbId": "tt32398150",
-      "tmdbId": 1290424,
-      "votos": 2357
-    },
-    "HO00010064": {
-      "titulo": "El crimen del 3er piso",
-      "tituloOriginal": "LE CRIME DU 3e ÉTAGE",
-      "director": "Rémi Bezançon",
-      "pais": "Francia",
-      "ano": 2026,
-      "duracion": 104,
-      "filmId": "HO00010064",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010064?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010064&cinemas=002",
-      "sinopsis": "Colette, una profesora universitaria especialista en la obra de Alfred Hitchcock, sospecha que su vecino ha cometido un asesinato. Su esposo François, un escritor de novelas policíacas, al principio duda de su teoría, pero termina por dejarse llevar por la disparatada investigación de Colette. A medida que se acumulan las pistas y el misterio crece, la pareja se convierte en un inesperado dúo de detectives para descifrar si realmente ocurrió un crimen en el 3er piso. Un thriller ligero y magistralmente elaborado que sirve como homenaje al Maestro del Suspenso.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "w5W9KtBWeVc",
-      "trailers": [
-        "w5W9KtBWeVc"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.2,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt38814447/",
-      "imdbId": "tt38814447",
-      "tmdbId": 1471224,
-      "votos": 1054
+      "votos": 16
     },
     "HO00010212": {
       "titulo": "Presentación Editorial Programa Mensual Cineteca",
@@ -1302,7 +1268,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39814688/",
       "imdbId": "tt39814688",
       "tmdbId": 1404604,
-      "votos": 387
+      "votos": 389
     },
     "HO00008094": {
       "titulo": "Borrasca en las almas",
@@ -1355,7 +1321,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35495035/",
       "imdbId": "tt35495035",
       "tmdbId": 1376415,
-      "votos": 2015
+      "votos": 2022
     },
     "HO00010063": {
       "titulo": "Me encontraste",
@@ -1380,7 +1346,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35526093/",
       "imdbId": "tt35526093",
       "tmdbId": 1166170,
-      "votos": 745
+      "votos": 749
     },
     "HO00010155": {
       "titulo": "Charlas Minimalismo Estadounidense",
@@ -1431,561 +1397,9 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
-    },
-    "HO00010154": {
-      "titulo": "Charla Tin Tan: El Rey del Spanglish",
-      "tituloOriginal": "Charla Tin Tan El Rey del Spanglish",
-      "director": "Ilan Stavans",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 120,
-      "filmId": "HO00010154",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010154?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010154&cinemas=003",
-      "sinopsis": "Ilan Stavans, profesor del Amherst College sobre el tema Tin Tan: el rey del spanglish. El doctor Stavans tiene como uno de sus intereses principales el estudio de la lengua y la cultura. En lo que tiene que ver con el cine, ha publicado ensayos sobre Cantinflas y, especialmente, sobre Tin Tan.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010091",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:30",
-        "18:45",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00008666",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:30",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:45",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009934",
-      "sala": "Sala 4",
-      "horarios": [
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010094",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010078",
-      "sala": "Sala 9",
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009562",
-      "sala": "Sala 7",
-      "horarios": [
-        "16:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009792",
-      "sala": "Sala 8",
-      "horarios": [
-        "19:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009424",
-      "sala": "Sala 4",
-      "horarios": [
-        "16:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009929",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:30",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009278",
-      "sala": "Sala 10",
-      "horarios": [
-        "15:30",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009787",
-      "sala": "Sala 8",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009790",
-      "sala": "Sala 5",
-      "horarios": [
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009763",
-      "sala": "Sala 4",
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00008486",
-      "sala": "Sala 10",
-      "horarios": [
-        "18:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010065",
-      "sala": "Sala 3",
-      "horarios": [
-        "16:00",
-        "18:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009426",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:00",
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009847",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:00",
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010096",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009555",
-      "sala": "Sala 5",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009758",
-      "sala": null,
-      "horarios": [
-        "13:00",
-        "16:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009936",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:30",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010075",
-      "sala": "Sala 8",
-      "horarios": [
-        "12:00",
-        "14:30",
-        "17:00",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010094",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:30",
-        "15:50",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010078",
-      "sala": "Sala 1",
-      "horarios": [
-        "14:50",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009875",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:00",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010076",
-      "sala": "Sala 1",
-      "horarios": [
-        "12:20",
-        "17:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00008162",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009278",
-      "sala": "Sala 5",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "12:10",
-        "14:05",
-        "16:05"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "18:05",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010096",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010060",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:15",
-        "15:30",
-        "17:40",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009933",
-      "sala": "Sala 6",
-      "horarios": [
-        "11:40",
-        "14:10",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009936",
-      "sala": "Sala 8",
-      "horarios": [
-        "11:50",
-        "14:30",
-        "16:40",
-        "18:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010075",
-      "sala": "Sala 12",
-      "horarios": [
-        "11:30",
-        "14:50",
-        "17:30",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010094",
-      "sala": "Sala 2",
-      "horarios": [
-        "12:40",
-        "15:10",
-        "17:20",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009562",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:30",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009935",
-      "sala": "Sala 9",
-      "horarios": [
-        "12:10",
-        "14:20",
-        "16:50",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010095",
-      "sala": "Sala 4",
-      "horarios": [
-        "12:20",
-        "13:50",
-        "15:50",
-        "17:40",
-        "19:10",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "11:00",
-        "13:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010065",
-      "sala": "Sala 10",
-      "horarios": [
-        "15:00",
-        "17:00",
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009426",
-      "sala": "Sala 5",
-      "horarios": [
-        "11:20",
-        "13:30",
-        "15:20",
-        "17:10",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009931",
-      "sala": "Sala 3",
-      "horarios": [
-        "11:10",
-        "13:20",
-        "17:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009958",
-      "sala": "Sala 3",
-      "horarios": [
-        "15:40",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010096",
-      "sala": "Sala 7",
-      "horarios": [
-        "12:00",
-        "14:00",
-        "16:00",
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00009932",
-      "sala": "Sala 11",
-      "horarios": [
-        "11:10",
-        "13:40",
-        "16:10",
-        "18:10",
-        "20:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010060",
-      "sala": "Sala 1",
-      "horarios": [
-        "12:50",
-        "15:30",
-        "18:00",
-        "20:30"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-10-11",
@@ -4434,15 +3848,6 @@
       "sala": "Sala 5",
       "horarios": [
         "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-10",
-      "pelicula": "HO00010154",
-      "sala": "Sala 4",
-      "horarios": [
-        "12:00"
       ]
     }
   ]
