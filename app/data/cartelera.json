@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-12T16:41:57.201Z",
+  "generadoEn": "2026-10-12T22:10:16.693Z",
   "hoy": "2026-10-12",
   "sedes": [
     {
@@ -301,50 +301,6 @@
       "tmdbId": 38810,
       "votos": 125367
     },
-    "HO00010094": {
-      "titulo": "El árbol mágico",
-      "tituloOriginal": "The Magic Faraway Tree",
-      "director": "Ben Gregor",
-      "pais": "Reino Unido",
-      "ano": 2026,
-      "duracion": 110,
-      "filmId": "HO00010094",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010094?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010094&cinemas=003",
-      "sinopsis": "Basada en una popular saga de novelas infantiles, El árbol mágico sigue a los Thompson, una familia que decide dejar la ciudad para mudarse a una antigua cabaña en medio del bosque. Fran, la hija menor descubre que en ese lugar habita la magia. Al devolverle su bolso a Silky, una simpática hada, ella la invita a conocer un gigantesco árbol donde viven excéntricos personajes y se encuentra una escalera que dirige a distintos mundos fantásticos. Maravillada, convence a sus hermanos y juntos descubren que haberse mudado fue lo mejor que les pasó.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "qsrMA7Eovaw",
-      "trailers": [
-        "qsrMA7Eovaw",
-        "bxWxrEsdWqQ",
-        "3vvek1-qIvo",
-        "JwFY341uTpE",
-        "PneOcY86ww0",
-        "ujP6Z8Oour4",
-        "xKHdnMOWerQ",
-        "wSaCp5UTGl8",
-        "b9qyzVCW9sc",
-        "v2V3C08O6Iw",
-        "PAUEwUhAjzg",
-        "cTKFa2dAiuA"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.2,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "We used to have loads of this author’s books at home when we were kids, and I always thought her signature on the cover said Gnid, rather than Enid.",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/69cd60424b95c1bc46b6a3ef"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt7734244/",
-      "imdbId": "tt7734244",
-      "tmdbId": 1140521,
-      "votos": 6238
-    },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
       "tituloOriginal": "L’évangile de la révolution",
@@ -426,34 +382,6 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
-    },
-    "HO00009424": {
-      "titulo": "Kix: El rey de las calles",
-      "tituloOriginal": "Kix",
-      "director": "Dávid Mikulán y Bálint Révész",
-      "pais": "Hungría-Francia-Croacia",
-      "ano": 2024,
-      "duracion": 92,
-      "filmId": "HO00009424",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009424?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009424&cinemas=003",
-      "sinopsis": "Sanyi es un niño de ocho años, salvaje y enérgico, que recorre las calles de Budapest en su patineta. La ciudad es su patio de juegos, un refugio lejos del diminuto departamento de una sola habitación de su familia. Un día, por casualidad, conoce a los cineastas Dávid Révész y Bálint Mikulán, lo que da lugar a una larga amistad y a una película íntima, indómita y cautivadora. A lo largo de 12 años, Kix documenta la vida de Sanyi, marcada por las dificultades familiares, los problemas escolares y “travesuras” que tienen consecuencias cada vez más graves. Con un estilo de video punk y realismo crudo, Kix combina una rebeldía total con un compromiso social genuino, incluso cuando la historia da un giro trágico.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "AqxhXqHV3xk",
-      "trailers": [
-        "AqxhXqHV3xk",
-        "Mx0TnmEjqbE"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt32034405/",
-      "imdbId": "tt32034405",
-      "tmdbId": 1161396,
-      "votos": 1402
     },
     "HO00009929": {
       "titulo": "La bachata del biónico",
@@ -633,104 +561,6 @@
       "tmdbId": 24238,
       "votos": 203801
     },
-    "HO00009426": {
-      "titulo": "Memorias de un cuerpo que arde",
-      "tituloOriginal": null,
-      "director": "Antonella Sudasassi Furniss",
-      "pais": "Costa Rica-España",
-      "ano": 2024,
-      "duracion": 90,
-      "filmId": "HO00009426",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009426?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009426&cinemas=003",
-      "sinopsis": "Ana, Patricia y Mayela deciden que la vida no es sólo un archivo de recuerdos y emprenden un viaje a través de sus memorias para contar su historia, sus secretos, sus deseos, sus anhelos. En un acto de valentía íntima, desafían las expectativas sociales y se embarcan en una travesía personal para reclamar su libertad, su cuerpo y su derecho a sentir y gozar, demostrando que el deseo no tiene fecha de caducidad. La directora Antonella Sudasassi desarrolla una obra que mezcla testimonios reales y una puesta en escena guionizada, creando un diálogo colectivo que nos invita a reflexionar el camino que recorrieron nuestras ancestras para que hoy en día nuestra vida sea distinta y mejor a la de ellas.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "hMHksjYg-fE",
-      "trailers": [
-        "hMHksjYg-fE",
-        "aQ-lPTs6D2M",
-        "zu7ao_BOeM8",
-        "yhZw0zIfGXg",
-        "pLGHsORPIU4",
-        "Zsv4jNZsWGw"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.4,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt15716284/",
-      "imdbId": "tt15716284",
-      "tmdbId": 1232350,
-      "votos": 522
-    },
-    "HO00009847": {
-      "titulo": "Oh, fortuna",
-      "tituloOriginal": "Oh",
-      "director": "Luis Ayhllón",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 95,
-      "filmId": "HO00009847",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009847?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009847&cinemas=003",
-      "sinopsis": "Luis Ayhllón. Luis Ayhllón.. Sergio Matamoros Color Carlo Ayhllón. Luis Ayhllón. Roberto Bolado. Alexis Briseño Jaramillo Alejandrina García Zavala Carlos Abraham Gongo Margareth Linares Emmanuel Pavía Ernesto Rocha Priscila Rosado Francisco Aurelio Sánchez Marya Sotelo David Zambrano Diego Alonso Sergio Biviano Mario Loría María Elena Olivares Joe Behrens Sergio Biviano Sebastián Cobos Francisco Medina Fran Lozano Aarón Mendoza Daniela Semiramis. Teresa García Hernández, Entraña Teatro.. Luis Ayhllón. B15.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt40196240/",
-      "imdbId": "tt40196240",
-      "tmdbId": 1762928,
-      "votos": 0
-    },
-    "HO00009931": {
-      "titulo": "Ponyo y el secreto de la sirenita DOB",
-      "tituloOriginal": "Gake no Ue no Ponyo",
-      "director": "Hayao Miyazaki",
-      "pais": "Japón",
-      "ano": 2008,
-      "duracion": 103,
-      "filmId": "HO00009931",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009931?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009931&cinemas=003",
-      "sinopsis": "Este filme sigue a Ponyo, una pequeña sirena dorada que emprende una excursión prohibida y escapa de su hogar submarino. En el mundo de la superficie conoce a Sosuke, un niño que la rescata y la cuida. Al enterarse, el padre de Ponyo la regresa al reino del océano, pero el deseo de ella por volverse humana es tan poderoso que logra liberarse, provocando un desequilibrio que pone en peligro a la aldea de Sosuke. Hayao Miyazaki crea una mágica historia sobre la amistad, el amor y la fuerza de los sueños.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "4YpxyQit8fk",
-      "trailers": [
-        "4YpxyQit8fk",
-        "89LbtkHG0c4",
-        "T7FLp3mdyhY",
-        "h6XP82TyFWw",
-        "HvddJqBYrc8",
-        "nMHwfrdZDVQ",
-        "aYYmKmdCNsQ",
-        "CsR3KVgBzSM",
-        "pfGDfDjAdSE"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.6,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "The animation and score is some of Ghibli’s best. The story is definitely simpler than most Ghibli movies, but that’s fine. Not all Ghibli movies need to be super deep and complex.",
-          "autor": "Jstewart2007",
-          "url": "https://www.themoviedb.org/review/69682218cb8deebf44e863f4"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0876563/",
-      "imdbId": "tt0876563",
-      "tmdbId": 12429,
-      "votos": 189765
-    },
     "HO00010212": {
       "titulo": "Presentación Editorial Programa Mensual Cineteca",
       "tituloOriginal": "PRESENTACIÓN EDITORIAL NUEVO PROGRAMA MENSUAL DE CINETECA NACIONAL",
@@ -853,6 +683,50 @@
       "tmdbId": 1199946,
       "votos": 77
     },
+    "HO00010094": {
+      "titulo": "El árbol mágico",
+      "tituloOriginal": "The Magic Faraway Tree",
+      "director": "Ben Gregor",
+      "pais": "Reino Unido",
+      "ano": 2026,
+      "duracion": 110,
+      "filmId": "HO00010094",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010094?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010094&cinemas=001",
+      "sinopsis": "Basada en una popular saga de novelas infantiles, El árbol mágico sigue a los Thompson, una familia que decide dejar la ciudad para mudarse a una antigua cabaña en medio del bosque. Fran, la hija menor descubre que en ese lugar habita la magia. Al devolverle su bolso a Silky, una simpática hada, ella la invita a conocer un gigantesco árbol donde viven excéntricos personajes y se encuentra una escalera que dirige a distintos mundos fantásticos. Maravillada, convence a sus hermanos y juntos descubren que haberse mudado fue lo mejor que les pasó.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "qsrMA7Eovaw",
+      "trailers": [
+        "qsrMA7Eovaw",
+        "bxWxrEsdWqQ",
+        "3vvek1-qIvo",
+        "JwFY341uTpE",
+        "PneOcY86ww0",
+        "ujP6Z8Oour4",
+        "xKHdnMOWerQ",
+        "wSaCp5UTGl8",
+        "b9qyzVCW9sc",
+        "v2V3C08O6Iw",
+        "PAUEwUhAjzg",
+        "cTKFa2dAiuA"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.2,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "We used to have loads of this author’s books at home when we were kids, and I always thought her signature on the cover said Gnid, rather than Enid.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/69cd60424b95c1bc46b6a3ef"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt7734244/",
+      "imdbId": "tt7734244",
+      "tmdbId": 1140521,
+      "votos": 6238
+    },
     "HO00010062": {
       "titulo": "El camino",
       "tituloOriginal": "COMPOSTELLE",
@@ -957,40 +831,6 @@
       "tmdbId": 671296,
       "votos": 84
     },
-    "HO00009939": {
-      "titulo": "Mary y Max DOB",
-      "tituloOriginal": "Mary and Max",
-      "director": "Adam Elliot",
-      "pais": "Australia",
-      "ano": 2009,
-      "duracion": 92,
-      "filmId": "HO00009939",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009939?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009939&cinemas=001",
-      "sinopsis": "Después de 15 años, la aclamada ópera prima en stop motion de Adam Elliot (recientemente reconocido por Memorias de un caracol) por fin se estrena en salas mexicanas. La película narra la vida y relación de dos amigos por correspondencia muy diferentes: Mary, una solitaria chica australiana, y Max, un hombre con síndrome de Asperger que vive en Nueva York. Con un estilo visual que abraza la imperfección y la textura rústica, la cinta aborda con ternura y humor negro temas como la amistad, el alcoholismo, la soledad y la ansiedad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "kc_bf-7NNEA",
-      "trailers": [
-        "kc_bf-7NNEA",
-        "kGATShQbydk"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Mary and Max- Am I sad or happy? Am I philosopher? It's hard to understand weird people. Oh, actually, I'm weird. It's hard to understand normal people.",
-          "autor": "Asa_movies",
-          "url": "https://www.themoviedb.org/review/58e246e0c3a36872de00d543"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0978762/",
-      "imdbId": "tt0978762",
-      "tmdbId": 24238,
-      "votos": 203801
-    },
     "HO00009933": {
       "titulo": "Cars 20 aniversario DOB",
       "tituloOriginal": "Cars",
@@ -1044,33 +884,6 @@
       "tmdbId": 920,
       "votos": 551577
     },
-    "HO00009935": {
-      "titulo": "Isleño",
-      "tituloOriginal": null,
-      "director": "César Talamantes",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 110,
-      "filmId": "HO00009935",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009935?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009935&cinemas=002",
-      "sinopsis": "Isleño explora las comunidades de El Pardito, Santa Margarita, San José, Santa Magdalena, Natividad y San Marcos, las únicas islas habitadas de Baja California Sur. Nos muestra a pescadores, ganaderos y familias locales que, pese al aislamiento y las limitaciones, han desarrollado un ecosistema donde las tradiciones han perdurado por generaciones. Con un enfoque visual cargado de planos fijos, el director César Talamantes indaga en la cotidianidad de estos lugares y cómo han tenido una transformación social.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "_FTaevo3j78",
-      "trailers": [
-        "_FTaevo3j78"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1338956,
-      "votos": 0
-    },
     "HO00010095": {
       "titulo": "Itsanaxa, la cosecha sagrada",
       "tituloOriginal": "Itsanaxa - La cosecha sagrada",
@@ -1095,6 +908,79 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00009426": {
+      "titulo": "Memorias de un cuerpo que arde",
+      "tituloOriginal": null,
+      "director": "Antonella Sudasassi Furniss",
+      "pais": "Costa Rica-España",
+      "ano": 2024,
+      "duracion": 90,
+      "filmId": "HO00009426",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009426?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009426&cinemas=002",
+      "sinopsis": "Ana, Patricia y Mayela deciden que la vida no es sólo un archivo de recuerdos y emprenden un viaje a través de sus memorias para contar su historia, sus secretos, sus deseos, sus anhelos. En un acto de valentía íntima, desafían las expectativas sociales y se embarcan en una travesía personal para reclamar su libertad, su cuerpo y su derecho a sentir y gozar, demostrando que el deseo no tiene fecha de caducidad. La directora Antonella Sudasassi desarrolla una obra que mezcla testimonios reales y una puesta en escena guionizada, creando un diálogo colectivo que nos invita a reflexionar el camino que recorrieron nuestras ancestras para que hoy en día nuestra vida sea distinta y mejor a la de ellas.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "hMHksjYg-fE",
+      "trailers": [
+        "hMHksjYg-fE",
+        "aQ-lPTs6D2M",
+        "zu7ao_BOeM8",
+        "yhZw0zIfGXg",
+        "pLGHsORPIU4",
+        "Zsv4jNZsWGw"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.4,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt15716284/",
+      "imdbId": "tt15716284",
+      "tmdbId": 1232350,
+      "votos": 522
+    },
+    "HO00009931": {
+      "titulo": "Ponyo y el secreto de la sirenita DOB",
+      "tituloOriginal": "Gake no Ue no Ponyo",
+      "director": "Hayao Miyazaki",
+      "pais": "Japón",
+      "ano": 2008,
+      "duracion": 103,
+      "filmId": "HO00009931",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009931?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009931&cinemas=002",
+      "sinopsis": "Este filme sigue a Ponyo, una pequeña sirena dorada que emprende una excursión prohibida y escapa de su hogar submarino. En el mundo de la superficie conoce a Sosuke, un niño que la rescata y la cuida. Al enterarse, el padre de Ponyo la regresa al reino del océano, pero el deseo de ella por volverse humana es tan poderoso que logra liberarse, provocando un desequilibrio que pone en peligro a la aldea de Sosuke. Hayao Miyazaki crea una mágica historia sobre la amistad, el amor y la fuerza de los sueños.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "4YpxyQit8fk",
+      "trailers": [
+        "4YpxyQit8fk",
+        "89LbtkHG0c4",
+        "T7FLp3mdyhY",
+        "h6XP82TyFWw",
+        "HvddJqBYrc8",
+        "nMHwfrdZDVQ",
+        "aYYmKmdCNsQ",
+        "CsR3KVgBzSM",
+        "pfGDfDjAdSE"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.6,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "The animation and score is some of Ghibli’s best. The story is definitely simpler than most Ghibli movies, but that’s fine. Not all Ghibli movies need to be super deep and complex.",
+          "autor": "Jstewart2007",
+          "url": "https://www.themoviedb.org/review/69682218cb8deebf44e863f4"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0876563/",
+      "imdbId": "tt0876563",
+      "tmdbId": 12429,
+      "votos": 189765
     },
     "HO00009958": {
       "titulo": "Ponyo y el secreto de la sirenita SUB",
@@ -1190,6 +1076,59 @@
       "tmdbId": 363515,
       "votos": 23
     },
+    "HO00009424": {
+      "titulo": "Kix: El rey de las calles",
+      "tituloOriginal": "Kix",
+      "director": "Dávid Mikulán y Bálint Révész",
+      "pais": "Hungría-Francia-Croacia",
+      "ano": 2024,
+      "duracion": 92,
+      "filmId": "HO00009424",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009424?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009424&cinemas=003",
+      "sinopsis": "Sanyi es un niño de ocho años, salvaje y enérgico, que recorre las calles de Budapest en su patineta. La ciudad es su patio de juegos, un refugio lejos del diminuto departamento de una sola habitación de su familia. Un día, por casualidad, conoce a los cineastas Dávid Révész y Bálint Mikulán, lo que da lugar a una larga amistad y a una película íntima, indómita y cautivadora. A lo largo de 12 años, Kix documenta la vida de Sanyi, marcada por las dificultades familiares, los problemas escolares y “travesuras” que tienen consecuencias cada vez más graves. Con un estilo de video punk y realismo crudo, Kix combina una rebeldía total con un compromiso social genuino, incluso cuando la historia da un giro trágico.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "AqxhXqHV3xk",
+      "trailers": [
+        "AqxhXqHV3xk",
+        "Mx0TnmEjqbE"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt32034405/",
+      "imdbId": "tt32034405",
+      "tmdbId": 1161396,
+      "votos": 1402
+    },
+    "HO00009847": {
+      "titulo": "Oh, fortuna",
+      "tituloOriginal": "Oh",
+      "director": "Luis Ayhllón",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 95,
+      "filmId": "HO00009847",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009847?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009847&cinemas=003",
+      "sinopsis": "Luis Ayhllón. Luis Ayhllón.. Sergio Matamoros Color Carlo Ayhllón. Luis Ayhllón. Roberto Bolado. Alexis Briseño Jaramillo Alejandrina García Zavala Carlos Abraham Gongo Margareth Linares Emmanuel Pavía Ernesto Rocha Priscila Rosado Francisco Aurelio Sánchez Marya Sotelo David Zambrano Diego Alonso Sergio Biviano Mario Loría María Elena Olivares Joe Behrens Sergio Biviano Sebastián Cobos Francisco Medina Fran Lozano Aarón Mendoza Daniela Semiramis. Teresa García Hernández, Entraña Teatro.. Luis Ayhllón. B15.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt40196240/",
+      "imdbId": "tt40196240",
+      "tmdbId": 1762928,
+      "votos": 0
+    },
     "HO00009960": {
       "titulo": "La copia perfecta",
       "tituloOriginal": "L’AFFAIRE BOJARSKI",
@@ -1217,6 +1156,67 @@
       "imdbId": "tt35495035",
       "tmdbId": 1376415,
       "votos": 2036
+    },
+    "HO00009939": {
+      "titulo": "Mary y Max DOB",
+      "tituloOriginal": "Mary and Max",
+      "director": "Adam Elliot",
+      "pais": "Australia",
+      "ano": 2009,
+      "duracion": 92,
+      "filmId": "HO00009939",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009939?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009939&cinemas=001",
+      "sinopsis": "Después de 15 años, la aclamada ópera prima en stop motion de Adam Elliot (recientemente reconocido por Memorias de un caracol) por fin se estrena en salas mexicanas. La película narra la vida y relación de dos amigos por correspondencia muy diferentes: Mary, una solitaria chica australiana, y Max, un hombre con síndrome de Asperger que vive en Nueva York. Con un estilo visual que abraza la imperfección y la textura rústica, la cinta aborda con ternura y humor negro temas como la amistad, el alcoholismo, la soledad y la ansiedad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "kc_bf-7NNEA",
+      "trailers": [
+        "kc_bf-7NNEA",
+        "kGATShQbydk"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Mary and Max- Am I sad or happy? Am I philosopher? It's hard to understand weird people. Oh, actually, I'm weird. It's hard to understand normal people.",
+          "autor": "Asa_movies",
+          "url": "https://www.themoviedb.org/review/58e246e0c3a36872de00d543"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0978762/",
+      "imdbId": "tt0978762",
+      "tmdbId": 24238,
+      "votos": 203801
+    },
+    "HO00009935": {
+      "titulo": "Isleño",
+      "tituloOriginal": null,
+      "director": "César Talamantes",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 110,
+      "filmId": "HO00009935",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009935?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009935&cinemas=002",
+      "sinopsis": "Isleño explora las comunidades de El Pardito, Santa Margarita, San José, Santa Magdalena, Natividad y San Marcos, las únicas islas habitadas de Baja California Sur. Nos muestra a pescadores, ganaderos y familias locales que, pese al aislamiento y las limitaciones, han desarrollado un ecosistema donde las tradiciones han perdurado por generaciones. Con un enfoque visual cargado de planos fijos, el director César Talamantes indaga en la cotidianidad de estos lugares y cómo han tenido una transformación social.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "_FTaevo3j78",
+      "trailers": [
+        "_FTaevo3j78"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1338956,
+      "votos": 0
     },
     "HO00009763": {
       "titulo": "Lo que queda de ti",
@@ -1429,15 +1429,6 @@
     {
       "sede": "003",
       "fecha": "2026-10-12",
-      "pelicula": "HO00010094",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-12",
       "pelicula": "HO00010078",
       "sala": "Sala 9",
       "horarios": [
@@ -1462,15 +1453,6 @@
       "sala": "Sala 8",
       "horarios": [
         "19:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-12",
-      "pelicula": "HO00009424",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:00"
       ]
     },
     {
@@ -1530,33 +1512,6 @@
         "16:00",
         "18:30",
         "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-12",
-      "pelicula": "HO00009426",
-      "sala": "Sala 8",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-12",
-      "pelicula": "HO00009847",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-12",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:30"
       ]
     },
     {
@@ -1682,16 +1637,6 @@
     {
       "sede": "001",
       "fecha": "2026-10-12",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:40",
-        "15:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-12",
       "pelicula": "HO00010065",
       "sala": "Sala 7",
       "horarios": [
@@ -1771,15 +1716,6 @@
     {
       "sede": "002",
       "fecha": "2026-10-12",
-      "pelicula": "HO00009935",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-12",
       "pelicula": "HO00010095",
       "sala": "Sala 4",
       "horarios": [
@@ -1788,15 +1724,6 @@
         "17:40",
         "19:10",
         "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-12",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "13:00"
       ]
     },
     {
@@ -3297,6 +3224,79 @@
       "sala": "Sala 5",
       "horarios": [
         "17:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-12",
+      "pelicula": "HO00010094",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-12",
+      "pelicula": "HO00009424",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-12",
+      "pelicula": "HO00009426",
+      "sala": "Sala 8",
+      "horarios": [
+        "15:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-12",
+      "pelicula": "HO00009847",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-12",
+      "pelicula": "HO00009931",
+      "sala": "Sala 1",
+      "horarios": [
+        "15:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-10-12",
+      "pelicula": "HO00009939",
+      "sala": "Sala 7",
+      "horarios": [
+        "13:40",
+        "15:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-12",
+      "pelicula": "HO00009935",
+      "sala": "Sala 9",
+      "horarios": [
+        "14:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-12",
+      "pelicula": "HO00009939",
+      "sala": "Sala 10",
+      "horarios": [
+        "13:00"
       ]
     }
   ]
