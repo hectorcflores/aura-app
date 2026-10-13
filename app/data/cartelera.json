@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-13T16:59:35.864Z",
+  "generadoEn": "2026-10-13T20:17:02.070Z",
   "hoy": "2026-10-13",
   "sedes": [
     {
@@ -1194,6 +1194,33 @@
       "tmdbId": 1166170,
       "votos": 751
     },
+    "HO00009790": {
+      "titulo": "Las ruinas nuevas",
+      "tituloOriginal": null,
+      "director": "Manuel Embalse",
+      "pais": "Argentina",
+      "ano": 2024,
+      "duracion": 89,
+      "filmId": "HO00009790",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009790?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009790&cinemas=003",
+      "sinopsis": "Manuel Embalse presenta en su segundo largometraje un ensayo audiovisual que se aproxima, al igual que otras producciones del colectivo Antes muerto cine, a lo experimental. Un diario digital donde los géneros hibridan, transitando por el documental y adoptando cuestionamientos y líneas de pensamiento de la ciencia ficción. Embalse desarrolla una divagación ensayística en torno a la basura electrónica. ¿A dónde va?, ¿quién la ensambla?, ¿quién la desarma? y ¿qué historia contaría sobre nuestra existencia humana? son algunas de las preguntas que se pondrán sobre la mesa. En el camino por intentar responderlas iremos descubriendo las ruinas de un mundo que cohabita con nosotres en total sigilo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "T6Wg9Bhtvcs",
+      "trailers": [
+        "T6Wg9Bhtvcs"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1252645,
+      "votos": 0
+    },
     "HO00009758": {
       "titulo": "Animanimales",
       "tituloOriginal": "ANIMANIMALES",
@@ -1691,15 +1718,6 @@
         "17:40",
         "19:10",
         "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "13:00"
       ]
     },
     {
@@ -2359,6 +2377,16 @@
     {
       "sede": "003",
       "fecha": "2026-10-15",
+      "pelicula": "HO00009790",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-15",
       "pelicula": "HO00009763",
       "sala": "Sala 4",
       "horarios": [
@@ -2420,6 +2448,15 @@
       "horarios": [
         "14:30",
         "19:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-15",
+      "pelicula": "HO00009555",
+      "sala": "Sala 5",
+      "horarios": [
+        "21:00"
       ]
     },
     {
@@ -2728,6 +2765,15 @@
       "sala": "Sala 5",
       "horarios": [
         "17:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-13",
+      "pelicula": "HO00009939",
+      "sala": "Sala 10",
+      "horarios": [
+        "13:00"
       ]
     }
   ]
