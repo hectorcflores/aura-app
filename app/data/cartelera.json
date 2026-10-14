@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-10-13T20:17:02.070Z",
-  "hoy": "2026-10-13",
+  "generadoEn": "2026-10-14T12:50:59.611Z",
+  "hoy": "2026-10-14",
   "sedes": [
     {
       "id": "003",
@@ -19,10 +19,10 @@
     }
   ],
   "fechas": [
-    "2026-10-13",
     "2026-10-14",
     "2026-10-15",
-    "2026-10-16"
+    "2026-10-16",
+    "2026-10-20"
   ],
   "peliculas": {
     "HO00010091": {
@@ -51,32 +51,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 260
-    },
-    "HO00008094": {
-      "titulo": "Borrasca en las almas",
-      "tituloOriginal": null,
-      "director": "Ismael Rodríguez",
-      "pais": "México",
-      "ano": 1954,
-      "duracion": 104,
-      "filmId": "HO00008094",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008094?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008094&cinemas=003",
-      "sinopsis": "Martha está casada con Pablo, un maestro de escuela que bebe mucho. Alicia, hermana gemela de Martha, y que fue una mujer prostituida, tuvo relaciones con Pablo cuando su hermana y él todavía eran novios. Rogelio está enamorado de Martha y por casualidad Alicia lo aloja en su casa. Allí, él la corteja y le propone matrimonio, pero luego se entera de su pasado y rompe con ella.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0249408/",
-      "imdbId": "tt0249408",
-      "tmdbId": 363515,
-      "votos": 23
+      "votos": 261
     },
     "HO00009956": {
       "titulo": "Coyote Vs Acme SUB",
@@ -138,7 +113,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 42692
+      "votos": 43203
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -278,7 +253,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 31342
+      "votos": 32833
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -323,7 +298,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125381
+      "votos": 125398
     },
     "HO00010094": {
       "titulo": "El árbol mágico",
@@ -367,7 +342,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6260
+      "votos": 6273
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -477,7 +452,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32034405/",
       "imdbId": "tt32034405",
       "tmdbId": 1161396,
-      "votos": 1403
+      "votos": 1404
     },
     "HO00009929": {
       "titulo": "La bachata del biónico",
@@ -532,7 +507,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2105
+      "votos": 2108
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -567,6 +542,35 @@
       "imdbId": "tt37813097",
       "tmdbId": 1459062,
       "votos": 191
+    },
+    "HO00009763": {
+      "titulo": "Lo que queda de ti",
+      "tituloOriginal": "Allly baqi mink",
+      "director": "Cherien Dabis",
+      "pais": "Palestina-Chipre-Alemania-Jordania-Arabia Saudita-Grecia-Qatar",
+      "ano": 2025,
+      "duracion": 145,
+      "filmId": "HO00009763",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009763?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009763&cinemas=003",
+      "sinopsis": "En Lo que queda de ti, Cherien Dabis dirige y protagoniza un crudo relato inspirado en sus propias raíces. Un adolescente palestino sufre un ataque durante una protesta en Cisjordania; por eso su madre, Hanan, narra el doloroso recorrido de la familia Hammad desde el inicio de la invasión del ejército israelí en 1948 hasta la década de 2020. Esta historia sobre el trauma generacional expone la resiliencia y el dolor de las familias palestinas ante el arrebato de sus hogares e incluso de su propia humanidad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "KwSBhtlchD0",
+      "trailers": [
+        "KwSBhtlchD0",
+        "Fm0mvwiP3Xw",
+        "bnXjXea3_IU"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.2,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt25813918/",
+      "imdbId": "tt25813918",
+      "tmdbId": 1084695,
+      "votos": 202
     },
     "HO00008486": {
       "titulo": "Los sueños que compartimos",
@@ -628,7 +632,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203826
+      "votos": 203844
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -661,31 +665,6 @@
       "imdbId": "tt15716284",
       "tmdbId": 1232350,
       "votos": 523
-    },
-    "HO00009847": {
-      "titulo": "Oh, fortuna",
-      "tituloOriginal": "Oh",
-      "director": "Luis Ayhllón",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 95,
-      "filmId": "HO00009847",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009847?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009847&cinemas=003",
-      "sinopsis": "Luis Ayhllón. Luis Ayhllón.. Sergio Matamoros Color Carlo Ayhllón. Luis Ayhllón. Roberto Bolado. Alexis Briseño Jaramillo Alejandrina García Zavala Carlos Abraham Gongo Margareth Linares Emmanuel Pavía Ernesto Rocha Priscila Rosado Francisco Aurelio Sánchez Marya Sotelo David Zambrano Diego Alonso Sergio Biviano Mario Loría María Elena Olivares Joe Behrens Sergio Biviano Sebastián Cobos Francisco Medina Fran Lozano Aarón Mendoza Daniela Semiramis. Teresa García Hernández, Entraña Teatro.. Luis Ayhllón. B15.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt40196240/",
-      "imdbId": "tt40196240",
-      "tmdbId": 1762928,
-      "votos": 0
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -726,7 +705,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189802
+      "votos": 189823
     },
     "HO00010096": {
       "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
@@ -769,7 +748,34 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 1369
+      "votos": 1395
+    },
+    "HO00009555": {
+      "titulo": "Tus dos muertos",
+      "tituloOriginal": null,
+      "director": "Daniel Castro Zimbrón",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 102,
+      "filmId": "HO00009555",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009555?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009555&cinemas=003",
+      "sinopsis": "Cipriano Zuzunaga es un policía judicial que ha visto pasar sus mejores días y vive en una depresión que lo mantiene errante y atormentado, lo que lo ha orillado a perder contacto con la realidad. Cuando el hijo no reconocido de un famoso diputado es secuestrado, Zuzunaga es encomendado para realizar la investigación del caso y conducir una solitaria búsqueda que terminará por confrontarlo con su propio pasado. Este filme, basado en la novela homónima de Jorge Alberto Gudiño Hernández, explora la corrupción, la culpa y el pasado vertiginoso del protagonista, junto al planteamiento de una problemática común: el acceso a la justicia se ve condicionado por el estatus social y la posición económica.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "uBb0r0WKLOg",
+      "trailers": [
+        "uBb0r0WKLOg"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1365486,
+      "votos": 0
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -796,7 +802,7 @@
       "urlImdb": "https://www.imdb.com/title/tt21413704/",
       "imdbId": "tt21413704",
       "tmdbId": 1199946,
-      "votos": 77
+      "votos": 78
     },
     "HO00009875": {
       "titulo": "El violín",
@@ -821,7 +827,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0451966/",
       "imdbId": "tt0451966",
       "tmdbId": 68259,
-      "votos": 2703
+      "votos": 2702
     },
     "HO00010076": {
       "titulo": "Hombre al agua",
@@ -848,62 +854,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 86
-    },
-    "HO00008162": {
-      "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
-      "tituloOriginal": "Jíkuri. Viaje al país de los tarahumaras",
-      "director": "Federico Cecchetti",
-      "pais": "México",
-      "ano": 2024,
-      "duracion": 94,
-      "filmId": "HO00008162",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008162?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008162&cinemas=001",
-      "sinopsis": "Federico Cecchetti Federico Cecchetti, Pierre Saint-Martin. Emiliano Motta. Omar Guzmán. François Négret, José Cruz Apachoachi, Esther González, Olivier Rabourdin, Sylvie Testud, Felipe Fuentes Chávez, Martín Makawi, Nicolas Sotnikoff. Edher Campos, Jana Diaz Juhl, Pau Brunet Machete. Mantícora Distribución. B.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "lTZ10Zhx_dk",
-      "trailers": [
-        "lTZ10Zhx_dk"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.6,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt7246476/",
-      "imdbId": "tt7246476",
-      "tmdbId": 671296,
-      "votos": 84
-    },
-    "HO00009960": {
-      "titulo": "La copia perfecta",
-      "tituloOriginal": "L’AFFAIRE BOJARSKI",
-      "director": "Jean-Paul Salomé",
-      "pais": "Francia",
-      "ano": 2025,
-      "duracion": 128,
-      "filmId": "HO00009960",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009960?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009960&cinemas=001",
-      "sinopsis": "Basado en hechos reales en la Francia de la posguerra, el filme cuenta la historia de Jan Bojarski, un refugiado polaco, que acaparó los titulares al convertirse en el falsificador más ingenioso de su tiempo. Durante años, Bojarski fabricó billetes tan perfectos que engañaban al mismísimo Banco de Francia. Su trabajo atrajo la atención del comisario Mattei, y lo que empezó como un secreto muy bien guardado se convirtió en una persecución obsesiva. El relato sumerge al espectador en las fascinantes técnicas artesanales de un auténtico artista de la falsificación que llevaba una peligrosa doble vida con repercusiones personales.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "bN_jzKGJyvA",
-      "trailers": [
-        "bN_jzKGJyvA",
-        "f_bbFLsJl9A"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35495035/",
-      "imdbId": "tt35495035",
-      "tmdbId": 1376415,
-      "votos": 2050
+      "votos": 87
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -937,7 +888,32 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203826
+      "votos": 203844
+    },
+    "HO00010063": {
+      "titulo": "Me encontraste",
+      "tituloOriginal": "L’ÂME IDÉALE",
+      "director": "Alice Vial",
+      "pais": "Francia",
+      "ano": 2025,
+      "duracion": 96,
+      "filmId": "HO00010063",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010063?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010063&cinemas=001",
+      "sinopsis": "Elsa, es una mujer soltera que ha perdido la esperanza en el amor y que se dedica de lleno a su trabajo como doctora. Tiene un don muy peculiar que complica su existencia y que mantiene en secreto: puede ver y hablar con los muertos. Una noche conoce a Oscar, un hombre divertido y encantador que la hace creer de nuevo en el amor. Pero justo cuando empieza a enamorarse, descubre que su historia no es tan real como creía…",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.8,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35526093/",
+      "imdbId": "tt35526093",
+      "tmdbId": 1166170,
+      "votos": 753
     },
     "HO00009933": {
       "titulo": "Cars 20 aniversario DOB",
@@ -990,7 +966,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 551725
+      "votos": 551806
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1083,7 +1059,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189802
+      "votos": 189823
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1113,87 +1089,6 @@
       "tmdbId": 1478001,
       "votos": 16
     },
-    "HO00009763": {
-      "titulo": "Lo que queda de ti",
-      "tituloOriginal": "Allly baqi mink",
-      "director": "Cherien Dabis",
-      "pais": "Palestina-Chipre-Alemania-Jordania-Arabia Saudita-Grecia-Qatar",
-      "ano": 2025,
-      "duracion": 145,
-      "filmId": "HO00009763",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009763?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009763&cinemas=003",
-      "sinopsis": "En Lo que queda de ti, Cherien Dabis dirige y protagoniza un crudo relato inspirado en sus propias raíces. Un adolescente palestino sufre un ataque durante una protesta en Cisjordania; por eso su madre, Hanan, narra el doloroso recorrido de la familia Hammad desde el inicio de la invasión del ejército israelí en 1948 hasta la década de 2020. Esta historia sobre el trauma generacional expone la resiliencia y el dolor de las familias palestinas ante el arrebato de sus hogares e incluso de su propia humanidad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "KwSBhtlchD0",
-      "trailers": [
-        "KwSBhtlchD0",
-        "Fm0mvwiP3Xw",
-        "bnXjXea3_IU"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.2,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt25813918/",
-      "imdbId": "tt25813918",
-      "tmdbId": 1084695,
-      "votos": 202
-    },
-    "HO00009555": {
-      "titulo": "Tus dos muertos",
-      "tituloOriginal": null,
-      "director": "Daniel Castro Zimbrón",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 102,
-      "filmId": "HO00009555",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009555?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009555&cinemas=003",
-      "sinopsis": "Cipriano Zuzunaga es un policía judicial que ha visto pasar sus mejores días y vive en una depresión que lo mantiene errante y atormentado, lo que lo ha orillado a perder contacto con la realidad. Cuando el hijo no reconocido de un famoso diputado es secuestrado, Zuzunaga es encomendado para realizar la investigación del caso y conducir una solitaria búsqueda que terminará por confrontarlo con su propio pasado. Este filme, basado en la novela homónima de Jorge Alberto Gudiño Hernández, explora la corrupción, la culpa y el pasado vertiginoso del protagonista, junto al planteamiento de una problemática común: el acceso a la justicia se ve condicionado por el estatus social y la posición económica.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "uBb0r0WKLOg",
-      "trailers": [
-        "uBb0r0WKLOg"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1365486,
-      "votos": 0
-    },
-    "HO00010063": {
-      "titulo": "Me encontraste",
-      "tituloOriginal": "L’ÂME IDÉALE",
-      "director": "Alice Vial",
-      "pais": "Francia",
-      "ano": 2025,
-      "duracion": 96,
-      "filmId": "HO00010063",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010063?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010063&cinemas=001",
-      "sinopsis": "Elsa, es una mujer soltera que ha perdido la esperanza en el amor y que se dedica de lleno a su trabajo como doctora. Tiene un don muy peculiar que complica su existencia y que mantiene en secreto: puede ver y hablar con los muertos. Una noche conoce a Oscar, un hombre divertido y encantador que la hace creer de nuevo en el amor. Pero justo cuando empieza a enamorarse, descubre que su historia no es tan real como creía…",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.8,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35526093/",
-      "imdbId": "tt35526093",
-      "tmdbId": 1166170,
-      "votos": 751
-    },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
       "tituloOriginal": null,
@@ -1219,6 +1114,31 @@
       "urlImdb": null,
       "imdbId": null,
       "tmdbId": 1252645,
+      "votos": 0
+    },
+    "HO00009847": {
+      "titulo": "Oh, fortuna",
+      "tituloOriginal": "Oh",
+      "director": "Luis Ayhllón",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 95,
+      "filmId": "HO00009847",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009847?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009847&cinemas=003",
+      "sinopsis": "Luis Ayhllón. Luis Ayhllón.. Sergio Matamoros Color Carlo Ayhllón. Luis Ayhllón. Roberto Bolado. Alexis Briseño Jaramillo Alejandrina García Zavala Carlos Abraham Gongo Margareth Linares Emmanuel Pavía Ernesto Rocha Priscila Rosado Francisco Aurelio Sánchez Marya Sotelo David Zambrano Diego Alonso Sergio Biviano Mario Loría María Elena Olivares Joe Behrens Sergio Biviano Sebastián Cobos Francisco Medina Fran Lozano Aarón Mendoza Daniela Semiramis. Teresa García Hernández, Entraña Teatro.. Luis Ayhllón. B15.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt40196240/",
+      "imdbId": "tt40196240",
+      "tmdbId": 1762928,
       "votos": 0
     },
     "HO00009758": {
@@ -1271,7 +1191,34 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 1072
+      "votos": 1077
+    },
+    "HO00008162": {
+      "titulo": "Jíkuri. Viaje al país de los Tarahumaras",
+      "tituloOriginal": "Jíkuri. Viaje al país de los tarahumaras",
+      "director": "Federico Cecchetti",
+      "pais": "México",
+      "ano": 2024,
+      "duracion": 94,
+      "filmId": "HO00008162",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008162?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008162&cinemas=001",
+      "sinopsis": "Federico Cecchetti Federico Cecchetti, Pierre Saint-Martin. Emiliano Motta. Omar Guzmán. François Négret, José Cruz Apachoachi, Esther González, Olivier Rabourdin, Sylvie Testud, Felipe Fuentes Chávez, Martín Makawi, Nicolas Sotnikoff. Edher Campos, Jana Diaz Juhl, Pau Brunet Machete. Mantícora Distribución. B.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "lTZ10Zhx_dk",
+      "trailers": [
+        "lTZ10Zhx_dk"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.6,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt7246476/",
+      "imdbId": "tt7246476",
+      "tmdbId": 671296,
+      "votos": 84
     },
     "HO00010155": {
       "titulo": "Charlas Minimalismo Estadounidense",
@@ -1322,472 +1269,34 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00010126": {
+      "titulo": "Faltas a la moral",
+      "tituloOriginal": null,
+      "director": "Ismael Rodríguez",
+      "pais": "México",
+      "ano": 1969,
+      "duracion": 85,
+      "filmId": "HO00010126",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010126?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010126&cinemas=003",
+      "sinopsis": "Rogelio vuelve a su trabajo después de una prolongada ausencia debido a que perdió una mano. Su jefe Andrés, lo convierte en empleado de confianza. Rogelio está enamorado de Marta pero ella está casada con Pablo, un maestro de escuela, que es muy duro con sus alumnos y bebe mucho. Marta tiene una hermana gemela, Alicia, que es una prostituta que desea regenerarse. Pablo está enamorado de Alicia. Rogelio le propone matrimonio a Alicia sin conocer su pasado, pero al saberlo rompe el compromiso. Alicia cree que fue Marta quien se lo dijo y decide seducir a Pablo. Marta mata de un tiro a su hermana y Pablo de suicida.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 5.8,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0225684/",
+      "imdbId": "tt0225684",
+      "tmdbId": 330280,
+      "votos": 69
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010091",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00008094",
-      "sala": "Sala 4",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:30",
-        "18:45",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00008666",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:30",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:45",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009934",
-      "sala": "Sala 4",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010094",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010078",
-      "sala": "Sala 9",
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009562",
-      "sala": "Sala 7",
-      "horarios": [
-        "16:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009792",
-      "sala": "Sala 8",
-      "horarios": [
-        "19:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009424",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009929",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:30",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009278",
-      "sala": "Sala 10",
-      "horarios": [
-        "15:30",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009787",
-      "sala": "Sala 8",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00008486",
-      "sala": "Sala 10",
-      "horarios": [
-        "18:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010065",
-      "sala": "Sala 3",
-      "horarios": [
-        "16:00",
-        "18:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009426",
-      "sala": "Sala 8",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009847",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010096",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009936",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:30",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010075",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:15",
-        "16:50",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010094",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:30",
-        "15:50",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010078",
-      "sala": "Sala 1",
-      "horarios": [
-        "12:30",
-        "17:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009875",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:00",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010076",
-      "sala": "Sala 1",
-      "horarios": [
-        "14:50",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00008162",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009960",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:50",
-        "17:30",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009278",
-      "sala": "Sala 5",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:40",
-        "15:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "17:40",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010096",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009933",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:10",
-        "16:30",
-        "18:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009936",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:30",
-        "16:40",
-        "18:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010075",
-      "sala": "Sala 12",
-      "horarios": [
-        "14:50",
-        "17:30",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010094",
-      "sala": "Sala 2",
-      "horarios": [
-        "15:10",
-        "17:20",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009562",
-      "sala": "Sala 1",
-      "horarios": [
-        "14:20",
-        "16:20",
-        "18:20",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009935",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:30",
-        "16:50",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010095",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:50",
-        "15:50",
-        "17:40",
-        "19:10",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010065",
-      "sala": "Sala 10",
-      "horarios": [
-        "15:00",
-        "17:00",
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009426",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:30",
-        "15:20",
-        "17:10",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009931",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:20",
-        "17:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009958",
-      "sala": "Sala 3",
-      "horarios": [
-        "15:40",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00010096",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:00",
-        "16:00",
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009932",
-      "sala": "Sala 11",
-      "horarios": [
-        "14:30",
-        "16:30",
-        "18:30",
-        "20:30"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-10-14",
@@ -2768,12 +2277,12 @@
       ]
     },
     {
-      "sede": "002",
-      "fecha": "2026-10-13",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
+      "sede": "003",
+      "fecha": "2026-10-20",
+      "pelicula": "HO00010126",
+      "sala": "Sala 4",
       "horarios": [
-        "13:00"
+        "18:00"
       ]
     }
   ]
