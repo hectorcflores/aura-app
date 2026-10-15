@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-15T12:37:33.233Z",
+  "generadoEn": "2026-10-15T14:13:37.279Z",
   "hoy": "2026-10-15",
   "sedes": [
     {
@@ -50,7 +50,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 266
+      "votos": 264
     },
     "HO00009956": {
       "titulo": "Coyote Vs Acme SUB",
@@ -112,7 +112,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 43520
+      "votos": 43373
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -252,7 +252,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 34332
+      "votos": 33789
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -341,7 +341,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6292
+      "votos": 6283
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -658,7 +658,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203857
+      "votos": 203853
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -756,7 +756,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189842
+      "votos": 189836
     },
     "HO00010096": {
       "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
@@ -799,7 +799,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 1414
+      "votos": 1406
     },
     "HO00009555": {
       "titulo": "Tus dos muertos",
@@ -905,7 +905,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 1079
+      "votos": 1077
     },
     "HO00009875": {
       "titulo": "El violín",
@@ -1018,7 +1018,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203857
+      "votos": 203853
     },
     "HO00009933": {
       "titulo": "Cars 20 aniversario DOB",
@@ -1071,7 +1071,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 551864
+      "votos": 551843
     },
     "HO00010155": {
       "titulo": "Charlas Minimalismo Estadounidense",
@@ -1189,7 +1189,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189842
+      "votos": 189836
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
