@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-18T13:22:18.000Z",
+  "generadoEn": "2026-10-18T17:26:34.400Z",
   "hoy": "2026-10-18",
   "sedes": [
     {
@@ -48,13 +48,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 5.9,
+      "publico": 6,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 271
+      "votos": 272
     },
     "HO00009477": {
       "titulo": "Convivir",
@@ -143,7 +143,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 44203
+      "votos": 44352
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -283,7 +283,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 37205
+      "votos": 37877
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -328,7 +328,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125434
+      "votos": 125441
     },
     "HO00010094": {
       "titulo": "El árbol mágico",
@@ -372,7 +372,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6317
+      "votos": 6330
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -537,7 +537,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2113
+      "votos": 2115
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -689,7 +689,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203886
+      "votos": 203901
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -762,7 +762,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189895
+      "votos": 189908
     },
     "HO00010096": {
       "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
@@ -805,7 +805,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 1469
+      "votos": 1504
     },
     "HO00010237": {
       "titulo": "Circo pa´l barrio-El documental",
@@ -857,7 +857,7 @@
       "urlImdb": "https://www.imdb.com/title/tt21413704/",
       "imdbId": "tt21413704",
       "tmdbId": 1199946,
-      "votos": 81
+      "votos": 82
     },
     "HO00009875": {
       "titulo": "El violín",
@@ -909,7 +909,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 91
+      "votos": 92
     },
     "HO00010222": {
       "titulo": "Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortaleza y sabi",
@@ -968,7 +968,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203886
+      "votos": 203901
     },
     "HO00010063": {
       "titulo": "Me encontraste",
@@ -993,7 +993,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35526093/",
       "imdbId": "tt35526093",
       "tmdbId": 1166170,
-      "votos": 760
+      "votos": 764
     },
     "HO00010220": {
       "titulo": "Reconociendo Ecatepec",
@@ -1096,7 +1096,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 552102
+      "votos": 552121
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1189,7 +1189,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189895
+      "votos": 189908
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1242,7 +1242,7 @@
       "urlImdb": "https://www.imdb.com/title/tt40435390/",
       "imdbId": "tt40435390",
       "tmdbId": 1645368,
-      "votos": 664
+      "votos": 665
     },
     "HO00010226": {
       "titulo": "Ghiexhuba/La soledad",
@@ -1421,7 +1421,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36842933/",
       "imdbId": "tt36842933",
       "tmdbId": 1404684,
-      "votos": 1953
+      "votos": 1961
     },
     "HO00000529": {
       "titulo": "Cabeza de vaca",
@@ -1498,7 +1498,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 1086
+      "votos": 1087
     },
     "HO00010231": {
       "titulo": "La pelota es el Sol/Guiexhuba",
@@ -1570,7 +1570,7 @@
       "urlImdb": "https://www.imdb.com/title/tt6857112/",
       "imdbId": "tt6857112",
       "tmdbId": 458723,
-      "votos": 401782
+      "votos": 401813
     },
     "HO00010133": {
       "titulo": "María Sabina, mujer espíritu",
@@ -1648,7 +1648,7 @@
       "urlImdb": "https://www.imdb.com/title/tt21110654/",
       "imdbId": "tt21110654",
       "tmdbId": 987400,
-      "votos": 2693
+      "votos": 2694
     },
     "HO00010061": {
       "titulo": "El desconocido del gran arco",
@@ -1675,7 +1675,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32398150/",
       "imdbId": "tt32398150",
       "tmdbId": 1290424,
-      "votos": 2373
+      "votos": 2377
     },
     "HO00010233": {
       "titulo": "La pelota es el Sol/Soy Yuyé",
@@ -1753,7 +1753,7 @@
       "urlImdb": "https://www.imdb.com/title/tt10196368/",
       "imdbId": "tt10196368",
       "tmdbId": 913845,
-      "votos": 3528
+      "votos": 3529
     },
     "HO00010132": {
       "titulo": "Teshuinada, Semana Santa tarahumara",
