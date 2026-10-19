@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-10-18T17:26:34.400Z",
-  "hoy": "2026-10-18",
+  "generadoEn": "2026-10-19T14:38:09.130Z",
+  "hoy": "2026-10-19",
   "sedes": [
     {
       "id": "003",
@@ -19,13 +19,13 @@
     }
   ],
   "fechas": [
-    "2026-10-18",
     "2026-10-19",
     "2026-10-20",
     "2026-10-21",
     "2026-10-22",
     "2026-10-23",
-    "2026-10-24"
+    "2026-10-24",
+    "2026-10-25"
   ],
   "peliculas": {
     "HO00010091": {
@@ -54,7 +54,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 272
+      "votos": 276
     },
     "HO00009477": {
       "titulo": "Convivir",
@@ -143,7 +143,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 44352
+      "votos": 45014
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -283,7 +283,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 37877
+      "votos": 39039
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -328,7 +328,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125441
+      "votos": 125465
     },
     "HO00010094": {
       "titulo": "El árbol mágico",
@@ -372,7 +372,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6330
+      "votos": 6357
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -537,7 +537,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2115
+      "votos": 2117
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -689,7 +689,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203901
+      "votos": 203920
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -721,7 +721,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15716284/",
       "imdbId": "tt15716284",
       "tmdbId": 1232350,
-      "votos": 523
+      "votos": 524
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -762,7 +762,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189908
+      "votos": 189932
     },
     "HO00010096": {
       "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
@@ -805,59 +805,32 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 1504
+      "votos": 1571
     },
-    "HO00010237": {
-      "titulo": "Circo pa´l barrio-El documental",
-      "tituloOriginal": "Circo pa´l barrio–El documental -",
-      "director": "Yannic Solís",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 59,
-      "filmId": "HO00010237",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010237?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010237&cinemas=001",
-      "sinopsis": "CIRCO PA'L BARRIO El documental acompaña durante tres años a una familia de artistas que, desde las calles de un barrio de la zona oriente de la Ciudad de México, convirtió su pasión por el circo en el Circo Pa’l Barrio, uno de los festivales circenses más importantes de México. Frente a las adversidades de su entorno, el arte se convierte en una forma de transformar su comunidad.",
+    "HO00010059": {
+      "titulo": "Abandonado",
+      "tituloOriginal": "L’ABANDON",
+      "director": "Vincent Garenq",
+      "pais": "Francia",
+      "ano": 2026,
+      "duracion": 100,
+      "filmId": "HO00010059",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010059?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010059&cinemas=001",
+      "sinopsis": "Pocos años después del atentado contra el semanario Charlie Hebdo, el profesor Samuel Paty dirige un debate sobre la libertad de expresión en una escuela de las afueras de París. Una mentira amplificada por las redes sociales y distorsionada por el extremismo, desata una peligrosa espiral que nadie logra detener. Las voces chocan para confrontar una verdad devastadora: cómo un rumor, un clic y la inacción colectiva pueden conducir a consecuencias irreparables. Basada en hechos reales, la película reconstruye los once últimos días del profesor Paty, asesinado en 2020.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00009936": {
-      "titulo": "Cocodrilos",
-      "tituloOriginal": null,
-      "director": "J. Xavier Velasco",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 100,
-      "filmId": "HO00009936",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009936?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009936&cinemas=001",
-      "sinopsis": "Un joven fotoperiodista de Veracruz arriesgará su vida para descubrir una verdad impactante tras hacerse cargo de la investigación que su amiga y mentora, también periodista, dejó inconclusa al caer víctima del crimen organizado. Cocodrilos, el primer largometraje del cineasta veracruzano J. Xavier Velasco, es un contundente thriller criminal que rinde homenaje a los periodistas que han perdido la vida en el ejercicio de su oficio, y que denuncia la crisis política en la que está enterrado el país.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "iHhfP7yQh_Q",
-      "trailers": [
-        "iHhfP7yQh_Q"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.3,
+      "publico": 7.6,
       "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt21413704/",
-      "imdbId": "tt21413704",
-      "tmdbId": 1199946,
-      "votos": 82
+      "urlImdb": "https://www.imdb.com/title/tt40435390/",
+      "imdbId": "tt40435390",
+      "tmdbId": 1645368,
+      "votos": 666
     },
     "HO00009875": {
       "titulo": "El violín",
@@ -884,6 +857,33 @@
       "tmdbId": 68259,
       "votos": 2702
     },
+    "HO00010226": {
+      "titulo": "Ghiexhuba/La soledad",
+      "tituloOriginal": "Amor de papel/Ghiexhuba/La soledad",
+      "director": "Sabrina Muhate",
+      "pais": "México",
+      "ano": 2021,
+      "duracion": 135,
+      "filmId": "HO00010226",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010226?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010226&cinemas=001",
+      "sinopsis": "Sabrina Muhate Dariela Pérez. Izakum Vázquez,. Alejandro Ramírez,. Claudia Santiago, Norma Pablo, Humberto Busto, Antonio Monroi, Gabriel Pascual, Moisés Cardéz, Sotera Cruz, Yan Perrouin. Ixmati casa productora 100 %, Prod: Agustín Buendía,. Pachanga antirracista. B.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "9hGwKpJO52M",
+      "trailers": [
+        "9hGwKpJO52M"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.5,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt5711408/",
+      "imdbId": "tt5711408",
+      "tmdbId": 414007,
+      "votos": 275
+    },
     "HO00010076": {
       "titulo": "Hombre al agua",
       "tituloOriginal": null,
@@ -909,19 +909,44 @@
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 92
+      "votos": 95
     },
-    "HO00010222": {
-      "titulo": "Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortaleza y sabi",
-      "tituloOriginal": "Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortaleza y sabiduría",
-      "director": "Yaremi Chan Padilla",
-      "pais": "México",
-      "ano": 2021,
-      "duracion": 41,
-      "filmId": "HO00010222",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010222?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010222&cinemas=001",
-      "sinopsis": "Maaya ko'olelo'ob. Mujeres mayas. Fortaleza y sabiduría. Miniserie documental que narra la vida de tres mujeres mayas contemporáneas: Yamili Chan Dzul (Sanahcat), Socorro Loeza Flores (Tecoh) y Yazmín Novelo (Peto).",
+    "HO00010224": {
+      "titulo": "La pelota es el Sol/8 Venado garra de jaguar",
+      "tituloOriginal": "Video poema niñas de Comachuén/La pelota es el Sol/8 venado garra ge jaguar",
+      "director": "María Conchita Díaz y Agustín Buendía",
+      "pais": null,
+      "ano": 2023,
+      "duracion": 104,
+      "filmId": "HO00010224",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010224?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010224&cinemas=001",
+      "sinopsis": "8 Venado Garra de Jaguar: Después de 900 años, 8 Venado Garra de Jaguar, el guerrero más feroz del Sur de México reencarna en un joven temeroso, al darse cuenta “La Diosa Coyote, Diosa de la discordia y el engaño” lanza un hechizo para que el pueblo pierda la memoria, dando inicio a una aventura para vencer a la bruja.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt33023287/",
+      "imdbId": "tt33023287",
+      "tmdbId": 1323002,
+      "votos": 0
+    },
+    "HO00010225": {
+      "titulo": "MaayaKo´Olelo´Ob.Mujeres Mayas.Fortaleza y sabidur",
+      "tituloOriginal": "Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortaleza y sabiduría/No somos diablas/Reconociendo Ecatepec",
+      "director": "Balam Toscano",
+      "pais": null,
+      "ano": 2026,
+      "duracion": 95,
+      "filmId": "HO00010225",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010225?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010225&cinemas=001",
+      "sinopsis": "Balam Toscano Balam Toscano y Sonia Gregorio. Alexa Mayrén, Leydiana Castañeda, Genesis Castañeda, Elena Ávila, Joselin González, Darnet Salinas,. Carla Ascencio, Magnolia Orozco, Balam Toscano, Constanza Moctezuma. Cimarrón Audiovisual y Centro de Capacitación Cinematográfica,. Pachanga antirracista. A.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
@@ -968,82 +993,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203901
-    },
-    "HO00010063": {
-      "titulo": "Me encontraste",
-      "tituloOriginal": "L’ÂME IDÉALE",
-      "director": "Alice Vial",
-      "pais": "Francia",
-      "ano": 2025,
-      "duracion": 96,
-      "filmId": "HO00010063",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010063?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010063&cinemas=001",
-      "sinopsis": "Elsa, es una mujer soltera que ha perdido la esperanza en el amor y que se dedica de lleno a su trabajo como doctora. Tiene un don muy peculiar que complica su existencia y que mantiene en secreto: puede ver y hablar con los muertos. Una noche conoce a Oscar, un hombre divertido y encantador que la hace creer de nuevo en el amor. Pero justo cuando empieza a enamorarse, descubre que su historia no es tan real como creía…",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.8,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35526093/",
-      "imdbId": "tt35526093",
-      "tmdbId": 1166170,
-      "votos": 764
-    },
-    "HO00010220": {
-      "titulo": "Reconociendo Ecatepec",
-      "tituloOriginal": "ReConociendo Ecatepec",
-      "director": "Montserrat Gamero y Bryant Peralta",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 37,
-      "filmId": "HO00010220",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010220?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010220&cinemas=001",
-      "sinopsis": "Montserrat Gamero y Bryant Peralta Dimensión Exilio, La Reverenda Ska, Vuelo Libre, Sr. Swing, I Can Fly, El Tri, E: Montserrat Gamero y Bryant Peralta, Con: Axel “KasaSola”, Niño Graffitero, Noah Hdz, Tlanezi Escamilla, Paty Fuentes, Carlos Huerta, Habitantes de las Fuentes, Lupita, Choferes del Transporte Público, Colectivo Raíces Soberanas, El Karmen Familia, Axel Cedillo “Kasa Sola”, Rayman “Doble R”, Daniel Velázquez “Azhero”, Romel Alexis Domínguez “Kizin”, Diego Armando Agüero, “Güero G”, Chiconakry “Danza Africana”, Jóvenes al 101, Payaso Garú, Juan “Payasito Corcholata”, Adán Ollin, Paloma Villalpando, Jesús Marban, Jacks Serrano, P: Solitos pero Acompañados y Woosh Creative Studio. Pachanga antirracista. A.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010221": {
-      "titulo": "Reconociendo Ecatepec/No somos diablas/La soledad",
-      "tituloOriginal": null,
-      "director": "María Conchita Díaz",
-      "pais": "México",
-      "ano": 2023,
-      "duracion": 90,
-      "filmId": "HO00010221",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010221?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010221&cinemas=001",
-      "sinopsis": "Aurelia y Antonia toman distancia desde su juventud debido a la codicia de una de ellas para quedarse con la casa que les heredaron sus padres. Aurelia pasa su vida sola en el campo, hasta que una noche toca a su puerta Antonia, entre el desconcierto y el enojo por la visita, Aurelia acepta convivir con su hermana que muestra un extraño comportamiento.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "votos": 203920
     },
     "HO00009933": {
       "titulo": "Cars 20 aniversario DOB",
@@ -1096,7 +1046,34 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 552121
+      "votos": 552281
+    },
+    "HO00009936": {
+      "titulo": "Cocodrilos",
+      "tituloOriginal": null,
+      "director": "J. Xavier Velasco",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 100,
+      "filmId": "HO00009936",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009936?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009936&cinemas=002",
+      "sinopsis": "Un joven fotoperiodista de Veracruz arriesgará su vida para descubrir una verdad impactante tras hacerse cargo de la investigación que su amiga y mentora, también periodista, dejó inconclusa al caer víctima del crimen organizado. Cocodrilos, el primer largometraje del cineasta veracruzano J. Xavier Velasco, es un contundente thriller criminal que rinde homenaje a los periodistas que han perdido la vida en el ejercicio de su oficio, y que denuncia la crisis política en la que está enterrado el país.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "iHhfP7yQh_Q",
+      "trailers": [
+        "iHhfP7yQh_Q"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt21413704/",
+      "imdbId": "tt21413704",
+      "tmdbId": 1199946,
+      "votos": 82
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1189,7 +1166,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189908
+      "votos": 189932
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1218,108 +1195,6 @@
       "imdbId": "tt27672943",
       "tmdbId": 1478001,
       "votos": 17
-    },
-    "HO00010059": {
-      "titulo": "Abandonado",
-      "tituloOriginal": "L’ABANDON",
-      "director": "Vincent Garenq",
-      "pais": "Francia",
-      "ano": 2026,
-      "duracion": 100,
-      "filmId": "HO00010059",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010059?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010059&cinemas=001",
-      "sinopsis": "Pocos años después del atentado contra el semanario Charlie Hebdo, el profesor Samuel Paty dirige un debate sobre la libertad de expresión en una escuela de las afueras de París. Una mentira amplificada por las redes sociales y distorsionada por el extremismo, desata una peligrosa espiral que nadie logra detener. Las voces chocan para confrontar una verdad devastadora: cómo un rumor, un clic y la inacción colectiva pueden conducir a consecuencias irreparables. Basada en hechos reales, la película reconstruye los once últimos días del profesor Paty, asesinado en 2020.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.6,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt40435390/",
-      "imdbId": "tt40435390",
-      "tmdbId": 1645368,
-      "votos": 665
-    },
-    "HO00010226": {
-      "titulo": "Ghiexhuba/La soledad",
-      "tituloOriginal": "Amor de papel/Ghiexhuba/La soledad",
-      "director": "Sabrina Muhate",
-      "pais": "México",
-      "ano": 2021,
-      "duracion": 135,
-      "filmId": "HO00010226",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010226?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010226&cinemas=001",
-      "sinopsis": "Sabrina Muhate Dariela Pérez. Izakum Vázquez,. Alejandro Ramírez,. Claudia Santiago, Norma Pablo, Humberto Busto, Antonio Monroi, Gabriel Pascual, Moisés Cardéz, Sotera Cruz, Yan Perrouin. Ixmati casa productora 100 %, Prod: Agustín Buendía,. Pachanga antirracista. B.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "9hGwKpJO52M",
-      "trailers": [
-        "9hGwKpJO52M"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.5,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt5711408/",
-      "imdbId": "tt5711408",
-      "tmdbId": 414007,
-      "votos": 275
-    },
-    "HO00010224": {
-      "titulo": "La pelota es el Sol/8 Venado garra de jaguar",
-      "tituloOriginal": "Video poema niñas de Comachuén/La pelota es el Sol/8 venado garra ge jaguar",
-      "director": "María Conchita Díaz y Agustín Buendía",
-      "pais": null,
-      "ano": 2023,
-      "duracion": 104,
-      "filmId": "HO00010224",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010224?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010224&cinemas=001",
-      "sinopsis": "8 Venado Garra de Jaguar: Después de 900 años, 8 Venado Garra de Jaguar, el guerrero más feroz del Sur de México reencarna en un joven temeroso, al darse cuenta “La Diosa Coyote, Diosa de la discordia y el engaño” lanza un hechizo para que el pueblo pierda la memoria, dando inicio a una aventura para vencer a la bruja.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt33023287/",
-      "imdbId": "tt33023287",
-      "tmdbId": 1323002,
-      "votos": 0
-    },
-    "HO00010225": {
-      "titulo": "MaayaKo´Olelo´Ob.Mujeres Mayas.Fortaleza y sabidur",
-      "tituloOriginal": "Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortaleza y sabiduría/No somos diablas/Reconociendo Ecatepec",
-      "director": "Balam Toscano",
-      "pais": null,
-      "ano": 2026,
-      "duracion": 95,
-      "filmId": "HO00010225",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010225?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010225&cinemas=001",
-      "sinopsis": "Balam Toscano Balam Toscano y Sonia Gregorio. Alexa Mayrén, Leydiana Castañeda, Genesis Castañeda, Elena Ávila, Joselin González, Darnet Salinas,. Carla Ascencio, Magnolia Orozco, Balam Toscano, Constanza Moctezuma. Cimarrón Audiovisual y Centro de Capacitación Cinematográfica,. Pachanga antirracista. A.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
     },
     "HO00010126": {
       "titulo": "Faltas a la moral",
@@ -1421,7 +1296,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36842933/",
       "imdbId": "tt36842933",
       "tmdbId": 1404684,
-      "votos": 1961
+      "votos": 1975
     },
     "HO00000529": {
       "titulo": "Cabeza de vaca",
@@ -1498,7 +1373,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 1087
+      "votos": 1093
     },
     "HO00010231": {
       "titulo": "La pelota es el Sol/Guiexhuba",
@@ -1524,6 +1399,31 @@
       "imdbId": "tt33023287",
       "tmdbId": 1323002,
       "votos": 0
+    },
+    "HO00010222": {
+      "titulo": "Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortaleza y sabi",
+      "tituloOriginal": "Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortaleza y sabiduría",
+      "director": "Yaremi Chan Padilla",
+      "pais": "México",
+      "ano": 2021,
+      "duracion": 41,
+      "filmId": "HO00010222",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010222?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010222&cinemas=001",
+      "sinopsis": "Maaya ko'olelo'ob. Mujeres mayas. Fortaleza y sabiduría. Miniserie documental que narra la vida de tres mujeres mayas contemporáneas: Yamili Chan Dzul (Sanahcat), Socorro Loeza Flores (Tecoh) y Yazmín Novelo (Peto).",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00010217": {
       "titulo": "Nosotros/8 venado garra de jaguar",
@@ -1570,7 +1470,7 @@
       "urlImdb": "https://www.imdb.com/title/tt6857112/",
       "imdbId": "tt6857112",
       "tmdbId": 458723,
-      "votos": 401813
+      "votos": 401900
     },
     "HO00010133": {
       "titulo": "María Sabina, mujer espíritu",
@@ -1648,7 +1548,7 @@
       "urlImdb": "https://www.imdb.com/title/tt21110654/",
       "imdbId": "tt21110654",
       "tmdbId": 987400,
-      "votos": 2694
+      "votos": 2695
     },
     "HO00010061": {
       "titulo": "El desconocido del gran arco",
@@ -1675,7 +1575,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32398150/",
       "imdbId": "tt32398150",
       "tmdbId": 1290424,
-      "votos": 2377
+      "votos": 2379
     },
     "HO00010233": {
       "titulo": "La pelota es el Sol/Soy Yuyé",
@@ -1854,534 +1754,59 @@
       "imdbId": "tt0323666",
       "tmdbId": 628699,
       "votos": 28
+    },
+    "HO00000835": {
+      "titulo": "Eco de la montaña",
+      "tituloOriginal": null,
+      "director": "Nicolás Echevarría",
+      "pais": "México",
+      "ano": 2013,
+      "duracion": 80,
+      "filmId": "HO00000835",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00000835?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00000835&cinemas=003",
+      "sinopsis": "Santos de la Torre es un artista wixárika que, a pesar de ser autor de un gran mural exhibido en la estación del metro Palais Royal, vive aislado e ignorado en su país. Este documental acompaña a Santos en su peregrinaje a Wirikuta, \"el país del peyote\" en San Luis Potosi, donde pedirá permiso a los dioses para crear un nuevo mural. Ganador del premio Mezcal en el Festival Internacional de Cine en Guadalajara, Eco de la montaña lleva al espectador por un mundo de ritos donde el misticismo es la clave.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.4,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt2624396/",
+      "imdbId": "tt2624396",
+      "tmdbId": 268693,
+      "votos": 295
+    },
+    "HO00000201": {
+      "titulo": "Niño Fidencio, El Taumaturgo de Espinazo",
+      "tituloOriginal": "Niño Fidencio",
+      "director": "Nicolás Echevarría",
+      "pais": "México",
+      "ano": 1981,
+      "duracion": 80,
+      "filmId": "HO00000201",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00000201?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00000201&cinemas=003",
+      "sinopsis": "En el pueblo de Espinazo, Nuevo León, miles de devotos se congregan en el Santuario del Niño Fidencio, impulsados por su enorme fe hacia éste, quien fue un curandero y taumaturgo célebre por sus métodos y cuestionado por su misticismo. Niño Fidencio: el taumaturgo de Espinazo es un impactante documental que ahonda en las masivas peregrinaciones que conmemoran las acciones de José Fidencio. Este trabajo de Nicolás Echevarría retrata los rituales colectivos, el fanatismo y los trances espirituales de los seguidores que afirman ser poseídos por su espíritu, resultando en un crudo acercamiento sobre las extremas técnicas a las que se someten los devotos y el poder de la fe sobre ellos.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.1,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0081239/",
+      "imdbId": "tt0081239",
+      "tmdbId": 385160,
+      "votos": 31
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010091",
-      "sala": "Sala 7",
-      "horarios": [
-        "16:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009477",
-      "sala": "Sala 8",
-      "horarios": [
-        "15:15",
-        "19:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00008666",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:30",
-        "18:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:45",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009934",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:15",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010094",
-      "sala": "Sala 2",
-      "horarios": [
-        "12:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010078",
-      "sala": "Sala 9",
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009562",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009792",
-      "sala": "Sala 10",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009424",
-      "sala": "Sala 5",
-      "horarios": [
-        "17:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009929",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:15",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009278",
-      "sala": "Sala 10",
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009787",
-      "sala": "Sala 8",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009790",
-      "sala": "Sala 5",
-      "horarios": [
-        "15:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009763",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00008486",
-      "sala": "Sala 8",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010065",
-      "sala": "Sala 3",
-      "horarios": [
-        "16:00",
-        "18:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009426",
-      "sala": "Sala 4",
-      "horarios": [
-        "16:30",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:00",
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010096",
-      "sala": "Sala 9",
-      "horarios": [
-        "12:30",
-        "14:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010237",
-      "sala": null,
-      "horarios": [
-        "13:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009936",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:10",
-        "17:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010075",
-      "sala": "Sala 8",
-      "horarios": [
-        "12:00",
-        "14:30",
-        "17:00",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010094",
-      "sala": "Sala 6",
-      "horarios": [
-        "15:20",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010078",
-      "sala": "Sala 1",
-      "horarios": [
-        "14:50",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009875",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:30",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010076",
-      "sala": "Sala 1",
-      "horarios": [
-        "12:20",
-        "17:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009278",
-      "sala": "Sala 5",
-      "horarios": [
-        "15:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010222",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "12:10",
-        "14:05"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "16:05",
-        "18:05",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010063",
-      "sala": "Sala 4",
-      "horarios": [
-        "12:30",
-        "15:30",
-        "18:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010220",
-      "sala": "Sala 2",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010221",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010096",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009933",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:10",
-        "15:30",
-        "18:10",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009936",
-      "sala": "Sala 8",
-      "horarios": [
-        "11:50",
-        "14:30",
-        "16:40",
-        "18:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010075",
-      "sala": "Sala 12",
-      "horarios": [
-        "12:20",
-        "14:50",
-        "17:30",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010094",
-      "sala": "Sala 2",
-      "horarios": [
-        "12:40",
-        "15:10",
-        "17:20",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009562",
-      "sala": "Sala 1",
-      "horarios": [
-        "11:30",
-        "14:10",
-        "16:30",
-        "18:30",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009935",
-      "sala": "Sala 9",
-      "horarios": [
-        "12:10",
-        "14:20",
-        "16:50",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010095",
-      "sala": "Sala 4",
-      "horarios": [
-        "12:20",
-        "13:50",
-        "15:50",
-        "17:40",
-        "19:10",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "11:00",
-        "13:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010065",
-      "sala": "Sala 10",
-      "horarios": [
-        "15:00",
-        "17:00",
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009426",
-      "sala": "Sala 5",
-      "horarios": [
-        "11:20",
-        "13:30",
-        "15:20",
-        "17:10",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009931",
-      "sala": "Sala 3",
-      "horarios": [
-        "11:10",
-        "13:20",
-        "15:40",
-        "17:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009958",
-      "sala": "Sala 3",
-      "horarios": [
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00010096",
-      "sala": "Sala 7",
-      "horarios": [
-        "12:00",
-        "14:00",
-        "16:00",
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-18",
-      "pelicula": "HO00009932",
-      "sala": "Sala 11",
-      "horarios": [
-        "11:40",
-        "13:40",
-        "16:00",
-        "18:10",
-        "20:10"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-10-19",
@@ -4367,6 +3792,24 @@
       "sede": "003",
       "fecha": "2026-10-24",
       "pelicula": "HO00008866",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-25",
+      "pelicula": "HO00000835",
+      "sala": "Sala 7",
+      "horarios": [
+        "16:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-25",
+      "pelicula": "HO00000201",
       "sala": "Sala 7",
       "horarios": [
         "18:45"
