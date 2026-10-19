@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-19T16:31:42.679Z",
+  "generadoEn": "2026-10-19T20:00:33.285Z",
   "hoy": "2026-10-19",
   "sedes": [
     {
@@ -54,7 +54,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 273
+      "votos": 276
     },
     "HO00009477": {
       "titulo": "Convivir",
@@ -143,7 +143,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 44781
+      "votos": 45014
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -282,7 +282,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 38546
+      "votos": 39039
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -327,7 +327,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125453
+      "votos": 125465
     },
     "HO00010094": {
       "titulo": "El árbol mágico",
@@ -371,7 +371,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6342
+      "votos": 6357
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -536,7 +536,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2116
+      "votos": 2117
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -688,7 +688,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203912
+      "votos": 203920
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -761,7 +761,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189920
+      "votos": 189932
     },
     "HO00010096": {
       "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
@@ -804,7 +804,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 1525
+      "votos": 1571
     },
     "HO00010059": {
       "titulo": "Abandonado",
@@ -829,7 +829,7 @@
       "urlImdb": "https://www.imdb.com/title/tt40435390/",
       "imdbId": "tt40435390",
       "tmdbId": 1645368,
-      "votos": 665
+      "votos": 666
     },
     "HO00009875": {
       "titulo": "El violín",
@@ -908,7 +908,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 94
+      "votos": 95
     },
     "HO00010224": {
       "titulo": "La pelota es el Sol/8 Venado garra de jaguar",
@@ -992,7 +992,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203912
+      "votos": 203920
     },
     "HO00009933": {
       "titulo": "Cars 20 aniversario DOB",
@@ -1045,7 +1045,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 552219
+      "votos": 552281
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -1165,7 +1165,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189920
+      "votos": 189932
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1295,7 +1295,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36842933/",
       "imdbId": "tt36842933",
       "tmdbId": 1404684,
-      "votos": 1967
+      "votos": 1975
     },
     "HO00000529": {
       "titulo": "Cabeza de vaca",
@@ -1372,7 +1372,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 1091
+      "votos": 1093
     },
     "HO00010231": {
       "titulo": "La pelota es el Sol/Guiexhuba",
@@ -1469,7 +1469,7 @@
       "urlImdb": "https://www.imdb.com/title/tt6857112/",
       "imdbId": "tt6857112",
       "tmdbId": 458723,
-      "votos": 401845
+      "votos": 401900
     },
     "HO00010133": {
       "titulo": "María Sabina, mujer espíritu",
@@ -2196,15 +2196,6 @@
         "17:40",
         "19:10",
         "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-19",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "13:00"
       ]
     },
     {
@@ -3812,6 +3803,15 @@
       "sala": "Sala 7",
       "horarios": [
         "18:45"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-19",
+      "pelicula": "HO00009939",
+      "sala": "Sala 10",
+      "horarios": [
+        "13:00"
       ]
     }
   ]
