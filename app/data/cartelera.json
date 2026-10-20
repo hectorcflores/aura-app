@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-20T12:41:57.814Z",
+  "generadoEn": "2026-10-20T18:31:40.850Z",
   "hoy": "2026-10-20",
   "sedes": [
     {
@@ -143,7 +143,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 45346
+      "votos": 45163
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -282,7 +282,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 39915
+      "votos": 39595
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -327,7 +327,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125485
+      "votos": 125471
     },
     "HO00010094": {
       "titulo": "El árbol mágico",
@@ -371,7 +371,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6377
+      "votos": 6368
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -685,7 +685,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203929
+      "votos": 203926
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -717,7 +717,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15716284/",
       "imdbId": "tt15716284",
       "tmdbId": 1232350,
-      "votos": 525
+      "votos": 524
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -758,7 +758,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189952
+      "votos": 189939
     },
     "HO00010096": {
       "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
@@ -801,7 +801,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 1604
+      "votos": 1583
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -828,7 +828,7 @@
       "urlImdb": "https://www.imdb.com/title/tt21413704/",
       "imdbId": "tt21413704",
       "tmdbId": 1199946,
-      "votos": 83
+      "votos": 82
     },
     "HO00009875": {
       "titulo": "El violín",
@@ -874,13 +874,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 5.9,
+      "publico": 5.8,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 98
+      "votos": 96
     },
     "HO00010229": {
       "titulo": "La pelota es el Sol/Reconociendo Ecatepec/La soled",
@@ -939,7 +939,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203929
+      "votos": 203926
     },
     "HO00010227": {
       "titulo": "Nosotros/Soy Yuyé",
@@ -966,6 +966,31 @@
       "tmdbId": 1487489,
       "votos": 1
     },
+    "HO00010228": {
+      "titulo": "Revolución contra el algoritmo/No somos diablas/68",
+      "tituloOriginal": "Revolución contra el algoritmo/El improvisado/No somos diablas/68 voces",
+      "director": "Mercedes Hérnande",
+      "pais": "México",
+      "ano": 2024,
+      "duracion": 114,
+      "filmId": "HO00010228",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010228?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010228&cinemas=001",
+      "sinopsis": "El improvisado: Ema se juega la vida todos los días en su bicicleta a través de las transitadas calles de Iztapalapa cumpliendo en su labor como chalán repartidor, al tiempo que forza hacerse espacio para asistir a clases y cumplir su sueño: ser un actor profesional.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
     "HO00010060": {
       "titulo": "Solo una ilusión",
       "tituloOriginal": "JUSTE UNE ILLUSION",
@@ -991,7 +1016,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36842933/",
       "imdbId": "tt36842933",
       "tmdbId": 1404684,
-      "votos": 1990
+      "votos": 1982
     },
     "HO00009933": {
       "titulo": "Cars 20 aniversario DOB",
@@ -1044,7 +1069,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 552355
+      "votos": 552310
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1137,7 +1162,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189952
+      "votos": 189939
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1245,6 +1270,31 @@
       "tmdbId": 1161396,
       "votos": 1405
     },
+    "HO00010232": {
+      "titulo": "68 voces/Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortale",
+      "tituloOriginal": "68 voces/Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortaleza y sabiduría",
+      "director": "Varios",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 69,
+      "filmId": "HO00010232",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010232?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010232&cinemas=001",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
     "HO00010064": {
       "titulo": "El crimen del 3er piso",
       "tituloOriginal": "LE CRIME DU 3e ÉTAGE",
@@ -1270,7 +1320,7 @@
       "urlImdb": "https://www.imdb.com/title/tt38814447/",
       "imdbId": "tt38814447",
       "tmdbId": 1471224,
-      "votos": 1105
+      "votos": 1101
     },
     "HO00010231": {
       "titulo": "La pelota es el Sol/Guiexhuba",
@@ -1296,31 +1346,6 @@
       "imdbId": "tt33023287",
       "tmdbId": 1323002,
       "votos": 0
-    },
-    "HO00010222": {
-      "titulo": "Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortaleza y sabi",
-      "tituloOriginal": "Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortaleza y sabiduría",
-      "director": "Yaremi Chan Padilla",
-      "pais": "México",
-      "ano": 2021,
-      "duracion": 41,
-      "filmId": "HO00010222",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010222?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010222&cinemas=001",
-      "sinopsis": "Maaya ko'olelo'ob. Mujeres mayas. Fortaleza y sabiduría. Miniserie documental que narra la vida de tres mujeres mayas contemporáneas: Yamili Chan Dzul (Sanahcat), Socorro Loeza Flores (Tecoh) y Yazmín Novelo (Peto).",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
     },
     "HO00010217": {
       "titulo": "Nosotros/8 venado garra de jaguar",
@@ -1367,7 +1392,7 @@
       "urlImdb": "https://www.imdb.com/title/tt6857112/",
       "imdbId": "tt6857112",
       "tmdbId": 458723,
-      "votos": 401959
+      "votos": 401944
     },
     "HO00010133": {
       "titulo": "María Sabina, mujer espíritu",
@@ -1445,7 +1470,7 @@
       "urlImdb": "https://www.imdb.com/title/tt21110654/",
       "imdbId": "tt21110654",
       "tmdbId": 987400,
-      "votos": 2698
+      "votos": 2697
     },
     "HO00010061": {
       "titulo": "El desconocido del gran arco",
@@ -1472,7 +1497,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32398150/",
       "imdbId": "tt32398150",
       "tmdbId": 1290424,
-      "votos": 2383
+      "votos": 2380
     },
     "HO00010233": {
       "titulo": "La pelota es el Sol/Soy Yuyé",
@@ -2015,6 +2040,15 @@
     {
       "sede": "001",
       "fecha": "2026-10-20",
+      "pelicula": "HO00010228",
+      "sala": "Sala 2",
+      "horarios": [
+        "16:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-10-20",
       "pelicula": "HO00010096",
       "sala": "Sala 3",
       "horarios": [
@@ -2403,6 +2437,15 @@
     {
       "sede": "001",
       "fecha": "2026-10-21",
+      "pelicula": "HO00010232",
+      "sala": "Sala 2",
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-10-21",
       "pelicula": "HO00010075",
       "sala": "Sala 8",
       "horarios": [
@@ -2475,15 +2518,6 @@
       "sala": "Sala 2",
       "horarios": [
         "16:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-21",
-      "pelicula": "HO00010222",
-      "sala": "Sala 2",
-      "horarios": [
-        "18:00"
       ]
     },
     {
