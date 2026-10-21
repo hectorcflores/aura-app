@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-10-20T18:31:40.850Z",
-  "hoy": "2026-10-20",
+  "generadoEn": "2026-10-21T12:54:09.151Z",
+  "hoy": "2026-10-21",
   "sedes": [
     {
       "id": "003",
@@ -19,13 +19,13 @@
     }
   ],
   "fechas": [
-    "2026-10-20",
     "2026-10-21",
     "2026-10-22",
     "2026-10-23",
     "2026-10-24",
     "2026-10-25",
-    "2026-10-26"
+    "2026-10-26",
+    "2026-10-27"
   ],
   "peliculas": {
     "HO00010091": {
@@ -55,6 +55,56 @@
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
       "votos": 276
+    },
+    "HO00000529": {
+      "titulo": "Cabeza de vaca",
+      "tituloOriginal": "Cabeza de Vaca",
+      "director": "Nicolás Echevarría",
+      "pais": "México-España-Reino Unido",
+      "ano": 1990,
+      "duracion": 112,
+      "filmId": "HO00000529",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00000529?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00000529&cinemas=003",
+      "sinopsis": "En 1527, Alvar Núñez Cabeza de Vaca, tesorero de Carlos I de España, se embarca en la expedición de Pánfilo de Narváez a Florida. Cuando la expedición naufraga en las costas de Luisiana, Cabeza de Vaca es apresado y convertido en esclavo por las etnias de la región. Durante varios años Alvar Núñez será el servidor de un chamán trashumante y aprenderá sus técnicas curativas. El primer largometraje de ficción de Nicolás Echevarría fue esta ambiciosa épica en la que el director renunció a la recreación histórica rigurosa, optando por plasmar una visión plástica del mundo americano del siglo XVI, su riqueza cultural y la desorientación geográfica, moral y espiritual del conquistador europeo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0101529/",
+      "imdbId": "tt0101529",
+      "tmdbId": 41785,
+      "votos": 1294
+    },
+    "HO00010153": {
+      "titulo": "Clase magistral Cineplástica",
+      "tituloOriginal": "CLASE MAGISTRAL CINE PLÁSTICA",
+      "director": "Dra. Itala Schmelz",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 120,
+      "filmId": "HO00010153",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010153?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010153&cinemas=003",
+      "sinopsis": "Intercambios transdisciplinares en el cine experimental (décadas 60 y 70 del S. XX en México) Imparte Dra. Itala Schmelz miércoles 21 de octubre 2026 sala 4, Cineteca Nacional México Entrada libre, cupo limitado Cortesías en taquilla el día del evento",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00009477": {
       "titulo": "Convivir",
@@ -143,7 +193,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 45163
+      "votos": 45524
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -282,7 +332,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 39595
+      "votos": 40611
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -327,7 +377,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125471
+      "votos": 125496
     },
     "HO00010094": {
       "titulo": "El árbol mágico",
@@ -371,7 +421,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6368
+      "votos": 6386
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -400,31 +450,6 @@
       "imdbId": "tt36047799",
       "tmdbId": 1303398,
       "votos": 21
-    },
-    "HO00010126": {
-      "titulo": "Faltas a la moral",
-      "tituloOriginal": null,
-      "director": "Ismael Rodríguez",
-      "pais": "México",
-      "ano": 1969,
-      "duracion": 85,
-      "filmId": "HO00010126",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010126?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010126&cinemas=003",
-      "sinopsis": "Rogelio vuelve a su trabajo después de una prolongada ausencia debido a que perdió una mano. Su jefe Andrés, lo convierte en empleado de confianza. Rogelio está enamorado de Marta pero ella está casada con Pablo, un maestro de escuela, que es muy duro con sus alumnos y bebe mucho. Marta tiene una hermana gemela, Alicia, que es una prostituta que desea regenerarse. Pablo está enamorado de Alicia. Rogelio le propone matrimonio a Alicia sin conocer su pasado, pero al saberlo rompe el compromiso. Alicia cree que fue Marta quien se lo dijo y decide seducir a Pablo. Marta mata de un tiro a su hermana y Pablo de suicida.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 5.8,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0225684/",
-      "imdbId": "tt0225684",
-      "tmdbId": 330280,
-      "votos": 69
     },
     "HO00009562": {
       "titulo": "Gracias por operar con nuestro banco",
@@ -480,6 +505,34 @@
       "tmdbId": null,
       "votos": null
     },
+    "HO00009424": {
+      "titulo": "Kix: El rey de las calles",
+      "tituloOriginal": "Kix",
+      "director": "Dávid Mikulán y Bálint Révész",
+      "pais": "Hungría-Francia-Croacia",
+      "ano": 2024,
+      "duracion": 92,
+      "filmId": "HO00009424",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009424?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009424&cinemas=003",
+      "sinopsis": "Sanyi es un niño de ocho años, salvaje y enérgico, que recorre las calles de Budapest en su patineta. La ciudad es su patio de juegos, un refugio lejos del diminuto departamento de una sola habitación de su familia. Un día, por casualidad, conoce a los cineastas Dávid Révész y Bálint Mikulán, lo que da lugar a una larga amistad y a una película íntima, indómita y cautivadora. A lo largo de 12 años, Kix documenta la vida de Sanyi, marcada por las dificultades familiares, los problemas escolares y “travesuras” que tienen consecuencias cada vez más graves. Con un estilo de video punk y realismo crudo, Kix combina una rebeldía total con un compromiso social genuino, incluso cuando la historia da un giro trágico.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "AqxhXqHV3xk",
+      "trailers": [
+        "AqxhXqHV3xk",
+        "Mx0TnmEjqbE"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt32034405/",
+      "imdbId": "tt32034405",
+      "tmdbId": 1161396,
+      "votos": 1405
+    },
     "HO00009929": {
       "titulo": "La bachata del biónico",
       "tituloOriginal": "La Bachata de Bionico",
@@ -533,7 +586,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2119
+      "votos": 2121
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -568,33 +621,6 @@
       "imdbId": "tt37813097",
       "tmdbId": 1459062,
       "votos": 191
-    },
-    "HO00009790": {
-      "titulo": "Las ruinas nuevas",
-      "tituloOriginal": null,
-      "director": "Manuel Embalse",
-      "pais": "Argentina",
-      "ano": 2024,
-      "duracion": 89,
-      "filmId": "HO00009790",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009790?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009790&cinemas=003",
-      "sinopsis": "Manuel Embalse presenta en su segundo largometraje un ensayo audiovisual que se aproxima, al igual que otras producciones del colectivo Antes muerto cine, a lo experimental. Un diario digital donde los géneros hibridan, transitando por el documental y adoptando cuestionamientos y líneas de pensamiento de la ciencia ficción. Embalse desarrolla una divagación ensayística en torno a la basura electrónica. ¿A dónde va?, ¿quién la ensambla?, ¿quién la desarma? y ¿qué historia contaría sobre nuestra existencia humana? son algunas de las preguntas que se pondrán sobre la mesa. En el camino por intentar responderlas iremos descubriendo las ruinas de un mundo que cohabita con nosotres en total sigilo.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "T6Wg9Bhtvcs",
-      "trailers": [
-        "T6Wg9Bhtvcs"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1252645,
-      "votos": 0
     },
     "HO00009763": {
       "titulo": "Lo que queda de ti",
@@ -685,7 +711,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203926
+      "votos": 203935
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -717,7 +743,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15716284/",
       "imdbId": "tt15716284",
       "tmdbId": 1232350,
-      "votos": 524
+      "votos": 525
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -758,7 +784,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189939
+      "votos": 189976
     },
     "HO00010096": {
       "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
@@ -796,39 +822,69 @@
           "texto": "When the sozzled farmer turns the pumpkin patch into something resembling the Somme, and with Halloween barely days away, \"Shaun\" comes up with a cunning wheeze.",
           "autor": "CinemaSerf",
           "url": "https://www.themoviedb.org/review/6aa7b9e8c71f77438c15aa41"
+        },
+        {
+          "texto": "filmreviewhaiku Painstaking, each frame Built by hand, still so funny Fun from start to end",
+          "autor": "ianrathbone",
+          "url": "https://www.themoviedb.org/review/6ad79828e9172d96ca7a5682"
         }
       ],
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 1583
+      "votos": 1616
     },
-    "HO00009936": {
-      "titulo": "Cocodrilos",
-      "tituloOriginal": null,
-      "director": "J. Xavier Velasco",
+    "HO00010232": {
+      "titulo": "68 voces/Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortale",
+      "tituloOriginal": "68 voces/Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortaleza y sabiduría",
+      "director": "Varios",
       "pais": "México",
-      "ano": 2025,
-      "duracion": 100,
-      "filmId": "HO00009936",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009936?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009936&cinemas=001",
-      "sinopsis": "Un joven fotoperiodista de Veracruz arriesgará su vida para descubrir una verdad impactante tras hacerse cargo de la investigación que su amiga y mentora, también periodista, dejó inconclusa al caer víctima del crimen organizado. Cocodrilos, el primer largometraje del cineasta veracruzano J. Xavier Velasco, es un contundente thriller criminal que rinde homenaje a los periodistas que han perdido la vida en el ejercicio de su oficio, y que denuncia la crisis política en la que está enterrado el país.",
+      "ano": 2026,
+      "duracion": 69,
+      "filmId": "HO00010232",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010232?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010232&cinemas=001",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "iHhfP7yQh_Q",
-      "trailers": [
-        "iHhfP7yQh_Q"
-      ],
-      "trailerFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 8.3,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00010064": {
+      "titulo": "El crimen del 3er piso",
+      "tituloOriginal": "LE CRIME DU 3e ÉTAGE",
+      "director": "Rémi Bezançon",
+      "pais": "Francia",
+      "ano": 2026,
+      "duracion": 104,
+      "filmId": "HO00010064",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010064?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010064&cinemas=001",
+      "sinopsis": "Colette, una profesora universitaria especialista en la obra de Alfred Hitchcock, sospecha que su vecino ha cometido un asesinato. Su esposo François, un escritor de novelas policíacas, al principio duda de su teoría, pero termina por dejarse llevar por la disparatada investigación de Colette. A medida que se acumulan las pistas y el misterio crece, la pareja se convierte en un inesperado dúo de detectives para descifrar si realmente ocurrió un crimen en el 3er piso. Un thriller ligero y magistralmente elaborado que sirve como homenaje al Maestro del Suspenso.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "w5W9KtBWeVc",
+      "trailers": [
+        "w5W9KtBWeVc"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.2,
       "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt21413704/",
-      "imdbId": "tt21413704",
-      "tmdbId": 1199946,
-      "votos": 82
+      "urlImdb": "https://www.imdb.com/title/tt38814447/",
+      "imdbId": "tt38814447",
+      "tmdbId": 1471224,
+      "votos": 1111
     },
     "HO00009875": {
       "titulo": "El violín",
@@ -853,7 +909,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0451966/",
       "imdbId": "tt0451966",
       "tmdbId": 68259,
-      "votos": 2701
+      "votos": 2702
     },
     "HO00010076": {
       "titulo": "Hombre al agua",
@@ -880,18 +936,18 @@
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 96
+      "votos": 100
     },
-    "HO00010229": {
-      "titulo": "La pelota es el Sol/Reconociendo Ecatepec/La soled",
-      "tituloOriginal": "La pelota es el Sol/Amor de papel/Reconociendo Ecatepec/La soledad -",
-      "director": "Yamurith Gallegos Macario",
+    "HO00010231": {
+      "titulo": "La pelota es el Sol/Guiexhuba",
+      "tituloOriginal": "La pelota es el Sol/Guiexhuba -",
+      "director": "Varios",
       "pais": "México",
-      "ano": 2024,
-      "duracion": 111,
-      "filmId": "HO00010229",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010229?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010229&cinemas=001",
+      "ano": 2026,
+      "duracion": 65,
+      "filmId": "HO00010231",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010231?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010231&cinemas=001",
       "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
@@ -902,10 +958,10 @@
       "publico": null,
       "publicoFuente": null,
       "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "urlImdb": "https://www.imdb.com/title/tt33023287/",
+      "imdbId": "tt33023287",
+      "tmdbId": 1323002,
+      "votos": 0
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -939,84 +995,54 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203926
+      "votos": 203935
     },
-    "HO00010227": {
-      "titulo": "Nosotros/Soy Yuyé",
-      "tituloOriginal": "Nosotros",
-      "director": "Horacio García Rojas",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 91,
-      "filmId": "HO00010227",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010227?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010227&cinemas=001",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+    "HO00010217": {
+      "titulo": "Nosotros/8 venado garra de jaguar",
+      "tituloOriginal": "Nosotros/Amor de papel/8 venado garra de jaguar",
+      "director": "María Conchita Díaz y Agustín Buendía",
+      "pais": null,
+      "ano": 2023,
+      "duracion": 122,
+      "filmId": "HO00010217",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010217?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010217&cinemas=001",
+      "sinopsis": "Christian trabaja en una librería, es fanático de la literatura y disfruta su trabajo, es un soñador y siempre imagina como sería su vida con los hombres de acuerdo al libro que eligen. Dania, su compañera de trabajo y amiga siempre le hace segunda. La llegada de Sebastián, un atractivo cliente, pone en cuestionamiento sus prejuicios.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1487489,
-      "votos": 1
-    },
-    "HO00010228": {
-      "titulo": "Revolución contra el algoritmo/No somos diablas/68",
-      "tituloOriginal": "Revolución contra el algoritmo/El improvisado/No somos diablas/68 voces",
-      "director": "Mercedes Hérnande",
-      "pais": "México",
-      "ano": 2024,
-      "duracion": 114,
-      "filmId": "HO00010228",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010228?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010228&cinemas=001",
-      "sinopsis": "El improvisado: Ema se juega la vida todos los días en su bicicleta a través de las transitadas calles de Iztapalapa cumpliendo en su labor como chalán repartidor, al tiempo que forza hacerse espacio para asistir a clases y cumplir su sueño: ser un actor profesional.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010060": {
-      "titulo": "Solo una ilusión",
-      "tituloOriginal": "JUSTE UNE ILLUSION",
-      "director": "Eric Toledano",
-      "pais": "Olivier Nakache, Francia",
-      "ano": 2026,
-      "duracion": 119,
-      "filmId": "HO00010060",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010060?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010060&cinemas=001",
-      "sinopsis": "La historia se sitúa en 1985 en los suburbios de París. Vincent está a punto de cumplir 13 años y su vida transcurre entre su hermano mayor distante, sus padres en constante conflicto y sus amigos de la escuela. Mientras trata de entender por qué los adultos están tan perdidos, compartiremos sus dudas sobre la identidad cultural, la amistad, la familia, la religión y los primeros atisbos del amor. Una comedia tierna y luminosa sobre esa edad en la que la esperanza de cambiar el mundo no era \"sólo una ilusión\". Los directores de Amigos se sumergen en el pasado para contarnos una hermosa historia sobre el paso a la adultez con trasfondo de retrato familiar.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "vZtK0AdeXk8",
+      "trailer": "nzCyY_fTowA",
       "trailers": [
-        "vZtK0AdeXk8"
+        "nzCyY_fTowA",
+        "81M2mgITETY",
+        "lKuvOrCmFTY",
+        "hNCmb-4oXJA",
+        "KceZ8KfUIIE"
       ],
       "trailerFuente": "TMDB",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.3,
+      "publico": 6.8,
       "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt36842933/",
-      "imdbId": "tt36842933",
-      "tmdbId": 1404684,
-      "votos": 1982
+      "resenas": [
+        {
+          "texto": "Jordan peele is one of the best dictators in the world with only two movies and this movie is amazing 96%",
+          "autor": "moviegodjohn",
+          "url": "https://www.themoviedb.org/review/5c855c6bc3a3684e8fdd63ff"
+        },
+        {
+          "texto": "If you enjoy reading my Spoiler-Free reviews, please follow my blog :) First of all, you can read my review of one of my favorite movies of 2017, Jordan Peele‘s Get Out by clicking its…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/5c926f1bc3a3686111535623"
+        },
+        {
+          "texto": "Led by stellar performances and careful directing, Us asks more questions than it answers, giving the audience all the tools needed to solve every single mystery for themselves, making this…",
+          "autor": "TheJonathanSim",
+          "url": "https://www.themoviedb.org/review/5c9aa1dac3a36872983d2206"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt6857112/",
+      "imdbId": "tt6857112",
+      "tmdbId": 458723,
+      "votos": 402012
     },
     "HO00009933": {
       "titulo": "Cars 20 aniversario DOB",
@@ -1069,7 +1095,34 @@
       "urlImdb": "https://www.imdb.com/title/tt0317219/",
       "imdbId": "tt0317219",
       "tmdbId": 920,
-      "votos": 552310
+      "votos": 552427
+    },
+    "HO00009936": {
+      "titulo": "Cocodrilos",
+      "tituloOriginal": null,
+      "director": "J. Xavier Velasco",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 100,
+      "filmId": "HO00009936",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009936?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009936&cinemas=002",
+      "sinopsis": "Un joven fotoperiodista de Veracruz arriesgará su vida para descubrir una verdad impactante tras hacerse cargo de la investigación que su amiga y mentora, también periodista, dejó inconclusa al caer víctima del crimen organizado. Cocodrilos, el primer largometraje del cineasta veracruzano J. Xavier Velasco, es un contundente thriller criminal que rinde homenaje a los periodistas que han perdido la vida en el ejercicio de su oficio, y que denuncia la crisis política en la que está enterrado el país.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "iHhfP7yQh_Q",
+      "trailers": [
+        "iHhfP7yQh_Q"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt21413704/",
+      "imdbId": "tt21413704",
+      "tmdbId": 1199946,
+      "votos": 83
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1162,7 +1215,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 189939
+      "votos": 189976
     },
     "HO00009932": {
       "titulo": "Sobre las olas",
@@ -1192,207 +1245,32 @@
       "tmdbId": 1478001,
       "votos": 17
     },
-    "HO00000529": {
-      "titulo": "Cabeza de vaca",
-      "tituloOriginal": "Cabeza de Vaca",
-      "director": "Nicolás Echevarría",
-      "pais": "México-España-Reino Unido",
-      "ano": 1990,
-      "duracion": 112,
-      "filmId": "HO00000529",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00000529?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00000529&cinemas=003",
-      "sinopsis": "En 1527, Alvar Núñez Cabeza de Vaca, tesorero de Carlos I de España, se embarca en la expedición de Pánfilo de Narváez a Florida. Cuando la expedición naufraga en las costas de Luisiana, Cabeza de Vaca es apresado y convertido en esclavo por las etnias de la región. Durante varios años Alvar Núñez será el servidor de un chamán trashumante y aprenderá sus técnicas curativas. El primer largometraje de ficción de Nicolás Echevarría fue esta ambiciosa épica en la que el director renunció a la recreación histórica rigurosa, optando por plasmar una visión plástica del mundo americano del siglo XVI, su riqueza cultural y la desorientación geográfica, moral y espiritual del conquistador europeo.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0101529/",
-      "imdbId": "tt0101529",
-      "tmdbId": 41785,
-      "votos": 1294
-    },
-    "HO00010153": {
-      "titulo": "Clase magistral Cineplástica",
-      "tituloOriginal": "CLASE MAGISTRAL CINE PLÁSTICA",
-      "director": "Dra. Itala Schmelz",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 120,
-      "filmId": "HO00010153",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010153?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010153&cinemas=003",
-      "sinopsis": "Intercambios transdisciplinares en el cine experimental (décadas 60 y 70 del S. XX en México) Imparte Dra. Itala Schmelz miércoles 21 de octubre 2026 sala 4, Cineteca Nacional México Entrada libre, cupo limitado Cortesías en taquilla el día del evento",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00009424": {
-      "titulo": "Kix: El rey de las calles",
-      "tituloOriginal": "Kix",
-      "director": "Dávid Mikulán y Bálint Révész",
-      "pais": "Hungría-Francia-Croacia",
+    "HO00009790": {
+      "titulo": "Las ruinas nuevas",
+      "tituloOriginal": null,
+      "director": "Manuel Embalse",
+      "pais": "Argentina",
       "ano": 2024,
-      "duracion": 92,
-      "filmId": "HO00009424",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009424?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009424&cinemas=003",
-      "sinopsis": "Sanyi es un niño de ocho años, salvaje y enérgico, que recorre las calles de Budapest en su patineta. La ciudad es su patio de juegos, un refugio lejos del diminuto departamento de una sola habitación de su familia. Un día, por casualidad, conoce a los cineastas Dávid Révész y Bálint Mikulán, lo que da lugar a una larga amistad y a una película íntima, indómita y cautivadora. A lo largo de 12 años, Kix documenta la vida de Sanyi, marcada por las dificultades familiares, los problemas escolares y “travesuras” que tienen consecuencias cada vez más graves. Con un estilo de video punk y realismo crudo, Kix combina una rebeldía total con un compromiso social genuino, incluso cuando la historia da un giro trágico.",
+      "duracion": 89,
+      "filmId": "HO00009790",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009790?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009790&cinemas=003",
+      "sinopsis": "Manuel Embalse presenta en su segundo largometraje un ensayo audiovisual que se aproxima, al igual que otras producciones del colectivo Antes muerto cine, a lo experimental. Un diario digital donde los géneros hibridan, transitando por el documental y adoptando cuestionamientos y líneas de pensamiento de la ciencia ficción. Embalse desarrolla una divagación ensayística en torno a la basura electrónica. ¿A dónde va?, ¿quién la ensambla?, ¿quién la desarma? y ¿qué historia contaría sobre nuestra existencia humana? son algunas de las preguntas que se pondrán sobre la mesa. En el camino por intentar responderlas iremos descubriendo las ruinas de un mundo que cohabita con nosotres en total sigilo.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "AqxhXqHV3xk",
+      "trailer": "T6Wg9Bhtvcs",
       "trailers": [
-        "AqxhXqHV3xk",
-        "Mx0TnmEjqbE"
+        "T6Wg9Bhtvcs"
       ],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt32034405/",
-      "imdbId": "tt32034405",
-      "tmdbId": 1161396,
-      "votos": 1405
-    },
-    "HO00010232": {
-      "titulo": "68 voces/Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortale",
-      "tituloOriginal": "68 voces/Maaya Ko´Olelo´Ob. Mujeres Mayas. Fortaleza y sabiduría",
-      "director": "Varios",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 69,
-      "filmId": "HO00010232",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010232?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010232&cinemas=001",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
       "publico": null,
       "publicoFuente": null,
       "resenas": [],
       "urlImdb": null,
       "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010064": {
-      "titulo": "El crimen del 3er piso",
-      "tituloOriginal": "LE CRIME DU 3e ÉTAGE",
-      "director": "Rémi Bezançon",
-      "pais": "Francia",
-      "ano": 2026,
-      "duracion": 104,
-      "filmId": "HO00010064",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010064?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010064&cinemas=001",
-      "sinopsis": "Colette, una profesora universitaria especialista en la obra de Alfred Hitchcock, sospecha que su vecino ha cometido un asesinato. Su esposo François, un escritor de novelas policíacas, al principio duda de su teoría, pero termina por dejarse llevar por la disparatada investigación de Colette. A medida que se acumulan las pistas y el misterio crece, la pareja se convierte en un inesperado dúo de detectives para descifrar si realmente ocurrió un crimen en el 3er piso. Un thriller ligero y magistralmente elaborado que sirve como homenaje al Maestro del Suspenso.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "w5W9KtBWeVc",
-      "trailers": [
-        "w5W9KtBWeVc"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.2,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt38814447/",
-      "imdbId": "tt38814447",
-      "tmdbId": 1471224,
-      "votos": 1101
-    },
-    "HO00010231": {
-      "titulo": "La pelota es el Sol/Guiexhuba",
-      "tituloOriginal": "La pelota es el Sol/Guiexhuba -",
-      "director": "Varios",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 65,
-      "filmId": "HO00010231",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010231?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010231&cinemas=001",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt33023287/",
-      "imdbId": "tt33023287",
-      "tmdbId": 1323002,
+      "tmdbId": 1252645,
       "votos": 0
-    },
-    "HO00010217": {
-      "titulo": "Nosotros/8 venado garra de jaguar",
-      "tituloOriginal": "Nosotros/Amor de papel/8 venado garra de jaguar",
-      "director": "María Conchita Díaz y Agustín Buendía",
-      "pais": null,
-      "ano": 2023,
-      "duracion": 122,
-      "filmId": "HO00010217",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010217?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010217&cinemas=001",
-      "sinopsis": "Christian trabaja en una librería, es fanático de la literatura y disfruta su trabajo, es un soñador y siempre imagina como sería su vida con los hombres de acuerdo al libro que eligen. Dania, su compañera de trabajo y amiga siempre le hace segunda. La llegada de Sebastián, un atractivo cliente, pone en cuestionamiento sus prejuicios.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "nzCyY_fTowA",
-      "trailers": [
-        "nzCyY_fTowA",
-        "81M2mgITETY",
-        "lKuvOrCmFTY",
-        "hNCmb-4oXJA",
-        "KceZ8KfUIIE"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.8,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Jordan peele is one of the best dictators in the world with only two movies and this movie is amazing 96%",
-          "autor": "moviegodjohn",
-          "url": "https://www.themoviedb.org/review/5c855c6bc3a3684e8fdd63ff"
-        },
-        {
-          "texto": "If you enjoy reading my Spoiler-Free reviews, please follow my blog :) First of all, you can read my review of one of my favorite movies of 2017, Jordan Peele‘s Get Out by clicking its…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/5c926f1bc3a3686111535623"
-        },
-        {
-          "texto": "Led by stellar performances and careful directing, Us asks more questions than it answers, giving the audience all the tools needed to solve every single mystery for themselves, making this…",
-          "autor": "TheJonathanSim",
-          "url": "https://www.themoviedb.org/review/5c9aa1dac3a36872983d2206"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt6857112/",
-      "imdbId": "tt6857112",
-      "tmdbId": 458723,
-      "votos": 401944
     },
     "HO00010133": {
       "titulo": "María Sabina, mujer espíritu",
@@ -1470,7 +1348,7 @@
       "urlImdb": "https://www.imdb.com/title/tt21110654/",
       "imdbId": "tt21110654",
       "tmdbId": 987400,
-      "votos": 2697
+      "votos": 2700
     },
     "HO00010061": {
       "titulo": "El desconocido del gran arco",
@@ -1497,7 +1375,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32398150/",
       "imdbId": "tt32398150",
       "tmdbId": 1290424,
-      "votos": 2380
+      "votos": 2386
     },
     "HO00010233": {
       "titulo": "La pelota es el Sol/Soy Yuyé",
@@ -1726,507 +1604,42 @@
       "imdbId": "tt0081239",
       "tmdbId": 385160,
       "votos": 31
+    },
+    "HO00010127": {
+      "titulo": "Charla Viudas explosivas",
+      "tituloOriginal": "THE HONEYMOON KILLERS",
+      "director": "Leonard Kastle",
+      "pais": "Estados Unidos",
+      "ano": 1969,
+      "duracion": 115,
+      "filmId": "HO00010127",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010127?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010127&cinemas=003",
+      "sinopsis": "Leonard Kastle Leonard Kastle. Shirley Stoler (Martha Beck) / Tony Lo Bianco (Raymond Fernandez) / Mary Jane Higby (Janet Fay) / Doris Roberts (Bunny) / Kip McArdle (Delphine Downing) / Marilyn Chris (Myrtle Young) / Dortha Duckworth (mamá) / Barbara Cason (Evelyn Long) / Ann Harris (Doris). Sin distribuidor. B15.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "rjPrNZxXUw0",
+      "trailers": [
+        "rjPrNZxXUw0"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "The \"anti-Bonnie and Clyde,\" as described by the film's director Leonard Kastle. Who? Yeah, I never heard of him either.",
+          "autor": "micar6",
+          "url": "https://www.themoviedb.org/review/66e76b38050f14e4fccfbdff"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0064437/",
+      "imdbId": "tt0064437",
+      "tmdbId": 10237,
+      "votos": 6576
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010091",
-      "sala": "Sala 7",
-      "horarios": [
-        "16:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009477",
-      "sala": "Sala 8",
-      "horarios": [
-        "15:15",
-        "19:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:30",
-        "18:45",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00008666",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:30",
-        "18:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:45",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009934",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010094",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010078",
-      "sala": "Sala 9",
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010126",
-      "sala": "Sala 4",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009562",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009792",
-      "sala": "Sala 10",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009929",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:15",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009278",
-      "sala": "Sala 10",
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009787",
-      "sala": "Sala 8",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009790",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009763",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00008486",
-      "sala": "Sala 8",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010065",
-      "sala": "Sala 3",
-      "horarios": [
-        "16:00",
-        "18:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009426",
-      "sala": "Sala 4",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010096",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009936",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:20",
-        "17:50"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010075",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:30",
-        "17:00",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010094",
-      "sala": "Sala 6",
-      "horarios": [
-        "15:30",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010078",
-      "sala": "Sala 1",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009875",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:30",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010076",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:30",
-        "18:20"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009278",
-      "sala": "Sala 5",
-      "horarios": [
-        "15:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010229",
-      "sala": "Sala 2",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:40",
-        "15:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "17:40",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010227",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010228",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010096",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010060",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:15",
-        "15:50",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009933",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:10",
-        "15:30",
-        "18:10",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009936",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:30",
-        "16:40",
-        "18:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010075",
-      "sala": "Sala 12",
-      "horarios": [
-        "14:50",
-        "17:30",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010094",
-      "sala": "Sala 2",
-      "horarios": [
-        "15:10",
-        "17:20",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009562",
-      "sala": "Sala 1",
-      "horarios": [
-        "14:10",
-        "16:30",
-        "18:30",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009935",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:20",
-        "16:50",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010095",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:50",
-        "15:50",
-        "17:40",
-        "19:10",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "13:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010065",
-      "sala": "Sala 10",
-      "horarios": [
-        "15:00",
-        "17:00",
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009426",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:30",
-        "15:20",
-        "17:10",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009931",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:30",
-        "15:40",
-        "17:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009958",
-      "sala": "Sala 3",
-      "horarios": [
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00010096",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:00",
-        "16:00",
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-20",
-      "pelicula": "HO00009932",
-      "sala": "Sala 11",
-      "horarios": [
-        "13:40",
-        "16:00",
-        "18:10",
-        "20:10"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-10-21",
@@ -3281,6 +2694,24 @@
       "sede": "003",
       "fecha": "2026-10-26",
       "pelicula": "HO00000529",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-27",
+      "pelicula": "HO00010127",
+      "sala": "Sala 4",
+      "horarios": [
+        "18:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-10-27",
+      "pelicula": "HO00010134",
       "sala": "Sala 7",
       "horarios": [
         "18:45"
