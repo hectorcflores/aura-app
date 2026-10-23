@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-23T12:36:20.685Z",
+  "generadoEn": "2026-10-23T18:28:01.975Z",
   "hoy": "2026-10-23",
   "sedes": [
     {
@@ -1161,10 +1161,10 @@
     "HO00010179": {
       "titulo": "Cocaína negra",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Cristóbal Valenzuela",
+      "pais": "Chile, Uruguay",
+      "ano": 2026,
+      "duracion": 84,
       "filmId": "HO00010179",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010179?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010179&cinemas=002",
@@ -1265,10 +1265,10 @@
     "HO00010186": {
       "titulo": "La bola",
       "tituloOriginal": "La Bola",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Alfonso Coronel",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 137,
       "filmId": "HO00010186",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010186?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010186&cinemas=002",
@@ -1290,10 +1290,10 @@
     "HO00010196": {
       "titulo": "Motel Paraíso",
       "tituloOriginal": "Motel Paraiso",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "José Eduardo Castilla",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 90,
       "filmId": "HO00010196",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010196?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010196&cinemas=002",
@@ -1338,31 +1338,6 @@
       "imdbId": "tt0158855",
       "tmdbId": 304346,
       "votos": 179
-    },
-    "HO00010242": {
-      "titulo": "Programa 1 - Juego y aprendizaje",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010242",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010242?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010242&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
     },
     "HO00010203": {
       "titulo": "Regreso / Return",
@@ -1497,11 +1472,11 @@
     },
     "HO00010172": {
       "titulo": "A River in the Middle of the Sky",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "tituloOriginal": "Salu Dao Tangngana Langi",
+      "director": "Dirección Wahyu Al Mardhani",
+      "pais": "Chris C.F, Australia, Indonesia",
+      "ano": 2023,
+      "duracion": 80,
       "filmId": "HO00010172",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010172?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010172&cinemas=002",
@@ -1517,16 +1492,16 @@
       "resenas": [],
       "urlImdb": null,
       "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "tmdbId": 1418819,
+      "votos": 0
     },
     "HO00010188": {
       "titulo": "La mirada de Frida",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Trisha Ziff",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 83,
       "filmId": "HO00010188",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010188?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010188&cinemas=002",
@@ -1547,11 +1522,11 @@
     },
     "HO00010190": {
       "titulo": "La Pieta",
-      "tituloOriginal": "La Pietà",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "tituloOriginal": "La pietà",
+      "director": "Rafa Molés",
+      "pais": "Pepe Andreu, España, Islandia, Lituania",
+      "ano": 2026,
+      "duracion": 82,
       "filmId": "HO00010190",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010190?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010190&cinemas=002",
@@ -1573,10 +1548,10 @@
     "HO00010194": {
       "titulo": "Mi regreso a Rusia",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Boris Kozlov",
+      "pais": "Inna Afinogenova, España",
+      "ano": 2026,
+      "duracion": 79,
       "filmId": "HO00010194",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010194?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010194&cinemas=002",
@@ -1623,10 +1598,10 @@
     "HO00010205": {
       "titulo": "Sere Kaniye",
       "tituloOriginal": "Serê Kaniyê",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Olmo Couto",
+      "pais": "España, Siria",
+      "ano": 2025,
+      "duracion": 63,
       "filmId": "HO00010205",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010205?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010205&cinemas=002",
@@ -1644,31 +1619,6 @@
       "imdbId": null,
       "tmdbId": 1551959,
       "votos": 0
-    },
-    "HO00010240": {
-      "titulo": "Coloquio de Psicoanálisis y Cine",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010240",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010240?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010240&cinemas=003",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
     },
     "HO00000835": {
       "titulo": "Eco de la montaña",
@@ -1775,10 +1725,10 @@
     "HO00010199": {
       "titulo": "Persistes en mi memoria",
       "tituloOriginal": null,
-      "director": null,
+      "director": "Jorge Luis Gómez",
       "pais": null,
-      "ano": null,
-      "duracion": null,
+      "ano": 2026,
+      "duracion": 2026,
       "filmId": "HO00010199",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010199?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010199&cinemas=002",
@@ -1800,10 +1750,10 @@
     "HO00010201": {
       "titulo": "Ponse Lama",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Nagru Geshe Gelek Jimpa",
+      "pais": "México, Nepal",
+      "ano": 2026,
+      "duracion": 92,
       "filmId": "HO00010201",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010201?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010201&cinemas=002",
@@ -1850,10 +1800,10 @@
     "HO00010208": {
       "titulo": "Tarantism Revisited",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Anja Dreschke",
+      "pais": "Michaela Schäuble, Alemania, Suiza",
+      "ano": 2024,
+      "duracion": 105,
       "filmId": "HO00010208",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010208?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010208&cinemas=002",
@@ -1874,11 +1824,11 @@
     },
     "HO00010209": {
       "titulo": "Un cine llamado Libertad",
-      "tituloOriginal": "Togoland Projections",
-      "director": "Ivan Vlasov",
-      "pais": "Nikita Stashkevich, Rusia",
-      "ano": 2024,
-      "duracion": 60,
+      "tituloOriginal": null,
+      "director": "Yadira Gutiérrez",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 74,
       "filmId": "HO00010209",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010209?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010209&cinemas=002",
@@ -1925,10 +1875,10 @@
     "HO00010174": {
       "titulo": "Anti princesas",
       "tituloOriginal": "Anti-Princesas",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Alejandro de Icaza",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 75,
       "filmId": "HO00010174",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010174?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010174&cinemas=002",
@@ -1950,10 +1900,10 @@
     "HO00010182": {
       "titulo": "El código de la gente",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Coizta Grecko B",
+      "pais": "México, España",
+      "ano": 2025,
+      "duracion": 53,
       "filmId": "HO00010182",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010182?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010182&cinemas=002",
@@ -1975,10 +1925,10 @@
     "HO00010197": {
       "titulo": "No Consent",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Montse Bover Rabionet",
+      "pais": "Núria Vilà Coma, México, España",
+      "ano": 2026,
+      "duracion": 72,
       "filmId": "HO00010197",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010197?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010197&cinemas=002",
@@ -1999,38 +1949,61 @@
     },
     "HO00010202": {
       "titulo": "Procesión",
-      "tituloOriginal": "Procession",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "tituloOriginal": null,
+      "director": "Javier García",
+      "pais": "Male Lara, México, Países Bajos",
+      "ano": 2026,
+      "duracion": 60,
       "filmId": "HO00010202",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010202?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010202&cinemas=002",
       "sinopsis": "Procesión retrata el encuentro entre el compositor Hugo Morales Murguía y la Orquesta Infantil de Nurio en Michoacán, donde 100 niños crean una obra a partir de la escucha, el juego y la exploración. Este proceso deriva en un concierto concebido como una experiencia inmersiva, donde la música abre un espacio para la reflexión.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "A0gsjrcAi9w",
-      "trailers": [
-        "A0gsjrcAi9w"
-      ],
-      "trailerFuente": "TMDB",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
+      "publico": null,
+      "publicoFuente": null,
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt14300912/",
-      "imdbId": "tt14300912",
-      "tmdbId": 869623,
-      "votos": 1504
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
-    "HO00010204": {
-      "titulo": "Ser Hamlet",
+    "HO00010242": {
+      "titulo": "Programa 1 - Juego y aprendizaje",
       "tituloOriginal": null,
       "director": null,
       "pais": null,
       "ano": null,
       "duracion": null,
+      "filmId": "HO00010242",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010242?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010242&cinemas=002",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00010204": {
+      "titulo": "Ser Hamlet",
+      "tituloOriginal": null,
+      "director": "Chela De Ferrari",
+      "pais": null,
+      "ano": 2026,
+      "duracion": 85,
       "filmId": "HO00010204",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010204?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010204&cinemas=002",
@@ -2053,11 +2026,11 @@
     },
     "HO00010207": {
       "titulo": "Togoland Projections",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "tituloOriginal": "Togoland Projektionen",
+      "director": "Jürgen Ellinghaus",
+      "pais": "Alemania, Francia, Togo",
+      "ano": 2023,
+      "duracion": 95,
       "filmId": "HO00010207",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010207?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010207&cinemas=002",
@@ -2073,8 +2046,8 @@
       "resenas": [],
       "urlImdb": null,
       "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "tmdbId": 1211326,
+      "votos": 0
     },
     "HO00010127": {
       "titulo": "Charla Viudas explosivas",
@@ -2137,10 +2110,10 @@
     "HO00010184": {
       "titulo": "Hasta un momento más tarde",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Pablo Tamez Sierra",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 88,
       "filmId": "HO00010184",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010184?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010184&cinemas=002",
@@ -2164,30 +2137,27 @@
     "HO00010187": {
       "titulo": "La búsqueda",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Anaïs Huerta",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 93,
       "filmId": "HO00010187",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010187?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010187&cinemas=002",
       "sinopsis": "Félix heredó el nombre de su tío, asesinado y desaparecido por milicianos fascistas tras el golpe de Estado en España de 1936. Después de vivir 50 años fuera del país, regresa para hallar la fosa común donde podría estar su cuerpo. Su hija lo acompaña y filma su búsqueda a lo largo de una década marcada por el resurgimiento del miedo y la impunidad.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "AhjrVg5qxgM",
-      "trailers": [
-        "AhjrVg5qxgM",
-        "cgerdFUF5bM"
-      ],
-      "trailerFuente": "TMDB",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 5.8,
-      "publicoFuente": "IMDb",
+      "publico": null,
+      "publicoFuente": null,
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0186908/",
-      "imdbId": "tt0186908",
-      "tmdbId": 164064,
-      "votos": 187
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1661571,
+      "votos": 0
     },
     "HO00010210": {
       "titulo": "Wind has no Tail",
@@ -2249,7 +2219,7 @@
       "filmId": "HO00010253",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010253?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010253&cinemas=003",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsis": "Los protagonistas de esta historia son las personas que habitan el mundo; gente como tú, gente como yo, que abren el puertas de sus hogares a invitados extranjeros desconocidos, y cuyo único punto en común En el momento de conocerse, son carteros en sus respectivos países. A lo largo de la película, los personajes principales revelan su forma de vida y sus puntos de vista para poder conocerse mejor. Pronto se dan cuenta que no solo han abierto las puertas de su casa, sino también las puertas de su corazón, hacia personas que consideraban extraños, distantes y diferentes. Se hacen amigos y demuestran que todos somos seres humanos, independientemente de color de piel, religión o el desarrollo del país de origen.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
@@ -2292,10 +2262,10 @@
     "HO00010181": {
       "titulo": "El baile de las ánimas",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Ramón Llaven",
+      "pais": "México, Canadá",
+      "ano": 2026,
+      "duracion": 73,
       "filmId": "HO00010181",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010181?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010181&cinemas=002",
@@ -2306,21 +2276,21 @@
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 5.2,
-      "publicoFuente": "IMDb",
+      "publico": null,
+      "publicoFuente": null,
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0106346/",
-      "imdbId": "tt0106346",
-      "tmdbId": 313522,
-      "votos": 70
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1800668,
+      "votos": 0
     },
     "HO00010146": {
       "titulo": "El equipo del pueblo. Un sueño, Atlante",
-      "tituloOriginal": "El Equipo del Pueblo. Un Sueño, Atlante",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "tituloOriginal": "El equipo del pueblo. Un sueño Atlante",
+      "director": "Rafael Aparicio",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 73,
       "filmId": "HO00010146",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010146?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010146&cinemas=002",
@@ -2342,38 +2312,35 @@
     "HO00010189": {
       "titulo": "La misma sangre",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Ángel Linares",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 76,
       "filmId": "HO00010189",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010189?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010189&cinemas=002",
       "sinopsis": "Tras el asesinato de su hermana, Norma Mesino asume la dirección de la Organización Campesina de la Sierra del Sur, que desde hace 30 años lucha por los derechos de los campesinos en una zona violenta de México. Cargando un apellido marcado por la masacre de Aguas Blancas, encarcelamientos y desapariciones, afronta un trabajo diario contra la hostilidad e impunidad para cumplir con lo que parece su destino.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "VDY-MvEr8NA",
-      "trailers": [
-        "VDY-MvEr8NA",
-        "RbgfKnpxd4g"
-      ],
-      "trailerFuente": "TMDB",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.1,
-      "publicoFuente": "IMDb",
+      "publico": null,
+      "publicoFuente": null,
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt5687236/",
-      "imdbId": "tt5687236",
-      "tmdbId": 575771,
-      "votos": 984
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1651220,
+      "votos": 0
     },
     "HO00010177": {
       "titulo": "Cada vez, una sola vez: Amazonia",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "tituloOriginal": "Cada vez",
+      "director": "Luis Felipe Ortega",
+      "pais": "Brasil, México",
+      "ano": 2025,
+      "duracion": 65,
       "filmId": "HO00010177",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010177?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010177&cinemas=002",
@@ -2419,11 +2386,11 @@
     },
     "HO00010185": {
       "titulo": "Hijas del bosque",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "tituloOriginal": "Daughters of the Forest",
+      "director": "Otilia Portillo Padua",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 95,
       "filmId": "HO00010185",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010185?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010185&cinemas=002",
@@ -2434,21 +2401,21 @@
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
+      "publico": 8.5,
+      "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "urlImdb": "https://www.imdb.com/title/tt30012780/",
+      "imdbId": "tt30012780",
+      "tmdbId": 1599180,
+      "votos": 86
     },
     "HO00010191": {
       "titulo": "Los que saben",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Jesús González Mariscal",
+      "pais": "México, Italia",
+      "ano": 2026,
+      "duracion": 50,
       "filmId": "HO00010191",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010191?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010191&cinemas=002",
@@ -2470,10 +2437,10 @@
     "HO00010206": {
       "titulo": "Sombras en el ocaso",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Moisés Anaya",
+      "pais": "México",
+      "ano": 2028,
+      "duracion": 70,
       "filmId": "HO00010206",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010206?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010206&cinemas=002",
@@ -2897,7 +2864,7 @@
       "sede": "002",
       "fecha": "2026-10-23",
       "pelicula": "HO00010094",
-      "sala": "Sala 8",
+      "sala": null,
       "horarios": [
         "13:10",
         "15:30",
@@ -3007,15 +2974,6 @@
       "sala": "Sala 6",
       "horarios": [
         "19:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010242",
-      "sala": "Sala 2",
-      "horarios": [
-        "11:00"
       ]
     },
     {
@@ -3252,8 +3210,10 @@
       "sede": "003",
       "fecha": "2026-10-24",
       "pelicula": "HO00010241",
-      "sala": null,
-      "horarios": []
+      "sala": "Sala 8",
+      "horarios": [
+        "20:00"
+      ]
     },
     {
       "sede": "003",
@@ -3472,14 +3432,8 @@
       "sede": "002",
       "fecha": "2026-10-24",
       "pelicula": "HO00010094",
-      "sala": "Sala 8",
-      "horarios": [
-        "11:00",
-        "13:10",
-        "15:30",
-        "17:50",
-        "20:10"
-      ]
+      "sala": null,
+      "horarios": []
     },
     {
       "sede": "002",
@@ -3650,15 +3604,6 @@
       "horarios": [
         "15:00",
         "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-25",
-      "pelicula": "HO00010240",
-      "sala": null,
-      "horarios": [
-        "09:30"
       ]
     },
     {
@@ -4057,14 +4002,8 @@
       "sede": "002",
       "fecha": "2026-10-25",
       "pelicula": "HO00010094",
-      "sala": "Sala 8",
-      "horarios": [
-        "11:00",
-        "13:10",
-        "15:30",
-        "17:50",
-        "20:10"
-      ]
+      "sala": null,
+      "horarios": []
     },
     {
       "sede": "002",
@@ -4420,15 +4359,6 @@
     {
       "sede": "003",
       "fecha": "2026-10-26",
-      "pelicula": "HO00010241",
-      "sala": "Sala 2",
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
       "pelicula": "HO00009931",
       "sala": "Sala 1",
       "horarios": [
@@ -4603,13 +4533,8 @@
       "sede": "002",
       "fecha": "2026-10-26",
       "pelicula": "HO00010094",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:10",
-        "15:30",
-        "17:50",
-        "20:10"
-      ]
+      "sala": null,
+      "horarios": []
     },
     {
       "sede": "002",
@@ -5121,13 +5046,8 @@
       "sede": "002",
       "fecha": "2026-10-27",
       "pelicula": "HO00010094",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:10",
-        "15:30",
-        "17:50",
-        "20:10"
-      ]
+      "sala": null,
+      "horarios": []
     },
     {
       "sede": "002",
@@ -5627,13 +5547,8 @@
       "sede": "002",
       "fecha": "2026-10-28",
       "pelicula": "HO00010094",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:10",
-        "15:30",
-        "17:50",
-        "20:10"
-      ]
+      "sala": null,
+      "horarios": []
     },
     {
       "sede": "002",
@@ -5963,10 +5878,8 @@
       "sede": "003",
       "fecha": "2026-10-29",
       "pelicula": "HO00010241",
-      "sala": "Sala 8",
-      "horarios": [
-        "20:00"
-      ]
+      "sala": null,
+      "horarios": []
     },
     {
       "sede": "003",
@@ -6166,13 +6079,8 @@
       "sede": "002",
       "fecha": "2026-10-29",
       "pelicula": "HO00010094",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:10",
-        "15:30",
-        "17:50",
-        "20:10"
-      ]
+      "sala": null,
+      "horarios": []
     },
     {
       "sede": "002",
@@ -6314,6 +6222,15 @@
       "sala": "Sala 2",
       "horarios": [
         "18:15"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-23",
+      "pelicula": "HO00010242",
+      "sala": "Sala 2",
+      "horarios": [
+        "11:00"
       ]
     }
   ]
