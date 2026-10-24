@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-24T11:59:20.893Z",
+  "generadoEn": "2026-10-24T17:30:13.320Z",
   "hoy": "2026-10-24",
   "sedes": [
     {
@@ -1406,31 +1406,6 @@
       "tmdbId": 1631783,
       "votos": 0
     },
-    "HO00010243": {
-      "titulo": "Programa 2 - Emociones",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010243",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010243?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010243&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
     "HO00010203": {
       "titulo": "Regreso / Return",
       "tituloOriginal": "Regreso",
@@ -2021,6 +1996,31 @@
       "imdbId": null,
       "tmdbId": 1661571,
       "votos": 0
+    },
+    "HO00010243": {
+      "titulo": "Programa 2 - Emociones",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010243",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010243?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010243&cinemas=002",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00010210": {
       "titulo": "Wind has no Tail",
@@ -2953,15 +2953,6 @@
       "sala": "Sala 1",
       "horarios": [
         "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-24",
-      "pelicula": "HO00010243",
-      "sala": "Sala 2",
-      "horarios": [
-        "11:00"
       ]
     },
     {
@@ -5662,6 +5653,15 @@
       "sala": "Sala 5",
       "horarios": [
         "17:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-24",
+      "pelicula": "HO00010243",
+      "sala": "Sala 2",
+      "horarios": [
+        "11:00"
       ]
     }
   ]
