@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-10-23T18:28:01.975Z",
-  "hoy": "2026-10-23",
+  "generadoEn": "2026-10-24T11:59:20.893Z",
+  "hoy": "2026-10-24",
   "sedes": [
     {
       "id": "003",
@@ -19,13 +19,13 @@
     }
   ],
   "fechas": [
-    "2026-10-23",
     "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
     "2026-10-28",
-    "2026-10-29"
+    "2026-10-29",
+    "2026-10-30"
   ],
   "peliculas": {
     "HO00010091": {
@@ -54,7 +54,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 277
+      "votos": 279
     },
     "HO00009477": {
       "titulo": "Convivir",
@@ -143,7 +143,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 45971
+      "votos": 46277
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -282,7 +282,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 41726
+      "votos": 42380
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -327,7 +327,51 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125521
+      "votos": 125543
+    },
+    "HO00010094": {
+      "titulo": "El árbol mágico",
+      "tituloOriginal": "The Magic Faraway Tree",
+      "director": "Ben Gregor",
+      "pais": "Reino Unido",
+      "ano": 2026,
+      "duracion": 110,
+      "filmId": "HO00010094",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010094?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010094&cinemas=003",
+      "sinopsis": "Basada en una popular saga de novelas infantiles, El árbol mágico sigue a los Thompson, una familia que decide dejar la ciudad para mudarse a una antigua cabaña en medio del bosque. Fran, la hija menor descubre que en ese lugar habita la magia. Al devolverle su bolso a Silky, una simpática hada, ella la invita a conocer un gigantesco árbol donde viven excéntricos personajes y se encuentra una escalera que dirige a distintos mundos fantásticos. Maravillada, convence a sus hermanos y juntos descubren que haberse mudado fue lo mejor que les pasó.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "qsrMA7Eovaw",
+      "trailers": [
+        "qsrMA7Eovaw",
+        "bxWxrEsdWqQ",
+        "3vvek1-qIvo",
+        "JwFY341uTpE",
+        "PneOcY86ww0",
+        "ujP6Z8Oour4",
+        "xKHdnMOWerQ",
+        "wSaCp5UTGl8",
+        "b9qyzVCW9sc",
+        "v2V3C08O6Iw",
+        "PAUEwUhAjzg",
+        "cTKFa2dAiuA"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.2,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "We used to have loads of this author’s books at home when we were kids, and I always thought her signature on the cover said Gnid, rather than Enid.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/69cd60424b95c1bc46b6a3ef"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt7734244/",
+      "imdbId": "tt7734244",
+      "tmdbId": 1140521,
+      "votos": 6415
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -384,7 +428,7 @@
       "urlImdb": "https://www.imdb.com/title/tt28254159/",
       "imdbId": "tt28254159",
       "tmdbId": 1225590,
-      "votos": 367
+      "votos": 368
     },
     "HO00009792": {
       "titulo": "Hojas secas",
@@ -437,7 +481,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32034405/",
       "imdbId": "tt32034405",
       "tmdbId": 1161396,
-      "votos": 1405
+      "votos": 1404
     },
     "HO00009929": {
       "titulo": "La bachata del biónico",
@@ -492,7 +536,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2127
+      "votos": 2133
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -526,15 +570,40 @@
       "urlImdb": "https://www.imdb.com/title/tt37813097/",
       "imdbId": "tt37813097",
       "tmdbId": 1459062,
-      "votos": 191
+      "votos": 193
+    },
+    "HO00010134": {
+      "titulo": "La pasión de Iztapalapa",
+      "tituloOriginal": null,
+      "director": "Nicolás Echevarría",
+      "pais": "México",
+      "ano": 1995,
+      "duracion": 85,
+      "filmId": "HO00010134",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010134?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010134&cinemas=003",
+      "sinopsis": "La pasión de Cristo se representa año con año en Iztapalapa. Una mítica y longeva fiesta popular en la que se escenifican los últimos momentos de la vida de Jesús. Nicolás Echevarría dirige su mirada documental a este importante espectáculo religioso, mostrando su historia y a aquellos que interpretan los roles de Herodes, Poncio Pilato, María, etc. La película expone cómo la fe y devoción de la comunidad es llevada a las calles para convertirse en una de las tradiciones más trascendentales de México.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00009930": {
       "titulo": "La pequeña hermana",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Hafsia Herzi",
+      "pais": "Francia",
+      "ano": 2025,
+      "duracion": 108,
       "filmId": "HO00009930",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009930?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009930&cinemas=003",
@@ -570,7 +639,7 @@
         "c-FuV_zqL_M",
         "AOMZA1P3aBI"
       ],
-      "trailerFuente": "TMDB",
+      "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
       "publico": null,
@@ -628,13 +697,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 8,
+      "publico": 8.2,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt36298835/",
       "imdbId": "tt36298835",
       "tmdbId": 1323322,
-      "votos": 16
+      "votos": 17
     },
     "HO00010065": {
       "titulo": "Mary y Max SUB",
@@ -668,7 +737,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203953
+      "votos": 203966
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -700,7 +769,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15716284/",
       "imdbId": "tt15716284",
       "tmdbId": 1232350,
-      "votos": 525
+      "votos": 526
     },
     "HO00010241": {
       "titulo": "Naza",
@@ -743,7 +812,32 @@
       "urlImdb": "https://www.imdb.com/title/tt44766123/",
       "imdbId": "tt44766123",
       "tmdbId": 1755291,
-      "votos": 5340
+      "votos": 5439
+    },
+    "HO00008866": {
+      "titulo": "Poetas campesinos",
+      "tituloOriginal": "Poetas Campesinos",
+      "director": "Nicolás Echevarría",
+      "pais": "México",
+      "ano": 1979,
+      "duracion": 55,
+      "filmId": "HO00008866",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008866?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008866&cinemas=003",
+      "sinopsis": "Este mediometraje documental registra a un pequeño grupo circense de la comunidad de San Felipe Otlatepec, Puebla. Un comediante, un poeta que se disfraza de payaso y dos niñas acróbatas, dan sencillos espectáculos que cautivan a los habitantes. Poetas campesinos evidencia la importancia de estos medios de expresión y gozo de la comunidad, dándole significado a una valiosa tradición de artistas y músicos locales, cuyo trabajo independiente mantiene viva la alegría colectiva de su entorno.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0323666/",
+      "imdbId": "tt0323666",
+      "tmdbId": 628699,
+      "votos": 28
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -784,7 +878,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 190022
+      "votos": 190057
     },
     "HO00010096": {
       "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
@@ -833,66 +927,34 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 1670
-    },
-    "HO00010132": {
-      "titulo": "Teshuinada, Semana Santa tarahumara",
-      "tituloOriginal": "Teshuinada",
-      "director": "Nicolás Echevarría",
-      "pais": "México",
-      "ano": 1979,
-      "duracion": 60,
-      "filmId": "HO00010132",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010132?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010132&cinemas=003",
-      "sinopsis": "En la Sierra Madre Occidental de Chihuahua viven los rarámuris, quienes cada año celebran la semana santa a través de un ritual que congrega habitantes de localidades vecinas para participar en danzas, juegos y luchas. Este filme de Echevarría sigue de cerca todos los rituales y ceremonias acontecidos en estas fechas, mientras registra la preparación del teshuino, la bebida embriagante preparada con maíz fermentado que acompaña y sella la fiesta con la que los rarámuris preservan los mitos de su creación.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.1,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0429176/",
-      "imdbId": "tt0429176",
-      "tmdbId": 412064,
-      "votos": 23
+      "votos": 1760
     },
     "HO00010058": {
       "titulo": "Tierra de mi padre",
-      "tituloOriginal": "Ojczyzna",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "tituloOriginal": "Fatherland",
+      "director": "Paweł Pawlikowski",
+      "pais": "Polonia, Alemania, Italia, Francia",
+      "ano": 2026,
+      "duracion": 82,
       "filmId": "HO00010058",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010058?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010058&cinemas=003",
       "sinopsis": "Situada en 1949, Fatherland narra la relación entre el escritor Thomas Mann y su hija Erika. Tras 16 años de exilio huyendo del régimen nazi, padre e hija inician un viaje que los llevará desde Fráncfort hasta Weimar. En este camino no sólo se enfrentarán a una patria en ruinas, sino también a las fracturas dentro de su propia familia. La más reciente película de Pawel Pawlikowski reflexiona sobre la culpa, el trauma de la posguerra y la falsa desnazificación en la Alemania dividida por la Guerra Fría.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "52zHLYf25M0",
+      "trailer": "-I2-X9v-ogs",
       "trailers": [
-        "52zHLYf25M0",
-        "4pGI64qP0Bw"
+        "-I2-X9v-ogs"
       ],
-      "trailerFuente": "TMDB",
+      "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Check out my full review @ https://www.manuelsbento.com/fatherland-2026-gorgeous-black-and-white-cant-bring-a-cold-story-to-life/ Rating: C FATHERLAND was my first Paweł Pawlikowski film,…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6ada43c1da4b368e168a7d4b"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt37304295/",
-      "imdbId": "tt37304295",
-      "tmdbId": 1437696,
-      "votos": 3082
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1802918,
+      "votos": 0
     },
     "HO00009520": {
       "titulo": "Binnizá, los seres de las nubes",
@@ -921,89 +983,46 @@
       "tmdbId": 1324153,
       "votos": 16
     },
-    "HO00010160": {
-      "titulo": "Charlas Memorias de voces alternativas",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010160",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010160?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010160&cinemas=001",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+    "HO00010062": {
+      "titulo": "El camino",
+      "tituloOriginal": "COMPOSTELLE",
+      "director": "Yann Samuell",
+      "pais": "Francia",
+      "ano": 2026,
+      "duracion": 113,
+      "filmId": "HO00010062",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010062?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010062&cinemas=001",
+      "sinopsis": "Fred y Adam no se conocen. Ella es una mujer de 40 años que intenta reconciliarse con su pasado, y él un adolescente con problemas de abandono que intenta canalizar su ira. Por azares del destino, emprenden juntos el camino hacia Santiago de Compostela. Entre enfrentamientos y momentos de complicidad, a medida que avanzan, su vínculo se fortalece y el Camino se convierte para ambos en una oportunidad para empezar de nuevo.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010094": {
-      "titulo": "El árbol mágico",
-      "tituloOriginal": "The Magic Faraway Tree",
-      "director": "Ben Gregor",
-      "pais": "Reino Unido",
-      "ano": 2026,
-      "duracion": 110,
-      "filmId": "HO00010094",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010094?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010094&cinemas=001",
-      "sinopsis": "Basada en una popular saga de novelas infantiles, El árbol mágico sigue a los Thompson, una familia que decide dejar la ciudad para mudarse a una antigua cabaña en medio del bosque. Fran, la hija menor descubre que en ese lugar habita la magia. Al devolverle su bolso a Silky, una simpática hada, ella la invita a conocer un gigantesco árbol donde viven excéntricos personajes y se encuentra una escalera que dirige a distintos mundos fantásticos. Maravillada, convence a sus hermanos y juntos descubren que haberse mudado fue lo mejor que les pasó.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "qsrMA7Eovaw",
-      "trailers": [
-        "qsrMA7Eovaw",
-        "bxWxrEsdWqQ",
-        "3vvek1-qIvo",
-        "JwFY341uTpE",
-        "PneOcY86ww0",
-        "ujP6Z8Oour4",
-        "xKHdnMOWerQ",
-        "wSaCp5UTGl8",
-        "b9qyzVCW9sc",
-        "v2V3C08O6Iw",
-        "PAUEwUhAjzg",
-        "cTKFa2dAiuA"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.2,
+      "publico": 6.6,
       "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "We used to have loads of this author’s books at home when we were kids, and I always thought her signature on the cover said Gnid, rather than Enid.",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/69cd60424b95c1bc46b6a3ef"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt7734244/",
-      "imdbId": "tt7734244",
-      "tmdbId": 1140521,
-      "votos": 6405
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt39814688/",
+      "imdbId": "tt39814688",
+      "tmdbId": 1404604,
+      "votos": 410
     },
     "HO00010136": {
       "titulo": "El poder de la red",
       "tituloOriginal": "The Social Reckoning",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Aaron Sorkin",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 118,
       "filmId": "HO00010136",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010136?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010136&cinemas=001",
       "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "Z3lF1qhVORU",
+      "trailer": "8E_KMh-02fQ",
       "trailers": [
+        "8E_KMh-02fQ",
         "Z3lF1qhVORU",
         "JLYivj6xBOA",
         "cNbAPdz04UE",
@@ -1045,7 +1064,7 @@
         "9xnDvEJJlxE",
         "gM4LkaXwGuY"
       ],
-      "trailerFuente": "TMDB",
+      "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
       "publico": 6.7,
@@ -1070,7 +1089,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37510326/",
       "imdbId": "tt37510326",
       "tmdbId": 1281331,
-      "votos": 8650
+      "votos": 8883
     },
     "HO00009875": {
       "titulo": "El violín",
@@ -1116,13 +1135,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 5.8,
+      "publico": 5.9,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 101
+      "votos": 104
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -1156,7 +1175,32 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 203953
+      "votos": 203966
+    },
+    "HO00010172": {
+      "titulo": "A River in the Middle of the Sky",
+      "tituloOriginal": "Salu Dao Tangngana Langi",
+      "director": "Dirección Wahyu Al Mardhani",
+      "pais": "Chris C.F, Australia, Indonesia",
+      "ano": 2023,
+      "duracion": 80,
+      "filmId": "HO00010172",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010172?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010172&cinemas=002",
+      "sinopsis": "El camarógrafo Victor Konda quien, a pesar de una discapacidad visual, documenta la vida, los rituales y las ceremonias de su comunidad en Tana Toraja, Indonesia. El filme yuxtapone sus archivos de casi dos décadas de trabajo con imágenes actuales, explorando cómo su labor audiovisual tanto preserva como coexiste con la vida cultural que retrata, reflexionando sobre la memoria y el paso del tiempo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1418819,
+      "votos": 0
     },
     "HO00010179": {
       "titulo": "Cocaína negra",
@@ -1175,13 +1219,13 @@
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.2,
+      "publico": 7.3,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt43438651/",
       "imdbId": "tt43438651",
       "tmdbId": 1660634,
-      "votos": 5
+      "votos": 6
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -1208,7 +1252,7 @@
       "urlImdb": "https://www.imdb.com/title/tt21413704/",
       "imdbId": "tt21413704",
       "tmdbId": 1199946,
-      "votos": 83
+      "votos": 84
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1260,239 +1304,6 @@
       "urlImdb": null,
       "imdbId": null,
       "tmdbId": 1800593,
-      "votos": 0
-    },
-    "HO00010186": {
-      "titulo": "La bola",
-      "tituloOriginal": "La Bola",
-      "director": "Alfonso Coronel",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 137,
-      "filmId": "HO00010186",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010186?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010186&cinemas=002",
-      "sinopsis": "A partir de imágenes filmadas entre 1898 y 1932, La bola revive la memoria visual de la Revolución mexicana. Materiales preservados por la Filmoteca de la UNAM cobran vida mediante restauración, colorización e inteligencia artificial. Narrada por Yalitza Aparicio, la película devuelve rostros, movimiento y voz a quienes hicieron la Revolución: el pueblo, «la bola».",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1729348,
-      "votos": 0
-    },
-    "HO00010196": {
-      "titulo": "Motel Paraíso",
-      "tituloOriginal": "Motel Paraiso",
-      "director": "José Eduardo Castilla",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 90,
-      "filmId": "HO00010196",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010196?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010196&cinemas=002",
-      "sinopsis": "Usando la misma handycam con la que mi abuelo me filmaba de niño, ahora lo grabo a él: el irreverente dueño de un pequeño motel en el Golfo de México. Mientras una cámara observa su vida cotidiana, otra recrea sus peculiares historias mediante escenas inspiradas en distintos géneros cinematográficos.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1631783,
-      "votos": 0
-    },
-    "HO00003121": {
-      "titulo": "Por si no te vuelvo a ver",
-      "tituloOriginal": ": Por si no te vuelvo a ver",
-      "director": "Juan Pablo Villaseñor",
-      "pais": "México",
-      "ano": 1996,
-      "duracion": 97,
-      "filmId": "HO00003121",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00003121?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00003121&cinemas=002",
-      "sinopsis": "Juan Pablo Villaseñor Juan Pablo Villaseñor. Janusz Polom Color : Manuel Esperón. Miguel Lavandeira. En un asilo de ancianos cinco internos han formado un grupo musical. Cuando muere Rosita, una antigua cantante de boleros, Bruno, el director musidal, decide cumplir su última voluntad: llevar sus cenizas a Tijuana. Así, escapan de la institución para buscar a la bella Margarita, sobrina de la difunta, en cabaret en el que canta. El resto de la banda lo sigue, con la ilusión de cumplir sus anhelos de tocar en público. Perseguidos por las autoridades del asilo, la policía, sus familiares y hasta por los mafiosos que controlan el centro nocturno, Gonzalo, Poncho, Fabián y Óscar, liderados por Bruno, probarán la libertad fuera del enclaustramiento y la incomparable sensación de sentirse útiles. Gustavo Pimentel y Andrea Gentile Centro de Capacitación Cinematográfica, Instituto Mexicano de Cinematografía y Estudios Churubusco-Azteca. IMCINE. B.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "xUXz1oVXK0w",
-      "trailers": [
-        "xUXz1oVXK0w"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.5,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0158855/",
-      "imdbId": "tt0158855",
-      "tmdbId": 304346,
-      "votos": 179
-    },
-    "HO00010203": {
-      "titulo": "Regreso / Return",
-      "tituloOriginal": "Regreso",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010203",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010203?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010203&cinemas=002",
-      "sinopsis": "Tres mujeres mexicanas, llevadas a Estados Unidos cuando eran niñas, reconstruyen sus vidas en México después de la deportación. Entre la familia, el trabajo y los recuerdos de una infancia al otro lado de la frontera, cada una busca rehacer su identidad y encontrar una forma propia de pertenecer. Con una mirada íntima, Regreso/Return revela lo que ocurre después de la deportación, cuando los titulares desaparecen, pero la vida continúa.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "IHaErmR1LTY",
-      "trailers": [
-        "IHaErmR1LTY"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 5.1,
-      "publicoFuente": "TMDB",
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1140754,
-      "votos": 16
-    },
-    "HO00009851": {
-      "titulo": "Sugar Island, La isla de azúcar",
-      "tituloOriginal": "Sugar Island",
-      "director": "Johanné Gómez Terrero",
-      "pais": "República Dominicana",
-      "ano": 2024,
-      "duracion": 91,
-      "filmId": "HO00009851",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009851?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009851&cinemas=002",
-      "sinopsis": "Makenya es una joven que trabaja en una planta azucarera de República Dominicana. Mientras sus amigas sueñan con dejar el país, ella siente una conexión con sus raíces. Todo cambia cuando tiene un embarazo no deseado. Rechazada por su familia, Makenya inicia un viaje que la llevará a descubrir un universo ancestral y místico de la isla. Este filme indaga los legados del colonialismo y la injusticia social, retratando un camino de liberación mediante el despertar político y la espiritualidad ancestral.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "zMO-LT4xNu0",
-      "trailers": [
-        "zMO-LT4xNu0",
-        "5LzBAwH1wRw",
-        "QPWtdgE7Fbw"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt18301776/",
-      "imdbId": "tt18301776",
-      "tmdbId": 1318711,
-      "votos": 80
-    },
-    "HO00010134": {
-      "titulo": "La pasión de Iztapalapa",
-      "tituloOriginal": null,
-      "director": "Nicolás Echevarría",
-      "pais": "México",
-      "ano": 1995,
-      "duracion": 85,
-      "filmId": "HO00010134",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010134?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010134&cinemas=003",
-      "sinopsis": "La pasión de Cristo se representa año con año en Iztapalapa. Una mítica y longeva fiesta popular en la que se escenifican los últimos momentos de la vida de Jesús. Nicolás Echevarría dirige su mirada documental a este importante espectáculo religioso, mostrando su historia y a aquellos que interpretan los roles de Herodes, Poncio Pilato, María, etc. La película expone cómo la fe y devoción de la comunidad es llevada a las calles para convertirse en una de las tradiciones más trascendentales de México.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00008866": {
-      "titulo": "Poetas campesinos",
-      "tituloOriginal": "Poetas Campesinos",
-      "director": "Nicolás Echevarría",
-      "pais": "México",
-      "ano": 1979,
-      "duracion": 55,
-      "filmId": "HO00008866",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008866?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008866&cinemas=003",
-      "sinopsis": "Este mediometraje documental registra a un pequeño grupo circense de la comunidad de San Felipe Otlatepec, Puebla. Un comediante, un poeta que se disfraza de payaso y dos niñas acróbatas, dan sencillos espectáculos que cautivan a los habitantes. Poetas campesinos evidencia la importancia de estos medios de expresión y gozo de la comunidad, dándole significado a una valiosa tradición de artistas y músicos locales, cuyo trabajo independiente mantiene viva la alegría colectiva de su entorno.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0323666/",
-      "imdbId": "tt0323666",
-      "tmdbId": 628699,
-      "votos": 28
-    },
-    "HO00010062": {
-      "titulo": "El camino",
-      "tituloOriginal": "COMPOSTELLE",
-      "director": "Yann Samuell",
-      "pais": "Francia",
-      "ano": 2026,
-      "duracion": 113,
-      "filmId": "HO00010062",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010062?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010062&cinemas=001",
-      "sinopsis": "Fred y Adam no se conocen. Ella es una mujer de 40 años que intenta reconciliarse con su pasado, y él un adolescente con problemas de abandono que intenta canalizar su ira. Por azares del destino, emprenden juntos el camino hacia Santiago de Compostela. Entre enfrentamientos y momentos de complicidad, a medida que avanzan, su vínculo se fortalece y el Camino se convierte para ambos en una oportunidad para empezar de nuevo.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.6,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt39814688/",
-      "imdbId": "tt39814688",
-      "tmdbId": 1404604,
-      "votos": 409
-    },
-    "HO00010172": {
-      "titulo": "A River in the Middle of the Sky",
-      "tituloOriginal": "Salu Dao Tangngana Langi",
-      "director": "Dirección Wahyu Al Mardhani",
-      "pais": "Chris C.F, Australia, Indonesia",
-      "ano": 2023,
-      "duracion": 80,
-      "filmId": "HO00010172",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010172?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010172&cinemas=002",
-      "sinopsis": "El camarógrafo Victor Konda quien, a pesar de una discapacidad visual, documenta la vida, los rituales y las ceremonias de su comunidad en Tana Toraja, Indonesia. El filme yuxtapone sus archivos de casi dos décadas de trabajo con imágenes actuales, explorando cómo su labor audiovisual tanto preserva como coexiste con la vida cultural que retrata, reflexionando sobre la memoria y el paso del tiempo.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1418819,
       "votos": 0
     },
     "HO00010188": {
@@ -1570,6 +1381,31 @@
       "tmdbId": null,
       "votos": null
     },
+    "HO00010196": {
+      "titulo": "Motel Paraíso",
+      "tituloOriginal": "Motel Paraiso",
+      "director": "José Eduardo Castilla",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 90,
+      "filmId": "HO00010196",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010196?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010196&cinemas=002",
+      "sinopsis": "Usando la misma handycam con la que mi abuelo me filmaba de niño, ahora lo grabo a él: el irreverente dueño de un pequeño motel en el Golfo de México. Mientras una cámara observa su vida cotidiana, otra recrea sus peculiares historias mediante escenas inspiradas en distintos géneros cinematográficos.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1631783,
+      "votos": 0
+    },
     "HO00010243": {
       "titulo": "Programa 2 - Emociones",
       "tituloOriginal": null,
@@ -1594,6 +1430,33 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00010203": {
+      "titulo": "Regreso / Return",
+      "tituloOriginal": "Regreso",
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010203",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010203?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010203&cinemas=002",
+      "sinopsis": "Tres mujeres mexicanas, llevadas a Estados Unidos cuando eran niñas, reconstruyen sus vidas en México después de la deportación. Entre la familia, el trabajo y los recuerdos de una infancia al otro lado de la frontera, cada una busca rehacer su identidad y encontrar una forma propia de pertenecer. Con una mirada íntima, Regreso/Return revela lo que ocurre después de la deportación, cuando los titulares desaparecen, pero la vida continúa.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "IHaErmR1LTY",
+      "trailers": [
+        "IHaErmR1LTY"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 5.1,
+      "publicoFuente": "TMDB",
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1140754,
+      "votos": 16
     },
     "HO00010205": {
       "titulo": "Sere Kaniye",
@@ -1695,7 +1558,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36842933/",
       "imdbId": "tt36842933",
       "tmdbId": 1404684,
-      "votos": 2008
+      "votos": 2019
     },
     "HO00010198": {
       "titulo": "Peace for Nina",
@@ -2401,13 +2264,13 @@
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 8.5,
+      "publico": 8.4,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt30012780/",
       "imdbId": "tt30012780",
       "tmdbId": 1599180,
-      "votos": 86
+      "votos": 88
     },
     "HO00010191": {
       "titulo": "Los que saben",
@@ -2483,529 +2346,59 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00010133": {
+      "titulo": "María Sabina, mujer espíritu",
+      "tituloOriginal": "María Sabina",
+      "director": "Nicolás Echevarría",
+      "pais": "México",
+      "ano": 1979,
+      "duracion": 80,
+      "filmId": "HO00010133",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010133?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010133&cinemas=003",
+      "sinopsis": "Este documental sigue la vida de María Sabina, célebre curandera de la comunidad mazateca que cobraría relevancia a nivel internacional por el dominio que tenía con el uso de hongos alucinógenos. A través de un registro de su cotidianeidad donde somos capaces de conocer los pormenores de su soledad, su sabiduría, su entendimiento de la tierra y la estrecha relación que tenía con ella, Nicolás Echeverría construyó un retrato sincero y optimista que deslumbró por la apertura que Sabina tuvo ante la cámara y la sencillez con la que la sacerdotisa ayudó a mostrar, no sólo su día a día, sino también las formas de vida de su comunidad, donde destaca la exposición del trabajo doméstico.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.6,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0295426/",
+      "imdbId": "tt0295426",
+      "tmdbId": 365384,
+      "votos": 89
+    },
+    "HO00010161": {
+      "titulo": "Charlas Rock and roll en los noventa",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010161",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010161?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010161&cinemas=001",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010091",
-      "sala": "Sala 4",
-      "horarios": [
-        "15:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009477",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:30",
-        "16:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00008666",
-      "sala": "Sala 6",
-      "horarios": [
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:45",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009934",
-      "sala": "Sala 4",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010078",
-      "sala": "Sala 9",
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009562",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009792",
-      "sala": "Sala 10",
-      "horarios": [
-        "19:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009424",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:15",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009929",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:30",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009278",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009787",
-      "sala": "Sala 5",
-      "horarios": [
-        "16:15",
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009930",
-      "sala": "Sala 3",
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010122",
-      "sala": "Sala 3",
-      "horarios": [
-        "14:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009790",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00008486",
-      "sala": "Sala 7",
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010065",
-      "sala": "Sala 3",
-      "horarios": [
-        "16:30",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009426",
-      "sala": "Sala 4",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010241",
-      "sala": null,
-      "horarios": [
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010096",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010132",
-      "sala": "Sala 7",
-      "horarios": [
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010058",
-      "sala": "Sala 2",
-      "horarios": [
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009520",
-      "sala": null,
-      "horarios": [
-        "13:00",
-        "16:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010160",
-      "sala": "Sala 5",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010075",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:30",
-        "17:00",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010094",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:40",
-        "17:15",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010136",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:15",
-        "15:40",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009875",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010076",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:00",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010122",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:00",
-        "17:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:40",
-        "15:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "17:40",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010058",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:30",
-        "15:30",
-        "17:20",
-        "19:25"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010179",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009936",
-      "sala": "Sala 9",
-      "horarios": [
-        "13:50",
-        "16:10",
-        "18:30",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010075",
-      "sala": "Sala 12",
-      "horarios": [
-        "14:50",
-        "17:30",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010094",
-      "sala": null,
-      "horarios": [
-        "13:10",
-        "15:30",
-        "17:50",
-        "20:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009562",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:20",
-        "15:20",
-        "17:20",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009935",
-      "sala": "Sala 11",
-      "horarios": [
-        "14:30",
-        "16:50",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010095",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:30",
-        "15:10",
-        "17:10",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010186",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009930",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:10",
-        "16:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010122",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:40",
-        "15:40",
-        "17:40",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010065",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:40",
-        "18:40",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010196",
-      "sala": "Sala 1",
-      "horarios": [
-        "20:15"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00003121",
-      "sala": "Sala 6",
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010203",
-      "sala": "Sala 2",
-      "horarios": [
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010096",
-      "sala": "Sala 3",
-      "horarios": [
-        "14:20",
-        "16:20",
-        "18:20",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00009851",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:00"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-10-24",
@@ -3210,7 +2603,7 @@
       "sede": "003",
       "fecha": "2026-10-24",
       "pelicula": "HO00010241",
-      "sala": "Sala 8",
+      "sala": null,
       "horarios": [
         "20:00"
       ]
@@ -3407,7 +2800,7 @@
       "sede": "002",
       "fecha": "2026-10-24",
       "pelicula": "HO00009936",
-      "sala": "Sala 9",
+      "sala": "Sala 8",
       "horarios": [
         "11:20",
         "13:50",
@@ -3432,8 +2825,14 @@
       "sede": "002",
       "fecha": "2026-10-24",
       "pelicula": "HO00010094",
-      "sala": null,
-      "horarios": []
+      "sala": "Sala 9",
+      "horarios": [
+        "11:00",
+        "13:10",
+        "15:30",
+        "17:50",
+        "20:10"
+      ]
     },
     {
       "sede": "002",
@@ -3977,7 +3376,7 @@
       "sede": "002",
       "fecha": "2026-10-25",
       "pelicula": "HO00009936",
-      "sala": "Sala 9",
+      "sala": "Sala 8",
       "horarios": [
         "11:20",
         "13:50",
@@ -4002,8 +3401,14 @@
       "sede": "002",
       "fecha": "2026-10-25",
       "pelicula": "HO00010094",
-      "sala": null,
-      "horarios": []
+      "sala": "Sala 9",
+      "horarios": [
+        "11:00",
+        "13:10",
+        "15:30",
+        "17:50",
+        "20:10"
+      ]
     },
     {
       "sede": "002",
@@ -4513,9 +3918,12 @@
       "sede": "002",
       "fecha": "2026-10-26",
       "pelicula": "HO00009936",
-      "sala": "Sala 9",
+      "sala": "Sala 8",
       "horarios": [
-        "13:50"
+        "13:50",
+        "16:10",
+        "18:30",
+        "20:50"
       ]
     },
     {
@@ -4533,8 +3941,11 @@
       "sede": "002",
       "fecha": "2026-10-26",
       "pelicula": "HO00010094",
-      "sala": null,
-      "horarios": []
+      "sala": "Sala 9",
+      "horarios": [
+        "13:00",
+        "15:10"
+      ]
     },
     {
       "sede": "002",
@@ -4871,10 +4282,8 @@
       "sede": "003",
       "fecha": "2026-10-27",
       "pelicula": "HO00010241",
-      "sala": "Sala 8",
-      "horarios": [
-        "20:00"
-      ]
+      "sala": null,
+      "horarios": []
     },
     {
       "sede": "003",
@@ -5023,7 +4432,7 @@
       "sede": "002",
       "fecha": "2026-10-27",
       "pelicula": "HO00009936",
-      "sala": "Sala 9",
+      "sala": "Sala 8",
       "horarios": [
         "13:50",
         "16:10",
@@ -5046,8 +4455,13 @@
       "sede": "002",
       "fecha": "2026-10-27",
       "pelicula": "HO00010094",
-      "sala": null,
-      "horarios": []
+      "sala": "Sala 9",
+      "horarios": [
+        "13:10",
+        "15:30",
+        "17:50",
+        "20:10"
+      ]
     },
     {
       "sede": "002",
@@ -5365,10 +4779,8 @@
       "sede": "003",
       "fecha": "2026-10-28",
       "pelicula": "HO00010241",
-      "sala": "Sala 8",
-      "horarios": [
-        "20:00"
-      ]
+      "sala": null,
+      "horarios": []
     },
     {
       "sede": "003",
@@ -5524,7 +4936,7 @@
       "sede": "002",
       "fecha": "2026-10-28",
       "pelicula": "HO00009936",
-      "sala": "Sala 9",
+      "sala": "Sala 8",
       "horarios": [
         "13:50",
         "16:10",
@@ -5547,8 +4959,13 @@
       "sede": "002",
       "fecha": "2026-10-28",
       "pelicula": "HO00010094",
-      "sala": null,
-      "horarios": []
+      "sala": "Sala 9",
+      "horarios": [
+        "13:10",
+        "15:30",
+        "17:50",
+        "20:10"
+      ]
     },
     {
       "sede": "002",
@@ -6056,7 +5473,7 @@
       "sede": "002",
       "fecha": "2026-10-29",
       "pelicula": "HO00009936",
-      "sala": "Sala 9",
+      "sala": "Sala 8",
       "horarios": [
         "13:50",
         "16:10",
@@ -6079,8 +5496,13 @@
       "sede": "002",
       "fecha": "2026-10-29",
       "pelicula": "HO00010094",
-      "sala": null,
-      "horarios": []
+      "sala": "Sala 9",
+      "horarios": [
+        "13:10",
+        "15:30",
+        "17:50",
+        "20:10"
+      ]
     },
     {
       "sede": "002",
@@ -6225,12 +5647,21 @@
       ]
     },
     {
-      "sede": "002",
-      "fecha": "2026-10-23",
-      "pelicula": "HO00010242",
-      "sala": "Sala 2",
+      "sede": "003",
+      "fecha": "2026-10-30",
+      "pelicula": "HO00010133",
+      "sala": "Sala 7",
       "horarios": [
-        "11:00"
+        "18:45"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-10-30",
+      "pelicula": "HO00010161",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:00"
       ]
     }
   ]
