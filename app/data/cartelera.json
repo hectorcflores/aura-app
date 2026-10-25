@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-25T12:33:09.230Z",
+  "generadoEn": "2026-10-25T17:42:21.963Z",
   "hoy": "2026-10-25",
   "sedes": [
     {
@@ -1283,33 +1283,6 @@
       "tmdbId": 1790329,
       "votos": 0
     },
-    "HO00010192": {
-      "titulo": "Marcos",
-      "tituloOriginal": "Marcos. Otro mundo es posible",
-      "director": "Diego Enrique Osorno",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 130,
-      "filmId": "HO00010192",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010192?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010192&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "_iC3smfuYo8",
-      "trailers": [
-        "_iC3smfuYo8"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt22471286/",
-      "imdbId": "tt22471286",
-      "tmdbId": 1031430,
-      "votos": 1
-    },
     "HO00010198": {
       "titulo": "Peace for Nina",
       "tituloOriginal": null,
@@ -2246,6 +2219,33 @@
       "imdbId": "tt0429176",
       "tmdbId": 412064,
       "votos": 23
+    },
+    "HO00010192": {
+      "titulo": "Marcos",
+      "tituloOriginal": "Marcos. Otro mundo es posible",
+      "director": "Diego Enrique Osorno",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 130,
+      "filmId": "HO00010192",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010192?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010192&cinemas=002",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "_iC3smfuYo8",
+      "trailers": [
+        "_iC3smfuYo8"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt22471286/",
+      "imdbId": "tt22471286",
+      "tmdbId": 1031430,
+      "votos": 1
     }
   },
   "funciones": [
@@ -2737,15 +2737,6 @@
         "15:40",
         "17:40",
         "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-25",
-      "pelicula": "HO00010192",
-      "sala": null,
-      "horarios": [
-        "11:00"
       ]
     },
     {
@@ -4945,6 +4936,15 @@
       "sala": "Sala 7",
       "horarios": [
         "18:45"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-25",
+      "pelicula": "HO00010192",
+      "sala": null,
+      "horarios": [
+        "11:00"
       ]
     }
   ]
