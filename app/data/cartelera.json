@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-26T14:11:50.051Z",
+  "generadoEn": "2026-10-26T20:00:12.542Z",
   "hoy": "2026-10-26",
   "sedes": [
     {
@@ -1236,31 +1236,6 @@
       "tmdbId": null,
       "votos": null
     },
-    "HO00010242": {
-      "titulo": "Programa 1 - Juego y aprendizaje",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010242",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010242?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010242&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
     "HO00010204": {
       "titulo": "Ser Hamlet",
       "tituloOriginal": null,
@@ -1439,6 +1414,31 @@
       "tmdbId": 1755291,
       "votos": 5689
     },
+    "HO00010175": {
+      "titulo": "Ávia. El jardín de la memoria",
+      "tituloOriginal": "Àvia. El jardín de la memoria",
+      "director": "Rodrigo Ímaz",
+      "pais": "España, México",
+      "ano": 2025,
+      "duracion": 86,
+      "filmId": "HO00010175",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010175?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010175&cinemas=002",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1541982,
+      "votos": 0
+    },
     "HO00010184": {
       "titulo": "Hasta un momento más tarde",
       "tituloOriginal": null,
@@ -1590,6 +1590,31 @@
       "imdbId": "tt0336846",
       "tmdbId": 257936,
       "votos": 54
+    },
+    "HO00010274": {
+      "titulo": "Hablando con extraños",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010274",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010274?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010274&cinemas=001",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.8,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt36415095/",
+      "imdbId": "tt36415095",
+      "tmdbId": 1600099,
+      "votos": 28
     },
     "HO00010173": {
       "titulo": "Angry Spirits",
@@ -1867,6 +1892,31 @@
       "imdbId": null,
       "tmdbId": 1713889,
       "votos": 0
+    },
+    "HO00010242": {
+      "titulo": "Programa 1 - Juego y aprendizaje",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010242",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010242?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010242&cinemas=002",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00010206": {
       "titulo": "Sombras en el ocaso",
@@ -2530,15 +2580,6 @@
     {
       "sede": "002",
       "fecha": "2026-10-26",
-      "pelicula": "HO00010242",
-      "sala": "Sala 2",
-      "horarios": [
-        "11:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
       "pelicula": "HO00010204",
       "sala": "Sala 2",
       "horarios": [
@@ -2902,6 +2943,15 @@
       "sala": "Sala 1",
       "horarios": [
         "15:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-27",
+      "pelicula": "HO00010175",
+      "sala": "Sala 1",
+      "horarios": [
+        "20:00"
       ]
     },
     {
@@ -3334,6 +3384,15 @@
       "sala": "Sala 5",
       "horarios": [
         "18:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-10-28",
+      "pelicula": "HO00010274",
+      "sala": "Sala 1",
+      "horarios": [
+        "19:30"
       ]
     },
     {
@@ -4174,6 +4233,15 @@
       "sala": "Sala 7",
       "horarios": [
         "16:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-26",
+      "pelicula": "HO00010242",
+      "sala": "Sala 2",
+      "horarios": [
+        "11:00"
       ]
     }
   ]
