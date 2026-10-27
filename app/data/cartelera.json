@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-10-26T20:00:12.542Z",
-  "hoy": "2026-10-26",
+  "generadoEn": "2026-10-27T13:09:51.868Z",
+  "hoy": "2026-10-27",
   "sedes": [
     {
       "id": "003",
@@ -19,7 +19,6 @@
     }
   ],
   "fechas": [
-    "2026-10-26",
     "2026-10-27",
     "2026-10-28",
     "2026-10-29",
@@ -54,32 +53,40 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 285
+      "votos": 286
     },
-    "HO00000529": {
-      "titulo": "Cabeza de vaca",
-      "tituloOriginal": "Cabeza de Vaca",
-      "director": "Nicolás Echevarría",
-      "pais": "México-España-Reino Unido",
-      "ano": 1990,
-      "duracion": 112,
-      "filmId": "HO00000529",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00000529?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00000529&cinemas=003",
-      "sinopsis": "En 1527, Alvar Núñez Cabeza de Vaca, tesorero de Carlos I de España, se embarca en la expedición de Pánfilo de Narváez a Florida. Cuando la expedición naufraga en las costas de Luisiana, Cabeza de Vaca es apresado y convertido en esclavo por las etnias de la región. Durante varios años Alvar Núñez será el servidor de un chamán trashumante y aprenderá sus técnicas curativas. El primer largometraje de ficción de Nicolás Echevarría fue esta ambiciosa épica en la que el director renunció a la recreación histórica rigurosa, optando por plasmar una visión plástica del mundo americano del siglo XVI, su riqueza cultural y la desorientación geográfica, moral y espiritual del conquistador europeo.",
+    "HO00010127": {
+      "titulo": "Charla Viudas explosivas",
+      "tituloOriginal": "THE HONEYMOON KILLERS",
+      "director": "Leonard Kastle",
+      "pais": "Estados Unidos",
+      "ano": 1969,
+      "duracion": 115,
+      "filmId": "HO00010127",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010127?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010127&cinemas=003",
+      "sinopsis": "Leonard Kastle Leonard Kastle. Shirley Stoler (Martha Beck) / Tony Lo Bianco (Raymond Fernandez) / Mary Jane Higby (Janet Fay) / Doris Roberts (Bunny) / Kip McArdle (Delphine Downing) / Marilyn Chris (Myrtle Young) / Dortha Duckworth (mamá) / Barbara Cason (Evelyn Long) / Ann Harris (Doris). Sin distribuidor. B15.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
+      "trailer": "rjPrNZxXUw0",
+      "trailers": [
+        "rjPrNZxXUw0"
+      ],
+      "trailerFuente": "TMDB",
       "critica": null,
       "criticaFuente": null,
       "publico": 6.9,
       "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0101529/",
-      "imdbId": "tt0101529",
-      "tmdbId": 41785,
-      "votos": 1295
+      "resenas": [
+        {
+          "texto": "The \"anti-Bonnie and Clyde,\" as described by the film's director Leonard Kastle. Who? Yeah, I never heard of him either.",
+          "autor": "micar6",
+          "url": "https://www.themoviedb.org/review/66e76b38050f14e4fccfbdff"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0064437/",
+      "imdbId": "tt0064437",
+      "tmdbId": 10237,
+      "votos": 6580
     },
     "HO00009477": {
       "titulo": "Convivir",
@@ -168,7 +175,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 46897
+      "votos": 47134
     },
     "HO00008666": {
       "titulo": "Deshilando luz",
@@ -194,6 +201,31 @@
       "imdbId": null,
       "tmdbId": 1446468,
       "votos": 0
+    },
+    "HO00010247": {
+      "titulo": "Día del Patrimonio Audiovisual 2026",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010247",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010247?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010247&cinemas=003",
+      "sinopsis": "La Secretaría de Cultura del Gobierno de México, a través del Instituto Mexicano de Cinematografía (IMCINE) y la Cineteca Nacional, en colaboración con Filmoteca de la Universidad Nacional Autónoma de México (UNAM), realiza funciones y actividades especiales en el marco de la conmemoración del Día Mundial del Patrimonio Audiovisual, que se celebra cada 27 de octubre.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00010075": {
       "titulo": "Digger",
@@ -307,52 +339,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 43484
-    },
-    "HO00009934": {
-      "titulo": "Dogtooth: Canino",
-      "tituloOriginal": "Kynodontas",
-      "director": "Yorgos Lanthimos",
-      "pais": "Grecia",
-      "ano": 2009,
-      "duracion": 97,
-      "filmId": "HO00009934",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009934?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009934&cinemas=003",
-      "sinopsis": "Canino narra la historia de una familia griega que vive recluida en su casa. El matrimonio manipula a sus tres hijos con reglas absurdas para convencerlos de que el mundo exterior es un territorio prohibido, al cual sólo podrán acceder cuando se les caiga un diente canino. En este filme, nominado al Óscar como mejor película en lengua no inglesa, el director Yorgos Lanthimos logra transitar la comedia negra y el terror psicológico, creando un cuestionamiento hacia las estructuras sociales que conocemos.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "YJe4eZ9l5KY",
-      "trailers": [
-        "YJe4eZ9l5KY",
-        "0bYpMPXXsvI",
-        "ElVysSnB3yg"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Doogtooth, the official Greek entry to the 2011 Academy Awards, is nominated for Best Foreign Film.",
-          "autor": "MoHA",
-          "url": "https://www.themoviedb.org/review/55d9073192514143e6002fa9"
-        },
-        {
-          "texto": "Unnamed parents (Christos Stergioglou and Michele Valley) are so obsessed with their children that they have, over the years, created an walled environment in which they see nobody but each…",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6636091a8de0ae0129f5f362"
-        },
-        {
-          "texto": "<em'Dogtooth'</em is certainly a Yorgos Lanthimos film! On the whole, I found this fascinating. It gets quite disturbing in parts, as you'd expect from this director, but all in all it is…",
-          "autor": "r96sk",
-          "url": "https://www.themoviedb.org/review/67a6b35edf55e8f213f0fb93"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt1379182/",
-      "imdbId": "tt1379182",
-      "tmdbId": 38810,
-      "votos": 125579
+      "votos": 43954
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -462,7 +449,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32034405/",
       "imdbId": "tt32034405",
       "tmdbId": 1161396,
-      "votos": 1404
+      "votos": 1405
     },
     "HO00009929": {
       "titulo": "La bachata del biónico",
@@ -517,41 +504,32 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2139
+      "votos": 2140
     },
-    "HO00009787": {
-      "titulo": "La hija cóndor",
+    "HO00010134": {
+      "titulo": "La pasión de Iztapalapa",
       "tituloOriginal": null,
-      "director": "Álvaro Olmos Torrico",
-      "pais": "Bolivia-Perú-Uruguay",
-      "ano": 2025,
-      "duracion": 109,
-      "filmId": "HO00009787",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009787?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009787&cinemas=003",
-      "sinopsis": "Clara, una adolescente quechua, sueña con convertirse en una estrella de música folclórica en la gran ciudad. Ana, su madre adoptiva, le ha enseñado los antiguos cantos para guiar a las mujeres en el parto, los cuales son transmitidos por tradición. Influenciada por una amiga, Clara decide marcharse a la ciudad. Para reestablecer el equilibrio del pueblo, Ana emprende una búsqueda para llevar a su hija de regreso. Con un ritmo contemplativo y honestidad narrativa acerca de la cultura quechua, La hija cóndor permite sumergirse en la vida cotidiana al pie de los Andes, explorando los dilemas de la identidad y el constante choque entre la tradición comunitaria y la modernidad urbana.",
+      "director": "Nicolás Echevarría",
+      "pais": "México",
+      "ano": 1995,
+      "duracion": 85,
+      "filmId": "HO00010134",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010134?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010134&cinemas=003",
+      "sinopsis": "La pasión de Cristo se representa año con año en Iztapalapa. Una mítica y longeva fiesta popular en la que se escenifican los últimos momentos de la vida de Jesús. Nicolás Echevarría dirige su mirada documental a este importante espectáculo religioso, mostrando su historia y a aquellos que interpretan los roles de Herodes, Poncio Pilato, María, etc. La película expone cómo la fe y devoción de la comunidad es llevada a las calles para convertirse en una de las tradiciones más trascendentales de México.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "B3-8M1u9BOU",
-      "trailers": [
-        "B3-8M1u9BOU",
-        "_OonSrJ1Fzc"
-      ],
-      "trailerFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "While those seeking social and cultural harmony would love to see everyone get along, the reality is that our world, sadly, is often beset by a clash of cultures, both at the macro level…",
-          "autor": "Brent Marchant",
-          "url": "https://www.themoviedb.org/review/6a9826bc7605e37a768eb3c3"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt37813097/",
-      "imdbId": "tt37813097",
-      "tmdbId": 1459062,
-      "votos": 195
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0444334/",
+      "imdbId": "tt0444334",
+      "tmdbId": 1807277,
+      "votos": 0
     },
     "HO00009930": {
       "titulo": "La pequeña hermana",
@@ -598,13 +576,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 8.5,
+      "publico": 7.4,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt37959568/",
       "imdbId": "tt37959568",
       "tmdbId": 1406492,
-      "votos": 90
+      "votos": 115
     },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
@@ -693,7 +671,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204000
+      "votos": 204015
     },
     "HO00009426": {
       "titulo": "Memorias de un cuerpo que arde",
@@ -726,6 +704,49 @@
       "imdbId": "tt15716284",
       "tmdbId": 1232350,
       "votos": 526
+    },
+    "HO00010241": {
+      "titulo": "Naza",
+      "tituloOriginal": "NAZA",
+      "director": "Yuval Abraham",
+      "pais": "Rachel Szor, Reino Unido",
+      "ano": 2026,
+      "duracion": 77,
+      "filmId": "HO00010241",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010241?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010241&cinemas=003",
+      "sinopsis": "En conversaciones secretas que tienen lugar de noche desde las azoteas de Tel Aviv, dan sus testimonios quienes diseñaron y operaron la matanza sistemática de civiles palestinos en Gaza por parte de Israel.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "40KW6knYMo4",
+      "trailers": [
+        "40KW6knYMo4"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.3,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "You can simply find a person, sit them down in the dark, and declare that the absence of evidence is an artistic device. And there you are - Venice applauds you.",
+          "autor": "ohd45",
+          "url": "https://www.themoviedb.org/review/6aa6a072ae157f1621cb9e18"
+        },
+        {
+          "texto": "Pure propaganda against all the evidence showing the opposite. It's what the leftist extremists love to see and it helps propagating hamas' fake narrative.",
+          "autor": "Puffypoofy",
+          "url": "https://www.themoviedb.org/review/6ab628aedaebb1fff2498640"
+        },
+        {
+          "texto": "Twenty-four men and women have taken part in this tensely but very naturally directed assessment of Israeli government policy on the routine killing of what they rather neutrally refer to…",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6ad1c60174817686c6c62587"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt44766123/",
+      "imdbId": "tt44766123",
+      "tmdbId": 1755291,
+      "votos": 5793
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -766,7 +787,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 190120
+      "votos": 190146
     },
     "HO00010096": {
       "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
@@ -815,7 +836,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 2151
+      "votos": 2301
     },
     "HO00010058": {
       "titulo": "Tierra de mi padre",
@@ -886,7 +907,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6464
+      "votos": 6520
     },
     "HO00010136": {
       "titulo": "El poder de la red",
@@ -969,7 +990,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37510326/",
       "imdbId": "tt37510326",
       "tmdbId": 1281331,
-      "votos": 9297
+      "votos": 9485
     },
     "HO00009875": {
       "titulo": "El violín",
@@ -1015,47 +1036,13 @@
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 5.9,
+      "publico": 5.8,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt39019415/",
       "imdbId": "tt39019415",
       "tmdbId": 1632166,
-      "votos": 106
-    },
-    "HO00009939": {
-      "titulo": "Mary y Max DOB",
-      "tituloOriginal": "Mary and Max",
-      "director": "Adam Elliot",
-      "pais": "Australia",
-      "ano": 2009,
-      "duracion": 92,
-      "filmId": "HO00009939",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009939?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009939&cinemas=001",
-      "sinopsis": "Después de 15 años, la aclamada ópera prima en stop motion de Adam Elliot (recientemente reconocido por Memorias de un caracol) por fin se estrena en salas mexicanas. La película narra la vida y relación de dos amigos por correspondencia muy diferentes: Mary, una solitaria chica australiana, y Max, un hombre con síndrome de Asperger que vive en Nueva York. Con un estilo visual que abraza la imperfección y la textura rústica, la cinta aborda con ternura y humor negro temas como la amistad, el alcoholismo, la soledad y la ansiedad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "kc_bf-7NNEA",
-      "trailers": [
-        "kc_bf-7NNEA",
-        "kGATShQbydk"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Mary and Max- Am I sad or happy? Am I philosopher? It's hard to understand weird people. Oh, actually, I'm weird. It's hard to understand normal people.",
-          "autor": "Asa_movies",
-          "url": "https://www.themoviedb.org/review/58e246e0c3a36872de00d543"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0978762/",
-      "imdbId": "tt0978762",
-      "tmdbId": 24238,
-      "votos": 204000
+      "votos": 107
     },
     "HO00010174": {
       "titulo": "Anti princesas",
@@ -1080,6 +1067,31 @@
       "urlImdb": null,
       "imdbId": null,
       "tmdbId": 1804597,
+      "votos": 0
+    },
+    "HO00010175": {
+      "titulo": "Ávia. El jardín de la memoria",
+      "tituloOriginal": "Àvia. El jardín de la memoria",
+      "director": "Rodrigo Ímaz",
+      "pais": "España, México",
+      "ano": 2025,
+      "duracion": 86,
+      "filmId": "HO00010175",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010175?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010175&cinemas=002",
+      "sinopsis": "Àvia. El jardín de la memoria es un documental que retrata la vida de Montserrat Gispert Cruelles. Cuando tenía tan solo siete años, Montserrat tuvo que exiliarse de su ciudad natal Barcelona hacia México. Casi ocho décadas después, recurre a su nieto Rodrigo Ímaz, director de la película, para retratar su historia. Así, Montserrat visita sus recuerdos: el jardín de la memoria.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1541982,
       "votos": 0
     },
     "HO00009936": {
@@ -1109,30 +1121,32 @@
       "tmdbId": 1199946,
       "votos": 84
     },
-    "HO00010182": {
-      "titulo": "El código de la gente",
+    "HO00010184": {
+      "titulo": "Hasta un momento más tarde",
       "tituloOriginal": null,
-      "director": "Coizta Grecko B",
-      "pais": "México, España",
+      "director": "Pablo Tamez Sierra",
+      "pais": "México",
       "ano": 2025,
-      "duracion": 53,
-      "filmId": "HO00010182",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010182?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010182&cinemas=002",
-      "sinopsis": "Narra la alianza entre un programador alemán y una activista mixteca que se unen para enfrentar siglos de exclusión económica. Su colaboración da vida a herramientas financieras de código abierto diseñadas para empoderar a comunidades indígenas y marginadas, ofreciendo una alternativa a los sistemas que han lucrado con su aislamiento. Lo que inicia como un experimento tecnológico se transforma en una historia sobre dignidad y resistencia.",
+      "duracion": 88,
+      "filmId": "HO00010184",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010184?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010184&cinemas=002",
+      "sinopsis": "Hasta un momento más tarde retrata la relación entre Romayne Wheeler, un pianista estadounidense que decidió vivir en la Sierra Tarahumara, y Romeyno Gutiérrez, su ahijado rarámuri, quien descubrió el piano a través de él y cuyo destino cambió para siempre. La película observa cómo el afecto, la música y la búsqueda de pertenencia unen y tensionan sus caminos, mientras ambos intentan ser aceptados en lugares donde no nacieron.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
+      "trailer": "kWXd5FS3O1c",
+      "trailers": [
+        "kWXd5FS3O1c"
+      ],
+      "trailerFuente": "TMDB",
       "critica": null,
       "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
+      "publico": 7.7,
+      "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "urlImdb": "https://www.imdb.com/title/tt37952580/",
+      "imdbId": "tt37952580",
+      "tmdbId": 1602021,
+      "votos": 15
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1186,286 +1200,6 @@
       "tmdbId": 1800593,
       "votos": 0
     },
-    "HO00010197": {
-      "titulo": "No Consent",
-      "tituloOriginal": null,
-      "director": "Montse Bover Rabionet",
-      "pais": "Núria Vilà Coma, México, España",
-      "ano": 2026,
-      "duracion": 72,
-      "filmId": "HO00010197",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010197?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010197&cinemas=002",
-      "sinopsis": "Silvia descubre que su exnovio difundía imágenes íntimas de mujeres sin su consentimiento, incluidas las de ella. Lea lucha por eliminar imágenes manipuladas de ella que circulan impunemente. En México, Olimpia transforma su experiencia en activismo. Sus historias exponen una violencia estructural contra las mujeres y las redes feministas que la combaten.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010202": {
-      "titulo": "Procesión",
-      "tituloOriginal": null,
-      "director": "Javier García",
-      "pais": "Male Lara, México, Países Bajos",
-      "ano": 2026,
-      "duracion": 60,
-      "filmId": "HO00010202",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010202?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010202&cinemas=002",
-      "sinopsis": "Procesión retrata el encuentro entre el compositor Hugo Morales Murguía y la Orquesta Infantil de Nurio en Michoacán, donde 100 niños crean una obra a partir de la escucha, el juego y la exploración. Este proceso deriva en un concierto concebido como una experiencia inmersiva, donde la música abre un espacio para la reflexión.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010204": {
-      "titulo": "Ser Hamlet",
-      "tituloOriginal": null,
-      "director": "Chela De Ferrari",
-      "pais": null,
-      "ano": 2026,
-      "duracion": 85,
-      "filmId": "HO00010204",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010204?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010204&cinemas=002",
-      "sinopsis": "«Ser o no ser». La icónica pregunta de Hamlet, repetida por los actores más célebres a lo largo de la historia, adquiere nueva vida en manos de un grupo de jóvenes actores neurodivergentes seleccionados mediante una convocatoria realizada por una reconocida compañía de teatro profesional peruana. Su misión: llevar a escena una versión reinventada del clásico de Shakespeare en un importante teatro de Lima.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "2Pp4yunJVPM",
-      "trailers": [
-        "2Pp4yunJVPM"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1736286,
-      "votos": 0
-    },
-    "HO00010207": {
-      "titulo": "Togoland Projections",
-      "tituloOriginal": "Togoland Projektionen",
-      "director": "Jürgen Ellinghaus",
-      "pais": "Alemania, Francia, Togo",
-      "ano": 2023,
-      "duracion": 95,
-      "filmId": "HO00010207",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010207?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010207&cinemas=002",
-      "sinopsis": "Poco antes de la Primera Guerra Mundial, el director Hans Schomburgk viajó a Togo para filmar en el protectorado alemán de «Togoland». Hoy, sus filmes siguen siendo desconocidos en el continente africano. Más de un siglo después, volvemos a los lugares en donde rodó y, junto con los actuales togoleses, cuestionamos el trasfondo histórico de las imágenes y los efectos del colonialismo actualmente.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1211326,
-      "votos": 0
-    },
-    "HO00010127": {
-      "titulo": "Charla Viudas explosivas",
-      "tituloOriginal": "THE HONEYMOON KILLERS",
-      "director": "Leonard Kastle",
-      "pais": "Estados Unidos",
-      "ano": 1969,
-      "duracion": 115,
-      "filmId": "HO00010127",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010127?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010127&cinemas=003",
-      "sinopsis": "Leonard Kastle Leonard Kastle. Shirley Stoler (Martha Beck) / Tony Lo Bianco (Raymond Fernandez) / Mary Jane Higby (Janet Fay) / Doris Roberts (Bunny) / Kip McArdle (Delphine Downing) / Marilyn Chris (Myrtle Young) / Dortha Duckworth (mamá) / Barbara Cason (Evelyn Long) / Ann Harris (Doris). Sin distribuidor. B15.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "rjPrNZxXUw0",
-      "trailers": [
-        "rjPrNZxXUw0"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "The \"anti-Bonnie and Clyde,\" as described by the film's director Leonard Kastle. Who? Yeah, I never heard of him either.",
-          "autor": "micar6",
-          "url": "https://www.themoviedb.org/review/66e76b38050f14e4fccfbdff"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0064437/",
-      "imdbId": "tt0064437",
-      "tmdbId": 10237,
-      "votos": 6579
-    },
-    "HO00010247": {
-      "titulo": "Día del Patrimonio Audiovisual 2026",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010247",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010247?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010247&cinemas=003",
-      "sinopsis": "La Secretaría de Cultura del Gobierno de México, a través del Instituto Mexicano de Cinematografía (IMCINE) y la Cineteca Nacional, en colaboración con Filmoteca de la Universidad Nacional Autónoma de México (UNAM), realiza funciones y actividades especiales en el marco de la conmemoración del Día Mundial del Patrimonio Audiovisual, que se celebra cada 27 de octubre.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010134": {
-      "titulo": "La pasión de Iztapalapa",
-      "tituloOriginal": null,
-      "director": "Nicolás Echevarría",
-      "pais": "México",
-      "ano": 1995,
-      "duracion": 85,
-      "filmId": "HO00010134",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010134?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010134&cinemas=003",
-      "sinopsis": "La pasión de Cristo se representa año con año en Iztapalapa. Una mítica y longeva fiesta popular en la que se escenifican los últimos momentos de la vida de Jesús. Nicolás Echevarría dirige su mirada documental a este importante espectáculo religioso, mostrando su historia y a aquellos que interpretan los roles de Herodes, Poncio Pilato, María, etc. La película expone cómo la fe y devoción de la comunidad es llevada a las calles para convertirse en una de las tradiciones más trascendentales de México.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0444334/",
-      "imdbId": "tt0444334",
-      "tmdbId": 1807277,
-      "votos": 0
-    },
-    "HO00010241": {
-      "titulo": "Naza",
-      "tituloOriginal": "NAZA",
-      "director": "Yuval Abraham",
-      "pais": "Rachel Szor, Reino Unido",
-      "ano": 2026,
-      "duracion": 77,
-      "filmId": "HO00010241",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010241?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010241&cinemas=003",
-      "sinopsis": "En conversaciones secretas que tienen lugar de noche desde las azoteas de Tel Aviv, dan sus testimonios quienes diseñaron y operaron la matanza sistemática de civiles palestinos en Gaza por parte de Israel.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "40KW6knYMo4",
-      "trailers": [
-        "40KW6knYMo4"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.3,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "You can simply find a person, sit them down in the dark, and declare that the absence of evidence is an artistic device. And there you are - Venice applauds you.",
-          "autor": "ohd45",
-          "url": "https://www.themoviedb.org/review/6aa6a072ae157f1621cb9e18"
-        },
-        {
-          "texto": "Pure propaganda against all the evidence showing the opposite. It's what the leftist extremists love to see and it helps propagating hamas' fake narrative.",
-          "autor": "Puffypoofy",
-          "url": "https://www.themoviedb.org/review/6ab628aedaebb1fff2498640"
-        },
-        {
-          "texto": "Twenty-four men and women have taken part in this tensely but very naturally directed assessment of Israeli government policy on the routine killing of what they rather neutrally refer to…",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6ad1c60174817686c6c62587"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt44766123/",
-      "imdbId": "tt44766123",
-      "tmdbId": 1755291,
-      "votos": 5689
-    },
-    "HO00010175": {
-      "titulo": "Ávia. El jardín de la memoria",
-      "tituloOriginal": "Àvia. El jardín de la memoria",
-      "director": "Rodrigo Ímaz",
-      "pais": "España, México",
-      "ano": 2025,
-      "duracion": 86,
-      "filmId": "HO00010175",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010175?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010175&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1541982,
-      "votos": 0
-    },
-    "HO00010184": {
-      "titulo": "Hasta un momento más tarde",
-      "tituloOriginal": null,
-      "director": "Pablo Tamez Sierra",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 88,
-      "filmId": "HO00010184",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010184?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010184&cinemas=002",
-      "sinopsis": "Hasta un momento más tarde retrata la relación entre Romayne Wheeler, un pianista estadounidense que decidió vivir en la Sierra Tarahumara, y Romeyno Gutiérrez, su ahijado rarámuri, quien descubrió el piano a través de él y cuyo destino cambió para siempre. La película observa cómo el afecto, la música y la búsqueda de pertenencia unen y tensionan sus caminos, mientras ambos intentan ser aceptados en lugares donde no nacieron.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "kWXd5FS3O1c",
-      "trailers": [
-        "kWXd5FS3O1c"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt37952580/",
-      "imdbId": "tt37952580",
-      "tmdbId": 1602021,
-      "votos": 15
-    },
     "HO00010187": {
       "titulo": "La búsqueda",
       "tituloOriginal": null,
@@ -1490,6 +1224,65 @@
       "imdbId": null,
       "tmdbId": 1661571,
       "votos": 0
+    },
+    "HO00009939": {
+      "titulo": "Mary y Max DOB",
+      "tituloOriginal": "Mary and Max",
+      "director": "Adam Elliot",
+      "pais": "Australia",
+      "ano": 2009,
+      "duracion": 92,
+      "filmId": "HO00009939",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009939?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009939&cinemas=002",
+      "sinopsis": "Después de 15 años, la aclamada ópera prima en stop motion de Adam Elliot (recientemente reconocido por Memorias de un caracol) por fin se estrena en salas mexicanas. La película narra la vida y relación de dos amigos por correspondencia muy diferentes: Mary, una solitaria chica australiana, y Max, un hombre con síndrome de Asperger que vive en Nueva York. Con un estilo visual que abraza la imperfección y la textura rústica, la cinta aborda con ternura y humor negro temas como la amistad, el alcoholismo, la soledad y la ansiedad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "kc_bf-7NNEA",
+      "trailers": [
+        "kc_bf-7NNEA",
+        "kGATShQbydk"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Mary and Max- Am I sad or happy? Am I philosopher? It's hard to understand weird people. Oh, actually, I'm weird. It's hard to understand normal people.",
+          "autor": "Asa_movies",
+          "url": "https://www.themoviedb.org/review/58e246e0c3a36872de00d543"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0978762/",
+      "imdbId": "tt0978762",
+      "tmdbId": 24238,
+      "votos": 204015
+    },
+    "HO00010197": {
+      "titulo": "No Consent",
+      "tituloOriginal": null,
+      "director": "Montse Bover Rabionet",
+      "pais": "Núria Vilà Coma, México, España",
+      "ano": 2026,
+      "duracion": 72,
+      "filmId": "HO00010197",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010197?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010197&cinemas=002",
+      "sinopsis": "Silvia descubre que su exnovio difundía imágenes íntimas de mujeres sin su consentimiento, incluidas las de ella. Lea lucha por eliminar imágenes manipuladas de ella que circulan impunemente. En México, Olimpia transforma su experiencia en activismo. Sus historias exponen una violencia estructural contra las mujeres y las redes feministas que la combaten.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00010243": {
       "titulo": "Programa 2 - Emociones",
@@ -1566,6 +1359,40 @@
       "tmdbId": null,
       "votos": null
     },
+    "HO00009787": {
+      "titulo": "La hija cóndor",
+      "tituloOriginal": null,
+      "director": "Álvaro Olmos Torrico",
+      "pais": "Bolivia-Perú-Uruguay",
+      "ano": 2025,
+      "duracion": 109,
+      "filmId": "HO00009787",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009787?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009787&cinemas=003",
+      "sinopsis": "Clara, una adolescente quechua, sueña con convertirse en una estrella de música folclórica en la gran ciudad. Ana, su madre adoptiva, le ha enseñado los antiguos cantos para guiar a las mujeres en el parto, los cuales son transmitidos por tradición. Influenciada por una amiga, Clara decide marcharse a la ciudad. Para reestablecer el equilibrio del pueblo, Ana emprende una búsqueda para llevar a su hija de regreso. Con un ritmo contemplativo y honestidad narrativa acerca de la cultura quechua, La hija cóndor permite sumergirse en la vida cotidiana al pie de los Andes, explorando los dilemas de la identidad y el constante choque entre la tradición comunitaria y la modernidad urbana.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "B3-8M1u9BOU",
+      "trailers": [
+        "B3-8M1u9BOU",
+        "_OonSrJ1Fzc"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "While those seeking social and cultural harmony would love to see everyone get along, the reality is that our world, sadly, is often beset by a clash of cultures, both at the macro level…",
+          "autor": "Brent Marchant",
+          "url": "https://www.themoviedb.org/review/6a9826bc7605e37a768eb3c3"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt37813097/",
+      "imdbId": "tt37813097",
+      "tmdbId": 1459062,
+      "votos": 195
+    },
     "HO00010253": {
       "titulo": "Mi casa es tu casa",
       "tituloOriginal": null,
@@ -1593,7 +1420,7 @@
     },
     "HO00010274": {
       "titulo": "Hablando con extraños",
-      "tituloOriginal": null,
+      "tituloOriginal": "Hablando con Extraños",
       "director": null,
       "pais": null,
       "ano": null,
@@ -1601,7 +1428,7 @@
       "filmId": "HO00010274",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010274?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010274&cinemas=001",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsis": "Tras la repentina y trágica muerte de su hijo, Patricia comienza a desmoronarse. Atormentada por recuerdos dolorosos y visiones cada vez más intensas, se desliza hacia estados en los que la realidad se diluye, como si los muertos dictaran sus sueños. A medida que fuerzas sobrenaturales invaden su hogar, la línea entre el duelo y la locura comienza a desdibujarse… y algo siniestro empieza a despertar, alimentándose de su dolor. Hablando con Extraños es una película de terror psicológico inquietante donde la pérdida se convierte en un portal hacia la oscuridad, y los muertos ya no descansan en silencio. ​",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
@@ -1741,6 +1568,51 @@
       "tmdbId": null,
       "votos": null
     },
+    "HO00009934": {
+      "titulo": "Dogtooth: Canino",
+      "tituloOriginal": "Kynodontas",
+      "director": "Yorgos Lanthimos",
+      "pais": "Grecia",
+      "ano": 2009,
+      "duracion": 97,
+      "filmId": "HO00009934",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009934?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009934&cinemas=003",
+      "sinopsis": "Canino narra la historia de una familia griega que vive recluida en su casa. El matrimonio manipula a sus tres hijos con reglas absurdas para convencerlos de que el mundo exterior es un territorio prohibido, al cual sólo podrán acceder cuando se les caiga un diente canino. En este filme, nominado al Óscar como mejor película en lengua no inglesa, el director Yorgos Lanthimos logra transitar la comedia negra y el terror psicológico, creando un cuestionamiento hacia las estructuras sociales que conocemos.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "YJe4eZ9l5KY",
+      "trailers": [
+        "YJe4eZ9l5KY",
+        "0bYpMPXXsvI",
+        "ElVysSnB3yg"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Doogtooth, the official Greek entry to the 2011 Academy Awards, is nominated for Best Foreign Film.",
+          "autor": "MoHA",
+          "url": "https://www.themoviedb.org/review/55d9073192514143e6002fa9"
+        },
+        {
+          "texto": "Unnamed parents (Christos Stergioglou and Michele Valley) are so obsessed with their children that they have, over the years, created an walled environment in which they see nobody but each…",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6636091a8de0ae0129f5f362"
+        },
+        {
+          "texto": "<em'Dogtooth'</em is certainly a Yorgos Lanthimos film! On the whole, I found this fascinating. It gets quite disturbing in parts, as you'd expect from this director, but all in all it is…",
+          "autor": "r96sk",
+          "url": "https://www.themoviedb.org/review/67a6b35edf55e8f213f0fb93"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt1379182/",
+      "imdbId": "tt1379182",
+      "tmdbId": 38810,
+      "votos": 125593
+    },
     "HO00000835": {
       "titulo": "Eco de la montaña",
       "tituloOriginal": null,
@@ -1820,11 +1692,11 @@
     },
     "HO00010162": {
       "titulo": "Charlas Urbanistorias",
-      "tituloOriginal": null,
-      "director": null,
+      "tituloOriginal": "URBANHISTORIAS",
+      "director": "Rafael Montero",
       "pais": null,
-      "ano": null,
-      "duracion": null,
+      "ano": 2004,
+      "duracion": 84,
       "filmId": "HO00010162",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010162?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010162&cinemas=002",
@@ -1963,10 +1835,10 @@
       "publico": null,
       "publicoFuente": null,
       "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "urlImdb": "https://www.imdb.com/title/tt43697992/",
+      "imdbId": "tt43697992",
+      "tmdbId": 1808749,
+      "votos": 0
     },
     "HO00010133": {
       "titulo": "María Sabina, mujer espíritu",
@@ -2068,6 +1940,31 @@
       "tmdbId": 412064,
       "votos": 23
     },
+    "HO00000529": {
+      "titulo": "Cabeza de vaca",
+      "tituloOriginal": "Cabeza de Vaca",
+      "director": "Nicolás Echevarría",
+      "pais": "México-España-Reino Unido",
+      "ano": 1990,
+      "duracion": 112,
+      "filmId": "HO00000529",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00000529?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00000529&cinemas=003",
+      "sinopsis": "En 1527, Alvar Núñez Cabeza de Vaca, tesorero de Carlos I de España, se embarca en la expedición de Pánfilo de Narváez a Florida. Cuando la expedición naufraga en las costas de Luisiana, Cabeza de Vaca es apresado y convertido en esclavo por las etnias de la región. Durante varios años Alvar Núñez será el servidor de un chamán trashumante y aprenderá sus técnicas curativas. El primer largometraje de ficción de Nicolás Echevarría fue esta ambiciosa épica en la que el director renunció a la recreación histórica rigurosa, optando por plasmar una visión plástica del mundo americano del siglo XVI, su riqueza cultural y la desorientación geográfica, moral y espiritual del conquistador europeo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0101529/",
+      "imdbId": "tt0101529",
+      "tmdbId": 41785,
+      "votos": 1296
+    },
     "HO00000201": {
       "titulo": "Niño Fidencio, El Taumaturgo de Espinazo",
       "tituloOriginal": "Niño Fidencio",
@@ -2095,518 +1992,6 @@
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010091",
-      "sala": "Sala 4",
-      "horarios": [
-        "15:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00000529",
-      "sala": "Sala 7",
-      "horarios": [
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009477",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:00",
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00008666",
-      "sala": "Sala 6",
-      "horarios": [
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:45",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009934",
-      "sala": "Sala 4",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010078",
-      "sala": "Sala 9",
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009562",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009792",
-      "sala": "Sala 10",
-      "horarios": [
-        "19:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009424",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:15",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009929",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:30",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009278",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009787",
-      "sala": "Sala 5",
-      "horarios": [
-        "16:15",
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009930",
-      "sala": "Sala 3",
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010122",
-      "sala": "Sala 3",
-      "horarios": [
-        "14:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009790",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00008486",
-      "sala": "Sala 7",
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010065",
-      "sala": "Sala 3",
-      "horarios": [
-        "16:30",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009426",
-      "sala": "Sala 4",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010096",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010058",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:45"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010075",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:30",
-        "17:00",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010094",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:40",
-        "17:15",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010078",
-      "sala": "Sala 5",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010136",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:15",
-        "15:40",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009875",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:50",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010076",
-      "sala": "Sala 4",
-      "horarios": [
-        "15:05",
-        "19:25"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010122",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:40",
-        "15:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "17:40",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010096",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:10",
-        "17:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010058",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:30",
-        "15:30",
-        "17:20",
-        "19:25"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010174",
-      "sala": "Sala 1",
-      "horarios": [
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009936",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:50",
-        "16:10",
-        "18:30",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010075",
-      "sala": "Sala 12",
-      "horarios": [
-        "14:50",
-        "17:30",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010094",
-      "sala": "Sala 9",
-      "horarios": [
-        "13:00",
-        "15:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010182",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009562",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:20",
-        "15:20",
-        "17:20",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009935",
-      "sala": "Sala 11",
-      "horarios": [
-        "14:30",
-        "16:50",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010095",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:30",
-        "15:10",
-        "17:10",
-        "19:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009930",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:10",
-        "16:30",
-        "18:50",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010122",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:40",
-        "15:40",
-        "17:40",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010065",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:40",
-        "18:40",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010197",
-      "sala": "Sala 2",
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010202",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010204",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010096",
-      "sala": "Sala 3",
-      "horarios": [
-        "14:20",
-        "16:20",
-        "18:20",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010207",
-      "sala": "Sala 2",
-      "horarios": [
-        "18:30"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-10-27",
@@ -2797,7 +2182,7 @@
       "sede": "003",
       "fecha": "2026-10-27",
       "pelicula": "HO00010241",
-      "sala": null,
+      "sala": "Sala 8",
       "horarios": [
         "20:00"
       ]
@@ -3305,8 +2690,10 @@
       "sede": "003",
       "fecha": "2026-10-28",
       "pelicula": "HO00010241",
-      "sala": null,
-      "horarios": []
+      "sala": "Sala 8",
+      "horarios": [
+        "20:00"
+      ]
     },
     {
       "sede": "003",
@@ -3830,8 +3217,10 @@
       "sede": "003",
       "fecha": "2026-10-29",
       "pelicula": "HO00010241",
-      "sala": null,
-      "horarios": []
+      "sala": "Sala 8",
+      "horarios": [
+        "20:00"
+      ]
     },
     {
       "sede": "003",
@@ -4233,15 +3622,6 @@
       "sala": "Sala 7",
       "horarios": [
         "16:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-26",
-      "pelicula": "HO00010242",
-      "sala": "Sala 2",
-      "horarios": [
-        "11:00"
       ]
     }
   ]
