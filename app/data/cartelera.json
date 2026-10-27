@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-27T13:09:51.868Z",
+  "generadoEn": "2026-10-27T19:29:26.677Z",
   "hoy": "2026-10-27",
   "sedes": [
     {
@@ -1284,31 +1284,6 @@
       "tmdbId": null,
       "votos": null
     },
-    "HO00010243": {
-      "titulo": "Programa 2 - Emociones",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010243",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010243?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010243&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
     "HO00010210": {
       "titulo": "Wind has no Tail",
       "tituloOriginal": "У ветра нет хвоста",
@@ -1989,6 +1964,31 @@
       "imdbId": "tt0081239",
       "tmdbId": 385160,
       "votos": 31
+    },
+    "HO00010243": {
+      "titulo": "Programa 2 - Emociones",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010243",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010243?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010243&cinemas=002",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     }
   },
   "funciones": [
@@ -2477,15 +2477,6 @@
       "sala": "Sala 2",
       "horarios": [
         "16:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-27",
-      "pelicula": "HO00010243",
-      "sala": "Sala 5",
-      "horarios": [
-        "11:00"
       ]
     },
     {
@@ -3622,6 +3613,15 @@
       "sala": "Sala 7",
       "horarios": [
         "16:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-27",
+      "pelicula": "HO00010243",
+      "sala": "Sala 5",
+      "horarios": [
+        "11:00"
       ]
     }
   ]
