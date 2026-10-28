@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-28T13:59:07.798Z",
+  "generadoEn": "2026-10-28T19:39:12.998Z",
   "hoy": "2026-10-28",
   "sedes": [
     {
@@ -1307,31 +1307,6 @@
       "tmdbId": 1651220,
       "votos": 0
     },
-    "HO00010244": {
-      "titulo": "Programa 3 - Medio ambiente",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010244",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010244?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010244&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
       "tituloOriginal": "Kynodontas",
@@ -1780,6 +1755,31 @@
       "imdbId": "tt0081239",
       "tmdbId": 385160,
       "votos": 31
+    },
+    "HO00010244": {
+      "titulo": "Programa 3 - Medio ambiente",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010244",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010244?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010244&cinemas=002",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     }
   },
   "funciones": [
@@ -2285,15 +2285,6 @@
         "16:40",
         "18:40",
         "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-28",
-      "pelicula": "HO00010244",
-      "sala": "Sala 2",
-      "horarios": [
-        "11:00"
       ]
     },
     {
@@ -2896,6 +2887,15 @@
       "sala": "Sala 7",
       "horarios": [
         "16:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-28",
+      "pelicula": "HO00010244",
+      "sala": "Sala 2",
+      "horarios": [
+        "11:00"
       ]
     }
   ]
