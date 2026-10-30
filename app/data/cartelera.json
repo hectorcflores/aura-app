@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-30T14:04:56.825Z",
+  "generadoEn": "2026-10-30T19:28:43.700Z",
   "hoy": "2026-10-30",
   "sedes": [
     {
@@ -1491,31 +1491,6 @@
       "tmdbId": null,
       "votos": null
     },
-    "HO00010245": {
-      "titulo": "Tortugario",
-      "tituloOriginal": null,
-      "director": "Héctor Boix",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 23,
-      "filmId": "HO00010245",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010245?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010245&cinemas=002",
-      "sinopsis": "Sigue el trabajo nocturno de voluntarios y voluntarias que recorren kilómetros de playa para cuidar los nidos y evitar que las tortugas o sus huevos corran peligro frente a las amenazas del entorno y la actividad humana.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
     "HO00008866": {
       "titulo": "Poetas campesinos",
       "tituloOriginal": "Poetas Campesinos",
@@ -1866,39 +1841,6 @@
       "tmdbId": 387584,
       "votos": 38
     },
-    "HO00010302": {
-      "titulo": "Asako I & II",
-      "tituloOriginal": "Netemo sametemo",
-      "director": "Ryūsuke Hamaguchi",
-      "pais": "Japón",
-      "ano": 2018,
-      "duracion": 119,
-      "filmId": "HO00010302",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010302?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010302&cinemas=002",
-      "sinopsis": "Ryūsuke Hamaguchi. Sachiko Tanaka, Ryūsuke Hamaguchi.. Yasuyuki Sasaki. Color Tofubeats. Azusa Yamazaki.. Masahiro Higashide, Erika Karata, Koji Seto, Rio Yamashita,... Yuji Sadai, Teruhisa Yamamoto, Yasuhiko Hattori, Masa Sawada. Nagoya Broadcasting Network, Bitters End, Comme Des Cinémas... FICUNAM. A.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "J66nBB4khSI",
-      "trailers": [
-        "J66nBB4khSI"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "With this film (following Happy Hour), Hamaguchi cements his role as the ultimate diviner of the chaos of human emotion.",
-          "autor": "badelf",
-          "url": "https://www.themoviedb.org/review/67b296ace5e1a7ed7ce0f2b7"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt7112154/",
-      "imdbId": "tt7112154",
-      "tmdbId": 487850,
-      "votos": 6332
-    },
     "HO00010157": {
       "titulo": "Charlas La diva de los pies descalzos",
       "tituloOriginal": "-LA DIVA DE LOS PIES DESCALZOS",
@@ -1924,30 +1866,30 @@
       "tmdbId": null,
       "votos": null
     },
-    "HO00010301": {
-      "titulo": "Meteorito",
+    "HO00010245": {
+      "titulo": "Tortugario",
       "tituloOriginal": null,
-      "director": "Sebastián Múnera",
-      "pais": "Colombia",
-      "ano": 2026,
-      "duracion": 90,
-      "filmId": "HO00010301",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010301?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010301&cinemas=002",
-      "sinopsis": "Sebastián Múnera Martha Marquez, Sebastián Múnera. Arlene Muller Color Juan Forero, Banda La Valerosa, Zafiro Zafiro.. Rodrigo Ramos Estrada.. Angela Cano, Jaime Castaño, Luna Gaviria... Sebastian Martinez, Mauricio S. Burckhardt, Valeria Mejía, Sebastián Múnera. Entre Acto, Haus Kino, Archipiélago Sonoro, Pos[T] La Casa.. FICUNAM. C.",
+      "director": "Héctor Boix",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 23,
+      "filmId": "HO00010245",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010245?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010245&cinemas=002",
+      "sinopsis": "Sigue el trabajo nocturno de voluntarios y voluntarias que recorren kilómetros de playa para cuidar los nidos y evitar que las tortugas o sus huevos corran peligro frente a las amenazas del entorno y la actividad humana.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 4.4,
-      "publicoFuente": "IMDb",
+      "publico": null,
+      "publicoFuente": null,
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt43729054/",
-      "imdbId": "tt43729054",
-      "tmdbId": 1734469,
-      "votos": 5
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     }
   },
   "funciones": [
@@ -2479,15 +2421,6 @@
         "16:00",
         "18:00",
         "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-30",
-      "pelicula": "HO00010245",
-      "sala": "Sala 2",
-      "horarios": [
-        "11:00"
       ]
     },
     {
@@ -5434,15 +5367,6 @@
     {
       "sede": "002",
       "fecha": "2026-11-05",
-      "pelicula": "HO00010302",
-      "sala": "Sala 1",
-      "horarios": [
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-05",
       "pelicula": "HO00010157",
       "sala": "Sala 7",
       "horarios": [
@@ -5573,15 +5497,6 @@
     {
       "sede": "002",
       "fecha": "2026-11-05",
-      "pelicula": "HO00010301",
-      "sala": "Sala 1",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-05",
       "pelicula": "HO00010096",
       "sala": "Sala 3",
       "horarios": [
@@ -5608,6 +5523,15 @@
       "horarios": [
         "16:30",
         "19:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-30",
+      "pelicula": "HO00010245",
+      "sala": "Sala 2",
+      "horarios": [
+        "11:00"
       ]
     }
   ]
