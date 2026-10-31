@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-10-31T13:37:05.330Z",
+  "generadoEn": "2026-10-31T18:38:59.598Z",
   "hoy": "2026-10-31",
   "sedes": [
     {
@@ -1065,6 +1065,7 @@
         "JLYivj6xBOA",
         "cNbAPdz04UE",
         "naaubL5GycY",
+        "5QwNaYwslzE",
         "2spv4SBqumw",
         "rKLwaMypwzw",
         "MWjc_H5jAeY",
@@ -1490,31 +1491,6 @@
       "tmdbId": 1668476,
       "votos": 0
     },
-    "HO00010142": {
-      "titulo": "Querida Fátima",
-      "tituloOriginal": null,
-      "director": "Colectiva Varinia",
-      "pais": "México, Estados Unidos",
-      "ano": 2026,
-      "duracion": 83,
-      "filmId": "HO00010142",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010142?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010142&cinemas=002",
-      "sinopsis": "Una década después del feminicidio de su hija Fátima, de 12 años, Lorena Gutiérrez se planta ante el Palacio Nacional para exigir audiencia con la primera presidenta de México. Dirigida colectivamente bajo el liderazgo de Lorena, esta obra combina el dolor personal con la resistencia política en un país donde las Naciones Unidas estiman que diez mujeres y niñas son asesinadas al día.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1651224,
-      "votos": 0
-    },
     "HO00010206": {
       "titulo": "Sombras en el ocaso",
       "tituloOriginal": null,
@@ -1689,6 +1665,31 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00010142": {
+      "titulo": "Querida Fátima",
+      "tituloOriginal": null,
+      "director": "Colectiva Varinia",
+      "pais": "México, Estados Unidos",
+      "ano": 2026,
+      "duracion": 83,
+      "filmId": "HO00010142",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010142?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010142&cinemas=002",
+      "sinopsis": "Una década después del feminicidio de su hija Fátima, de 12 años, Lorena Gutiérrez se planta ante el Palacio Nacional para exigir audiencia con la primera presidenta de México. Dirigida colectivamente bajo el liderazgo de Lorena, esta obra combina el dolor personal con la resistencia política en un país donde las Naciones Unidas estiman que diez mujeres y niñas son asesinadas al día.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1651224,
+      "votos": 0
     }
   },
   "funciones": [
@@ -2247,15 +2248,6 @@
     {
       "sede": "002",
       "fecha": "2026-10-31",
-      "pelicula": "HO00010142",
-      "sala": "Sala 1",
-      "horarios": [
-        "12:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
       "pelicula": "HO00010096",
       "sala": "Sala 3",
       "horarios": [
@@ -2273,15 +2265,6 @@
       "sala": "Sala 1",
       "horarios": [
         "15:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010123",
-      "sala": "Sala 12",
-      "horarios": [
-        "11:10"
       ]
     },
     {
@@ -4772,6 +4755,24 @@
       "horarios": [
         "16:30",
         "19:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-31",
+      "pelicula": "HO00010142",
+      "sala": "Sala 1",
+      "horarios": [
+        "12:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-10-31",
+      "pelicula": "HO00010123",
+      "sala": "Sala 12",
+      "horarios": [
+        "11:10"
       ]
     }
   ]
