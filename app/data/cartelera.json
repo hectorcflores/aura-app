@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-01T14:15:20.654Z",
+  "generadoEn": "2026-11-01T18:59:27.481Z",
   "hoy": "2026-11-01",
   "sedes": [
     {
@@ -597,7 +597,7 @@
     },
     "HO00010122": {
       "titulo": "La venganza del Charro Negro",
-      "tituloOriginal": "La Venganza del Charro Negro",
+      "tituloOriginal": null,
       "director": "Marvick Núñez",
       "pais": "México",
       "ano": 2026,
@@ -1948,15 +1948,6 @@
         "16:00",
         "18:00",
         "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-01",
-      "pelicula": "HO00010123",
-      "sala": "Sala 12",
-      "horarios": [
-        "11:10"
       ]
     },
     {
@@ -3892,6 +3883,15 @@
       "horarios": [
         "16:30",
         "19:20"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-01",
+      "pelicula": "HO00010123",
+      "sala": "Sala 12",
+      "horarios": [
+        "11:10"
       ]
     }
   ]
