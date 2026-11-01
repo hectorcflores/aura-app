@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-10-31T18:38:59.598Z",
-  "hoy": "2026-10-31",
+  "generadoEn": "2026-11-01T14:15:20.654Z",
+  "hoy": "2026-11-01",
   "sedes": [
     {
       "id": "003",
@@ -19,7 +19,6 @@
     }
   ],
   "fechas": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -53,7 +52,32 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 289
+      "votos": 292
+    },
+    "HO00000529": {
+      "titulo": "Cabeza de vaca",
+      "tituloOriginal": "Cabeza de Vaca",
+      "director": "Nicolás Echevarría",
+      "pais": "México-España-Reino Unido",
+      "ano": 1990,
+      "duracion": 112,
+      "filmId": "HO00000529",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00000529?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00000529&cinemas=003",
+      "sinopsis": "En 1527, Alvar Núñez Cabeza de Vaca, tesorero de Carlos I de España, se embarca en la expedición de Pánfilo de Narváez a Florida. Cuando la expedición naufraga en las costas de Luisiana, Cabeza de Vaca es apresado y convertido en esclavo por las etnias de la región. Durante varios años Alvar Núñez será el servidor de un chamán trashumante y aprenderá sus técnicas curativas. El primer largometraje de ficción de Nicolás Echevarría fue esta ambiciosa épica en la que el director renunció a la recreación histórica rigurosa, optando por plasmar una visión plástica del mundo americano del siglo XVI, su riqueza cultural y la desorientación geográfica, moral y espiritual del conquistador europeo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0101529/",
+      "imdbId": "tt0101529",
+      "tmdbId": 41785,
+      "votos": 1296
     },
     "HO00009477": {
       "titulo": "Convivir",
@@ -142,7 +166,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 48068
+      "votos": 48341
     },
     "HO00010075": {
       "titulo": "Digger",
@@ -256,7 +280,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 45143
+      "votos": 45384
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -301,7 +325,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125649
+      "votos": 125660
     },
     "HO00010094": {
       "titulo": "El árbol mágico",
@@ -345,7 +369,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6630
+      "votos": 6657
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -510,7 +534,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2150
+      "votos": 2152
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -597,7 +621,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37959568/",
       "imdbId": "tt37959568",
       "tmdbId": 1406492,
-      "votos": 149
+      "votos": 156
     },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
@@ -686,7 +710,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204064
+      "votos": 204072
     },
     "HO00010241": {
       "titulo": "Naza",
@@ -729,32 +753,32 @@
       "urlImdb": "https://www.imdb.com/title/tt44766123/",
       "imdbId": "tt44766123",
       "tmdbId": 1755291,
-      "votos": 6193
+      "votos": 6255
     },
-    "HO00008866": {
-      "titulo": "Poetas campesinos",
-      "tituloOriginal": "Poetas Campesinos",
+    "HO00000201": {
+      "titulo": "Niño Fidencio, El Taumaturgo de Espinazo",
+      "tituloOriginal": "Niño Fidencio",
       "director": "Nicolás Echevarría",
       "pais": "México",
-      "ano": 1979,
-      "duracion": 55,
-      "filmId": "HO00008866",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008866?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008866&cinemas=003",
-      "sinopsis": "Este mediometraje documental registra a un pequeño grupo circense de la comunidad de San Felipe Otlatepec, Puebla. Un comediante, un poeta que se disfraza de payaso y dos niñas acróbatas, dan sencillos espectáculos que cautivan a los habitantes. Poetas campesinos evidencia la importancia de estos medios de expresión y gozo de la comunidad, dándole significado a una valiosa tradición de artistas y músicos locales, cuyo trabajo independiente mantiene viva la alegría colectiva de su entorno.",
+      "ano": 1981,
+      "duracion": 80,
+      "filmId": "HO00000201",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00000201?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00000201&cinemas=003",
+      "sinopsis": "En el pueblo de Espinazo, Nuevo León, miles de devotos se congregan en el Santuario del Niño Fidencio, impulsados por su enorme fe hacia éste, quien fue un curandero y taumaturgo célebre por sus métodos y cuestionado por su misticismo. Niño Fidencio: el taumaturgo de Espinazo es un impactante documental que ahonda en las masivas peregrinaciones que conmemoran las acciones de José Fidencio. Este trabajo de Nicolás Echevarría retrata los rituales colectivos, el fanatismo y los trances espirituales de los seguidores que afirman ser poseídos por su espíritu, resultando en un crudo acercamiento sobre las extremas técnicas a las que se someten los devotos y el poder de la fe sobre ellos.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.7,
+      "publico": 7.1,
       "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0323666/",
-      "imdbId": "tt0323666",
-      "tmdbId": 628699,
-      "votos": 28
+      "urlImdb": "https://www.imdb.com/title/tt0081239/",
+      "imdbId": "tt0081239",
+      "tmdbId": 385160,
+      "votos": 31
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -795,7 +819,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 190254
+      "votos": 190276
     },
     "HO00007898": {
       "titulo": "Río de Sapos",
@@ -869,32 +893,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 2773
-    },
-    "HO00010132": {
-      "titulo": "Teshuinada, Semana Santa tarahumara",
-      "tituloOriginal": "Teshuinada",
-      "director": "Nicolás Echevarría",
-      "pais": "México",
-      "ano": 1979,
-      "duracion": 60,
-      "filmId": "HO00010132",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010132?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010132&cinemas=003",
-      "sinopsis": "En la Sierra Madre Occidental de Chihuahua viven los rarámuris, quienes cada año celebran la semana santa a través de un ritual que congrega habitantes de localidades vecinas para participar en danzas, juegos y luchas. Este filme de Echevarría sigue de cerca todos los rituales y ceremonias acontecidos en estas fechas, mientras registra la preparación del teshuino, la bebida embriagante preparada con maíz fermentado que acompaña y sella la fiesta con la que los rarámuris preservan los mitos de su creación.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.1,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0429176/",
-      "imdbId": "tt0429176",
-      "tmdbId": 412064,
-      "votos": 23
+      "votos": 2855
     },
     "HO00010058": {
       "titulo": "Tierra de mi padre",
@@ -992,7 +991,7 @@
       "urlImdb": "https://www.imdb.com/title/tt2056785/",
       "imdbId": "tt2056785",
       "tmdbId": 791523,
-      "votos": 11780
+      "votos": 13195
     },
     "HO00009520": {
       "titulo": "Binnizá, los seres de las nubes",
@@ -1038,13 +1037,13 @@
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 7,
+      "publico": 7.2,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt35826854/",
       "imdbId": "tt35826854",
       "tmdbId": 1487046,
-      "votos": 25
+      "votos": 27
     },
     "HO00010136": {
       "titulo": "El poder de la red",
@@ -1128,32 +1127,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37510326/",
       "imdbId": "tt37510326",
       "tmdbId": 1281331,
-      "votos": 9972
-    },
-    "HO00010276": {
-      "titulo": "Familia teme enfrentar una nueva noche de terro",
-      "tituloOriginal": "Familia teme enfrentar una nueva noche de terror",
-      "director": "Cristian Ponce",
-      "pais": "Argentina",
-      "ano": 2026,
-      "duracion": 83,
-      "filmId": "HO00010276",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010276?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010276&cinemas=001",
-      "sinopsis": "Cada noche, una familia enfrenta el terror de habitar una casa embrujada. Solo que esa casa no es una casa, sino un estudio de televisión. Mientras los padres intentan reconectar con su hijo, cada vez más retraído, esperan con ansias el regreso de su hija mayor de la universidad. Sin embargo, su llegada se vuelve conflictiva cuando les exige abandonar la casa y escapar del limbo de rayos catódicos en el que se encuentran atrapados.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.4,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt43729307/",
-      "imdbId": "tt43729307",
-      "tmdbId": 1737289,
-      "votos": 17
+      "votos": 10055
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -1187,7 +1161,32 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204064
+      "votos": 204072
+    },
+    "HO00010277": {
+      "titulo": "Ürei",
+      "tituloOriginal": null,
+      "director": "Yerkezhan Baizhan",
+      "pais": "Kazajistán",
+      "ano": 2026,
+      "duracion": 80,
+      "filmId": "HO00010277",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010277?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010277&cinemas=001",
+      "sinopsis": "Yerkezhan Baizhan. Yerkezhan Baizhan.. Kairat Temirgali Color Abai Akbaev.. Yerkin Sagindykov.. Tynyshgul Sultanberdieva, Akerke Kozaiyr, Asset Eszhan, Gulbahram Baybosynova, Zangar Miyatuly.. Rustem Omarov, Kuat Sadykov, Timur Smagulov, Igor Tsay. Mórbido Film Fest. C.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt44567511/",
+      "imdbId": "tt44567511",
+      "tmdbId": 1733418,
+      "votos": 10
     },
     "HO00010123": {
       "titulo": "Wildwood: El Bosque Salvaje DOB",
@@ -1258,82 +1257,7 @@
       "urlImdb": "https://www.imdb.com/title/tt2056785/",
       "imdbId": "tt2056785",
       "tmdbId": 791523,
-      "votos": 11780
-    },
-    "HO00010171": {
-      "titulo": "#AguantenLosVamosAyudar",
-      "tituloOriginal": null,
-      "director": "Fernando Llanos",
-      "pais": "México",
-      "ano": 2023,
-      "duracion": 65,
-      "filmId": "HO00010171",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010171?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010171&cinemas=002",
-      "sinopsis": "Durante la pandemia en Morelia, un grupo de jóvenes apoya a hospitales y familias vulnerables entregando insumos médicos, despensas y remodelando una vivienda, a través de transmisiones en redes sociales, recaudan más de 1 millón de pesos. Un documental vertical en primera persona sobre la solidaridad en tiempos difíciles.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010176": {
-      "titulo": "Buenos días, buenas noches, buenas tardes",
-      "tituloOriginal": "Buenos días",
-      "director": "Adrián González-Camargo",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 75,
-      "filmId": "HO00010176",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010176?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010176&cinemas=002",
-      "sinopsis": "Berenice cuida de Carolina, su suegra. Carolina tiene Alzheimer y su pasado se ha borrado casi por completo. Berenice compensa su tiempo entre cuidarla, encargarse de su negocio y el tiempo al lado de su marido, Agustín. Él, por su lado, reconstruye su pasado y la relación de sus padres.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt30362521/",
-      "imdbId": "tt30362521",
-      "tmdbId": 1215823,
-      "votos": 0
-    },
-    "HO00010177": {
-      "titulo": "Cada vez, una sola vez: Amazonia",
-      "tituloOriginal": "Cada vez",
-      "director": "Luis Felipe Ortega",
-      "pais": "Brasil, México",
-      "ano": 2025,
-      "duracion": 65,
-      "filmId": "HO00010177",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010177?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010177&cinemas=002",
-      "sinopsis": "El narrador de esta travesía por el río Amazonas desmenuza parte de su historia personal, sus vínculos con el río y, particularmente, su relación con ciertas ciudades y pueblos de Brasil. En el transcurso de esta historia, sucede la desaparición de dos figuras fundamentales en la defensa de los pueblos amazónicos cuya desaparición y muerte transformará la relación del narrador con el río y con el viaje.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "votos": 13195
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -1361,56 +1285,6 @@
       "imdbId": "tt21413704",
       "tmdbId": 1199946,
       "votos": 85
-    },
-    "HO00010180": {
-      "titulo": "Cuatas",
-      "tituloOriginal": null,
-      "director": "Cecilia Martínez",
-      "pais": "Adriana Casasola, México",
-      "ano": 2025,
-      "duracion": 94,
-      "filmId": "HO00010180",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010180?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010180&cinemas=002",
-      "sinopsis": "Pamen y Ceci nacieron el mismo día y desde ese momento cada una viviría un destino distinto. Pamen nació con una discapacidad intelectual y Ceci tuvo un accidente que le cambió la vida. Cuando sus padres mueren, la familia ve sus vidas transformarse. Esta es una aventura familiar, de oscuros infortunios y destellos de luminosa solidaridad, pero, sobre todo, es la historia de lo que el amor es capaz de lograr.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1325009,
-      "votos": 0
-    },
-    "HO00010183": {
-      "titulo": "El tigre del este",
-      "tituloOriginal": "El Tigre del Este",
-      "director": "Jorge Acevedo Carrasco",
-      "pais": "Chile, México",
-      "ano": 2026,
-      "duracion": 94,
-      "filmId": "HO00010183",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010183?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010183&cinemas=002",
-      "sinopsis": "Andrés, un joven arriero y músico autodidacta chileno, decide abandonar el pueblo donde vive para cumplir el sueño de su vida: convertirse en un músico de verdad y tocar en México. El deseo de regalarle un tema de su autoría a Los Tigres del Norte, la icónica banda musical mexicana de música norteña, será el impulso que lo lleve finalmente a emprender este importante viaje.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
     },
     "HO00009935": {
       "titulo": "Isleño",
@@ -1463,133 +1337,6 @@
       "imdbId": null,
       "tmdbId": 1800593,
       "votos": 0
-    },
-    "HO00010193": {
-      "titulo": "Mex-I-Can",
-      "tituloOriginal": "Mex-i-Can",
-      "director": "Emma Viviana González",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 84,
-      "filmId": "HO00010193",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010193?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010193&cinemas=002",
-      "sinopsis": "Raúl y Chris, dos amigos mexicanos en sus 30, residentes en Austria, buscan salir de la monotonía proponiéndose el reto de llegar a los Juegos Olímpicos de Invierno practicando biatlón, un deporte totalmente nuevo para ellos. Tras competir con los mejores del mundo y enfrentar las vicisitudes de su edad, la burocracia y la subestima, terminarán por descubrir que el éxito no solo radica en ganar.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "4KXttXOEs3o",
-      "trailers": [
-        "4KXttXOEs3o"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1668476,
-      "votos": 0
-    },
-    "HO00010206": {
-      "titulo": "Sombras en el ocaso",
-      "tituloOriginal": null,
-      "director": "Moisés Anaya",
-      "pais": "México",
-      "ano": 2028,
-      "duracion": 70,
-      "filmId": "HO00010206",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010206?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010206&cinemas=002",
-      "sinopsis": "Sombras en el ocaso es un documental que explora el peso del linaje y la búsqueda de identidad en una tradición en declive. Ante una modernidad que cuestiona la tauromaquia, el torero Lorenzo Garza Gaona lucha por sostener su legado en el ruedo: el lugar donde el pasado brilla con fuerza y el presente, ineludible, impone su sombra.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1668397,
-      "votos": 0
-    },
-    "HO00000529": {
-      "titulo": "Cabeza de vaca",
-      "tituloOriginal": "Cabeza de Vaca",
-      "director": "Nicolás Echevarría",
-      "pais": "México-España-Reino Unido",
-      "ano": 1990,
-      "duracion": 112,
-      "filmId": "HO00000529",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00000529?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00000529&cinemas=003",
-      "sinopsis": "En 1527, Alvar Núñez Cabeza de Vaca, tesorero de Carlos I de España, se embarca en la expedición de Pánfilo de Narváez a Florida. Cuando la expedición naufraga en las costas de Luisiana, Cabeza de Vaca es apresado y convertido en esclavo por las etnias de la región. Durante varios años Alvar Núñez será el servidor de un chamán trashumante y aprenderá sus técnicas curativas. El primer largometraje de ficción de Nicolás Echevarría fue esta ambiciosa épica en la que el director renunció a la recreación histórica rigurosa, optando por plasmar una visión plástica del mundo americano del siglo XVI, su riqueza cultural y la desorientación geográfica, moral y espiritual del conquistador europeo.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0101529/",
-      "imdbId": "tt0101529",
-      "tmdbId": 41785,
-      "votos": 1296
-    },
-    "HO00000201": {
-      "titulo": "Niño Fidencio, El Taumaturgo de Espinazo",
-      "tituloOriginal": "Niño Fidencio",
-      "director": "Nicolás Echevarría",
-      "pais": "México",
-      "ano": 1981,
-      "duracion": 80,
-      "filmId": "HO00000201",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00000201?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00000201&cinemas=003",
-      "sinopsis": "En el pueblo de Espinazo, Nuevo León, miles de devotos se congregan en el Santuario del Niño Fidencio, impulsados por su enorme fe hacia éste, quien fue un curandero y taumaturgo célebre por sus métodos y cuestionado por su misticismo. Niño Fidencio: el taumaturgo de Espinazo es un impactante documental que ahonda en las masivas peregrinaciones que conmemoran las acciones de José Fidencio. Este trabajo de Nicolás Echevarría retrata los rituales colectivos, el fanatismo y los trances espirituales de los seguidores que afirman ser poseídos por su espíritu, resultando en un crudo acercamiento sobre las extremas técnicas a las que se someten los devotos y el poder de la fe sobre ellos.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0081239/",
-      "imdbId": "tt0081239",
-      "tmdbId": 385160,
-      "votos": 31
-    },
-    "HO00010277": {
-      "titulo": "Ürei",
-      "tituloOriginal": null,
-      "director": "Yerkezhan Baizhan",
-      "pais": "Kazajistán",
-      "ano": 2026,
-      "duracion": 80,
-      "filmId": "HO00010277",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010277?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010277&cinemas=001",
-      "sinopsis": "Yerkezhan Baizhan. Yerkezhan Baizhan.. Kairat Temirgali Color Abai Akbaev.. Yerkin Sagindykov.. Tynyshgul Sultanberdieva, Akerke Kozaiyr, Asset Eszhan, Gulbahram Baybosynova, Zangar Miyatuly.. Rustem Omarov, Kuat Sadykov, Timur Smagulov, Igor Tsay. Mórbido Film Fest. C.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt44567511/",
-      "imdbId": "tt44567511",
-      "tmdbId": 1733418,
-      "votos": 10
     },
     "HO00010280": {
       "titulo": "24 horas de placer",
@@ -1665,619 +1412,9 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
-    },
-    "HO00010142": {
-      "titulo": "Querida Fátima",
-      "tituloOriginal": null,
-      "director": "Colectiva Varinia",
-      "pais": "México, Estados Unidos",
-      "ano": 2026,
-      "duracion": 83,
-      "filmId": "HO00010142",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010142?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010142&cinemas=002",
-      "sinopsis": "Una década después del feminicidio de su hija Fátima, de 12 años, Lorena Gutiérrez se planta ante el Palacio Nacional para exigir audiencia con la primera presidenta de México. Dirigida colectivamente bajo el liderazgo de Lorena, esta obra combina el dolor personal con la resistencia política en un país donde las Naciones Unidas estiman que diez mujeres y niñas son asesinadas al día.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1651224,
-      "votos": 0
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010091",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:15",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009477",
-      "sala": "Sala 6",
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:30",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:45",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009934",
-      "sala": "Sala 4",
-      "horarios": [
-        "16:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010094",
-      "sala": "Sala 8",
-      "horarios": [
-        "12:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010078",
-      "sala": "Sala 9",
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009609",
-      "sala": "Sala 10",
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009562",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009792",
-      "sala": "Sala 6",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009424",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009278",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009787",
-      "sala": "Sala 5",
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009930",
-      "sala": "Sala 4",
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010122",
-      "sala": "Sala 3",
-      "horarios": [
-        "12:30",
-        "15:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009790",
-      "sala": "Sala 6",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00008486",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:15",
-        "16:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010065",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:45",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010241",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:45",
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00008866",
-      "sala": "Sala 7",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:00",
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00007898",
-      "sala": "Sala 10",
-      "horarios": [
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010096",
-      "sala": "Sala 9",
-      "horarios": [
-        "12:30",
-        "14:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010132",
-      "sala": "Sala 7",
-      "horarios": [
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010058",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:45",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010348",
-      "sala": "Sala 3",
-      "horarios": [
-        "17:15",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009520",
-      "sala": null,
-      "horarios": [
-        "13:00",
-        "16:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010124",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:10",
-        "15:20",
-        "17:30",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010094",
-      "sala": "Sala 5",
-      "horarios": [
-        "12:30",
-        "16:50"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010078",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:30",
-        "16:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010136",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:50",
-        "16:10",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010276",
-      "sala": "Sala 6",
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010122",
-      "sala": "Sala 1",
-      "horarios": [
-        "12:00",
-        "14:00",
-        "16:00",
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "12:10",
-        "14:05",
-        "16:05"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "18:05",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010096",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:50",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010058",
-      "sala": "Sala 4",
-      "horarios": [
-        "12:15",
-        "14:00",
-        "15:50",
-        "17:50",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010123",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:45"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010348",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:30",
-        "19:15"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010171",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010176",
-      "sala": "Sala 2",
-      "horarios": [
-        "18:15"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010177",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010124",
-      "sala": "Sala 7",
-      "horarios": [
-        "12:50",
-        "15:10",
-        "17:40",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009936",
-      "sala": "Sala 9",
-      "horarios": [
-        "11:40",
-        "14:10",
-        "16:20",
-        "18:30",
-        "20:35"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010180",
-      "sala": "Sala 1",
-      "horarios": [
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010094",
-      "sala": "Sala 8",
-      "horarios": [
-        "12:10",
-        "14:20",
-        "16:50",
-        "19:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010183",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009935",
-      "sala": "Sala 11",
-      "horarios": [
-        "12:40",
-        "14:50",
-        "17:20",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010095",
-      "sala": "Sala 5",
-      "horarios": [
-        "11:50",
-        "13:40",
-        "15:40",
-        "17:10",
-        "18:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009930",
-      "sala": "Sala 4",
-      "horarios": [
-        "11:15",
-        "13:30",
-        "15:50",
-        "18:20",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010122",
-      "sala": "Sala 6",
-      "horarios": [
-        "11:00",
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "12:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010065",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:40",
-        "16:40",
-        "18:40",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010193",
-      "sala": "Sala 2",
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010096",
-      "sala": "Sala 3",
-      "horarios": [
-        "12:00",
-        "14:00",
-        "16:00",
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010206",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010348",
-      "sala": "Sala 12",
-      "horarios": [
-        "13:50",
-        "16:30",
-        "19:20"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-11-01",
@@ -4755,24 +3892,6 @@
       "horarios": [
         "16:30",
         "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010142",
-      "sala": "Sala 1",
-      "horarios": [
-        "12:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-10-31",
-      "pelicula": "HO00010123",
-      "sala": "Sala 12",
-      "horarios": [
-        "11:10"
       ]
     }
   ]
