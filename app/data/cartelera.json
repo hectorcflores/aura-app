@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-03T15:02:37.334Z",
+  "generadoEn": "2026-11-03T17:08:06.974Z",
   "hoy": "2026-11-03",
   "sedes": [
     {
@@ -164,7 +164,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 49031
+      "votos": 48907
     },
     "HO00010075": {
       "titulo": "Digger",
@@ -278,7 +278,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 45981
+      "votos": 45875
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -323,7 +323,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125691
+      "votos": 125679
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -467,7 +467,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37959568/",
       "imdbId": "tt37959568",
       "tmdbId": 1406492,
-      "votos": 173
+      "votos": 169
     },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
@@ -556,7 +556,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204107
+      "votos": 204098
     },
     "HO00010241": {
       "titulo": "Naza",
@@ -599,7 +599,7 @@
       "urlImdb": "https://www.imdb.com/title/tt44766123/",
       "imdbId": "tt44766123",
       "tmdbId": 1755291,
-      "votos": 6433
+      "votos": 6401
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -640,7 +640,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 190336
+      "votos": 190317
     },
     "HO00007898": {
       "titulo": "Río de Sapos",
@@ -714,7 +714,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 3194
+      "votos": 3124
     },
     "HO00010058": {
       "titulo": "Tierra de mi padre",
@@ -812,7 +812,7 @@
       "urlImdb": "https://www.imdb.com/title/tt2056785/",
       "imdbId": "tt2056785",
       "tmdbId": 791523,
-      "votos": 16595
+      "votos": 16061
     },
     "HO00010347": {
       "titulo": "Yo quiero ser hombre",
@@ -906,7 +906,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6760
+      "votos": 6754
     },
     "HO00010136": {
       "titulo": "El poder de la red",
@@ -990,7 +990,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37510326/",
       "imdbId": "tt37510326",
       "tmdbId": 1281331,
-      "votos": 10225
+      "votos": 10202
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -1024,7 +1024,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204107
+      "votos": 204098
     },
     "HO00010123": {
       "titulo": "Wildwood: El Bosque Salvaje DOB",
@@ -1095,7 +1095,7 @@
       "urlImdb": "https://www.imdb.com/title/tt2056785/",
       "imdbId": "tt2056785",
       "tmdbId": 791523,
-      "votos": 16595
+      "votos": 16061
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -1226,7 +1226,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32907482/",
       "imdbId": "tt32907482",
       "tmdbId": 1329673,
-      "votos": 569
+      "votos": 568
     },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
