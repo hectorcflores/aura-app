@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-03T17:08:06.974Z",
+  "generadoEn": "2026-11-03T20:32:27.572Z",
   "hoy": "2026-11-03",
   "sedes": [
     {
@@ -164,7 +164,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 48907
+      "votos": 49031
     },
     "HO00010075": {
       "titulo": "Digger",
@@ -278,7 +278,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 45875
+      "votos": 45981
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -323,7 +323,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125679
+      "votos": 125691
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -467,7 +467,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37959568/",
       "imdbId": "tt37959568",
       "tmdbId": 1406492,
-      "votos": 169
+      "votos": 173
     },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
@@ -556,7 +556,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204098
+      "votos": 204107
     },
     "HO00010241": {
       "titulo": "Naza",
@@ -599,7 +599,7 @@
       "urlImdb": "https://www.imdb.com/title/tt44766123/",
       "imdbId": "tt44766123",
       "tmdbId": 1755291,
-      "votos": 6401
+      "votos": 6433
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -640,7 +640,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 190317
+      "votos": 190336
     },
     "HO00007898": {
       "titulo": "Río de Sapos",
@@ -714,7 +714,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 3124
+      "votos": 3194
     },
     "HO00010058": {
       "titulo": "Tierra de mi padre",
@@ -760,6 +760,7 @@
         "PMvMsuiFVKQ",
         "1KfKStJutDM",
         "qWX1ba0f-Qg",
+        "w6pdNIgBT0s",
         "LF1NMUUIkNM",
         "zZ2P4vI0-n8",
         "XmAs9q3Md50",
@@ -812,7 +813,7 @@
       "urlImdb": "https://www.imdb.com/title/tt2056785/",
       "imdbId": "tt2056785",
       "tmdbId": 791523,
-      "votos": 16061
+      "votos": 16595
     },
     "HO00010347": {
       "titulo": "Yo quiero ser hombre",
@@ -906,7 +907,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6754
+      "votos": 6760
     },
     "HO00010136": {
       "titulo": "El poder de la red",
@@ -990,7 +991,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37510326/",
       "imdbId": "tt37510326",
       "tmdbId": 1281331,
-      "votos": 10202
+      "votos": 10225
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -1024,78 +1025,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204098
-    },
-    "HO00010123": {
-      "titulo": "Wildwood: El Bosque Salvaje DOB",
-      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
-      "director": "Travis Knight",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 132,
-      "filmId": "HO00010123",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=001",
-      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "PMvMsuiFVKQ",
-      "trailers": [
-        "PMvMsuiFVKQ",
-        "1KfKStJutDM",
-        "qWX1ba0f-Qg",
-        "LF1NMUUIkNM",
-        "zZ2P4vI0-n8",
-        "XmAs9q3Md50",
-        "SNt22U9ia1M",
-        "LVTIjSelhCI",
-        "aGBz-swP9IE",
-        "I3RRLDKN0gE",
-        "AFI_iIMyrVw",
-        "TdrXTegGf0M",
-        "zPSFJQd8YMk",
-        "lvD7GO0cYN8",
-        "Co8QLut1Of0",
-        "KnINr5uVPbE",
-        "AGR8MRZck3s",
-        "IY5rrLu598I",
-        "BfeBrJWx0f8",
-        "chOQgDF_LkI",
-        "bJQGtSeLPII",
-        "GJ-iWFVVLWQ",
-        "wr1XCDrHqYM",
-        "hN3lP4Fx1qg",
-        "dtr5JL1zkiM",
-        "evd9oEf-nrI",
-        "pf9VXMWAmLQ",
-        "POneS8h1jyU",
-        "Prv_FLWLlq8"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.7,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
-        },
-        {
-          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
-          "autor": "nkuk",
-          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
-        },
-        {
-          "texto": "Laika has always been one of my least favorite animation studios, and it's because they are tied to a medium of animation (stop-motion) that is becoming more and more dated as CGI is trying…",
-          "autor": "andrewtislercinephile",
-          "url": "https://www.themoviedb.org/review/6ae217d11392108dae048603"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt2056785/",
-      "imdbId": "tt2056785",
-      "tmdbId": 791523,
-      "votos": 16061
+      "votos": 204107
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -1226,7 +1156,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32907482/",
       "imdbId": "tt32907482",
       "tmdbId": 1329673,
-      "votos": 568
+      "votos": 569
     },
     "HO00009424": {
       "titulo": "Kix: El rey de las calles",
@@ -1283,6 +1213,78 @@
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
       "votos": 2157
+    },
+    "HO00010123": {
+      "titulo": "Wildwood: El Bosque Salvaje DOB",
+      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
+      "director": "Travis Knight",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 132,
+      "filmId": "HO00010123",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=001",
+      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "PMvMsuiFVKQ",
+      "trailers": [
+        "PMvMsuiFVKQ",
+        "1KfKStJutDM",
+        "qWX1ba0f-Qg",
+        "w6pdNIgBT0s",
+        "LF1NMUUIkNM",
+        "zZ2P4vI0-n8",
+        "XmAs9q3Md50",
+        "SNt22U9ia1M",
+        "LVTIjSelhCI",
+        "aGBz-swP9IE",
+        "I3RRLDKN0gE",
+        "AFI_iIMyrVw",
+        "TdrXTegGf0M",
+        "zPSFJQd8YMk",
+        "lvD7GO0cYN8",
+        "Co8QLut1Of0",
+        "KnINr5uVPbE",
+        "AGR8MRZck3s",
+        "IY5rrLu598I",
+        "BfeBrJWx0f8",
+        "chOQgDF_LkI",
+        "bJQGtSeLPII",
+        "GJ-iWFVVLWQ",
+        "wr1XCDrHqYM",
+        "hN3lP4Fx1qg",
+        "dtr5JL1zkiM",
+        "evd9oEf-nrI",
+        "pf9VXMWAmLQ",
+        "POneS8h1jyU",
+        "Prv_FLWLlq8"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.7,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
+        },
+        {
+          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
+          "autor": "nkuk",
+          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
+        },
+        {
+          "texto": "Laika has always been one of my least favorite animation studios, and it's because they are tied to a medium of animation (stop-motion) that is becoming more and more dated as CGI is trying…",
+          "autor": "andrewtislercinephile",
+          "url": "https://www.themoviedb.org/review/6ae217d11392108dae048603"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt2056785/",
+      "imdbId": "tt2056785",
+      "tmdbId": 791523,
+      "votos": 16595
     },
     "HO00009520": {
       "titulo": "Binnizá, los seres de las nubes",
@@ -1636,15 +1638,6 @@
     {
       "sede": "001",
       "fecha": "2026-11-03",
-      "pelicula": "HO00010123",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:45"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-03",
       "pelicula": "HO00010348",
       "sala": "Sala 8",
       "horarios": [
@@ -1788,15 +1781,6 @@
         "16:00",
         "18:00",
         "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010123",
-      "sala": "Sala 12",
-      "horarios": [
-        "13:50"
       ]
     },
     {
@@ -2768,6 +2752,24 @@
       "horarios": [
         "16:30",
         "19:20"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-03",
+      "pelicula": "HO00010123",
+      "sala": "Sala 8",
+      "horarios": [
+        "13:45"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-03",
+      "pelicula": "HO00010123",
+      "sala": "Sala 12",
+      "horarios": [
+        "13:50"
       ]
     }
   ]
