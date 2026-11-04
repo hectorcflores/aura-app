@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-11-03T20:32:27.572Z",
-  "hoy": "2026-11-03",
+  "generadoEn": "2026-11-04T15:22:20.415Z",
+  "hoy": "2026-11-04",
   "sedes": [
     {
       "id": "003",
@@ -19,36 +19,10 @@
     }
   ],
   "fechas": [
-    "2026-11-03",
     "2026-11-04",
     "2026-11-05"
   ],
   "peliculas": {
-    "HO00010280": {
-      "titulo": "24 horas de placer",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010280",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010280?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010280&cinemas=003",
-      "sinopsis": "Catalina, quien, al estar insatisfecha con su marido, decide tener una aventura con un exnovio suyo, autor de un libro erótico titulado \"24 Horas de Placer\", quien a su vez está insatisfecho con su esposa puritana",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0243735/",
-      "imdbId": "tt0243735",
-      "tmdbId": 370496,
-      "votos": 65
-    },
     "HO00010091": {
       "titulo": "Barrio triste",
       "tituloOriginal": "Barrio Triste",
@@ -75,7 +49,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 294
+      "votos": 295
     },
     "HO00009477": {
       "titulo": "Convivir",
@@ -164,7 +138,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 49031
+      "votos": 49341
     },
     "HO00010075": {
       "titulo": "Digger",
@@ -278,7 +252,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 45981
+      "votos": 46200
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -323,7 +297,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125691
+      "votos": 125704
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -352,6 +326,33 @@
       "imdbId": "tt36047799",
       "tmdbId": 1303398,
       "votos": 22
+    },
+    "HO00009609": {
+      "titulo": "El sol sale para todos",
+      "tituloOriginal": "Ri gua zhong tian",
+      "director": "Cai Shangjun",
+      "pais": "China",
+      "ano": 2025,
+      "duracion": 131,
+      "filmId": "HO00009609",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009609?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009609&cinemas=003",
+      "sinopsis": "Reconocido como uno de los cineastas chinos más relevantes de la escena actual, Cai Shangjun regresó, con este filme, a Venecia, donde se llevó la Copa Volpi a la Mejor Actriz para Xin Zhilei. La historia sigue a Meiyun, una mujer que, tras varios años, se reencuentra con Baoshu, un amor del pasado que asumió la culpa de un crimen que no cometió para salvarla de ir a la cárcel. Ante dicho encuentro Meiyun emprenderá un viaje de redención en donde la culpa los llevará a ambos al límite emocional.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "5hJbqPF8IGI",
+      "trailers": [
+        "5hJbqPF8IGI"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.5,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt32907482/",
+      "imdbId": "tt32907482",
+      "tmdbId": 1329673,
+      "votos": 569
     },
     "HO00009562": {
       "titulo": "Gracias por operar con nuestro banco",
@@ -382,30 +383,61 @@
       "tmdbId": 1225590,
       "votos": 370
     },
-    "HO00009792": {
-      "titulo": "Hojas secas",
-      "tituloOriginal": "Khmeli potoli",
-      "director": "Alexandre Koberidze",
-      "pais": "Georgia-Alemania",
-      "ano": 2025,
-      "duracion": 186,
-      "filmId": "HO00009792",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009792?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009792&cinemas=003",
-      "sinopsis": "Lisa, una joven fotógrafa, desaparece sin dejar rastro. La última información de ella es que estuvo fotografiando estadios de futbol en siete aldeas de Georgia. Su padre decide ir a buscarla por estos lugares, acompañado por Levani, el mejor amigo invisible de Lisa. Conforme avanzan por los pueblos las historias de los habitantes cambian y la esperanza de encontrarla disminuye, conformando una reflexión sobre el tiempo, la memoria y el paisaje. Hojas secas, road movie experimental del cineasta Alexandre Koberidze, destaca por oponerse al formato digital tradicional, al usar intencionalmente cámaras de baja resolución para cuestionar la obsesión contemporánea por la alta definición en el cine.",
+    "HO00009424": {
+      "titulo": "Kix: El rey de las calles",
+      "tituloOriginal": "Kix",
+      "director": "Dávid Mikulán y Bálint Révész",
+      "pais": "Hungría-Francia-Croacia",
+      "ano": 2024,
+      "duracion": 92,
+      "filmId": "HO00009424",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009424?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009424&cinemas=003",
+      "sinopsis": "Sanyi es un niño de ocho años, salvaje y enérgico, que recorre las calles de Budapest en su patineta. La ciudad es su patio de juegos, un refugio lejos del diminuto departamento de una sola habitación de su familia. Un día, por casualidad, conoce a los cineastas Dávid Révész y Bálint Mikulán, lo que da lugar a una larga amistad y a una película íntima, indómita y cautivadora. A lo largo de 12 años, Kix documenta la vida de Sanyi, marcada por las dificultades familiares, los problemas escolares y “travesuras” que tienen consecuencias cada vez más graves. Con un estilo de video punk y realismo crudo, Kix combina una rebeldía total con un compromiso social genuino, incluso cuando la historia da un giro trágico.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "EZZM01I80k4",
-      "trailers": [],
+      "trailer": "AqxhXqHV3xk",
+      "trailers": [
+        "AqxhXqHV3xk",
+        "Mx0TnmEjqbE"
+      ],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
+      "publico": 7.9,
+      "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "urlImdb": "https://www.imdb.com/title/tt32034405/",
+      "imdbId": "tt32034405",
+      "tmdbId": 1161396,
+      "votos": 1407
+    },
+    "HO00009278": {
+      "titulo": "La desaparición de Josef Mengele",
+      "tituloOriginal": "Das Verschwinden des Josef Mengele",
+      "director": "Kirill Serebrennikov",
+      "pais": "Francia-Alemania-México-Uruguay",
+      "ano": 2024,
+      "duracion": 135,
+      "filmId": "HO00009278",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009278?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009278&cinemas=003",
+      "sinopsis": "Con base en la novela homónima de Olivier Guez, la película se centra en la vida de Josef Mengele después de la Segunda Guerra Mundial. Tras cometer grandes atrocidades en Auschwitz, este médico nazi intenta rehacer su vida clandestinamente en Sudamérica. A través de los ojos de su hijo, quien lo reencuentra, Mengele se enfrenta a un pasado que ya no puede ignorar. De Buenos Aires a Paraguay y Brasil, el hombre que llegó a ser conocido como “El Ángel de la muerte” organizará su metódica desaparición para evitar cualquier tipo de juicio. La desaparición de Josef Mengele, del director ruso Kirill Serebrennikov, logra capturar el aura estéril del médico alemán sin caer en el sensacionalismo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "Bdb8ZNTE7UY",
+      "trailers": [
+        "Bdb8ZNTE7UY",
+        "FFVFBwoyrZg"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt22852560/",
+      "imdbId": "tt22852560",
+      "tmdbId": 1037264,
+      "votos": 2158
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -441,6 +473,31 @@
       "tmdbId": 1459062,
       "votos": 195
     },
+    "HO00009930": {
+      "titulo": "La pequeña hermana",
+      "tituloOriginal": null,
+      "director": "Hafsia Herzi",
+      "pais": "Francia",
+      "ano": 2025,
+      "duracion": 108,
+      "filmId": "HO00009930",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009930?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009930&cinemas=003",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "6ueDV1p6-Ig",
+      "trailers": [],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
     "HO00010122": {
       "titulo": "La venganza del Charro Negro",
       "tituloOriginal": null,
@@ -467,7 +524,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37959568/",
       "imdbId": "tt37959568",
       "tmdbId": 1406492,
-      "votos": 173
+      "votos": 181
     },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
@@ -556,7 +613,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204107
+      "votos": 204122
     },
     "HO00010241": {
       "titulo": "Naza",
@@ -599,7 +656,7 @@
       "urlImdb": "https://www.imdb.com/title/tt44766123/",
       "imdbId": "tt44766123",
       "tmdbId": 1755291,
-      "votos": 6433
+      "votos": 6513
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -640,7 +697,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 190336
+      "votos": 190358
     },
     "HO00007898": {
       "titulo": "Río de Sapos",
@@ -714,7 +771,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 3194
+      "votos": 3272
     },
     "HO00010058": {
       "titulo": "Tierra de mi padre",
@@ -813,32 +870,7 @@
       "urlImdb": "https://www.imdb.com/title/tt2056785/",
       "imdbId": "tt2056785",
       "tmdbId": 791523,
-      "votos": 16595
-    },
-    "HO00010347": {
-      "titulo": "Yo quiero ser hombre",
-      "tituloOriginal": null,
-      "director": "René Cardona",
-      "pais": null,
-      "ano": 1949,
-      "duracion": 85,
-      "filmId": "HO00010347",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010347?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010347&cinemas=003",
-      "sinopsis": "Uno de los clásicos escritos por Janet Alcoriza, una de las guionistas más prolíficas de la Época de Oro, quien contribuyó a la consolidación de la cinematografía mexicana. Un millonario moribundo decide heredar su fortuna a sus únicos descendientes: su sobrina Divina y su hijo parrandero, Pablo. Tras viajar a la capital, la tía Milagros se infiltra en la mansión de Pablo como sirvienta para investigarlo, debido a que Pablo rechaza contratar más mujeres, ella obliga a Divina a fingir ser un hombre.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0180323/",
-      "imdbId": "tt0180323",
-      "tmdbId": 387584,
-      "votos": 38
+      "votos": 17744
     },
     "HO00010124": {
       "titulo": "Ciudad de muertos",
@@ -907,7 +939,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6760
+      "votos": 6788
     },
     "HO00010136": {
       "titulo": "El poder de la red",
@@ -991,7 +1023,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37510326/",
       "imdbId": "tt37510326",
       "tmdbId": 1281331,
-      "votos": 10225
+      "votos": 10298
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -1025,7 +1057,79 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204107
+      "votos": 204122
+    },
+    "HO00010123": {
+      "titulo": "Wildwood: El Bosque Salvaje DOB",
+      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
+      "director": "Travis Knight",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 132,
+      "filmId": "HO00010123",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=001",
+      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "PMvMsuiFVKQ",
+      "trailers": [
+        "PMvMsuiFVKQ",
+        "1KfKStJutDM",
+        "qWX1ba0f-Qg",
+        "w6pdNIgBT0s",
+        "LF1NMUUIkNM",
+        "zZ2P4vI0-n8",
+        "XmAs9q3Md50",
+        "SNt22U9ia1M",
+        "LVTIjSelhCI",
+        "aGBz-swP9IE",
+        "I3RRLDKN0gE",
+        "AFI_iIMyrVw",
+        "TdrXTegGf0M",
+        "zPSFJQd8YMk",
+        "lvD7GO0cYN8",
+        "Co8QLut1Of0",
+        "KnINr5uVPbE",
+        "AGR8MRZck3s",
+        "IY5rrLu598I",
+        "BfeBrJWx0f8",
+        "chOQgDF_LkI",
+        "bJQGtSeLPII",
+        "GJ-iWFVVLWQ",
+        "wr1XCDrHqYM",
+        "hN3lP4Fx1qg",
+        "dtr5JL1zkiM",
+        "evd9oEf-nrI",
+        "pf9VXMWAmLQ",
+        "POneS8h1jyU",
+        "Prv_FLWLlq8"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.7,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
+        },
+        {
+          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
+          "autor": "nkuk",
+          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
+        },
+        {
+          "texto": "Laika has always been one of my least favorite animation studios, and it's because they are tied to a medium of animation (stop-motion) that is becoming more and more dated as CGI is trying…",
+          "autor": "andrewtislercinephile",
+          "url": "https://www.themoviedb.org/review/6ae217d11392108dae048603"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt2056785/",
+      "imdbId": "tt2056785",
+      "tmdbId": 791523,
+      "votos": 17744
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -1106,19 +1210,19 @@
       "tmdbId": 1800593,
       "votos": 0
     },
-    "HO00009930": {
-      "titulo": "La pequeña hermana",
-      "tituloOriginal": null,
-      "director": "Hafsia Herzi",
-      "pais": "Francia",
+    "HO00009792": {
+      "titulo": "Hojas secas",
+      "tituloOriginal": "Khmeli potoli",
+      "director": "Alexandre Koberidze",
+      "pais": "Georgia-Alemania",
       "ano": 2025,
-      "duracion": 108,
-      "filmId": "HO00009930",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009930?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009930&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "duracion": 186,
+      "filmId": "HO00009792",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009792?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009792&cinemas=003",
+      "sinopsis": "Lisa, una joven fotógrafa, desaparece sin dejar rastro. La última información de ella es que estuvo fotografiando estadios de futbol en siete aldeas de Georgia. Su padre decide ir a buscarla por estos lugares, acompañado por Levani, el mejor amigo invisible de Lisa. Conforme avanzan por los pueblos las historias de los habitantes cambian y la esperanza de encontrarla disminuye, conformando una reflexión sobre el tiempo, la memoria y el paisaje. Hojas secas, road movie experimental del cineasta Alexandre Koberidze, destaca por oponerse al formato digital tradicional, al usar intencionalmente cámaras de baja resolución para cuestionar la obsesión contemporánea por la alta definición en el cine.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "6ueDV1p6-Ig",
+      "trailer": "EZZM01I80k4",
       "trailers": [],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
@@ -1130,161 +1234,6 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
-    },
-    "HO00009609": {
-      "titulo": "El sol sale para todos",
-      "tituloOriginal": "Ri gua zhong tian",
-      "director": "Cai Shangjun",
-      "pais": "China",
-      "ano": 2025,
-      "duracion": 131,
-      "filmId": "HO00009609",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009609?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009609&cinemas=003",
-      "sinopsis": "Reconocido como uno de los cineastas chinos más relevantes de la escena actual, Cai Shangjun regresó, con este filme, a Venecia, donde se llevó la Copa Volpi a la Mejor Actriz para Xin Zhilei. La historia sigue a Meiyun, una mujer que, tras varios años, se reencuentra con Baoshu, un amor del pasado que asumió la culpa de un crimen que no cometió para salvarla de ir a la cárcel. Ante dicho encuentro Meiyun emprenderá un viaje de redención en donde la culpa los llevará a ambos al límite emocional.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "5hJbqPF8IGI",
-      "trailers": [
-        "5hJbqPF8IGI"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.5,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt32907482/",
-      "imdbId": "tt32907482",
-      "tmdbId": 1329673,
-      "votos": 569
-    },
-    "HO00009424": {
-      "titulo": "Kix: El rey de las calles",
-      "tituloOriginal": "Kix",
-      "director": "Dávid Mikulán y Bálint Révész",
-      "pais": "Hungría-Francia-Croacia",
-      "ano": 2024,
-      "duracion": 92,
-      "filmId": "HO00009424",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009424?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009424&cinemas=003",
-      "sinopsis": "Sanyi es un niño de ocho años, salvaje y enérgico, que recorre las calles de Budapest en su patineta. La ciudad es su patio de juegos, un refugio lejos del diminuto departamento de una sola habitación de su familia. Un día, por casualidad, conoce a los cineastas Dávid Révész y Bálint Mikulán, lo que da lugar a una larga amistad y a una película íntima, indómita y cautivadora. A lo largo de 12 años, Kix documenta la vida de Sanyi, marcada por las dificultades familiares, los problemas escolares y “travesuras” que tienen consecuencias cada vez más graves. Con un estilo de video punk y realismo crudo, Kix combina una rebeldía total con un compromiso social genuino, incluso cuando la historia da un giro trágico.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "AqxhXqHV3xk",
-      "trailers": [
-        "AqxhXqHV3xk",
-        "Mx0TnmEjqbE"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt32034405/",
-      "imdbId": "tt32034405",
-      "tmdbId": 1161396,
-      "votos": 1406
-    },
-    "HO00009278": {
-      "titulo": "La desaparición de Josef Mengele",
-      "tituloOriginal": "Das Verschwinden des Josef Mengele",
-      "director": "Kirill Serebrennikov",
-      "pais": "Francia-Alemania-México-Uruguay",
-      "ano": 2024,
-      "duracion": 135,
-      "filmId": "HO00009278",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009278?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009278&cinemas=003",
-      "sinopsis": "Con base en la novela homónima de Olivier Guez, la película se centra en la vida de Josef Mengele después de la Segunda Guerra Mundial. Tras cometer grandes atrocidades en Auschwitz, este médico nazi intenta rehacer su vida clandestinamente en Sudamérica. A través de los ojos de su hijo, quien lo reencuentra, Mengele se enfrenta a un pasado que ya no puede ignorar. De Buenos Aires a Paraguay y Brasil, el hombre que llegó a ser conocido como “El Ángel de la muerte” organizará su metódica desaparición para evitar cualquier tipo de juicio. La desaparición de Josef Mengele, del director ruso Kirill Serebrennikov, logra capturar el aura estéril del médico alemán sin caer en el sensacionalismo.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "Bdb8ZNTE7UY",
-      "trailers": [
-        "Bdb8ZNTE7UY",
-        "FFVFBwoyrZg"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt22852560/",
-      "imdbId": "tt22852560",
-      "tmdbId": 1037264,
-      "votos": 2157
-    },
-    "HO00010123": {
-      "titulo": "Wildwood: El Bosque Salvaje DOB",
-      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
-      "director": "Travis Knight",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 132,
-      "filmId": "HO00010123",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=001",
-      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "PMvMsuiFVKQ",
-      "trailers": [
-        "PMvMsuiFVKQ",
-        "1KfKStJutDM",
-        "qWX1ba0f-Qg",
-        "w6pdNIgBT0s",
-        "LF1NMUUIkNM",
-        "zZ2P4vI0-n8",
-        "XmAs9q3Md50",
-        "SNt22U9ia1M",
-        "LVTIjSelhCI",
-        "aGBz-swP9IE",
-        "I3RRLDKN0gE",
-        "AFI_iIMyrVw",
-        "TdrXTegGf0M",
-        "zPSFJQd8YMk",
-        "lvD7GO0cYN8",
-        "Co8QLut1Of0",
-        "KnINr5uVPbE",
-        "AGR8MRZck3s",
-        "IY5rrLu598I",
-        "BfeBrJWx0f8",
-        "chOQgDF_LkI",
-        "bJQGtSeLPII",
-        "GJ-iWFVVLWQ",
-        "wr1XCDrHqYM",
-        "hN3lP4Fx1qg",
-        "dtr5JL1zkiM",
-        "evd9oEf-nrI",
-        "pf9VXMWAmLQ",
-        "POneS8h1jyU",
-        "Prv_FLWLlq8"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.7,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
-        },
-        {
-          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
-          "autor": "nkuk",
-          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
-        },
-        {
-          "texto": "Laika has always been one of my least favorite animation studios, and it's because they are tied to a medium of animation (stop-motion) that is becoming more and more dated as CGI is trying…",
-          "autor": "andrewtislercinephile",
-          "url": "https://www.themoviedb.org/review/6ae217d11392108dae048603"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt2056785/",
-      "imdbId": "tt2056785",
-      "tmdbId": 791523,
-      "votos": 16595
     },
     "HO00009520": {
       "titulo": "Binnizá, los seres de las nubes",
@@ -1340,459 +1289,6 @@
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010280",
-      "sala": "Sala 4",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010091",
-      "sala": "Sala 4",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009477",
-      "sala": "Sala 6",
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:30",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:45",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009934",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010078",
-      "sala": "Sala 9",
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009562",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009792",
-      "sala": "Sala 6",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009787",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010122",
-      "sala": "Sala 3",
-      "horarios": [
-        "15:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009790",
-      "sala": "Sala 6",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00008486",
-      "sala": "Sala 7",
-      "horarios": [
-        "16:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010065",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:45",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010241",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:45",
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00007898",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:00",
-        "16:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010096",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010058",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:45",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010348",
-      "sala": "Sala 3",
-      "horarios": [
-        "17:15",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010347",
-      "sala": "Sala 10",
-      "horarios": [
-        "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010124",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:10",
-        "15:20",
-        "17:40",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010094",
-      "sala": "Sala 5",
-      "horarios": [
-        "16:50"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010078",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:30",
-        "16:15",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010136",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:50",
-        "16:10",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010122",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:05",
-        "16:05"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "18:05",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010096",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:50",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010058",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:00",
-        "15:50",
-        "17:50",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010348",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:30",
-        "19:15"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010124",
-      "sala": "Sala 7",
-      "horarios": [
-        "12:50",
-        "15:10",
-        "17:40",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009936",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:10",
-        "16:20",
-        "18:30",
-        "20:35"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "14:30",
-        "17:50",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010094",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:20",
-        "16:50",
-        "19:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009562",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:20",
-        "15:20",
-        "17:30",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009935",
-      "sala": "Sala 11",
-      "horarios": [
-        "14:50",
-        "17:20",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010095",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:40",
-        "15:40",
-        "17:10",
-        "18:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009930",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:30",
-        "15:50",
-        "18:20",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010122",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010065",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:40",
-        "18:40",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010096",
-      "sala": "Sala 3",
-      "horarios": [
-        "14:00",
-        "16:00",
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010348",
-      "sala": "Sala 12",
-      "horarios": [
-        "16:30",
-        "19:20"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-11-04",
@@ -2752,24 +2248,6 @@
       "horarios": [
         "16:30",
         "19:20"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010123",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:45"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-03",
-      "pelicula": "HO00010123",
-      "sala": "Sala 12",
-      "horarios": [
-        "13:50"
       ]
     }
   ]
