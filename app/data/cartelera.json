@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-04T15:22:20.415Z",
+  "generadoEn": "2026-11-04T17:19:47.054Z",
   "hoy": "2026-11-04",
   "sedes": [
     {
@@ -20,7 +20,8 @@
   ],
   "fechas": [
     "2026-11-04",
-    "2026-11-05"
+    "2026-11-05",
+    "2026-11-10"
   ],
   "peliculas": {
     "HO00010091": {
@@ -1286,6 +1287,31 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00002162": {
+      "titulo": "Paraíso (Dir. Luis Alcoriza)",
+      "tituloOriginal": "Paraíso",
+      "director": "Luis Alcoriza",
+      "pais": "México",
+      "ano": 1969,
+      "duracion": 100,
+      "filmId": "HO00002162",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00002162?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00002162&cinemas=003",
+      "sinopsis": "Luis Alcoriza Fernando Álvarez Garcés Colín Color Rubén Fuentes. José Juan Munguía. Jorge Rivero (Román), Ofelia Medina (Magali), Andrés García (Lauro), Alfonso Arau (el Perro), Héctor Suárez (Mario). Fernando Pérez Gavilán y Mauricio Walerstein Producciones Marte. FILMEX. B.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     }
   },
   "funciones": [
@@ -2248,6 +2274,15 @@
       "horarios": [
         "16:30",
         "19:20"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-10",
+      "pelicula": "HO00002162",
+      "sala": "Sala 4",
+      "horarios": [
+        "18:00"
       ]
     }
   ]
