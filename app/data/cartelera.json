@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-11-04T20:51:26.680Z",
-  "hoy": "2026-11-04",
+  "generadoEn": "2026-11-05T17:27:49.987Z",
+  "hoy": "2026-11-05",
   "sedes": [
     {
       "id": "003",
@@ -19,11 +19,35 @@
     }
   ],
   "fechas": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-10"
   ],
   "peliculas": {
+    "HO00010288": {
+      "titulo": "Atlas 3",
+      "tituloOriginal": "Atlas ⬝ 3",
+      "director": "Natalia Marín / Miriam Martín / Federico Luis / Alba Gaviraghi",
+      "pais": "España - Chile - Francia - Reino Unido",
+      "ano": 2026,
+      "duracion": 67,
+      "filmId": "HO00010288",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010288?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010288&cinemas=003",
+      "sinopsis": "Tefa y Nia crían a un joven sobrino en un pequeño pueblo colombiano. Cuando Nia convence a Tefa para que contrabandee teléfonos celulares a un a prisión, su viaje los lleva a través de un parque de diversiones construido en la antigua finca de un capo de la droga.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
     "HO00010091": {
       "titulo": "Barrio triste",
       "tituloOriginal": "Barrio Triste",
@@ -139,7 +163,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 49341
+      "votos": 49504
     },
     "HO00010075": {
       "titulo": "Digger",
@@ -253,7 +277,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 46200
+      "votos": 46358
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -298,35 +322,35 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125704
+      "votos": 125714
     },
-    "HO00010078": {
-      "titulo": "El evangelio de la revolución",
-      "tituloOriginal": "L’évangile de la révolution",
-      "director": "François-Xavier Drouet",
-      "pais": "Francia-Bélgica",
+    "HO00010287": {
+      "titulo": "El camino de la serpiente",
+      "tituloOriginal": "Hebi no michi",
+      "director": "Kiyoshi Kurosawa",
+      "pais": "Francia - Japón - Bélgica - Luxemburgo",
       "ano": 2024,
-      "duracion": 116,
-      "filmId": "HO00010078",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010078?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010078&cinemas=003",
-      "sinopsis": "Allfhaville Cinema. El evangelio de la revolución explora el papel del cristianismo en la lucha por la justicia social en Latinoamérica durante la segunda mitad del siglo XX. A través de la teología de la liberación, este documental cuestiona la relación entre religión, política y compromiso ético, mostrando ciertos sectores de la iglesia que interpretan el Evangelio como un llamado a la transformación de estructuras sociales. François-Xavier Drouet propone aquí una profunda reflexión sobre la relación entre la fe y los movimientos revolucionarios.",
+      "duracion": 113,
+      "filmId": "HO00010287",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010287?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010287&cinemas=003",
+      "sinopsis": "En las afueras de París, Albert, un periodista freelance cuya hija fue brutalmente asesinada, busca vengarse de los responsables. Con la ayuda de Sayoko, una médica japonesa, se acerca a una compleja red criminal vinculada con una secta y el tráfico de personas. Sin embargo, las verdaderas intenciones de Sayoko permanecen ocultas hasta el final.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "l6PKYVLqKtI",
+      "trailer": "NjjJ2ecjzvo",
       "trailers": [
-        "l6PKYVLqKtI",
-        "uIjcJtpLkks"
+        "NjjJ2ecjzvo",
+        "69Gr8EE21uQ"
       ],
-      "trailerFuente": "Cineteca Nacional",
+      "trailerFuente": "TMDB",
       "critica": null,
       "criticaFuente": null,
-      "publico": 7,
+      "publico": 5.6,
       "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt36047799/",
-      "imdbId": "tt36047799",
-      "tmdbId": 1303398,
-      "votos": 22
+      "urlImdb": "https://www.imdb.com/title/tt29301380/",
+      "imdbId": "tt29301380",
+      "tmdbId": 1115780,
+      "votos": 559
     },
     "HO00009609": {
       "titulo": "El sol sale para todos",
@@ -384,6 +408,56 @@
       "tmdbId": 1225590,
       "votos": 370
     },
+    "HO00009792": {
+      "titulo": "Hojas secas",
+      "tituloOriginal": "Khmeli potoli",
+      "director": "Alexandre Koberidze",
+      "pais": "Georgia-Alemania",
+      "ano": 2025,
+      "duracion": 186,
+      "filmId": "HO00009792",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009792?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009792&cinemas=003",
+      "sinopsis": "Lisa, una joven fotógrafa, desaparece sin dejar rastro. La última información de ella es que estuvo fotografiando estadios de futbol en siete aldeas de Georgia. Su padre decide ir a buscarla por estos lugares, acompañado por Levani, el mejor amigo invisible de Lisa. Conforme avanzan por los pueblos las historias de los habitantes cambian y la esperanza de encontrarla disminuye, conformando una reflexión sobre el tiempo, la memoria y el paisaje. Hojas secas, road movie experimental del cineasta Alexandre Koberidze, destaca por oponerse al formato digital tradicional, al usar intencionalmente cámaras de baja resolución para cuestionar la obsesión contemporánea por la alta definición en el cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "EZZM01I80k4",
+      "trailers": [],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00010285": {
+      "titulo": "Krakatoa",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010285",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010285?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010285&cinemas=003",
+      "sinopsis": "Carlos Casas. Benjamin Echazarreta. Felipe Guerrero.. Roni Hensilayah. Carlos Casas, Beli Martinez, Helena Giron, Samuel M. Delgado, Elena Hill, Krzysztof Dabrowski Filmika Galaika, Map Productions, La Banda Negra, AMI, Etnograf, Seven10 Media.. FICUNAM. C.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt3690918/",
+      "imdbId": "tt3690918",
+      "tmdbId": 426678,
+      "votos": 27
+    },
     "HO00009278": {
       "titulo": "La desaparición de Josef Mengele",
       "tituloOriginal": "Das Verschwinden des Josef Mengele",
@@ -410,7 +484,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2158
+      "votos": 2159
     },
     "HO00009787": {
       "titulo": "La hija cóndor",
@@ -497,7 +571,34 @@
       "urlImdb": "https://www.imdb.com/title/tt37959568/",
       "imdbId": "tt37959568",
       "tmdbId": 1406492,
-      "votos": 181
+      "votos": 190
+    },
+    "HO00009790": {
+      "titulo": "Las ruinas nuevas",
+      "tituloOriginal": null,
+      "director": "Manuel Embalse",
+      "pais": "Argentina",
+      "ano": 2024,
+      "duracion": 89,
+      "filmId": "HO00009790",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009790?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009790&cinemas=003",
+      "sinopsis": "Manuel Embalse presenta en su segundo largometraje un ensayo audiovisual que se aproxima, al igual que otras producciones del colectivo Antes muerto cine, a lo experimental. Un diario digital donde los géneros hibridan, transitando por el documental y adoptando cuestionamientos y líneas de pensamiento de la ciencia ficción. Embalse desarrolla una divagación ensayística en torno a la basura electrónica. ¿A dónde va?, ¿quién la ensambla?, ¿quién la desarma? y ¿qué historia contaría sobre nuestra existencia humana? son algunas de las preguntas que se pondrán sobre la mesa. En el camino por intentar responderlas iremos descubriendo las ruinas de un mundo que cohabita con nosotres en total sigilo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "T6Wg9Bhtvcs",
+      "trailers": [
+        "T6Wg9Bhtvcs"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1252645,
+      "votos": 0
     },
     "HO00008486": {
       "titulo": "Los sueños que compartimos",
@@ -559,7 +660,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204122
+      "votos": 204128
     },
     "HO00010241": {
       "titulo": "Naza",
@@ -573,8 +674,10 @@
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010241&cinemas=003",
       "sinopsis": "En conversaciones secretas que tienen lugar de noche desde las azoteas de Tel Aviv, dan sus testimonios quienes diseñaron y operaron la matanza sistemática de civiles palestinos en Gaza por parte de Israel.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "40KW6knYMo4",
+      "trailer": "jmGrEx-LL-I",
       "trailers": [
+        "jmGrEx-LL-I",
+        "SQhstLddMK8",
         "40KW6knYMo4"
       ],
       "trailerFuente": "TMDB",
@@ -602,7 +705,7 @@
       "urlImdb": "https://www.imdb.com/title/tt44766123/",
       "imdbId": "tt44766123",
       "tmdbId": 1755291,
-      "votos": 6513
+      "votos": 6571
     },
     "HO00009931": {
       "titulo": "Ponyo y el secreto de la sirenita DOB",
@@ -643,7 +746,32 @@
       "urlImdb": "https://www.imdb.com/title/tt0876563/",
       "imdbId": "tt0876563",
       "tmdbId": 12429,
-      "votos": 190358
+      "votos": 190379
+    },
+    "HO00010286": {
+      "titulo": "Proyecto Pelechian 1 y 2",
+      "tituloOriginal": "Pelechian Project",
+      "director": "Artavazd Pelechian",
+      "pais": null,
+      "ano": 1964,
+      "duracion": 93,
+      "filmId": "HO00010286",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010286?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010286&cinemas=003",
+      "sinopsis": "Artavazd Pelechian Artavazd Pelechian. : Artavazd Pelechian, Michail Vartanov. Blanco y Negro Artavazd Pelechian, Aïda Galstyan.. : Jeon Do-yeon, Sul Kyung-gu, Zo In-sung, Cho Yeo-jeong... Artavazd Pelechian Studio Haïk, VGIK’s Student Film Studio, Yerevan Documentary Film Studio, Armenfilm.. FICUNAM. B.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00007898": {
       "titulo": "Río de Sapos",
@@ -717,7 +845,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 3272
+      "votos": 3335
     },
     "HO00010058": {
       "titulo": "Tierra de mi padre",
@@ -745,6 +873,69 @@
       "imdbId": null,
       "tmdbId": 1802918,
       "votos": 0
+    },
+    "HO00008064": {
+      "titulo": "Tres colores: Blanco",
+      "tituloOriginal": "Trois couleurs: Blanc",
+      "director": "Krzysztof Kieślowski",
+      "pais": "Suiza-Francia-Polonia",
+      "ano": 1994,
+      "duracion": 92,
+      "filmId": "HO00008064",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008064?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008064&cinemas=003",
+      "sinopsis": "Ganadora del Oso de Plata a Mejor Dirección en la 44ª edición del Festival Internacional de Cine de Berlín, Tres colores: Blanco nos muestra la catastrófica serie de eventos que debe afrontar Karol, un migrante polaco, tras su violento divorcio con Dominique. Partiendo del segundo color de la bandera francesa, Kieślowski creó una agridulce comedia en torno a la situación social de Francia, una alegoría llena de cinismo que explicitaba las contradicciones discursivas que se habían desarrollado sobre los llamados valores de la revolución.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "mfw46ZiSScw",
+      "trailers": [
+        "mfw46ZiSScw"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.6,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "I liked it, but the script seems a little too far-fetched. Of the three films in Krzysztof Kieslowski's “color trilogy”, this is perhaps the closest to comedy.",
+          "autor": "Filipe Manuel Neto",
+          "url": "https://www.themoviedb.org/review/63e674c9c2ff3d00aad69a75"
+        },
+        {
+          "texto": "This is my favourite of the Kieslowski trilogy - even if it might make you wonder about the efficiency of airport security in future!",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/646215a38c44b90119cb695f"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0111507/",
+      "imdbId": "tt0111507",
+      "tmdbId": 109,
+      "votos": 85961
+    },
+    "HO00010316": {
+      "titulo": "Un amor posible",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010316",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010316?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010316&cinemas=003",
+      "sinopsis": "Lee Chang-dong, Oh Jung-mi.. Kim Ji-yong Jung Jaeil. : Kim Da-won.. : Jeon Do-yeon, Sul Kyung-gu, Zo In-sung, Cho Yeo-jeong... Lee Joon-dong, Lee Chang-dong, David Levine, Chadwick Prichard. Pinehouse Film, Anonymous Content, NOWFILM.. FICUNAM. B15.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00010348": {
       "titulo": "Wildwood: El Bosque Salvaje SUB",
@@ -816,7 +1007,34 @@
       "urlImdb": "https://www.imdb.com/title/tt2056785/",
       "imdbId": "tt2056785",
       "tmdbId": 791523,
-      "votos": 17744
+      "votos": 19078
+    },
+    "HO00009520": {
+      "titulo": "Binnizá, los seres de las nubes",
+      "tituloOriginal": "Binnizá",
+      "director": "Juan Carlos Rulfo",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 79,
+      "filmId": "HO00009520",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009520?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009520&cinemas=001",
+      "sinopsis": "El más reciente documental del cineasta mexicano Juan Carlos Rulfo se centra en la historia de los binnizá, quienes residen en Juchitán e intentan sobrevivir a los diversos cambios que el progreso colonial impone sobre su localidad. A través de un relato coral armado con testimonios de varios artistas de la comunidad, Rulfo construye un mural de formas diversas y contrastantes en las que la estructura narrativa abandona la linealidad propia del documental tradicional para sumergirse en una propuesta mucho más experimental.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "iicgukVYQaA",
+      "trailers": [
+        "iicgukVYQaA"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35679877/",
+      "imdbId": "tt35679877",
+      "tmdbId": 1324153,
+      "votos": 16
     },
     "HO00010124": {
       "titulo": "Ciudad de muertos",
@@ -841,7 +1059,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35826854/",
       "imdbId": "tt35826854",
       "tmdbId": 1487046,
-      "votos": 30
+      "votos": 31
     },
     "HO00010094": {
       "titulo": "El árbol mágico",
@@ -885,7 +1103,35 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6788
+      "votos": 6809
+    },
+    "HO00010078": {
+      "titulo": "El evangelio de la revolución",
+      "tituloOriginal": "L’évangile de la révolution",
+      "director": "François-Xavier Drouet",
+      "pais": "Francia-Bélgica",
+      "ano": 2024,
+      "duracion": 116,
+      "filmId": "HO00010078",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010078?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010078&cinemas=001",
+      "sinopsis": "Allfhaville Cinema. El evangelio de la revolución explora el papel del cristianismo en la lucha por la justicia social en Latinoamérica durante la segunda mitad del siglo XX. A través de la teología de la liberación, este documental cuestiona la relación entre religión, política y compromiso ético, mostrando ciertos sectores de la iglesia que interpretan el Evangelio como un llamado a la transformación de estructuras sociales. François-Xavier Drouet propone aquí una profunda reflexión sobre la relación entre la fe y los movimientos revolucionarios.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "l6PKYVLqKtI",
+      "trailers": [
+        "l6PKYVLqKtI",
+        "uIjcJtpLkks"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt36047799/",
+      "imdbId": "tt36047799",
+      "tmdbId": 1303398,
+      "votos": 22
     },
     "HO00010136": {
       "titulo": "El poder de la red",
@@ -969,7 +1215,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37510326/",
       "imdbId": "tt37510326",
       "tmdbId": 1281331,
-      "votos": 10298
+      "votos": 10353
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -1003,7 +1249,137 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204122
+      "votos": 204128
+    },
+    "HO00010123": {
+      "titulo": "Wildwood: El Bosque Salvaje DOB",
+      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
+      "director": "Travis Knight",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 132,
+      "filmId": "HO00010123",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=001",
+      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "PMvMsuiFVKQ",
+      "trailers": [
+        "PMvMsuiFVKQ",
+        "1KfKStJutDM",
+        "qWX1ba0f-Qg",
+        "w6pdNIgBT0s",
+        "LF1NMUUIkNM",
+        "zZ2P4vI0-n8",
+        "XmAs9q3Md50",
+        "SNt22U9ia1M",
+        "LVTIjSelhCI",
+        "aGBz-swP9IE",
+        "I3RRLDKN0gE",
+        "AFI_iIMyrVw",
+        "TdrXTegGf0M",
+        "zPSFJQd8YMk",
+        "lvD7GO0cYN8",
+        "Co8QLut1Of0",
+        "KnINr5uVPbE",
+        "AGR8MRZck3s",
+        "IY5rrLu598I",
+        "BfeBrJWx0f8",
+        "chOQgDF_LkI",
+        "bJQGtSeLPII",
+        "GJ-iWFVVLWQ",
+        "wr1XCDrHqYM",
+        "hN3lP4Fx1qg",
+        "dtr5JL1zkiM",
+        "evd9oEf-nrI",
+        "pf9VXMWAmLQ",
+        "POneS8h1jyU",
+        "Prv_FLWLlq8"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.7,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
+        },
+        {
+          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
+          "autor": "nkuk",
+          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
+        },
+        {
+          "texto": "Laika has always been one of my least favorite animation studios, and it's because they are tied to a medium of animation (stop-motion) that is becoming more and more dated as CGI is trying…",
+          "autor": "andrewtislercinephile",
+          "url": "https://www.themoviedb.org/review/6ae217d11392108dae048603"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt2056785/",
+      "imdbId": "tt2056785",
+      "tmdbId": 791523,
+      "votos": 19078
+    },
+    "HO00010302": {
+      "titulo": "Asako I & II",
+      "tituloOriginal": "Netemo sametemo",
+      "director": "Ryūsuke Hamaguchi",
+      "pais": "Japón",
+      "ano": 2018,
+      "duracion": 119,
+      "filmId": "HO00010302",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010302?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010302&cinemas=002",
+      "sinopsis": "Ryūsuke Hamaguchi. Sachiko Tanaka, Ryūsuke Hamaguchi.. Yasuyuki Sasaki. Color Tofubeats. Azusa Yamazaki.. Masahiro Higashide, Erika Karata, Koji Seto, Rio Yamashita,... Yuji Sadai, Teruhisa Yamamoto, Yasuhiko Hattori, Masa Sawada. Nagoya Broadcasting Network, Bitters End, Comme Des Cinémas... FICUNAM. A.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "J66nBB4khSI",
+      "trailers": [
+        "J66nBB4khSI"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "With this film (following Happy Hour), Hamaguchi cements his role as the ultimate diviner of the chaos of human emotion.",
+          "autor": "badelf",
+          "url": "https://www.themoviedb.org/review/67b296ace5e1a7ed7ce0f2b7"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt7112154/",
+      "imdbId": "tt7112154",
+      "tmdbId": 487850,
+      "votos": 6347
+    },
+    "HO00010157": {
+      "titulo": "Charlas La diva de los pies descalzos",
+      "tituloOriginal": "-LA DIVA DE LOS PIES DESCALZOS",
+      "director": "Ana Sofia Fonseca",
+      "pais": "Portugal",
+      "ano": 2022,
+      "duracion": 94,
+      "filmId": "HO00010157",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010157?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010157&cinemas=002",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00009936": {
       "titulo": "Cocodrilos",
@@ -1084,381 +1460,6 @@
       "tmdbId": 1800593,
       "votos": 0
     },
-    "HO00010288": {
-      "titulo": "Atlas 3",
-      "tituloOriginal": "Atlas ⬝ 3",
-      "director": "Natalia Marín / Miriam Martín / Federico Luis / Alba Gaviraghi",
-      "pais": "España - Chile - Francia - Reino Unido",
-      "ano": 2026,
-      "duracion": 67,
-      "filmId": "HO00010288",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010288?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010288&cinemas=003",
-      "sinopsis": "Tefa y Nia crían a un joven sobrino en un pequeño pueblo colombiano. Cuando Nia convence a Tefa para que contrabandee teléfonos celulares a un a prisión, su viaje los lleva a través de un parque de diversiones construido en la antigua finca de un capo de la droga.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010287": {
-      "titulo": "El camino de la serpiente",
-      "tituloOriginal": "Hebi no michi",
-      "director": "Kiyoshi Kurosawa",
-      "pais": "Francia - Japón - Bélgica - Luxemburgo",
-      "ano": 2024,
-      "duracion": 113,
-      "filmId": "HO00010287",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010287?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010287&cinemas=003",
-      "sinopsis": "En las afueras de París, Albert, un periodista freelance cuya hija fue brutalmente asesinada, busca vengarse de los responsables. Con la ayuda de Sayoko, una médica japonesa, se acerca a una compleja red criminal vinculada con una secta y el tráfico de personas. Sin embargo, las verdaderas intenciones de Sayoko permanecen ocultas hasta el final.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "NjjJ2ecjzvo",
-      "trailers": [
-        "NjjJ2ecjzvo",
-        "69Gr8EE21uQ"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 5.6,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt29301380/",
-      "imdbId": "tt29301380",
-      "tmdbId": 1115780,
-      "votos": 559
-    },
-    "HO00009792": {
-      "titulo": "Hojas secas",
-      "tituloOriginal": "Khmeli potoli",
-      "director": "Alexandre Koberidze",
-      "pais": "Georgia-Alemania",
-      "ano": 2025,
-      "duracion": 186,
-      "filmId": "HO00009792",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009792?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009792&cinemas=003",
-      "sinopsis": "Lisa, una joven fotógrafa, desaparece sin dejar rastro. La última información de ella es que estuvo fotografiando estadios de futbol en siete aldeas de Georgia. Su padre decide ir a buscarla por estos lugares, acompañado por Levani, el mejor amigo invisible de Lisa. Conforme avanzan por los pueblos las historias de los habitantes cambian y la esperanza de encontrarla disminuye, conformando una reflexión sobre el tiempo, la memoria y el paisaje. Hojas secas, road movie experimental del cineasta Alexandre Koberidze, destaca por oponerse al formato digital tradicional, al usar intencionalmente cámaras de baja resolución para cuestionar la obsesión contemporánea por la alta definición en el cine.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "EZZM01I80k4",
-      "trailers": [],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010285": {
-      "titulo": "Krakatoa",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010285",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010285?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010285&cinemas=003",
-      "sinopsis": "Carlos Casas. Benjamin Echazarreta. Felipe Guerrero.. Roni Hensilayah. Carlos Casas, Beli Martinez, Helena Giron, Samuel M. Delgado, Elena Hill, Krzysztof Dabrowski Filmika Galaika, Map Productions, La Banda Negra, AMI, Etnograf, Seven10 Media.. FICUNAM. C.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt3690918/",
-      "imdbId": "tt3690918",
-      "tmdbId": 426678,
-      "votos": 27
-    },
-    "HO00009790": {
-      "titulo": "Las ruinas nuevas",
-      "tituloOriginal": null,
-      "director": "Manuel Embalse",
-      "pais": "Argentina",
-      "ano": 2024,
-      "duracion": 89,
-      "filmId": "HO00009790",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009790?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009790&cinemas=003",
-      "sinopsis": "Manuel Embalse presenta en su segundo largometraje un ensayo audiovisual que se aproxima, al igual que otras producciones del colectivo Antes muerto cine, a lo experimental. Un diario digital donde los géneros hibridan, transitando por el documental y adoptando cuestionamientos y líneas de pensamiento de la ciencia ficción. Embalse desarrolla una divagación ensayística en torno a la basura electrónica. ¿A dónde va?, ¿quién la ensambla?, ¿quién la desarma? y ¿qué historia contaría sobre nuestra existencia humana? son algunas de las preguntas que se pondrán sobre la mesa. En el camino por intentar responderlas iremos descubriendo las ruinas de un mundo que cohabita con nosotres en total sigilo.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "T6Wg9Bhtvcs",
-      "trailers": [
-        "T6Wg9Bhtvcs"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1252645,
-      "votos": 0
-    },
-    "HO00010286": {
-      "titulo": "Proyecto Pelechian 1 y 2",
-      "tituloOriginal": "Pelechian Project",
-      "director": "Artavazd Pelechian",
-      "pais": null,
-      "ano": 1964,
-      "duracion": 93,
-      "filmId": "HO00010286",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010286?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010286&cinemas=003",
-      "sinopsis": "Artavazd Pelechian Artavazd Pelechian. : Artavazd Pelechian, Michail Vartanov. Blanco y Negro Artavazd Pelechian, Aïda Galstyan.. : Jeon Do-yeon, Sul Kyung-gu, Zo In-sung, Cho Yeo-jeong... Artavazd Pelechian Studio Haïk, VGIK’s Student Film Studio, Yerevan Documentary Film Studio, Armenfilm.. FICUNAM. B.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00008064": {
-      "titulo": "Tres colores: Blanco",
-      "tituloOriginal": "Trois couleurs: Blanc",
-      "director": "Krzysztof Kieślowski",
-      "pais": "Suiza-Francia-Polonia",
-      "ano": 1994,
-      "duracion": 92,
-      "filmId": "HO00008064",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008064?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008064&cinemas=003",
-      "sinopsis": "Ganadora del Oso de Plata a Mejor Dirección en la 44ª edición del Festival Internacional de Cine de Berlín, Tres colores: Blanco nos muestra la catastrófica serie de eventos que debe afrontar Karol, un migrante polaco, tras su violento divorcio con Dominique. Partiendo del segundo color de la bandera francesa, Kieślowski creó una agridulce comedia en torno a la situación social de Francia, una alegoría llena de cinismo que explicitaba las contradicciones discursivas que se habían desarrollado sobre los llamados valores de la revolución.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "mfw46ZiSScw",
-      "trailers": [
-        "mfw46ZiSScw"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.6,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "I liked it, but the script seems a little too far-fetched. Of the three films in Krzysztof Kieslowski's “color trilogy”, this is perhaps the closest to comedy.",
-          "autor": "Filipe Manuel Neto",
-          "url": "https://www.themoviedb.org/review/63e674c9c2ff3d00aad69a75"
-        },
-        {
-          "texto": "This is my favourite of the Kieslowski trilogy - even if it might make you wonder about the efficiency of airport security in future!",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/646215a38c44b90119cb695f"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0111507/",
-      "imdbId": "tt0111507",
-      "tmdbId": 109,
-      "votos": 85957
-    },
-    "HO00010316": {
-      "titulo": "Un amor posible",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010316",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010316?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010316&cinemas=003",
-      "sinopsis": "Lee Chang-dong, Oh Jung-mi.. Kim Ji-yong Jung Jaeil. : Kim Da-won.. : Jeon Do-yeon, Sul Kyung-gu, Zo In-sung, Cho Yeo-jeong... Lee Joon-dong, Lee Chang-dong, David Levine, Chadwick Prichard. Pinehouse Film, Anonymous Content, NOWFILM.. FICUNAM. B15.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00009520": {
-      "titulo": "Binnizá, los seres de las nubes",
-      "tituloOriginal": "Binnizá",
-      "director": "Juan Carlos Rulfo",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 79,
-      "filmId": "HO00009520",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009520?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009520&cinemas=001",
-      "sinopsis": "El más reciente documental del cineasta mexicano Juan Carlos Rulfo se centra en la historia de los binnizá, quienes residen en Juchitán e intentan sobrevivir a los diversos cambios que el progreso colonial impone sobre su localidad. A través de un relato coral armado con testimonios de varios artistas de la comunidad, Rulfo construye un mural de formas diversas y contrastantes en las que la estructura narrativa abandona la linealidad propia del documental tradicional para sumergirse en una propuesta mucho más experimental.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "iicgukVYQaA",
-      "trailers": [
-        "iicgukVYQaA"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35679877/",
-      "imdbId": "tt35679877",
-      "tmdbId": 1324153,
-      "votos": 16
-    },
-    "HO00010123": {
-      "titulo": "Wildwood: El Bosque Salvaje DOB",
-      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
-      "director": "Travis Knight",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 132,
-      "filmId": "HO00010123",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=001",
-      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "PMvMsuiFVKQ",
-      "trailers": [
-        "PMvMsuiFVKQ",
-        "1KfKStJutDM",
-        "qWX1ba0f-Qg",
-        "w6pdNIgBT0s",
-        "LF1NMUUIkNM",
-        "zZ2P4vI0-n8",
-        "XmAs9q3Md50",
-        "SNt22U9ia1M",
-        "LVTIjSelhCI",
-        "aGBz-swP9IE",
-        "I3RRLDKN0gE",
-        "AFI_iIMyrVw",
-        "TdrXTegGf0M",
-        "zPSFJQd8YMk",
-        "lvD7GO0cYN8",
-        "Co8QLut1Of0",
-        "KnINr5uVPbE",
-        "AGR8MRZck3s",
-        "IY5rrLu598I",
-        "BfeBrJWx0f8",
-        "chOQgDF_LkI",
-        "bJQGtSeLPII",
-        "GJ-iWFVVLWQ",
-        "wr1XCDrHqYM",
-        "hN3lP4Fx1qg",
-        "dtr5JL1zkiM",
-        "evd9oEf-nrI",
-        "pf9VXMWAmLQ",
-        "POneS8h1jyU",
-        "Prv_FLWLlq8"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.7,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
-        },
-        {
-          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
-          "autor": "nkuk",
-          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
-        },
-        {
-          "texto": "Laika has always been one of my least favorite animation studios, and it's because they are tied to a medium of animation (stop-motion) that is becoming more and more dated as CGI is trying…",
-          "autor": "andrewtislercinephile",
-          "url": "https://www.themoviedb.org/review/6ae217d11392108dae048603"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt2056785/",
-      "imdbId": "tt2056785",
-      "tmdbId": 791523,
-      "votos": 17744
-    },
-    "HO00010302": {
-      "titulo": "Asako I & II",
-      "tituloOriginal": "Netemo sametemo",
-      "director": "Ryūsuke Hamaguchi",
-      "pais": "Japón",
-      "ano": 2018,
-      "duracion": 119,
-      "filmId": "HO00010302",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010302?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010302&cinemas=002",
-      "sinopsis": "Ryūsuke Hamaguchi. Sachiko Tanaka, Ryūsuke Hamaguchi.. Yasuyuki Sasaki. Color Tofubeats. Azusa Yamazaki.. Masahiro Higashide, Erika Karata, Koji Seto, Rio Yamashita,... Yuji Sadai, Teruhisa Yamamoto, Yasuhiko Hattori, Masa Sawada. Nagoya Broadcasting Network, Bitters End, Comme Des Cinémas... FICUNAM. A.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "J66nBB4khSI",
-      "trailers": [
-        "J66nBB4khSI"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "With this film (following Happy Hour), Hamaguchi cements his role as the ultimate diviner of the chaos of human emotion.",
-          "autor": "badelf",
-          "url": "https://www.themoviedb.org/review/67b296ace5e1a7ed7ce0f2b7"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt7112154/",
-      "imdbId": "tt7112154",
-      "tmdbId": 487850,
-      "votos": 6342
-    },
-    "HO00010157": {
-      "titulo": "Charlas La diva de los pies descalzos",
-      "tituloOriginal": "-LA DIVA DE LOS PIES DESCALZOS",
-      "director": "Ana Sofia Fonseca",
-      "pais": "Portugal",
-      "ano": 2022,
-      "duracion": 94,
-      "filmId": "HO00010157",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010157?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010157&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
     "HO00010301": {
       "titulo": "Meteorito",
       "tituloOriginal": null,
@@ -1508,471 +1509,9 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
-    },
-    "HO00009424": {
-      "titulo": "Kix: El rey de las calles",
-      "tituloOriginal": "Kix",
-      "director": "Dávid Mikulán y Bálint Révész",
-      "pais": "Hungría-Francia-Croacia",
-      "ano": 2024,
-      "duracion": 92,
-      "filmId": "HO00009424",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009424?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009424&cinemas=003",
-      "sinopsis": "Sanyi es un niño de ocho años, salvaje y enérgico, que recorre las calles de Budapest en su patineta. La ciudad es su patio de juegos, un refugio lejos del diminuto departamento de una sola habitación de su familia. Un día, por casualidad, conoce a los cineastas Dávid Révész y Bálint Mikulán, lo que da lugar a una larga amistad y a una película íntima, indómita y cautivadora. A lo largo de 12 años, Kix documenta la vida de Sanyi, marcada por las dificultades familiares, los problemas escolares y “travesuras” que tienen consecuencias cada vez más graves. Con un estilo de video punk y realismo crudo, Kix combina una rebeldía total con un compromiso social genuino, incluso cuando la historia da un giro trágico.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "AqxhXqHV3xk",
-      "trailers": [
-        "AqxhXqHV3xk",
-        "Mx0TnmEjqbE"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt32034405/",
-      "imdbId": "tt32034405",
-      "tmdbId": 1161396,
-      "votos": 1407
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010091",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:15",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009477",
-      "sala": "Sala 6",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009956",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:30",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "17:45",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009934",
-      "sala": "Sala 4",
-      "horarios": [
-        "16:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010078",
-      "sala": "Sala 9",
-      "horarios": [
-        "16:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009609",
-      "sala": "Sala 10",
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009562",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:45",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009278",
-      "sala": "Sala 10",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009787",
-      "sala": "Sala 5",
-      "horarios": [
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009930",
-      "sala": "Sala 4",
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010122",
-      "sala": "Sala 3",
-      "horarios": [
-        "15:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00008486",
-      "sala": "Sala 7",
-      "horarios": [
-        "16:45",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010065",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:45",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010241",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:45",
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009931",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00007898",
-      "sala": "Sala 10",
-      "horarios": [
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010096",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:30",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010058",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:45",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010348",
-      "sala": "Sala 3",
-      "horarios": [
-        "17:15",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010124",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:10",
-        "15:20",
-        "17:40",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010094",
-      "sala": "Sala 5",
-      "horarios": [
-        "16:50"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010136",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:50",
-        "16:10",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010122",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009939",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:05",
-        "16:05"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "18:05",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010096",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:50",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010058",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:00",
-        "15:50",
-        "17:50",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010348",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:30",
-        "19:15"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010124",
-      "sala": "Sala 7",
-      "horarios": [
-        "15:10",
-        "17:40",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009936",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:10",
-        "16:20",
-        "18:30",
-        "20:35"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "14:30",
-        "17:50",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010094",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:20",
-        "16:50",
-        "19:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009562",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:20",
-        "15:20",
-        "17:30",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009935",
-      "sala": "Sala 11",
-      "horarios": [
-        "14:50",
-        "17:20",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010095",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:40",
-        "15:40",
-        "17:10",
-        "18:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009930",
-      "sala": "Sala 4",
-      "horarios": [
-        "13:30",
-        "15:50",
-        "18:20",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010122",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009939",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010065",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:40",
-        "18:40",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010096",
-      "sala": "Sala 3",
-      "horarios": [
-        "14:00",
-        "16:00",
-        "18:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010348",
-      "sala": "Sala 12",
-      "horarios": [
-        "16:30",
-        "19:20"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-11-05",
@@ -2534,51 +2073,6 @@
       "sala": "Sala 4",
       "horarios": [
         "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009424",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00009790",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010078",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010123",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:45"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-04",
-      "pelicula": "HO00010123",
-      "sala": "Sala 12",
-      "horarios": [
-        "13:50"
       ]
     }
   ]
