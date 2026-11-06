@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-06T16:49:58.472Z",
+  "generadoEn": "2026-11-06T20:29:49.178Z",
   "hoy": "2026-11-06",
   "sedes": [
     {
@@ -1592,6 +1592,33 @@
       "tmdbId": 791523,
       "votos": 20175
     },
+    "HO00010298": {
+      "titulo": "9 templos al cielo",
+      "tituloOriginal": "9 Temples to Heaven",
+      "director": "Sompot Chidgasornpongse",
+      "pais": "Tailandia",
+      "ano": 2026,
+      "duracion": 140,
+      "filmId": "HO00010298",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010298?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010298&cinemas=003",
+      "sinopsis": "Sompot Chidgasornpongse. Sompot Chidgasornpongse.. Jonathan Ricquebourg. : Tham Kattiyakul, Jirapat Mekkrajai, Daniel Hui, Sompot Chidgasornpongse.. : Amara Ramnarong, Surachai Ningsanond, Jirawut Chiwaruck, Yaneenan Jiraphatjittrin... Kissada Kamyoung, Apichatpong Weerasethakul. : Kick the Machine Films, At A Time.. FICUNAM. C.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "m02q5G9rjSw",
+      "trailers": [
+        "m02q5G9rjSw"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt37740247/",
+      "imdbId": "tt37740247",
+      "tmdbId": 1046304,
+      "votos": 113
+    },
     "HO00010319": {
       "titulo": "Chicas tristes",
       "tituloOriginal": "Chicas Tristes",
@@ -2060,6 +2087,39 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00010320": {
+      "titulo": "El samurái y el prisionero",
+      "tituloOriginal": "Kokurôjô",
+      "director": "Kiyoshi Kurosawa",
+      "pais": "Japón",
+      "ano": 2026,
+      "duracion": 147,
+      "filmId": "HO00010320",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010320?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010320&cinemas=003",
+      "sinopsis": "Kiyoshi Kurosawa Kiyoshi Kurosawa. Yasuyuki Sasaki. Color : Yoshihiro Hanno.. Koichi Takahashi.. Masahiro Motoki, Masaki Suda, Yuriko Yoshitaka, Munetaka Aoki... Satoko Ishida. Shochiku.. FICUNAM. C.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "dY5kXykdbLo",
+      "trailers": [
+        "dY5kXykdbLo"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "The Samurai and The Prisoner plants the seeds of an intriguing mystery that is worthy of Kiyoshi Kurasawa’s involvement.",
+          "autor": "Chris Sawin",
+          "url": "https://www.themoviedb.org/review/6a762ae32cf480556bf663aa"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt39602215/",
+      "imdbId": "tt39602215",
+      "tmdbId": 1620313,
+      "votos": 966
     },
     "HO00010327": {
       "titulo": "La libertad doble",
@@ -3240,6 +3300,15 @@
     {
       "sede": "003",
       "fecha": "2026-11-07",
+      "pelicula": "HO00010298",
+      "sala": "Sala 9",
+      "horarios": [
+        "18:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-07",
       "pelicula": "HO00010091",
       "sala": "Sala 5",
       "horarios": [
@@ -3935,6 +4004,15 @@
       "sala": "Sala 4",
       "horarios": [
         "16:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-08",
+      "pelicula": "HO00010320",
+      "sala": "Sala 1",
+      "horarios": [
+        "15:00"
       ]
     },
     {
