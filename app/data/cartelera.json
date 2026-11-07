@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-07T13:58:00.905Z",
+  "generadoEn": "2026-11-07T18:51:39.970Z",
   "hoy": "2026-11-07",
   "sedes": [
     {
@@ -411,33 +411,6 @@
       "imdbId": "tt1379182",
       "tmdbId": 38810,
       "votos": 125737
-    },
-    "HO00010299": {
-      "titulo": "El cielo sigue estando lejos",
-      "tituloOriginal": "Tengoku wa mada tōi",
-      "director": "Ryūsuke Hamaguchi",
-      "pais": "Japón",
-      "ano": 2016,
-      "duracion": 38,
-      "filmId": "HO00010299",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010299?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010299&cinemas=003",
-      "sinopsis": "Yuzo, ingeniero de mosaicos para videos porno, vive bajo el mismo techo que Mitsuki, un estudiante de secundaria con quien lleva una vida peculiar. Un día, Yuzo recibe una llamada telefónica de la hermana de Mitsuki.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "0XBnjjtMQ10",
-      "trailers": [
-        "0XBnjjtMQ10"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt8334322/",
-      "imdbId": "tt8334322",
-      "tmdbId": 524501,
-      "votos": 449
     },
     "HO00009609": {
       "titulo": "El sol sale para todos",
@@ -2516,6 +2489,33 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00010299": {
+      "titulo": "El cielo sigue estando lejos",
+      "tituloOriginal": "Tengoku wa mada tōi",
+      "director": "Ryūsuke Hamaguchi",
+      "pais": "Japón",
+      "ano": 2016,
+      "duracion": 38,
+      "filmId": "HO00010299",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010299?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010299&cinemas=003",
+      "sinopsis": "Yuzo, ingeniero de mosaicos para videos porno, vive bajo el mismo techo que Mitsuki, un estudiante de secundaria con quien lleva una vida peculiar. Un día, Yuzo recibe una llamada telefónica de la hermana de Mitsuki.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "0XBnjjtMQ10",
+      "trailers": [
+        "0XBnjjtMQ10"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt8334322/",
+      "imdbId": "tt8334322",
+      "tmdbId": 524501,
+      "votos": 449
     }
   },
   "funciones": [
@@ -2601,15 +2601,6 @@
       "sala": "Sala 4",
       "horarios": [
         "16:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-07",
-      "pelicula": "HO00010299",
-      "sala": "Sala 8",
-      "horarios": [
-        "12:00"
       ]
     },
     {
@@ -5577,6 +5568,15 @@
       "sala": "Sala 5",
       "horarios": [
         "17:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-07",
+      "pelicula": "HO00010299",
+      "sala": "Sala 8",
+      "horarios": [
+        "12:00"
       ]
     }
   ]
