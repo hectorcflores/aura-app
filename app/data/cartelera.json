@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-08T14:16:42.028Z",
+  "generadoEn": "2026-11-08T18:53:35.462Z",
   "hoy": "2026-11-08",
   "sedes": [
     {
@@ -932,33 +932,6 @@
       "imdbId": "tt44766123",
       "tmdbId": 1755291,
       "votos": 6748
-    },
-    "HO00010342": {
-      "titulo": "Pasión",
-      "tituloOriginal": "6 meses en el edificio rosa con azul",
-      "director": ": Bruno Santamaría",
-      "pais": "México - Brasil - Dinamarca",
-      "ano": 2026,
-      "duracion": 14,
-      "filmId": "HO00010342",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010342?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010342&cinemas=003",
-      "sinopsis": ": Bruno Santamaría : Bruno Santamaría. Ezequiel Salinas. Color Léo Chermont. Ciudad de México, 1996. Cuando Bruno cumple 11 años, se enamora de su mejor amigo Vladimir. Esa noche, al padre de Bruno le diagnosticaron VIH. Tras la noticia, la dinámica familiar empieza a cambiar de forma inesperada, tierna y liberadora.. Bruna Haddad, Carlos Quiñónez, Bruno Santamaría Razo. Ojo de Vaca, Desvia Produções, Snowglobe Films.. FICUNAM. B.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "GS1vVztjkGM",
-      "trailers": [
-        "GS1vVztjkGM"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt41742035/",
-      "imdbId": "tt41742035",
-      "tmdbId": 1025407,
-      "votos": 71
     },
     "HO00007898": {
       "titulo": "Río de Sapos",
@@ -2212,6 +2185,33 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00010342": {
+      "titulo": "Pasión",
+      "tituloOriginal": "6 meses en el edificio rosa con azul",
+      "director": ": Bruno Santamaría",
+      "pais": "México - Brasil - Dinamarca",
+      "ano": 2026,
+      "duracion": 14,
+      "filmId": "HO00010342",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010342?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010342&cinemas=003",
+      "sinopsis": ": Bruno Santamaría : Bruno Santamaría. Ezequiel Salinas. Color Léo Chermont. Ciudad de México, 1996. Cuando Bruno cumple 11 años, se enamora de su mejor amigo Vladimir. Esa noche, al padre de Bruno le diagnosticaron VIH. Tras la noticia, la dinámica familiar empieza a cambiar de forma inesperada, tierna y liberadora.. Bruna Haddad, Carlos Quiñónez, Bruno Santamaría Razo. Ojo de Vaca, Desvia Produções, Snowglobe Films.. FICUNAM. B.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "GS1vVztjkGM",
+      "trailers": [
+        "GS1vVztjkGM"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt41742035/",
+      "imdbId": "tt41742035",
+      "tmdbId": 1025407,
+      "votos": 71
     }
   },
   "funciones": [
@@ -2453,15 +2453,6 @@
       "horarios": [
         "15:00",
         "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010342",
-      "sala": "Sala 8",
-      "horarios": [
-        "12:00"
       ]
     },
     {
@@ -4656,6 +4647,15 @@
       "sala": "Sala 5",
       "horarios": [
         "17:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-08",
+      "pelicula": "HO00010342",
+      "sala": "Sala 8",
+      "horarios": [
+        "12:00"
       ]
     }
   ]
