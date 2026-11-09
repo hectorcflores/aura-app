@@ -1,6 +1,6 @@
 {
-  "generadoEn": "2026-11-08T18:53:35.462Z",
-  "hoy": "2026-11-08",
+  "generadoEn": "2026-11-09T17:25:59.406Z",
+  "hoy": "2026-11-09",
   "sedes": [
     {
       "id": "003",
@@ -19,7 +19,6 @@
     }
   ],
   "fechas": [
-    "2026-11-08",
     "2026-11-09",
     "2026-11-10",
     "2026-11-11",
@@ -54,17 +53,17 @@
       "tmdbId": 411003,
       "votos": 1883
     },
-    "HO00010325": {
-      "titulo": "Atlas 2",
-      "tituloOriginal": "Atlas ⬝ 2",
-      "director": "Diana Bustamante / Fabrice Aragno - Jean-Paul Battaggia / Oscar Ruiz Navia",
-      "pais": "Colombia - Suiza - Canadá",
+    "HO00010328": {
+      "titulo": "Atlas 1",
+      "tituloOriginal": "Atlas ⬝ 1",
+      "director": "Bruno Varela / Bani Khoshnoudi / Kleber Mendonça Filho / Vadim Kostrov",
+      "pais": "México - Irán - Francia",
       "ano": 2026,
       "duracion": 60,
-      "filmId": "HO00010325",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010325?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010325&cinemas=003",
-      "sinopsis": "Estas obras exploran la huella de la muerte, el duelo y los espacios habitados por la memoria. Desde un trágico archivo en Colombia y el último registro del estudio de Godard, hasta diarios de pérdida familiar, el programa revela cómo la ausencia y el recuerdo transforman profundamente nuestra conexión con el pasado y los lugares.",
+      "filmId": "HO00010328",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010328?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010328&cinemas=003",
+      "sinopsis": "A través de la experimentación visual y el ensayo fílmico, estas obras reflexionan sobre tiempos de crisis, censura y desarraigo. Desde conjuros lumínicos en cuarentena y la interminable guerra por el control de las imágenes, hasta la abstracción poética del exilio, el programa explora cómo el cine resiste ante un mundo fracturado.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
@@ -105,82 +104,34 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 306
+      "votos": 310
     },
-    "HO00010321": {
-      "titulo": "Biografía de Jorge Luis Borges 1",
-      "tituloOriginal": "Biografía de Jorge Luis Borges Parte 1",
-      "director": "Mariano Llinás",
-      "pais": "Argentina",
-      "ano": 2026,
-      "duracion": 129,
-      "filmId": "HO00010321",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010321?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010321&cinemas=003",
-      "sinopsis": "Mariano Llinás. Mariano Llinás.. : Agustín Mendilaharzu. Color Gabriel Chwojnik.. : Ignacio Codino. : Ernesto Montequín, Laura Paredes, Milva Leonardi, Pablo Dacal, Nicolás Helft. : Laura Citarella, Mariano Llinás, Agustín Mendilaharzu, Ezequiel Pierri : El Pampero Cine.. FICUNAM. A.",
+    "HO00010329": {
+      "titulo": "Bright Future",
+      "tituloOriginal": "Akarui mirai",
+      "director": "Kiyoshi Kurosawa",
+      "pais": "Japón",
+      "ano": 2003,
+      "duracion": 115,
+      "filmId": "HO00010329",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010329?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010329&cinemas=003",
+      "sinopsis": "Kiyoshi Kurosawa. Kiyoshi Kurosawa.. Takahide Shibanushi. Color Pacific 231. Kiyoshi Kurosawa.. : Joe Odagiri, Tadanobu Asano, Tatsuya Fuji, Takashi Sasano, Marumi Shiraishi, Ryo, Ryo Kase... Takashi Asai, Harumi Noshita, Sadayuki Iwase Akarui Mirai Production Committee.. FICUNAM. B.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
+      "trailer": "EUT7wkew3iM",
+      "trailers": [
+        "EUT7wkew3iM"
+      ],
+      "trailerFuente": "TMDB",
       "critica": null,
       "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
+      "publico": 6.7,
+      "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010323": {
-      "titulo": "Biografía de Jorge Luis Borges 2",
-      "tituloOriginal": "Biografía de Jorge Luis Borges Parte 2",
-      "director": "Mariano Llinás",
-      "pais": "Argentina",
-      "ano": 2026,
-      "duracion": 90,
-      "filmId": "HO00010323",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010323?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010323&cinemas=003",
-      "sinopsis": "Mariano Llinás Mariano Llinás. Agustín Mendilaharzu. Color Gabriel Chwojnik. : Ignacio Codino. : Ernesto Montequín, Laura Paredes, Milva Leonardi, Pablo Dacal, Nicolás Helft... Luxbox : El Pampero Cine.. FICUNAM. A.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010324": {
-      "titulo": "Biografía de Jorge Luis Borges 3",
-      "tituloOriginal": "Biografía de Jorge Luis Borges Parte 3",
-      "director": "Mariano Llinás",
-      "pais": "Argentina",
-      "ano": 2026,
-      "duracion": 104,
-      "filmId": "HO00010324",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010324?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010324&cinemas=003",
-      "sinopsis": "Mariano Llinás. Mariano Llinás.. : Agustín Mendilaharzu. Color Gabriel Chwojnik. : Ignacio Codino. Ernesto Montequín, Laura Paredes, Milva Leonardi, Pablo Dacal, Nicolás Helft... : Laura Citarella, Mariano Llinás, Agustín Mendilaharzu, Ezequiel Pierri. El Pampero Cine.. FICUNAM. A.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "urlImdb": "https://www.imdb.com/title/tt0363235/",
+      "imdbId": "tt0363235",
+      "tmdbId": 26886,
+      "votos": 3329
     },
     "HO00009552": {
       "titulo": "Ceniza en la boca",
@@ -207,7 +158,82 @@
       "urlImdb": "https://www.imdb.com/title/tt35717186/",
       "imdbId": "tt35717186",
       "tmdbId": 1623608,
-      "votos": 141
+      "votos": 148
+    },
+    "HO00010343": {
+      "titulo": "Competencia Umbrales 1 2026",
+      "tituloOriginal": "Umbral ⬝ 1",
+      "director": ": Claudio Caldini / Kyujae Park / Jiayi Chen / Johann Lurf",
+      "pais": "Argentina - Corea del Sur - USA - Austria / Francia",
+      "ano": 2026,
+      "duracion": 74,
+      "filmId": "HO00010343",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010343?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010343&cinemas=003",
+      "sinopsis": "A través de encuentros con lo desconocido, estas obras exploran los límites de la fe, el cuerpo y el deseo. Desde el misticismo religioso y el vacío, hasta una odisea urbana nocturna y el despertar de impulsos ocultos ante un ser mítico, el programa invita a un viaje visceral hacia nuestras transformaciones más íntimas.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00010344": {
+      "titulo": "Competencia Umbrales 2 2026",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010344",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010344?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010344&cinemas=003",
+      "sinopsis": "Estas obras desafían nuestra percepción del espacio, el sonido y la memoria. Desde la música electroacústica y la reinterpretación de monumentos, hasta la arqueología de Delhi y las ilusiones ópticas, el programa es un viaje sensorial que explora las estructuras, tangibles e invisibles, que moldean nuestra experiencia del mundo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00010345": {
+      "titulo": "Competencia Umbrales 3 2026",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010345",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010345?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010345&cinemas=003",
+      "sinopsis": "A través de fronteras difusas entre pasado y presente, estas obras exploran la profunda conexión entre memoria, naturaleza y lo místico. Desde márgenes urbanos y tumbas ancestrales, hasta ritos cósmicos y la sabiduría vegetal, el programa teje un puente poético que une la experiencia humana con lo trascendental y lo terrenal.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00009477": {
       "titulo": "Convivir",
@@ -296,57 +322,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1756855/",
       "imdbId": "tt1756855",
       "tmdbId": 1204680,
-      "votos": 50077
-    },
-    "HO00008812": {
-      "titulo": "Cure",
-      "tituloOriginal": "Kyua",
-      "director": "Kiyoshi Kurosawa",
-      "pais": "Japón",
-      "ano": 1997,
-      "duracion": 111,
-      "filmId": "HO00008812",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00008812?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00008812&cinemas=003",
-      "sinopsis": "Una serie de espeluznantes asesinatos sin motivos aparentes —cada uno cometido por una persona diferente, pero todos con el mismo sello cruel— lleva al detective Takabe a una laberíntica investigación para descubrir qué los conecta. Así entra en un inquietante juego del gato y el ratón con un enigmático amnésico que podría ser la encarnación del mal. Inundada de un pavor hipnótico y silencioso, Cure es un alucinante viaje lleno de tensión psicológica a los rincones más oscuros de la mente humana.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010326": {
-      "titulo": "Diario de una camarera",
-      "tituloOriginal": "Le Journal d’une femme de chambre",
-      "director": "Radu Jude",
-      "pais": "Francia - Rumanía",
-      "ano": 2026,
-      "duracion": 94,
-      "filmId": "HO00010326",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010326?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010326&cinemas=003",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt38785098/",
-      "imdbId": "tt38785098",
-      "tmdbId": 1472813,
-      "votos": 376
+      "votos": 50578
     },
     "HO00010075": {
       "titulo": "Digger",
@@ -460,7 +436,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 46872
+      "votos": 47097
     },
     "HO00009934": {
       "titulo": "Dogtooth: Canino",
@@ -505,40 +481,7 @@
       "urlImdb": "https://www.imdb.com/title/tt1379182/",
       "imdbId": "tt1379182",
       "tmdbId": 38810,
-      "votos": 125762
-    },
-    "HO00010320": {
-      "titulo": "El samurái y el prisionero",
-      "tituloOriginal": "Kokurôjô",
-      "director": "Kiyoshi Kurosawa",
-      "pais": "Japón",
-      "ano": 2026,
-      "duracion": 147,
-      "filmId": "HO00010320",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010320?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010320&cinemas=003",
-      "sinopsis": "Kiyoshi Kurosawa Kiyoshi Kurosawa. Yasuyuki Sasaki. Color : Yoshihiro Hanno.. Koichi Takahashi.. Masahiro Motoki, Masaki Suda, Yuriko Yoshitaka, Munetaka Aoki... Satoko Ishida. Shochiku.. FICUNAM. C.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "dY5kXykdbLo",
-      "trailers": [
-        "dY5kXykdbLo"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "The Samurai and The Prisoner plants the seeds of an intriguing mystery that is worthy of Kiyoshi Kurasawa’s involvement.",
-          "autor": "Chris Sawin",
-          "url": "https://www.themoviedb.org/review/6a762ae32cf480556bf663aa"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt39602215/",
-      "imdbId": "tt39602215",
-      "tmdbId": 1620313,
-      "votos": 983
+      "votos": 125781
     },
     "HO00009609": {
       "titulo": "El sol sale para todos",
@@ -565,7 +508,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32907482/",
       "imdbId": "tt32907482",
       "tmdbId": 1329673,
-      "votos": 569
+      "votos": 570
     },
     "HO00009562": {
       "titulo": "Gracias por operar con nuestro banco",
@@ -594,7 +537,7 @@
       "urlImdb": "https://www.imdb.com/title/tt28254159/",
       "imdbId": "tt28254159",
       "tmdbId": 1225590,
-      "votos": 372
+      "votos": 373
     },
     "HO00009792": {
       "titulo": "Hojas secas",
@@ -647,34 +590,7 @@
       "urlImdb": "https://www.imdb.com/title/tt22852560/",
       "imdbId": "tt22852560",
       "tmdbId": 1037264,
-      "votos": 2163
-    },
-    "HO00010327": {
-      "titulo": "La libertad doble",
-      "tituloOriginal": null,
-      "director": "Lisandro Alonso",
-      "pais": "Chile - Argentina - Luxemburgo - Alemania - Reino Unido",
-      "ano": 2026,
-      "duracion": 100,
-      "filmId": "HO00010327",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010327?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010327&cinemas=003",
-      "sinopsis": "Lisandro Alonso Lisandro Alonso. Cobi Migliora Color Peter Rosenthal. Catalina Marín, Martín Mainoli, Manuel Ferrari. Misael Saavedra, Catalina Saavedra .. Fernando Bascuñán, Augusto Matte, Lisandro Alonso. Planta, Deptford, 4L. FICUNAM. A.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "6D3vF82OJi0",
-      "trailers": [
-        "6D3vF82OJi0"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.4,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt33037660/",
-      "imdbId": "tt33037660",
-      "tmdbId": 1387981,
-      "votos": 87
+      "votos": 2165
     },
     "HO00009930": {
       "titulo": "La pequeña hermana",
@@ -727,7 +643,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37959568/",
       "imdbId": "tt37959568",
       "tmdbId": 1406492,
-      "votos": 202
+      "votos": 210
     },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
@@ -788,7 +704,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204184
+      "votos": 204203
     },
     "HO00010269": {
       "titulo": "Mi vecino Totoro DOB",
@@ -837,7 +753,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0096283/",
       "imdbId": "tt0096283",
       "tmdbId": 8392,
-      "votos": 442902
+      "votos": 442989
     },
     "HO00010363": {
       "titulo": "Mi vecino Totoro SUB",
@@ -886,7 +802,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0096283/",
       "imdbId": "tt0096283",
       "tmdbId": 8392,
-      "votos": 442902
+      "votos": 442989
     },
     "HO00010241": {
       "titulo": "Naza",
@@ -931,7 +847,32 @@
       "urlImdb": "https://www.imdb.com/title/tt44766123/",
       "imdbId": "tt44766123",
       "tmdbId": 1755291,
-      "votos": 6748
+      "votos": 6816
+    },
+    "HO00010330": {
+      "titulo": "Pedro en el país",
+      "tituloOriginal": null,
+      "director": "María Alché",
+      "pais": "Benjamin Naishtat., Argentina",
+      "ano": 2026,
+      "duracion": 96,
+      "filmId": "HO00010330",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010330?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010330&cinemas=003",
+      "sinopsis": "La obra parte de las conmovedoras cartas que se enviaron desde prisión Alicia Eguren y John William Cooke tras el golpe de Estado de 1955. Ambos sueñan con un futuro juntos mientras ella extraña a su hijo. En el presente, Pedro relata esta extraordinaria y dura historia íntima; su testimonio busca combatir la desmemoria y el peligro del olvido.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1753589,
+      "votos": 0
     },
     "HO00007898": {
       "titulo": "Río de Sapos",
@@ -957,55 +898,6 @@
       "imdbId": null,
       "tmdbId": 1294943,
       "votos": 1
-    },
-    "HO00010096": {
-      "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
-      "tituloOriginal": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "director": "Steve Cox",
-      "pais": "Matthew Walker., Reino Unido",
-      "ano": 2026,
-      "duracion": 80,
-      "filmId": "HO00010096",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010096?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010096&cinemas=003",
-      "sinopsis": "En Halloween, la granja Mossy Bottom sufre un inconveniente cuando el torpe Granjero destruye el huerto de calabazas del rebaño. Shaun se convierte en un científico e intenta arreglar el desastre, pero todo se sale de control: Granjero desparece y una bestia comienza a deambular por los bosques. Shaun y el rebaño harán todo lo posible para resolver el misterio. Destacando por su técnica artesanal de stop-motion, este filme juega con los tropos clásicos del horror, adaptándolos a la comedia clásica de Aardman.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "wTqW25KbwR4",
-      "trailers": [
-        "wTqW25KbwR4",
-        "bT92-lLovfs",
-        "VHQPopTW7fE",
-        "qEXKvFg3ScE",
-        "tOJC0eaRHhU",
-        "QjhNZT_1EvY",
-        "g2RLgdx0myQ",
-        "daZMq0AyOMc",
-        "T3K2uKvi_0s",
-        "b2RwIefN0Y0",
-        "UZ46Smi6mOw",
-        "Cok148lEKPM"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "When the sozzled farmer turns the pumpkin patch into something resembling the Somme, and with Halloween barely days away, \"Shaun\" comes up with a cunning wheeze.",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6aa7b9e8c71f77438c15aa41"
-        },
-        {
-          "texto": "filmreviewhaiku Painstaking, each frame Built by hand, still so funny Fun from start to end",
-          "autor": "ianrathbone",
-          "url": "https://www.themoviedb.org/review/6ad79828e9172d96ca7a5682"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt36841161/",
-      "imdbId": "tt36841161",
-      "tmdbId": 1477104,
-      "votos": 3527
     },
     "HO00010058": {
       "titulo": "Tierra de mi padre",
@@ -1033,6 +925,31 @@
       "imdbId": null,
       "tmdbId": 1802918,
       "votos": 0
+    },
+    "HO00010322": {
+      "titulo": "Umbral 2 2026",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010322",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010322?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010322&cinemas=003",
+      "sinopsis": "Mediante la luz, la textura y el paisaje, estas obras invitan a reimaginar el entorno. Desde un sol opresivo y la geometría urbana, hasta una Lima indómita, un parque iluminado y un mar onírico, el programa es un ensayo sensorial sobre cómo la mirada transforma los espacios cotidianos que habitamos",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00010348": {
       "titulo": "Wildwood: El Bosque Salvaje SUB",
@@ -1104,34 +1021,7 @@
       "urlImdb": "https://www.imdb.com/title/tt2056785/",
       "imdbId": "tt2056785",
       "tmdbId": 791523,
-      "votos": 22163
-    },
-    "HO00009520": {
-      "titulo": "Binnizá, los seres de las nubes",
-      "tituloOriginal": "Binnizá",
-      "director": "Juan Carlos Rulfo",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 79,
-      "filmId": "HO00009520",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009520?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009520&cinemas=001",
-      "sinopsis": "El más reciente documental del cineasta mexicano Juan Carlos Rulfo se centra en la historia de los binnizá, quienes residen en Juchitán e intentan sobrevivir a los diversos cambios que el progreso colonial impone sobre su localidad. A través de un relato coral armado con testimonios de varios artistas de la comunidad, Rulfo construye un mural de formas diversas y contrastantes en las que la estructura narrativa abandona la linealidad propia del documental tradicional para sumergirse en una propuesta mucho más experimental.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "iicgukVYQaA",
-      "trailers": [
-        "iicgukVYQaA"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35679877/",
-      "imdbId": "tt35679877",
-      "tmdbId": 1324153,
-      "votos": 16
+      "votos": 23687
     },
     "HO00010124": {
       "titulo": "Ciudad de muertos",
@@ -1150,13 +1040,13 @@
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 7,
+      "publico": 6.9,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt35826854/",
       "imdbId": "tt35826854",
       "tmdbId": 1487046,
-      "votos": 33
+      "votos": 36
     },
     "HO00010136": {
       "titulo": "El poder de la red",
@@ -1240,7 +1130,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37510326/",
       "imdbId": "tt37510326",
       "tmdbId": 1281331,
-      "votos": 10480
+      "votos": 10524
     },
     "HO00010268": {
       "titulo": "Los Doors",
@@ -1287,7 +1177,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0101761/",
       "imdbId": "tt0101761",
       "tmdbId": 10537,
-      "votos": 108543
+      "votos": 108554
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -1321,7 +1211,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204184
+      "votos": 204203
     },
     "HO00010123": {
       "titulo": "Wildwood: El Bosque Salvaje DOB",
@@ -1393,7 +1283,7 @@
       "urlImdb": "https://www.imdb.com/title/tt2056785/",
       "imdbId": "tt2056785",
       "tmdbId": 791523,
-      "votos": 22163
+      "votos": 23687
     },
     "HO00010354": {
       "titulo": "Caballo salvaje nueve",
@@ -1458,7 +1348,35 @@
       "urlImdb": "https://www.imdb.com/title/tt15799564/",
       "imdbId": "tt15799564",
       "tmdbId": 891621,
-      "votos": 5807
+      "votos": 7844
+    },
+    "HO00005753": {
+      "titulo": "Drive my car",
+      "tituloOriginal": "Doraibu mai kâ",
+      "director": "Ryūsuke Hamaguchi",
+      "pais": "Japón",
+      "ano": 2021,
+      "duracion": 179,
+      "filmId": "HO00005753",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00005753?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00005753&cinemas=002",
+      "sinopsis": "Ryūsuke Hamaguchi Ryūsuke Hamaguchi y Takamasa Oe, basados en un relato corto de Haruki Murakami. Hidetoshi Shinomiya Color Eiko Ishibashi. Azusa Yamazaki. Hidetoshi Nishijima (Yusuke Kafuku), Tōko Miura (Misaki Watari), Masaki Okada (Koshi Takatsuki), Reika Kirishima (Oto Kafuku), Park Yu-rim (Lee Yoon-a). Teruhisa Yamamoto C&I Entertainment Inc., Culture Entertainment Co. Ltd., Bitters End Inc. MUBI. C.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "YyDSxD51WRE",
+      "trailers": [
+        "YyDSxD51WRE",
+        "aqJ0qV75s8s"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1236214,
+      "votos": 0
     },
     "HO00010094": {
       "titulo": "El árbol mágico",
@@ -1502,34 +1420,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 6876
-    },
-    "HO00010305": {
-      "titulo": "Frío mental",
-      "tituloOriginal": "Frío metal",
-      "director": "Clemente Castor",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 105,
-      "filmId": "HO00010305",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010305?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010305&cinemas=002",
-      "sinopsis": "Dos hermanos viven al oriente de la Ciudad de México. Mario despierta sin recuerdos de su vida anterior. Conoce a Lázaro, quien le enseña cómo entrar en los cuerpos de otras personas a través de agujeros dentro de la tierra. El espacio que transita se distorsiona y su piel comienza a quebrarse junto al paisaje",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "Oqgr8_nI1og",
-      "trailers": [
-        "Oqgr8_nI1og"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.4,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt32799258/",
-      "imdbId": "tt32799258",
-      "tmdbId": 1493018,
-      "votos": 29
+      "votos": 6922
     },
     "HO00010095": {
       "titulo": "Itsanaxa, la cosecha sagrada",
@@ -1556,236 +1447,6 @@
       "tmdbId": 1800593,
       "votos": 0
     },
-    "HO00010306": {
-      "titulo": "Un murmullo recorre la tierra",
-      "tituloOriginal": null,
-      "director": "Gabriela Domínguez Ruvalcaba",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 75,
-      "filmId": "HO00010306",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010306?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010306&cinemas=002",
-      "sinopsis": "Gabriela Domínguez Ruvalcaba Andrea Betancourt Tobón, Gabriela Domínguez Ruvalcaba. : Diana Garay, Gabriela Reyes Fuchs Color : Gabriela Dominguez Ruvalcaba.. Enedelia Castillo, Rosi Jiménez, Merlyn Córdova... : Alex Noppel. : Bosquenegro, MKBrücken. FICUNAM. A.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1821015,
-      "votos": 0
-    },
-    "HO00010328": {
-      "titulo": "Atlas 1",
-      "tituloOriginal": "Atlas ⬝ 1",
-      "director": "Bruno Varela / Bani Khoshnoudi / Kleber Mendonça Filho / Vadim Kostrov",
-      "pais": "México - Irán - Francia",
-      "ano": 2026,
-      "duracion": 60,
-      "filmId": "HO00010328",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010328?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010328&cinemas=003",
-      "sinopsis": "A través de la experimentación visual y el ensayo fílmico, estas obras reflexionan sobre tiempos de crisis, censura y desarraigo. Desde conjuros lumínicos en cuarentena y la interminable guerra por el control de las imágenes, hasta la abstracción poética del exilio, el programa explora cómo el cine resiste ante un mundo fracturado.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010329": {
-      "titulo": "Bright Future",
-      "tituloOriginal": "Akarui mirai",
-      "director": "Kiyoshi Kurosawa",
-      "pais": "Japón",
-      "ano": 2003,
-      "duracion": 115,
-      "filmId": "HO00010329",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010329?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010329&cinemas=003",
-      "sinopsis": "Kiyoshi Kurosawa. Kiyoshi Kurosawa.. Takahide Shibanushi. Color Pacific 231. Kiyoshi Kurosawa.. : Joe Odagiri, Tadanobu Asano, Tatsuya Fuji, Takashi Sasano, Marumi Shiraishi, Ryo, Ryo Kase... Takashi Asai, Harumi Noshita, Sadayuki Iwase Akarui Mirai Production Committee.. FICUNAM. B.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "EUT7wkew3iM",
-      "trailers": [
-        "EUT7wkew3iM"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt0363235/",
-      "imdbId": "tt0363235",
-      "tmdbId": 26886,
-      "votos": 3329
-    },
-    "HO00010343": {
-      "titulo": "Competencia Umbrales 1 2026",
-      "tituloOriginal": "Umbral ⬝ 1",
-      "director": ": Claudio Caldini / Kyujae Park / Jiayi Chen / Johann Lurf",
-      "pais": "Argentina - Corea del Sur - USA - Austria / Francia",
-      "ano": 2026,
-      "duracion": 74,
-      "filmId": "HO00010343",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010343?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010343&cinemas=003",
-      "sinopsis": "A través de encuentros con lo desconocido, estas obras exploran los límites de la fe, el cuerpo y el deseo. Desde el misticismo religioso y el vacío, hasta una odisea urbana nocturna y el despertar de impulsos ocultos ante un ser mítico, el programa invita a un viaje visceral hacia nuestras transformaciones más íntimas.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010344": {
-      "titulo": "Competencia Umbrales 2 2026",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010344",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010344?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010344&cinemas=003",
-      "sinopsis": "Estas obras desafían nuestra percepción del espacio, el sonido y la memoria. Desde la música electroacústica y la reinterpretación de monumentos, hasta la arqueología de Delhi y las ilusiones ópticas, el programa es un viaje sensorial que explora las estructuras, tangibles e invisibles, que moldean nuestra experiencia del mundo.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010345": {
-      "titulo": "Competencia Umbrales 3 2026",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010345",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010345?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010345&cinemas=003",
-      "sinopsis": "A través de fronteras difusas entre pasado y presente, estas obras exploran la profunda conexión entre memoria, naturaleza y lo místico. Desde márgenes urbanos y tumbas ancestrales, hasta ritos cósmicos y la sabiduría vegetal, el programa teje un puente poético que une la experiencia humana con lo trascendental y lo terrenal.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010330": {
-      "titulo": "Pedro en el país",
-      "tituloOriginal": null,
-      "director": "María Alché",
-      "pais": "Benjamin Naishtat., Argentina",
-      "ano": 2026,
-      "duracion": 96,
-      "filmId": "HO00010330",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010330?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010330&cinemas=003",
-      "sinopsis": "La obra parte de las conmovedoras cartas que se enviaron desde prisión Alicia Eguren y John William Cooke tras el golpe de Estado de 1955. Ambos sueñan con un futuro juntos mientras ella extraña a su hijo. En el presente, Pedro relata esta extraordinaria y dura historia íntima; su testimonio busca combatir la desmemoria y el peligro del olvido.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1753589,
-      "votos": 0
-    },
-    "HO00010322": {
-      "titulo": "Umbral 2 2026",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010322",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010322?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010322&cinemas=003",
-      "sinopsis": "Mediante la luz, la textura y el paisaje, estas obras invitan a reimaginar el entorno. Desde un sol opresivo y la geometría urbana, hasta una Lima indómita, un parque iluminado y un mar onírico, el programa es un ensayo sensorial sobre cómo la mirada transforma los espacios cotidianos que habitamos",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00005753": {
-      "titulo": "Drive my car",
-      "tituloOriginal": "Doraibu mai kâ",
-      "director": "Ryūsuke Hamaguchi",
-      "pais": "Japón",
-      "ano": 2021,
-      "duracion": 179,
-      "filmId": "HO00005753",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00005753?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00005753&cinemas=002",
-      "sinopsis": "Ryūsuke Hamaguchi Ryūsuke Hamaguchi y Takamasa Oe, basados en un relato corto de Haruki Murakami. Hidetoshi Shinomiya Color Eiko Ishibashi. Azusa Yamazaki. Hidetoshi Nishijima (Yusuke Kafuku), Tōko Miura (Misaki Watari), Masaki Okada (Koshi Takatsuki), Reika Kirishima (Oto Kafuku), Park Yu-rim (Lee Yoon-a). Teruhisa Yamamoto C&I Entertainment Inc., Culture Entertainment Co. Ltd., Bitters End Inc. MUBI. C.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "YyDSxD51WRE",
-      "trailers": [
-        "YyDSxD51WRE",
-        "aqJ0qV75s8s"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1236214,
-      "votos": 0
-    },
     "HO00010307": {
       "titulo": "Mi sangre es petróleo",
       "tituloOriginal": "Mi Sangre es Petróleo",
@@ -1810,6 +1471,55 @@
       "imdbId": "tt46652442",
       "tmdbId": 1800522,
       "votos": 0
+    },
+    "HO00010096": {
+      "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
+      "tituloOriginal": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "director": "Steve Cox",
+      "pais": "Matthew Walker., Reino Unido",
+      "ano": 2026,
+      "duracion": 80,
+      "filmId": "HO00010096",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010096?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010096&cinemas=002",
+      "sinopsis": "En Halloween, la granja Mossy Bottom sufre un inconveniente cuando el torpe Granjero destruye el huerto de calabazas del rebaño. Shaun se convierte en un científico e intenta arreglar el desastre, pero todo se sale de control: Granjero desparece y una bestia comienza a deambular por los bosques. Shaun y el rebaño harán todo lo posible para resolver el misterio. Destacando por su técnica artesanal de stop-motion, este filme juega con los tropos clásicos del horror, adaptándolos a la comedia clásica de Aardman.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "wTqW25KbwR4",
+      "trailers": [
+        "wTqW25KbwR4",
+        "bT92-lLovfs",
+        "VHQPopTW7fE",
+        "qEXKvFg3ScE",
+        "tOJC0eaRHhU",
+        "QjhNZT_1EvY",
+        "g2RLgdx0myQ",
+        "daZMq0AyOMc",
+        "T3K2uKvi_0s",
+        "b2RwIefN0Y0",
+        "UZ46Smi6mOw",
+        "Cok148lEKPM"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "When the sozzled farmer turns the pumpkin patch into something resembling the Somme, and with Halloween barely days away, \"Shaun\" comes up with a cunning wheeze.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6aa7b9e8c71f77438c15aa41"
+        },
+        {
+          "texto": "filmreviewhaiku Painstaking, each frame Built by hand, still so funny Fun from start to end",
+          "autor": "ianrathbone",
+          "url": "https://www.themoviedb.org/review/6ad79828e9172d96ca7a5682"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt36841161/",
+      "imdbId": "tt36841161",
+      "tmdbId": 1477104,
+      "votos": 3649
     },
     "HO00010262": {
       "titulo": "El sentido de la vida",
@@ -1853,7 +1563,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0085959/",
       "imdbId": "tt0085959",
       "tmdbId": 4543,
-      "votos": 131243
+      "votos": 131248
     },
     "HO00010334": {
       "titulo": "London",
@@ -1880,7 +1590,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0449061/",
       "imdbId": "tt0449061",
       "tmdbId": 7515,
-      "votos": 25971
+      "votos": 25973
     },
     "HO00000763": {
       "titulo": "Los tres García",
@@ -2109,7 +1819,34 @@
       "urlImdb": "https://www.imdb.com/title/tt39383384/",
       "imdbId": "tt39383384",
       "tmdbId": 1616861,
-      "votos": 90
+      "votos": 92
+    },
+    "HO00009520": {
+      "titulo": "Binnizá, los seres de las nubes",
+      "tituloOriginal": "Binnizá",
+      "director": "Juan Carlos Rulfo",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 79,
+      "filmId": "HO00009520",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009520?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009520&cinemas=001",
+      "sinopsis": "El más reciente documental del cineasta mexicano Juan Carlos Rulfo se centra en la historia de los binnizá, quienes residen en Juchitán e intentan sobrevivir a los diversos cambios que el progreso colonial impone sobre su localidad. A través de un relato coral armado con testimonios de varios artistas de la comunidad, Rulfo construye un mural de formas diversas y contrastantes en las que la estructura narrativa abandona la linealidad propia del documental tradicional para sumergirse en una propuesta mucho más experimental.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "iicgukVYQaA",
+      "trailers": [
+        "iicgukVYQaA"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35679877/",
+      "imdbId": "tt35679877",
+      "tmdbId": 1324153,
+      "votos": 16
     },
     "HO00010163": {
       "titulo": "Charlas Sun Ra y la vanguardia jazzistica",
@@ -2185,638 +1922,9 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
-    },
-    "HO00010342": {
-      "titulo": "Pasión",
-      "tituloOriginal": "6 meses en el edificio rosa con azul",
-      "director": ": Bruno Santamaría",
-      "pais": "México - Brasil - Dinamarca",
-      "ano": 2026,
-      "duracion": 14,
-      "filmId": "HO00010342",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010342?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010342&cinemas=003",
-      "sinopsis": ": Bruno Santamaría : Bruno Santamaría. Ezequiel Salinas. Color Léo Chermont. Ciudad de México, 1996. Cuando Bruno cumple 11 años, se enamora de su mejor amigo Vladimir. Esa noche, al padre de Bruno le diagnosticaron VIH. Tras la noticia, la dinámica familiar empieza a cambiar de forma inesperada, tierna y liberadora.. Bruna Haddad, Carlos Quiñónez, Bruno Santamaría Razo. Ojo de Vaca, Desvia Produções, Snowglobe Films.. FICUNAM. B.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "GS1vVztjkGM",
-      "trailers": [
-        "GS1vVztjkGM"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt41742035/",
-      "imdbId": "tt41742035",
-      "tmdbId": 1025407,
-      "votos": 71
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010267",
-      "sala": "Sala 7",
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010325",
-      "sala": "Sala 9",
-      "horarios": [
-        "19:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010091",
-      "sala": "Sala 5",
-      "horarios": [
-        "16:15",
-        "20:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010321",
-      "sala": "Sala 9",
-      "horarios": [
-        "13:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010323",
-      "sala": "Sala 9",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010324",
-      "sala": "Sala 9",
-      "horarios": [
-        "17:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009552",
-      "sala": "Sala 10",
-      "horarios": [
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009477",
-      "sala": "Sala 6",
-      "horarios": [
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009956",
-      "sala": "Sala 1",
-      "horarios": [
-        "12:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00008812",
-      "sala": "Sala 8",
-      "horarios": [
-        "19:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010326",
-      "sala": "Sala 8",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010075",
-      "sala": "Sala 1",
-      "horarios": [
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009934",
-      "sala": "Sala 4",
-      "horarios": [
-        "16:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010320",
-      "sala": "Sala 1",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009609",
-      "sala": "Sala 10",
-      "horarios": [
-        "15:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009562",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:15",
-        "18:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009792",
-      "sala": "Sala 6",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009278",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010327",
-      "sala": "Sala 8",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009930",
-      "sala": "Sala 4",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010122",
-      "sala": "Sala 3",
-      "horarios": [
-        "12:30",
-        "15:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009790",
-      "sala": "Sala 6",
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010065",
-      "sala": "Sala 2",
-      "horarios": [
-        "16:00",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010269",
-      "sala": "Sala 2",
-      "horarios": [
-        "12:00",
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010363",
-      "sala": "Sala 2",
-      "horarios": [
-        "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010241",
-      "sala": "Sala 7",
-      "horarios": [
-        "15:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00007898",
-      "sala": "Sala 4",
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010096",
-      "sala": "Sala 10",
-      "horarios": [
-        "13:30",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010058",
-      "sala": "Sala 7",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010348",
-      "sala": "Sala 3",
-      "horarios": [
-        "17:15",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009520",
-      "sala": null,
-      "horarios": [
-        "13:00",
-        "16:00",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010124",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:15",
-        "15:20",
-        "17:25",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010136",
-      "sala": "Sala 5",
-      "horarios": [
-        "12:00",
-        "14:15",
-        "16:30",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010122",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:10"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010268",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:10",
-        "16:00",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009939",
-      "sala": "Sala 3",
-      "horarios": [
-        "12:10",
-        "14:05",
-        "16:05"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010065",
-      "sala": "Sala 3",
-      "horarios": [
-        "18:05",
-        "20:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010269",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:20",
-        "15:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010363",
-      "sala": "Sala 7",
-      "horarios": [
-        "17:30",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010058",
-      "sala": "Sala 4",
-      "horarios": [
-        "12:30",
-        "14:25",
-        "16:10",
-        "18:00",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010123",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010348",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:20",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010354",
-      "sala": "Sala 6",
-      "horarios": [
-        "11:10",
-        "13:30",
-        "16:00",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010124",
-      "sala": "Sala 4",
-      "horarios": [
-        "12:05",
-        "14:10",
-        "16:20",
-        "18:30",
-        "20:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010075",
-      "sala": "Sala 9",
-      "horarios": [
-        "13:20",
-        "18:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010094",
-      "sala": "Sala 9",
-      "horarios": [
-        "11:10",
-        "15:50",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010305",
-      "sala": "Sala 1",
-      "horarios": [
-        "16:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010095",
-      "sala": "Sala 11",
-      "horarios": [
-        "11:50",
-        "13:50",
-        "15:30",
-        "17:10",
-        "19:10",
-        "20:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009930",
-      "sala": "Sala 8",
-      "horarios": [
-        "11:00",
-        "13:10",
-        "15:20",
-        "17:30",
-        "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010122",
-      "sala": "Sala 3",
-      "horarios": [
-        "11:40",
-        "13:40",
-        "15:40",
-        "17:40",
-        "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010268",
-      "sala": "Sala 7",
-      "horarios": [
-        "11:20",
-        "14:00",
-        "16:40",
-        "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00009939",
-      "sala": "Sala 2",
-      "horarios": [
-        "12:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010065",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:35",
-        "16:30",
-        "18:30",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010269",
-      "sala": "Sala 10",
-      "horarios": [
-        "11:00",
-        "13:00",
-        "15:00",
-        "17:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010363",
-      "sala": "Sala 10",
-      "horarios": [
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010096",
-      "sala": "Sala 5",
-      "horarios": [
-        "12:20",
-        "14:20",
-        "16:20",
-        "18:20",
-        "20:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010306",
-      "sala": "Sala 1",
-      "horarios": [
-        "18:45"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010123",
-      "sala": "Sala 12",
-      "horarios": [
-        "12:00",
-        "17:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010348",
-      "sala": "Sala 1 · Sala 12",
-      "horarios": [
-        "13:00",
-        "14:40",
-        "20:00"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-11-09",
@@ -4647,15 +3755,6 @@
       "sala": "Sala 5",
       "horarios": [
         "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-08",
-      "pelicula": "HO00010342",
-      "sala": "Sala 8",
-      "horarios": [
-        "12:00"
       ]
     }
   ]
