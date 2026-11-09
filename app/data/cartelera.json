@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-09T17:25:59.406Z",
+  "generadoEn": "2026-11-09T19:53:36.512Z",
   "hoy": "2026-11-09",
   "sedes": [
     {
@@ -1378,50 +1378,6 @@
       "tmdbId": 1236214,
       "votos": 0
     },
-    "HO00010094": {
-      "titulo": "El árbol mágico",
-      "tituloOriginal": "The Magic Faraway Tree",
-      "director": "Ben Gregor",
-      "pais": "Reino Unido",
-      "ano": 2026,
-      "duracion": 110,
-      "filmId": "HO00010094",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010094?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010094&cinemas=002",
-      "sinopsis": "Basada en una popular saga de novelas infantiles, El árbol mágico sigue a los Thompson, una familia que decide dejar la ciudad para mudarse a una antigua cabaña en medio del bosque. Fran, la hija menor descubre que en ese lugar habita la magia. Al devolverle su bolso a Silky, una simpática hada, ella la invita a conocer un gigantesco árbol donde viven excéntricos personajes y se encuentra una escalera que dirige a distintos mundos fantásticos. Maravillada, convence a sus hermanos y juntos descubren que haberse mudado fue lo mejor que les pasó.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "qsrMA7Eovaw",
-      "trailers": [
-        "qsrMA7Eovaw",
-        "bxWxrEsdWqQ",
-        "3vvek1-qIvo",
-        "JwFY341uTpE",
-        "PneOcY86ww0",
-        "ujP6Z8Oour4",
-        "xKHdnMOWerQ",
-        "wSaCp5UTGl8",
-        "b9qyzVCW9sc",
-        "v2V3C08O6Iw",
-        "PAUEwUhAjzg",
-        "cTKFa2dAiuA"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.2,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "We used to have loads of this author’s books at home when we were kids, and I always thought her signature on the cover said Gnid, rather than Enid.",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/69cd60424b95c1bc46b6a3ef"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt7734244/",
-      "imdbId": "tt7734244",
-      "tmdbId": 1140521,
-      "votos": 6922
-    },
     "HO00010095": {
       "titulo": "Itsanaxa, la cosecha sagrada",
       "tituloOriginal": "Itsanaxa - La cosecha sagrada",
@@ -1521,6 +1477,31 @@
       "tmdbId": 1477104,
       "votos": 3649
     },
+    "HO00010333": {
+      "titulo": "Carisma",
+      "tituloOriginal": "Karisuma",
+      "director": "Kiyoshi Kurosawa",
+      "pais": "Japón",
+      "ano": 1999,
+      "duracion": 103,
+      "filmId": "HO00010333",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010333?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010333&cinemas=003",
+      "sinopsis": "Kiyoshi Kurosawa. Kiyoshi Kurosawa.. Junichiro Hayashi. Color Gary Ashiya. Junichi Kikuchi.. Koji Yakusho, Hiroyuki Ikeuchi, Ren Osugi, Yoriko Doguchi, Yutaka Matsushige, Akiyoshi Otaka... Satoshi Kanno, Atsuyuki Shimoda Nikkatsu. FICUNAM. C.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 5.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt0388814/",
+      "imdbId": "tt0388814",
+      "tmdbId": 356194,
+      "votos": 44
+    },
     "HO00010262": {
       "titulo": "El sentido de la vida",
       "tituloOriginal": "Monty Python's The Meaning of Life",
@@ -1564,6 +1545,33 @@
       "imdbId": "tt0085959",
       "tmdbId": 4543,
       "votos": 131248
+    },
+    "HO00010335": {
+      "titulo": "La muerte no tiene dueño",
+      "tituloOriginal": "London",
+      "director": "Sebastian Brameshuber",
+      "pais": "Austria",
+      "ano": 2026,
+      "duracion": 122,
+      "filmId": "HO00010335",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010335?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010335&cinemas=003",
+      "sinopsis": "Sebastian Brameshuber Sebastian Brameshuber, Anna Lehner. Klemens Hufnagl, Patrick Wally Color Dane Komljen, Sebastian Brameshuber.. Bobby Sommer, Paul Schild, Asja Ahmetovic, Akin Özuckun, Jon Agolli, Veronika Harb, Anca Cipariu... : Lixi Frank, David Bohun Panama Film.. FICUNAM. B.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "ah8v3VwKPVQ",
+      "trailers": [
+        "ah8v3VwKPVQ"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.8,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt39206699/",
+      "imdbId": "tt39206699",
+      "tmdbId": 1599764,
+      "votos": 53
     },
     "HO00010334": {
       "titulo": "London",
@@ -1766,6 +1774,50 @@
       "imdbId": "tt49065129",
       "tmdbId": 1337638,
       "votos": 0
+    },
+    "HO00010094": {
+      "titulo": "El árbol mágico",
+      "tituloOriginal": "The Magic Faraway Tree",
+      "director": "Ben Gregor",
+      "pais": "Reino Unido",
+      "ano": 2026,
+      "duracion": 110,
+      "filmId": "HO00010094",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010094?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010094&cinemas=002",
+      "sinopsis": "Basada en una popular saga de novelas infantiles, El árbol mágico sigue a los Thompson, una familia que decide dejar la ciudad para mudarse a una antigua cabaña en medio del bosque. Fran, la hija menor descubre que en ese lugar habita la magia. Al devolverle su bolso a Silky, una simpática hada, ella la invita a conocer un gigantesco árbol donde viven excéntricos personajes y se encuentra una escalera que dirige a distintos mundos fantásticos. Maravillada, convence a sus hermanos y juntos descubren que haberse mudado fue lo mejor que les pasó.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "qsrMA7Eovaw",
+      "trailers": [
+        "qsrMA7Eovaw",
+        "bxWxrEsdWqQ",
+        "3vvek1-qIvo",
+        "JwFY341uTpE",
+        "PneOcY86ww0",
+        "ujP6Z8Oour4",
+        "xKHdnMOWerQ",
+        "wSaCp5UTGl8",
+        "b9qyzVCW9sc",
+        "v2V3C08O6Iw",
+        "PAUEwUhAjzg",
+        "cTKFa2dAiuA"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.2,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "We used to have loads of this author’s books at home when we were kids, and I always thought her signature on the cover said Gnid, rather than Enid.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/69cd60424b95c1bc46b6a3ef"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt7734244/",
+      "imdbId": "tt7734244",
+      "tmdbId": 1140521,
+      "votos": 6922
     },
     "HO00010310": {
       "titulo": "El hogar fue sepultado en esa tierra que nunca pud",
@@ -2323,15 +2375,6 @@
     {
       "sede": "002",
       "fecha": "2026-11-09",
-      "pelicula": "HO00010094",
-      "sala": "Sala 9",
-      "horarios": [
-        "13:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-09",
       "pelicula": "HO00010095",
       "sala": "Sala 11",
       "horarios": [
@@ -2479,6 +2522,15 @@
     {
       "sede": "003",
       "fecha": "2026-11-10",
+      "pelicula": "HO00010333",
+      "sala": "Sala 9",
+      "horarios": [
+        "19:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-10",
       "pelicula": "HO00009552",
       "sala": "Sala 10",
       "horarios": [
@@ -2519,6 +2571,15 @@
       "sala": "Sala 6",
       "horarios": [
         "15:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-10",
+      "pelicula": "HO00010335",
+      "sala": "Sala 8",
+      "horarios": [
+        "17:30"
       ]
     },
     {
@@ -3755,6 +3816,15 @@
       "sala": "Sala 5",
       "horarios": [
         "17:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-09",
+      "pelicula": "HO00010094",
+      "sala": "Sala 9",
+      "horarios": [
+        "13:20"
       ]
     }
   ]
