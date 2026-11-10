@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-10T15:32:48.260Z",
+  "generadoEn": "2026-11-10T20:54:00.293Z",
   "hoy": "2026-11-10",
   "sedes": [
     {
@@ -135,6 +135,37 @@
       "tmdbId": 1623608,
       "votos": 156
     },
+    "HO00010368": {
+      "titulo": "Conversatorio Kiyoshi Kurosawa/Ryusuke Hamaguchi",
+      "tituloOriginal": "Fantasmas",
+      "director": "Ryūsuke Hamaguchi y Kiyoshi Kurosawa",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 120,
+      "filmId": "HO00010368",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010368?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010368&cinemas=003",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [
+        {
+          "texto": "Sooo, if anyone want to watch my short (this one, \"Fantasmas\") film, click on the trailer link, it's the film on my youtube channel where i post my short films.",
+          "autor": "Artu",
+          "url": "https://www.themoviedb.org/review/69e6bdfaff2cfd58e584fca3"
+        }
+      ],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1677786,
+      "votos": 1
+    },
     "HO00009477": {
       "titulo": "Convivir",
       "tituloOriginal": "Cohabiter",
@@ -162,51 +193,6 @@
       "tmdbId": 1326893,
       "votos": 28
     },
-    "HO00009934": {
-      "titulo": "Dogtooth: Canino",
-      "tituloOriginal": "Kynodontas",
-      "director": "Yorgos Lanthimos",
-      "pais": "Grecia",
-      "ano": 2009,
-      "duracion": 97,
-      "filmId": "HO00009934",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009934?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009934&cinemas=003",
-      "sinopsis": "Canino narra la historia de una familia griega que vive recluida en su casa. El matrimonio manipula a sus tres hijos con reglas absurdas para convencerlos de que el mundo exterior es un territorio prohibido, al cual sólo podrán acceder cuando se les caiga un diente canino. En este filme, nominado al Óscar como mejor película en lengua no inglesa, el director Yorgos Lanthimos logra transitar la comedia negra y el terror psicológico, creando un cuestionamiento hacia las estructuras sociales que conocemos.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "YJe4eZ9l5KY",
-      "trailers": [
-        "YJe4eZ9l5KY",
-        "0bYpMPXXsvI",
-        "ElVysSnB3yg"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Doogtooth, the official Greek entry to the 2011 Academy Awards, is nominated for Best Foreign Film.",
-          "autor": "MoHA",
-          "url": "https://www.themoviedb.org/review/55d9073192514143e6002fa9"
-        },
-        {
-          "texto": "Unnamed parents (Christos Stergioglou and Michele Valley) are so obsessed with their children that they have, over the years, created an walled environment in which they see nobody but each…",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6636091a8de0ae0129f5f362"
-        },
-        {
-          "texto": "<em'Dogtooth'</em is certainly a Yorgos Lanthimos film! On the whole, I found this fascinating. It gets quite disturbing in parts, as you'd expect from this director, but all in all it is…",
-          "autor": "r96sk",
-          "url": "https://www.themoviedb.org/review/67a6b35edf55e8f213f0fb93"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt1379182/",
-      "imdbId": "tt1379182",
-      "tmdbId": 38810,
-      "votos": 125799
-    },
     "HO00010262": {
       "titulo": "El sentido de la vida",
       "tituloOriginal": "Monty Python's The Meaning of Life",
@@ -219,12 +205,13 @@
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010262&cinemas=003",
       "sinopsis": "Marie-Lou, directora de una residencia de ancianos, se esfuerza por implementar una filosofía de atención innovadora basada en la escucha activa y el respeto a la dignidad de los residentes. Su encuentro con Mari, una directora de teatro japonesa que lucha contra el cáncer, transformará su vida.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "4Lc41nbJQ54",
+      "trailer": "xNDHROxZm4M",
       "trailers": [
+        "xNDHROxZm4M",
         "4Lc41nbJQ54",
         "wMJ24QwHdCY"
       ],
-      "trailerFuente": "TMDB",
+      "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
       "publico": 7.5,
@@ -250,6 +237,31 @@
       "imdbId": "tt0085959",
       "tmdbId": 4543,
       "votos": 131262
+    },
+    "HO00010336": {
+      "titulo": "Gracias por venir",
+      "tituloOriginal": "Gracias por Venir",
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010336",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010336?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010336&cinemas=003",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1440786,
+      "votos": 0
     },
     "HO00009792": {
       "titulo": "Hojas secas",
@@ -414,80 +426,6 @@
       "tmdbId": 24238,
       "votos": 204220
     },
-    "HO00010374": {
-      "titulo": "Master class Asghar Farhadi",
-      "tituloOriginal": "MÁSTER CLASS ASHGAR FARHADI",
-      "director": "ASHGAR FARHADI",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 120,
-      "filmId": "HO00010374",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010374?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010374&cinemas=003",
-      "sinopsis": "Asghar Farhadi, director de cine, guionista y productor iraní. Es considerado uno de los cineastas más destacados del cine iraní así como del cine mundial en el siglo XXI. Sus películas han ganado reconocimiento por su enfoque en la condición humana, y representaciones de historias íntimas y desafiantes de conflictos familiares internos.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
-    "HO00010269": {
-      "titulo": "Mi vecino Totoro DOB",
-      "tituloOriginal": "となりのトトロ",
-      "director": "Hayao Miyazaki",
-      "pais": "Japón",
-      "ano": 1988,
-      "duracion": 86,
-      "filmId": "HO00010269",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010269?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010269&cinemas=003",
-      "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "DNrRRj91Wf0",
-      "trailers": [
-        "DNrRRj91Wf0",
-        "BjeBG8Xrci8",
-        "_nv94fL_IA8",
-        "2XUolyeNBHY",
-        "xCtRJOWZCmM",
-        "I0103wkhQ-c",
-        "srW-wajSxog"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "\"Childhood\" in a movie. This is just perfection - a perfect way to while away time and reconnect with your youth.",
-          "autor": "sykobanana",
-          "url": "https://www.themoviedb.org/review/5ec0827ed2147c0022b1f551"
-        },
-        {
-          "texto": "(SPOILER ALERT) I was delighted to see this subtle/multi-layered tale unfold, which seemed to play well to both a childhood audience, keen on likable characters/compelling imagination, and…",
-          "autor": "20thCentury",
-          "url": "https://www.themoviedb.org/review/5f153a6e78570e00325c4b1b"
-        },
-        {
-          "texto": "Aggressively cute. <em'My Neighbor Totoro'</em holds an extremely hearty story, one told via impeccably beautiful animation.",
-          "autor": "r96sk",
-          "url": "https://www.themoviedb.org/review/65b5058358efd3017cca6daa"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0096283/",
-      "imdbId": "tt0096283",
-      "tmdbId": 8392,
-      "votos": 443089
-    },
     "HO00010363": {
       "titulo": "Mi vecino Totoro SUB",
       "tituloOriginal": "となりのトトロ",
@@ -631,55 +569,6 @@
       "imdbId": null,
       "tmdbId": 1294943,
       "votos": 1
-    },
-    "HO00010096": {
-      "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
-      "tituloOriginal": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "director": "Steve Cox",
-      "pais": "Matthew Walker., Reino Unido",
-      "ano": 2026,
-      "duracion": 80,
-      "filmId": "HO00010096",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010096?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010096&cinemas=003",
-      "sinopsis": "En Halloween, la granja Mossy Bottom sufre un inconveniente cuando el torpe Granjero destruye el huerto de calabazas del rebaño. Shaun se convierte en un científico e intenta arreglar el desastre, pero todo se sale de control: Granjero desparece y una bestia comienza a deambular por los bosques. Shaun y el rebaño harán todo lo posible para resolver el misterio. Destacando por su técnica artesanal de stop-motion, este filme juega con los tropos clásicos del horror, adaptándolos a la comedia clásica de Aardman.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "wTqW25KbwR4",
-      "trailers": [
-        "wTqW25KbwR4",
-        "bT92-lLovfs",
-        "VHQPopTW7fE",
-        "qEXKvFg3ScE",
-        "tOJC0eaRHhU",
-        "QjhNZT_1EvY",
-        "g2RLgdx0myQ",
-        "daZMq0AyOMc",
-        "T3K2uKvi_0s",
-        "b2RwIefN0Y0",
-        "UZ46Smi6mOw",
-        "Cok148lEKPM"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "When the sozzled farmer turns the pumpkin patch into something resembling the Somme, and with Halloween barely days away, \"Shaun\" comes up with a cunning wheeze.",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6aa7b9e8c71f77438c15aa41"
-        },
-        {
-          "texto": "filmreviewhaiku Painstaking, each frame Built by hand, still so funny Fun from start to end",
-          "autor": "ianrathbone",
-          "url": "https://www.themoviedb.org/review/6ad79828e9172d96ca7a5682"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt36841161/",
-      "imdbId": "tt36841161",
-      "tmdbId": 1477104,
-      "votos": 3709
     },
     "HO00010058": {
       "titulo": "Tierra de mi padre",
@@ -855,90 +744,6 @@
       "tmdbId": 1487046,
       "votos": 39
     },
-    "HO00010136": {
-      "titulo": "El poder de la red",
-      "tituloOriginal": "The Social Reckoning",
-      "director": "Aaron Sorkin",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 118,
-      "filmId": "HO00010136",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010136?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010136&cinemas=001",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "8E_KMh-02fQ",
-      "trailers": [
-        "8E_KMh-02fQ",
-        "Z3lF1qhVORU",
-        "JLYivj6xBOA",
-        "cNbAPdz04UE",
-        "naaubL5GycY",
-        "5QwNaYwslzE",
-        "2spv4SBqumw",
-        "rKLwaMypwzw",
-        "MWjc_H5jAeY",
-        "4dxP66pm22k",
-        "UVXv_Z1dpis",
-        "bbueSkYBL_Q",
-        "v5oVaS2lW2s",
-        "Eo4eH7w6zU8",
-        "RilcCdvFalc",
-        "rdjsSPuqoRg",
-        "Edayav45Yms",
-        "foF1gg3hqGI",
-        "NMkieXpknkg",
-        "XPTq0PnUu_M",
-        "KvB6B_NqDZ0",
-        "UfMO9yNTZvY",
-        "2gXThhNnyOo",
-        "Q8Rx1SaN_LI",
-        "55mtZ-X5L1E",
-        "I-vRyJlzmNs",
-        "w3FxNL7ouPo",
-        "5sw8SjdnU0o",
-        "Tr409M99ZaE",
-        "QbkRlWnll0U",
-        "WDt8jH7JQbk",
-        "LhWSv2mraBQ",
-        "gQNrwaAsMqQ",
-        "QDsWMkoRO4Y",
-        "7nqGvLpYAs0",
-        "XpCwPHNv5Bs",
-        "sc2U3K_22Qo",
-        "R8ANzYpaZaY",
-        "MfHEZw7Xw_c",
-        "8ALwIBaEJ_I",
-        "9xnDvEJJlxE",
-        "gM4LkaXwGuY"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.7,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Check out my full review @ https://movieswetextedabout.com/the-social-reckoning-movie-review-aaron-sorkin-turns-the-facebook-files-into-an-infuriating-essential-wake-up-call/ Rating: A THE…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6ac6428b8a7d9d180ef28162"
-        },
-        {
-          "texto": "Films designed to evoke righteous indignation among audience members have one vital task to fulfill: make sure they produce content and yield feelings that live up to their intentions.",
-          "autor": "Brent Marchant",
-          "url": "https://www.themoviedb.org/review/6ac89cddb75102ca73b794b3"
-        },
-        {
-          "texto": "Frances Haugen (Mikey Madison) has put together quite a concerning list of questions that are continually being sidelined by her Facebook bosses.",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6aca1182b22b37b291de3983"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt37510326/",
-      "imdbId": "tt37510326",
-      "tmdbId": 1281331,
-      "votos": 10571
-    },
     "HO00010122": {
       "titulo": "La venganza del Charro Negro",
       "tituloOriginal": null,
@@ -1048,77 +853,54 @@
       "tmdbId": 24238,
       "votos": 204220
     },
-    "HO00010123": {
-      "titulo": "Wildwood: El Bosque Salvaje DOB",
-      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
-      "director": "Travis Knight",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 132,
-      "filmId": "HO00010123",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=001",
-      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
+    "HO00010269": {
+      "titulo": "Mi vecino Totoro DOB",
+      "tituloOriginal": "となりのトトロ",
+      "director": "Hayao Miyazaki",
+      "pais": "Japón",
+      "ano": 1988,
+      "duracion": 86,
+      "filmId": "HO00010269",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010269?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010269&cinemas=001",
+      "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "PMvMsuiFVKQ",
+      "trailer": "DNrRRj91Wf0",
       "trailers": [
-        "PMvMsuiFVKQ",
-        "1KfKStJutDM",
-        "qWX1ba0f-Qg",
-        "w6pdNIgBT0s",
-        "LF1NMUUIkNM",
-        "zZ2P4vI0-n8",
-        "XmAs9q3Md50",
-        "SNt22U9ia1M",
-        "LVTIjSelhCI",
-        "aGBz-swP9IE",
-        "I3RRLDKN0gE",
-        "AFI_iIMyrVw",
-        "TdrXTegGf0M",
-        "zPSFJQd8YMk",
-        "lvD7GO0cYN8",
-        "Co8QLut1Of0",
-        "KnINr5uVPbE",
-        "AGR8MRZck3s",
-        "IY5rrLu598I",
-        "BfeBrJWx0f8",
-        "chOQgDF_LkI",
-        "bJQGtSeLPII",
-        "GJ-iWFVVLWQ",
-        "wr1XCDrHqYM",
-        "hN3lP4Fx1qg",
-        "dtr5JL1zkiM",
-        "evd9oEf-nrI",
-        "pf9VXMWAmLQ",
-        "POneS8h1jyU",
-        "Prv_FLWLlq8"
+        "DNrRRj91Wf0",
+        "BjeBG8Xrci8",
+        "_nv94fL_IA8",
+        "2XUolyeNBHY",
+        "xCtRJOWZCmM",
+        "I0103wkhQ-c",
+        "srW-wajSxog"
       ],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 8.6,
+      "publico": 8.1,
       "publicoFuente": "IMDb",
       "resenas": [
         {
-          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
+          "texto": "\"Childhood\" in a movie. This is just perfection - a perfect way to while away time and reconnect with your youth.",
+          "autor": "sykobanana",
+          "url": "https://www.themoviedb.org/review/5ec0827ed2147c0022b1f551"
         },
         {
-          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
-          "autor": "nkuk",
-          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
+          "texto": "(SPOILER ALERT) I was delighted to see this subtle/multi-layered tale unfold, which seemed to play well to both a childhood audience, keen on likable characters/compelling imagination, and…",
+          "autor": "20thCentury",
+          "url": "https://www.themoviedb.org/review/5f153a6e78570e00325c4b1b"
         },
         {
-          "texto": "Laika has always been one of my least favorite animation studios, and it's because they are tied to a medium of animation (stop-motion) that is becoming more and more dated as CGI is trying…",
-          "autor": "andrewtislercinephile",
-          "url": "https://www.themoviedb.org/review/6ae217d11392108dae048603"
+          "texto": "Aggressively cute. <em'My Neighbor Totoro'</em holds an extremely hearty story, one told via impeccably beautiful animation.",
+          "autor": "r96sk",
+          "url": "https://www.themoviedb.org/review/65b5058358efd3017cca6daa"
         }
       ],
-      "urlImdb": "https://www.imdb.com/title/tt2056785/",
-      "imdbId": "tt2056785",
-      "tmdbId": 791523,
-      "votos": 24930
+      "urlImdb": "https://www.imdb.com/title/tt0096283/",
+      "imdbId": "tt0096283",
+      "tmdbId": 8392,
+      "votos": 443089
     },
     "HO00010308": {
       "titulo": "Acá pasó",
@@ -1448,6 +1230,211 @@
       "tmdbId": null,
       "votos": null
     },
+    "HO00010096": {
+      "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
+      "tituloOriginal": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "director": "Steve Cox",
+      "pais": "Matthew Walker., Reino Unido",
+      "ano": 2026,
+      "duracion": 80,
+      "filmId": "HO00010096",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010096?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010096&cinemas=002",
+      "sinopsis": "En Halloween, la granja Mossy Bottom sufre un inconveniente cuando el torpe Granjero destruye el huerto de calabazas del rebaño. Shaun se convierte en un científico e intenta arreglar el desastre, pero todo se sale de control: Granjero desparece y una bestia comienza a deambular por los bosques. Shaun y el rebaño harán todo lo posible para resolver el misterio. Destacando por su técnica artesanal de stop-motion, este filme juega con los tropos clásicos del horror, adaptándolos a la comedia clásica de Aardman.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "wTqW25KbwR4",
+      "trailers": [
+        "wTqW25KbwR4",
+        "bT92-lLovfs",
+        "VHQPopTW7fE",
+        "qEXKvFg3ScE",
+        "tOJC0eaRHhU",
+        "QjhNZT_1EvY",
+        "g2RLgdx0myQ",
+        "daZMq0AyOMc",
+        "T3K2uKvi_0s",
+        "b2RwIefN0Y0",
+        "UZ46Smi6mOw",
+        "Cok148lEKPM"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "When the sozzled farmer turns the pumpkin patch into something resembling the Somme, and with Halloween barely days away, \"Shaun\" comes up with a cunning wheeze.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6aa7b9e8c71f77438c15aa41"
+        },
+        {
+          "texto": "filmreviewhaiku Painstaking, each frame Built by hand, still so funny Fun from start to end",
+          "autor": "ianrathbone",
+          "url": "https://www.themoviedb.org/review/6ad79828e9172d96ca7a5682"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt36841161/",
+      "imdbId": "tt36841161",
+      "tmdbId": 1477104,
+      "votos": 3709
+    },
+    "HO00010123": {
+      "titulo": "Wildwood: El Bosque Salvaje DOB",
+      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
+      "director": "Travis Knight",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 132,
+      "filmId": "HO00010123",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=002",
+      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "PMvMsuiFVKQ",
+      "trailers": [
+        "PMvMsuiFVKQ",
+        "1KfKStJutDM",
+        "qWX1ba0f-Qg",
+        "w6pdNIgBT0s",
+        "LF1NMUUIkNM",
+        "zZ2P4vI0-n8",
+        "XmAs9q3Md50",
+        "SNt22U9ia1M",
+        "LVTIjSelhCI",
+        "aGBz-swP9IE",
+        "I3RRLDKN0gE",
+        "AFI_iIMyrVw",
+        "TdrXTegGf0M",
+        "zPSFJQd8YMk",
+        "lvD7GO0cYN8",
+        "Co8QLut1Of0",
+        "KnINr5uVPbE",
+        "AGR8MRZck3s",
+        "IY5rrLu598I",
+        "BfeBrJWx0f8",
+        "chOQgDF_LkI",
+        "bJQGtSeLPII",
+        "GJ-iWFVVLWQ",
+        "wr1XCDrHqYM",
+        "hN3lP4Fx1qg",
+        "dtr5JL1zkiM",
+        "evd9oEf-nrI",
+        "pf9VXMWAmLQ",
+        "POneS8h1jyU",
+        "Prv_FLWLlq8"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.6,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
+        },
+        {
+          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
+          "autor": "nkuk",
+          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
+        },
+        {
+          "texto": "Laika has always been one of my least favorite animation studios, and it's because they are tied to a medium of animation (stop-motion) that is becoming more and more dated as CGI is trying…",
+          "autor": "andrewtislercinephile",
+          "url": "https://www.themoviedb.org/review/6ae217d11392108dae048603"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt2056785/",
+      "imdbId": "tt2056785",
+      "tmdbId": 791523,
+      "votos": 24930
+    },
+    "HO00010136": {
+      "titulo": "El poder de la red",
+      "tituloOriginal": "The Social Reckoning",
+      "director": "Aaron Sorkin",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 118,
+      "filmId": "HO00010136",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010136?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010136&cinemas=001",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "8E_KMh-02fQ",
+      "trailers": [
+        "8E_KMh-02fQ",
+        "Z3lF1qhVORU",
+        "JLYivj6xBOA",
+        "cNbAPdz04UE",
+        "naaubL5GycY",
+        "5QwNaYwslzE",
+        "2spv4SBqumw",
+        "rKLwaMypwzw",
+        "MWjc_H5jAeY",
+        "4dxP66pm22k",
+        "UVXv_Z1dpis",
+        "bbueSkYBL_Q",
+        "v5oVaS2lW2s",
+        "Eo4eH7w6zU8",
+        "RilcCdvFalc",
+        "rdjsSPuqoRg",
+        "Edayav45Yms",
+        "foF1gg3hqGI",
+        "NMkieXpknkg",
+        "XPTq0PnUu_M",
+        "KvB6B_NqDZ0",
+        "UfMO9yNTZvY",
+        "2gXThhNnyOo",
+        "Q8Rx1SaN_LI",
+        "55mtZ-X5L1E",
+        "I-vRyJlzmNs",
+        "w3FxNL7ouPo",
+        "5sw8SjdnU0o",
+        "Tr409M99ZaE",
+        "QbkRlWnll0U",
+        "WDt8jH7JQbk",
+        "LhWSv2mraBQ",
+        "gQNrwaAsMqQ",
+        "QDsWMkoRO4Y",
+        "7nqGvLpYAs0",
+        "XpCwPHNv5Bs",
+        "sc2U3K_22Qo",
+        "R8ANzYpaZaY",
+        "MfHEZw7Xw_c",
+        "8ALwIBaEJ_I",
+        "9xnDvEJJlxE",
+        "gM4LkaXwGuY"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.7,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Check out my full review @ https://movieswetextedabout.com/the-social-reckoning-movie-review-aaron-sorkin-turns-the-facebook-files-into-an-infuriating-essential-wake-up-call/ Rating: A THE…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6ac6428b8a7d9d180ef28162"
+        },
+        {
+          "texto": "Films designed to evoke righteous indignation among audience members have one vital task to fulfill: make sure they produce content and yield feelings that live up to their intentions.",
+          "autor": "Brent Marchant",
+          "url": "https://www.themoviedb.org/review/6ac89cddb75102ca73b794b3"
+        },
+        {
+          "texto": "Frances Haugen (Mikey Madison) has put together quite a concerning list of questions that are continually being sidelined by her Facebook bosses.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6aca1182b22b37b291de3983"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt37510326/",
+      "imdbId": "tt37510326",
+      "tmdbId": 1281331,
+      "votos": 10571
+    },
     "HO00010310": {
       "titulo": "El hogar fue sepultado en esa tierra que nunca pud",
       "tituloOriginal": "El hogar fue sepultado en esa tierra que nunca pudimos encontrar",
@@ -1502,6 +1489,51 @@
       "tmdbId": 1616861,
       "votos": 92
     },
+    "HO00009934": {
+      "titulo": "Dogtooth: Canino",
+      "tituloOriginal": "Kynodontas",
+      "director": "Yorgos Lanthimos",
+      "pais": "Grecia",
+      "ano": 2009,
+      "duracion": 97,
+      "filmId": "HO00009934",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009934?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009934&cinemas=003",
+      "sinopsis": "Canino narra la historia de una familia griega que vive recluida en su casa. El matrimonio manipula a sus tres hijos con reglas absurdas para convencerlos de que el mundo exterior es un territorio prohibido, al cual sólo podrán acceder cuando se les caiga un diente canino. En este filme, nominado al Óscar como mejor película en lengua no inglesa, el director Yorgos Lanthimos logra transitar la comedia negra y el terror psicológico, creando un cuestionamiento hacia las estructuras sociales que conocemos.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "YJe4eZ9l5KY",
+      "trailers": [
+        "YJe4eZ9l5KY",
+        "0bYpMPXXsvI",
+        "ElVysSnB3yg"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Doogtooth, the official Greek entry to the 2011 Academy Awards, is nominated for Best Foreign Film.",
+          "autor": "MoHA",
+          "url": "https://www.themoviedb.org/review/55d9073192514143e6002fa9"
+        },
+        {
+          "texto": "Unnamed parents (Christos Stergioglou and Michele Valley) are so obsessed with their children that they have, over the years, created an walled environment in which they see nobody but each…",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6636091a8de0ae0129f5f362"
+        },
+        {
+          "texto": "<em'Dogtooth'</em is certainly a Yorgos Lanthimos film! On the whole, I found this fascinating. It gets quite disturbing in parts, as you'd expect from this director, but all in all it is…",
+          "autor": "r96sk",
+          "url": "https://www.themoviedb.org/review/67a6b35edf55e8f213f0fb93"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt1379182/",
+      "imdbId": "tt1379182",
+      "tmdbId": 38810,
+      "votos": 125799
+    },
     "HO00009489": {
       "titulo": "El jardín que soñamos",
       "tituloOriginal": null,
@@ -1514,11 +1546,12 @@
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009489&cinemas=003",
       "sinopsis": "Junior y Esther son una pareja haitiana que migra hacia el norte del continente americano junto con Flor y Aisha, las dos hijas de Esther. En México, se ven envueltos con una banda de tala ilegal en lo profundo de un bosque, donde se les asigna vivir en una cabaña. Rodeada de árboles imponentes y un sinfín de mariposas monarca, la familia comienza a vislumbrar la posibilidad de un hogar estable. Pero bajo la tranquila belleza natural, poco a poco emerge una realidad más peligrosa. Usando la travesía de la mariposa monarca como símbolo de esperanza y espejo social, El jardín que soñamos explora la realidad de la migración, junto con urgentes preocupaciones ecológicas. El director Joaquín del Paso transforma el bosque en un testigo silencioso de la lucha, la resiliencia y la supervivencia.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "miQMgkt6WvA",
+      "trailer": "8fR_jR9cpDE",
       "trailers": [
+        "8fR_jR9cpDE",
         "miQMgkt6WvA"
       ],
-      "trailerFuente": "TMDB",
+      "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
       "publico": 8,
@@ -1625,9 +1658,11 @@
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010254&cinemas=003",
       "sinopsis": "Fujino, una estudiante extrovertida, publica mangas en el periódico escolar. Su vida cambia cuando descubre que comparte espacio con Kyomoto, una chica solitaria con ansiedad social. Un día se conocen en persona y descubren que comparten la misma pasión creativa. A partir de ese momento, forman una amistad que las acompaña a lo largo de trece años mientras navegan por los sueños, los desafíos y los momentos más duros del proceso de convertirse en mangakas [autoras de mangas]. Su vínculo se pone a prueba cuando un trágico suceso las obliga a replantearse su camino y su forma de entender el arte. Estrenada la en 83° Muestra de Venecia, la más reciente película del cineasta japonés Hirokazu Kore-eda construye un bello retrato de la infancia, la vocación artística y el éxito compartido entre amigas.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
+      "trailer": "7A33_0b4I7A",
+      "trailers": [
+        "7A33_0b4I7A"
+      ],
+      "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
       "publico": 2.8,
@@ -1752,9 +1787,9 @@
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010255&cinemas=003",
       "sinopsis": "Thierry Frémaux, director artístico del Festival de Cannes y director del Instituto Lumière de Lyon, ha pasado gran parte de su vida enfocado en la recuperación y restauración de las vistas de los hermanos Lumière. En 2017 presentó su largometraje ¡Lumière! Comienza la aventura, donde se conjuntaban más de 150 películas restauradas y guiadas por un hilo narrativo a partir del cual conocíamos un poco más a profundidad sobre las obras. Siete años después, regresa a su ardua tarea de recuperación de la obra de los Lumière con otro largometraje, más filosófico que el primero, donde cuestiona la imagen del autor, el peso de las primeras películas de estos célebres hermanos franceses y presenta una serie de divagaciones ensayísticas sobre la composición de la imagen, del movimiento y del cine.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
+      "trailer": "GanHIpea5L0",
       "trailers": [],
-      "trailerFuente": null,
+      "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
       "publico": null,
@@ -1777,11 +1812,12 @@
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010256&cinemas=003",
       "sinopsis": "Ganadora de la Biznaga de Oro a la mejor película española del Festival de Málaga, Yo no moriré de amor, el primer largometraje de la cineasta española Marta Matute es un ejercicio narrativo basado en su propia experiencia frente a la enfermedad neurodegenerativa de su madre, quien fue diagnosticada con alzhéimer. Estas vivencias fueron extrapoladas a una película profundamente sensible que aborda el proceso emocional de una familia donde los roles se desdibujan cuando la enfermedad se hace presente. Claudia, el alter ego de Matute, protagoniza la cinta y a partir de su mirada es que reconoceremos los conflictos de volverse cuidadora a una edad tan temprana, en la que no sólo es confrontada por la enfermedad, sino también por sus propios conflictos al crecer y relacionarse con el mundo.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "K9m_KFAOfvk",
+      "trailer": "wANwfKrUuRc",
       "trailers": [
+        "wANwfKrUuRc",
         "K9m_KFAOfvk"
       ],
-      "trailerFuente": "TMDB",
+      "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
       "publico": 6.8,
@@ -1804,9 +1840,9 @@
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00000334&cinemas=003",
       "sinopsis": "Luis Buñuel Mauricio de la Serna, José Revueltas, Luis Alcoriza y Juan De la Cabada. Raúl Martínez Solares Blanco y Negro Luis Hernández Bretón. Jorge Bustos. Lilia Prado (Lupita), Carlos Navarro (Juan Caireles), Fernando Soto Mantequilla (Tarrajas), Agustín Isunza (Papá Pinillos), Miguel Manzano (don Manuel), Guillermo Bravo Sosa (Braulio), José Pidal (profesor), José Martínez (Duque de Otranto). Armando Orive Alba, J. Ramón Aguirre y Mauricio de la Serna CLASA Films. Fundación Televisa. A.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "fHhb_2qGPyo",
+      "trailer": "OoeBHpFbh24",
       "trailers": [
-        "fHhb_2qGPyo"
+        "OoeBHpFbh24"
       ],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
@@ -1830,6 +1866,31 @@
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010238?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010238&cinemas=003",
       "sinopsis": "¿Quién tiene derecho a decidir por nosotros cuando perdemos la capacidad de elegir? Esta pregunta recorre La reina en el mar, ganadora del Oso de Plata - Premio del Jurado de la 76° Berlinale, y la sitúa en un territorio moral donde ninguna respuesta resulta cómoda. Leslie padece una demencia avanzada y su marido, Martin, se ocupa de ella. El equilibrio se rompe cuando Amanda, la hija de Leslie, descubre que ambos mantienen relaciones sexuales y duda de que su madre pueda realmente consentir. La intimidad familiar se convierte en una cuestión pública y desencadena un conflicto entre distintas maneras de entender qué significa cuidar. El director Lance Hammer conduce una obra tan contenida como desbordante, que retrata el dilema familiar y las complejidades en el cuidado de los adultos mayores.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "JW2ypqGHNPo",
+      "trailers": [],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
+    },
+    "HO00010374": {
+      "titulo": "Master class Asghar Farhadi",
+      "tituloOriginal": "MÁSTER CLASS ASHGAR FARHADI",
+      "director": "ASHGAR FARHADI",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 120,
+      "filmId": "HO00010374",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010374?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010374&cinemas=003",
+      "sinopsis": "Asghar Farhadi, director de cine, guionista y productor iraní. Es considerado uno de los cineastas más destacados del cine iraní así como del cine mundial en el siglo XXI. Sus películas han ganado reconocimiento por su enfoque en la condición humana, y representaciones de historias íntimas y desafiantes de conflictos familiares internos.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": null,
       "trailers": [],
@@ -1885,6 +1946,15 @@
     {
       "sede": "003",
       "fecha": "2026-11-10",
+      "pelicula": "HO00010368",
+      "sala": "Sala 1",
+      "horarios": [
+        "17:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-10",
       "pelicula": "HO00009477",
       "sala": "Sala 6",
       "horarios": [
@@ -1894,19 +1964,19 @@
     {
       "sede": "003",
       "fecha": "2026-11-10",
-      "pelicula": "HO00009934",
-      "sala": "Sala 4",
+      "pelicula": "HO00010262",
+      "sala": "Sala 1",
       "horarios": [
-        "14:00"
+        "19:00"
       ]
     },
     {
       "sede": "003",
       "fecha": "2026-11-10",
-      "pelicula": "HO00010262",
-      "sala": "Sala 1",
+      "pelicula": "HO00010336",
+      "sala": "Sala 8",
       "horarios": [
-        "19:00"
+        "20:15"
       ]
     },
     {
@@ -1967,24 +2037,6 @@
     {
       "sede": "003",
       "fecha": "2026-11-10",
-      "pelicula": "HO00010374",
-      "sala": "Sala 3",
-      "horarios": [
-        "12:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-10",
-      "pelicula": "HO00010269",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-10",
       "pelicula": "HO00010363",
       "sala": "Sala 2",
       "horarios": [
@@ -2017,15 +2069,6 @@
       "sala": "Sala 4",
       "horarios": [
         "16:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-10",
-      "pelicula": "HO00010096",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:15"
       ]
     },
     {
@@ -2075,15 +2118,6 @@
         "15:20",
         "17:25",
         "19:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-10",
-      "pelicula": "HO00010136",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:40"
       ]
     },
     {
@@ -2159,15 +2193,6 @@
         "15:50",
         "17:50",
         "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-10",
-      "pelicula": "HO00010123",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:30"
       ]
     },
     {
@@ -2287,15 +2312,6 @@
         "14:00",
         "16:40",
         "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-10",
-      "pelicula": "HO00009939",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:30"
       ]
     },
     {
@@ -3341,6 +3357,69 @@
       "horarios": [
         "16:30",
         "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-10",
+      "pelicula": "HO00009934",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-10",
+      "pelicula": "HO00010374",
+      "sala": "Sala 3",
+      "horarios": [
+        "12:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-10",
+      "pelicula": "HO00010269",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-10",
+      "pelicula": "HO00010096",
+      "sala": "Sala 10",
+      "horarios": [
+        "14:15"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-10",
+      "pelicula": "HO00010136",
+      "sala": "Sala 5",
+      "horarios": [
+        "13:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-10",
+      "pelicula": "HO00010123",
+      "sala": "Sala 8",
+      "horarios": [
+        "13:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-10",
+      "pelicula": "HO00009939",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:30"
       ]
     }
   ]
