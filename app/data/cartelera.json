@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-11T15:06:42.164Z",
+  "generadoEn": "2026-11-11T17:14:18.917Z",
   "hoy": "2026-11-11",
   "sedes": [
     {
@@ -1251,29 +1251,27 @@
     "HO00010254": {
       "titulo": "Look Back",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Hirokazu Kore-eda",
+      "pais": "Japón",
+      "ano": 2026,
+      "duracion": 100,
       "filmId": "HO00010254",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010254?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010254&cinemas=003",
       "sinopsis": "Fujino, una estudiante extrovertida, publica mangas en el periódico escolar. Su vida cambia cuando descubre que comparte espacio con Kyomoto, una chica solitaria con ansiedad social. Un día se conocen en persona y descubren que comparten la misma pasión creativa. A partir de ese momento, forman una amistad que las acompaña a lo largo de trece años mientras navegan por los sueños, los desafíos y los momentos más duros del proceso de convertirse en mangakas [autoras de mangas]. Su vínculo se pone a prueba cuando un trágico suceso las obliga a replantearse su camino y su forma de entender el arte. Estrenada la en 83° Muestra de Venecia, la más reciente película del cineasta japonés Hirokazu Kore-eda construye un bello retrato de la infancia, la vocación artística y el éxito compartido entre amigas.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "7A33_0b4I7A",
-      "trailers": [
-        "7A33_0b4I7A"
-      ],
+      "trailers": [],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 2.8,
-      "publicoFuente": "IMDb",
+      "publico": null,
+      "publicoFuente": null,
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt5991554/",
-      "imdbId": "tt5991554",
-      "tmdbId": 948121,
-      "votos": 7
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00010241": {
       "titulo": "Naza",
