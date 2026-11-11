@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-11T17:14:18.917Z",
+  "generadoEn": "2026-11-11T21:28:09.151Z",
   "hoy": "2026-11-11",
   "sedes": [
     {
@@ -28,31 +28,6 @@
     "2026-11-17"
   ],
   "peliculas": {
-    "HO00010124": {
-      "titulo": "Ciudad de muertos",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010124",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010124?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010124&cinemas=001",
-      "sinopsis": "Inspirada en la obra de Enrique Metinides, Ciudad de Muertos sigue a un fotógrafo de nota roja en la Ciudad de México de los años 50, cuya obsesión por documentar la tragedia comienza a desdibujar los límites entre la realidad y la imaginación. Tras un terremoto que deja la ciudad en ruinas, empieza a experimentar apariciones extrañas y encuentros con un hombre desfigurado que parece seguirlo. En medio del caos, irrumpe una niña curiosa y enigmática que lo acompaña en un recorrido donde la frontera entre los vivos y los muertos se vuelve cada vez más difusa.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35826854/",
-      "imdbId": "tt35826854",
-      "tmdbId": 1487046,
-      "votos": 40
-    },
     "HO00010136": {
       "titulo": "El poder de la red",
       "tituloOriginal": "The Social Reckoning",
@@ -136,34 +111,6 @@
       "imdbId": "tt37510326",
       "tmdbId": 1281331,
       "votos": 10598
-    },
-    "HO00010122": {
-      "titulo": "La venganza del Charro Negro",
-      "tituloOriginal": null,
-      "director": "Marvick Núñez",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 79,
-      "filmId": "HO00010122",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010122?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010122&cinemas=001",
-      "sinopsis": "El temido Charro Negro regresa para vengarse de Leo San Juan, obligándolo a adentrarse en el inframundo para rescatar a su hermano Nando. Este malévolo plan toma fuerza cuando todas las criaturas que Leo y sus amigos derrotaron en sus anteriores aventuras, como la Llorona y el Chupacabras, vuelven para tomar revancha. Ante dicha amenaza, el carismático grupo de amigos deberá reencontrarse, ayudar a los hermanos, enfrentar a sus enemigos del pasado y, por fin, derrotar al maligno Charro Negro.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "c-FuV_zqL_M",
-      "trailers": [
-        "c-FuV_zqL_M",
-        "AOMZA1P3aBI"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.3,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt37959568/",
-      "imdbId": "tt37959568",
-      "tmdbId": 1406492,
-      "votos": 216
     },
     "HO00010268": {
       "titulo": "Los Doors",
@@ -619,6 +566,31 @@
       "tmdbId": 891621,
       "votos": 10638
     },
+    "HO00010124": {
+      "titulo": "Ciudad de muertos",
+      "tituloOriginal": null,
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010124",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010124?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010124&cinemas=002",
+      "sinopsis": "Inspirada en la obra de Enrique Metinides, Ciudad de Muertos sigue a un fotógrafo de nota roja en la Ciudad de México de los años 50, cuya obsesión por documentar la tragedia comienza a desdibujar los límites entre la realidad y la imaginación. Tras un terremoto que deja la ciudad en ruinas, empieza a experimentar apariciones extrañas y encuentros con un hombre desfigurado que parece seguirlo. En medio del caos, irrumpe una niña curiosa y enigmática que lo acompaña en un recorrido donde la frontera entre los vivos y los muertos se vuelve cada vez más difusa.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35826854/",
+      "imdbId": "tt35826854",
+      "tmdbId": 1487046,
+      "votos": 40
+    },
     "HO00010075": {
       "titulo": "Digger",
       "tituloOriginal": null,
@@ -853,6 +825,34 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00010122": {
+      "titulo": "La venganza del Charro Negro",
+      "tituloOriginal": null,
+      "director": "Marvick Núñez",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 79,
+      "filmId": "HO00010122",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010122?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010122&cinemas=002",
+      "sinopsis": "El temido Charro Negro regresa para vengarse de Leo San Juan, obligándolo a adentrarse en el inframundo para rescatar a su hermano Nando. Este malévolo plan toma fuerza cuando todas las criaturas que Leo y sus amigos derrotaron en sus anteriores aventuras, como la Llorona y el Chupacabras, vuelven para tomar revancha. Ante dicha amenaza, el carismático grupo de amigos deberá reencontrarse, ayudar a los hermanos, enfrentar a sus enemigos del pasado y, por fin, derrotar al maligno Charro Negro.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "c-FuV_zqL_M",
+      "trailers": [
+        "c-FuV_zqL_M",
+        "AOMZA1P3aBI"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt37959568/",
+      "imdbId": "tt37959568",
+      "tmdbId": 1406492,
+      "votos": 216
     },
     "HO00010311": {
       "titulo": "Lo demás es ruido",
@@ -1261,7 +1261,9 @@
       "sinopsis": "Fujino, una estudiante extrovertida, publica mangas en el periódico escolar. Su vida cambia cuando descubre que comparte espacio con Kyomoto, una chica solitaria con ansiedad social. Un día se conocen en persona y descubren que comparten la misma pasión creativa. A partir de ese momento, forman una amistad que las acompaña a lo largo de trece años mientras navegan por los sueños, los desafíos y los momentos más duros del proceso de convertirse en mangakas [autoras de mangas]. Su vínculo se pone a prueba cuando un trágico suceso las obliga a replantearse su camino y su forma de entender el arte. Estrenada la en 83° Muestra de Venecia, la más reciente película del cineasta japonés Hirokazu Kore-eda construye un bello retrato de la infancia, la vocación artística y el éxito compartido entre amigas.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "7A33_0b4I7A",
-      "trailers": [],
+      "trailers": [
+        "7A33_0b4I7A"
+      ],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
@@ -1270,8 +1272,8 @@
       "resenas": [],
       "urlImdb": null,
       "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "tmdbId": 1260590,
+      "votos": 0
     },
     "HO00010241": {
       "titulo": "Naza",
@@ -1447,36 +1449,40 @@
     },
     "HO00010255": {
       "titulo": "¡Lumière! La aventura continúa",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "tituloOriginal": "Lumière",
+      "director": "Thierry Frémaux",
+      "pais": "Francia",
+      "ano": 2024,
+      "duracion": 103,
       "filmId": "HO00010255",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010255?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010255&cinemas=003",
       "sinopsis": "Thierry Frémaux, director artístico del Festival de Cannes y director del Instituto Lumière de Lyon, ha pasado gran parte de su vida enfocado en la recuperación y restauración de las vistas de los hermanos Lumière. En 2017 presentó su largometraje ¡Lumière! Comienza la aventura, donde se conjuntaban más de 150 películas restauradas y guiadas por un hilo narrativo a partir del cual conocíamos un poco más a profundidad sobre las obras. Siete años después, regresa a su ardua tarea de recuperación de la obra de los Lumière con otro largometraje, más filosófico que el primero, donde cuestiona la imagen del autor, el peso de las primeras películas de estos célebres hermanos franceses y presenta una serie de divagaciones ensayísticas sobre la composición de la imagen, del movimiento y del cine.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "GanHIpea5L0",
-      "trailers": [],
+      "trailers": [
+        "GanHIpea5L0",
+        "RQVOZ1BcXnY",
+        "Aw37Q6zmUYk"
+      ],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
+      "publico": 7.7,
+      "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "urlImdb": "https://www.imdb.com/title/tt10323412/",
+      "imdbId": "tt10323412",
+      "tmdbId": 639590,
+      "votos": 401
     },
     "HO00010256": {
       "titulo": "Yo no moriré de amor",
       "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "director": "Marta Matute",
+      "pais": "España-Bélgica",
+      "ano": 2026,
+      "duracion": 94,
       "filmId": "HO00010256",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010256?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010256&cinemas=003",
@@ -1527,28 +1533,34 @@
     },
     "HO00010238": {
       "titulo": "La reina en el mar",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "tituloOriginal": "Queen at Sea",
+      "director": "Lance Hammer",
+      "pais": "Reino Unido-Estados Unidos",
+      "ano": 2026,
+      "duracion": 121,
       "filmId": "HO00010238",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010238?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010238&cinemas=003",
       "sinopsis": "¿Quién tiene derecho a decidir por nosotros cuando perdemos la capacidad de elegir? Esta pregunta recorre La reina en el mar, ganadora del Oso de Plata - Premio del Jurado de la 76° Berlinale, y la sitúa en un territorio moral donde ninguna respuesta resulta cómoda. Leslie padece una demencia avanzada y su marido, Martin, se ocupa de ella. El equilibrio se rompe cuando Amanda, la hija de Leslie, descubre que ambos mantienen relaciones sexuales y duda de que su madre pueda realmente consentir. La intimidad familiar se convierte en una cuestión pública y desencadena un conflicto entre distintas maneras de entender qué significa cuidar. El director Lance Hammer conduce una obra tan contenida como desbordante, que retrata el dilema familiar y las complejidades en el cuidado de los adultos mayores.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "JW2ypqGHNPo",
-      "trailers": [],
+      "trailers": [
+        "JW2ypqGHNPo",
+        "A7cm7ZJGtVI",
+        "5H8rRfVFEgg",
+        "UVyH8QYENxI",
+        "AyYaNvtC2i0"
+      ],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
+      "publico": 7.5,
+      "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
+      "urlImdb": "https://www.imdb.com/title/tt27541205/",
+      "imdbId": "tt27541205",
+      "tmdbId": 1021848,
+      "votos": 1102
     },
     "HO00010281": {
       "titulo": "Ángela Morante, ¿crimen o suicidio?",
@@ -1580,29 +1592,11 @@
     {
       "sede": "001",
       "fecha": "2026-11-11",
-      "pelicula": "HO00010124",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:15"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-11",
       "pelicula": "HO00010136",
       "sala": "Sala 5",
       "horarios": [
         "16:10",
         "18:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-11",
-      "pelicula": "HO00010122",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:00"
       ]
     },
     {
@@ -1794,15 +1788,6 @@
         "14:00",
         "16:40",
         "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-11",
-      "pelicula": "HO00009939",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:30"
       ]
     },
     {
@@ -2626,6 +2611,33 @@
       "horarios": [
         "14:15",
         "18:45"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-11",
+      "pelicula": "HO00010124",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:15"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-11",
+      "pelicula": "HO00010122",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-11",
+      "pelicula": "HO00009939",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:30"
       ]
     }
   ]
