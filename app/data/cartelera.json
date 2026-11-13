@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-13T17:16:22.075Z",
+  "generadoEn": "2026-11-13T20:56:14.082Z",
   "hoy": "2026-11-13",
   "sedes": [
     {
@@ -557,55 +557,6 @@
       "tmdbId": 24238,
       "votos": 204261
     },
-    "HO00010269": {
-      "titulo": "Mi vecino Totoro DOB",
-      "tituloOriginal": "となりのトトロ",
-      "director": "Hayao Miyazaki",
-      "pais": "Japón",
-      "ano": 1988,
-      "duracion": 86,
-      "filmId": "HO00010269",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010269?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010269&cinemas=003",
-      "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "DNrRRj91Wf0",
-      "trailers": [
-        "DNrRRj91Wf0",
-        "BjeBG8Xrci8",
-        "_nv94fL_IA8",
-        "2XUolyeNBHY",
-        "xCtRJOWZCmM",
-        "I0103wkhQ-c",
-        "srW-wajSxog"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "\"Childhood\" in a movie. This is just perfection - a perfect way to while away time and reconnect with your youth.",
-          "autor": "sykobanana",
-          "url": "https://www.themoviedb.org/review/5ec0827ed2147c0022b1f551"
-        },
-        {
-          "texto": "(SPOILER ALERT) I was delighted to see this subtle/multi-layered tale unfold, which seemed to play well to both a childhood audience, keen on likable characters/compelling imagination, and…",
-          "autor": "20thCentury",
-          "url": "https://www.themoviedb.org/review/5f153a6e78570e00325c4b1b"
-        },
-        {
-          "texto": "Aggressively cute. <em'My Neighbor Totoro'</em holds an extremely hearty story, one told via impeccably beautiful animation.",
-          "autor": "r96sk",
-          "url": "https://www.themoviedb.org/review/65b5058358efd3017cca6daa"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0096283/",
-      "imdbId": "tt0096283",
-      "tmdbId": 8392,
-      "votos": 443270
-    },
     "HO00010363": {
       "titulo": "Mi vecino Totoro SUB",
       "tituloOriginal": "となりのトトロ",
@@ -926,90 +877,6 @@
       "tmdbId": 1487046,
       "votos": 43
     },
-    "HO00010136": {
-      "titulo": "El poder de la red",
-      "tituloOriginal": "The Social Reckoning",
-      "director": "Aaron Sorkin",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 118,
-      "filmId": "HO00010136",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010136?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010136&cinemas=001",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "8E_KMh-02fQ",
-      "trailers": [
-        "8E_KMh-02fQ",
-        "Z3lF1qhVORU",
-        "JLYivj6xBOA",
-        "cNbAPdz04UE",
-        "naaubL5GycY",
-        "5QwNaYwslzE",
-        "2spv4SBqumw",
-        "rKLwaMypwzw",
-        "MWjc_H5jAeY",
-        "4dxP66pm22k",
-        "UVXv_Z1dpis",
-        "bbueSkYBL_Q",
-        "v5oVaS2lW2s",
-        "Eo4eH7w6zU8",
-        "RilcCdvFalc",
-        "rdjsSPuqoRg",
-        "Edayav45Yms",
-        "foF1gg3hqGI",
-        "NMkieXpknkg",
-        "XPTq0PnUu_M",
-        "KvB6B_NqDZ0",
-        "UfMO9yNTZvY",
-        "2gXThhNnyOo",
-        "Q8Rx1SaN_LI",
-        "55mtZ-X5L1E",
-        "I-vRyJlzmNs",
-        "w3FxNL7ouPo",
-        "5sw8SjdnU0o",
-        "Tr409M99ZaE",
-        "QbkRlWnll0U",
-        "WDt8jH7JQbk",
-        "LhWSv2mraBQ",
-        "gQNrwaAsMqQ",
-        "QDsWMkoRO4Y",
-        "7nqGvLpYAs0",
-        "XpCwPHNv5Bs",
-        "sc2U3K_22Qo",
-        "R8ANzYpaZaY",
-        "MfHEZw7Xw_c",
-        "8ALwIBaEJ_I",
-        "9xnDvEJJlxE",
-        "gM4LkaXwGuY"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.7,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Check out my full review @ https://movieswetextedabout.com/the-social-reckoning-movie-review-aaron-sorkin-turns-the-facebook-files-into-an-infuriating-essential-wake-up-call/ Rating: A THE…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6ac6428b8a7d9d180ef28162"
-        },
-        {
-          "texto": "Films designed to evoke righteous indignation among audience members have one vital task to fulfill: make sure they produce content and yield feelings that live up to their intentions.",
-          "autor": "Brent Marchant",
-          "url": "https://www.themoviedb.org/review/6ac89cddb75102ca73b794b3"
-        },
-        {
-          "texto": "Frances Haugen (Mikey Madison) has put together quite a concerning list of questions that are continually being sidelined by her Facebook bosses.",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6aca1182b22b37b291de3983"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt37510326/",
-      "imdbId": "tt37510326",
-      "tmdbId": 1281331,
-      "votos": 10650
-    },
     "HO00010268": {
       "titulo": "Los Doors",
       "tituloOriginal": "The Doors",
@@ -1091,78 +958,54 @@
       "tmdbId": 24238,
       "votos": 204261
     },
-    "HO00010123": {
-      "titulo": "Wildwood: El Bosque Salvaje DOB",
-      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
-      "director": "Travis Knight",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 132,
-      "filmId": "HO00010123",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=001",
-      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
+    "HO00010269": {
+      "titulo": "Mi vecino Totoro DOB",
+      "tituloOriginal": "となりのトトロ",
+      "director": "Hayao Miyazaki",
+      "pais": "Japón",
+      "ano": 1988,
+      "duracion": 86,
+      "filmId": "HO00010269",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010269?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010269&cinemas=001",
+      "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "PMvMsuiFVKQ",
+      "trailer": "DNrRRj91Wf0",
       "trailers": [
-        "PMvMsuiFVKQ",
-        "1KfKStJutDM",
-        "qWX1ba0f-Qg",
-        "B2Cx_5_YLxQ",
-        "w6pdNIgBT0s",
-        "LF1NMUUIkNM",
-        "zZ2P4vI0-n8",
-        "XmAs9q3Md50",
-        "SNt22U9ia1M",
-        "LVTIjSelhCI",
-        "aGBz-swP9IE",
-        "I3RRLDKN0gE",
-        "AFI_iIMyrVw",
-        "TdrXTegGf0M",
-        "zPSFJQd8YMk",
-        "lvD7GO0cYN8",
-        "Co8QLut1Of0",
-        "KnINr5uVPbE",
-        "AGR8MRZck3s",
-        "IY5rrLu598I",
-        "BfeBrJWx0f8",
-        "chOQgDF_LkI",
-        "bJQGtSeLPII",
-        "GJ-iWFVVLWQ",
-        "wr1XCDrHqYM",
-        "hN3lP4Fx1qg",
-        "dtr5JL1zkiM",
-        "evd9oEf-nrI",
-        "pf9VXMWAmLQ",
-        "POneS8h1jyU",
-        "Prv_FLWLlq8"
+        "DNrRRj91Wf0",
+        "BjeBG8Xrci8",
+        "_nv94fL_IA8",
+        "2XUolyeNBHY",
+        "xCtRJOWZCmM",
+        "I0103wkhQ-c",
+        "srW-wajSxog"
       ],
       "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
-      "publico": 8.6,
+      "publico": 8.1,
       "publicoFuente": "IMDb",
       "resenas": [
         {
-          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
+          "texto": "\"Childhood\" in a movie. This is just perfection - a perfect way to while away time and reconnect with your youth.",
+          "autor": "sykobanana",
+          "url": "https://www.themoviedb.org/review/5ec0827ed2147c0022b1f551"
         },
         {
-          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
-          "autor": "nkuk",
-          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
+          "texto": "(SPOILER ALERT) I was delighted to see this subtle/multi-layered tale unfold, which seemed to play well to both a childhood audience, keen on likable characters/compelling imagination, and…",
+          "autor": "20thCentury",
+          "url": "https://www.themoviedb.org/review/5f153a6e78570e00325c4b1b"
         },
         {
-          "texto": "A Defiant Handcrafted Miracle in an Age of Plastic Cinema There is a moment early in Wildwood when the Pacific Northwest sun filters through a canopy of moss draped Douglas firs, catching…",
-          "autor": "aleo4",
-          "url": "https://www.themoviedb.org/review/6aea4caeca9aed1f7dc35326"
+          "texto": "Aggressively cute. <em'My Neighbor Totoro'</em holds an extremely hearty story, one told via impeccably beautiful animation.",
+          "autor": "r96sk",
+          "url": "https://www.themoviedb.org/review/65b5058358efd3017cca6daa"
         }
       ],
-      "urlImdb": "https://www.imdb.com/title/tt2056785/",
-      "imdbId": "tt2056785",
-      "tmdbId": 791523,
-      "votos": 27328
+      "urlImdb": "https://www.imdb.com/title/tt0096283/",
+      "imdbId": "tt0096283",
+      "tmdbId": 8392,
+      "votos": 443270
     },
     "HO00009278": {
       "titulo": "La desaparición de Josef Mengele",
@@ -1299,6 +1142,163 @@
       "tmdbId": 1446301,
       "votos": 333
     },
+    "HO00010136": {
+      "titulo": "El poder de la red",
+      "tituloOriginal": "The Social Reckoning",
+      "director": "Aaron Sorkin",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 118,
+      "filmId": "HO00010136",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010136?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010136&cinemas=001",
+      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "8E_KMh-02fQ",
+      "trailers": [
+        "8E_KMh-02fQ",
+        "Z3lF1qhVORU",
+        "JLYivj6xBOA",
+        "cNbAPdz04UE",
+        "naaubL5GycY",
+        "5QwNaYwslzE",
+        "2spv4SBqumw",
+        "rKLwaMypwzw",
+        "MWjc_H5jAeY",
+        "4dxP66pm22k",
+        "UVXv_Z1dpis",
+        "bbueSkYBL_Q",
+        "v5oVaS2lW2s",
+        "Eo4eH7w6zU8",
+        "RilcCdvFalc",
+        "rdjsSPuqoRg",
+        "Edayav45Yms",
+        "foF1gg3hqGI",
+        "NMkieXpknkg",
+        "XPTq0PnUu_M",
+        "KvB6B_NqDZ0",
+        "UfMO9yNTZvY",
+        "2gXThhNnyOo",
+        "Q8Rx1SaN_LI",
+        "55mtZ-X5L1E",
+        "I-vRyJlzmNs",
+        "w3FxNL7ouPo",
+        "5sw8SjdnU0o",
+        "Tr409M99ZaE",
+        "QbkRlWnll0U",
+        "WDt8jH7JQbk",
+        "LhWSv2mraBQ",
+        "gQNrwaAsMqQ",
+        "QDsWMkoRO4Y",
+        "7nqGvLpYAs0",
+        "XpCwPHNv5Bs",
+        "sc2U3K_22Qo",
+        "R8ANzYpaZaY",
+        "MfHEZw7Xw_c",
+        "8ALwIBaEJ_I",
+        "9xnDvEJJlxE",
+        "gM4LkaXwGuY"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.7,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Check out my full review @ https://movieswetextedabout.com/the-social-reckoning-movie-review-aaron-sorkin-turns-the-facebook-files-into-an-infuriating-essential-wake-up-call/ Rating: A THE…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6ac6428b8a7d9d180ef28162"
+        },
+        {
+          "texto": "Films designed to evoke righteous indignation among audience members have one vital task to fulfill: make sure they produce content and yield feelings that live up to their intentions.",
+          "autor": "Brent Marchant",
+          "url": "https://www.themoviedb.org/review/6ac89cddb75102ca73b794b3"
+        },
+        {
+          "texto": "Frances Haugen (Mikey Madison) has put together quite a concerning list of questions that are continually being sidelined by her Facebook bosses.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6aca1182b22b37b291de3983"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt37510326/",
+      "imdbId": "tt37510326",
+      "tmdbId": 1281331,
+      "votos": 10650
+    },
+    "HO00010123": {
+      "titulo": "Wildwood: El Bosque Salvaje DOB",
+      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
+      "director": "Travis Knight",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 132,
+      "filmId": "HO00010123",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=001",
+      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "PMvMsuiFVKQ",
+      "trailers": [
+        "PMvMsuiFVKQ",
+        "1KfKStJutDM",
+        "qWX1ba0f-Qg",
+        "B2Cx_5_YLxQ",
+        "w6pdNIgBT0s",
+        "LF1NMUUIkNM",
+        "zZ2P4vI0-n8",
+        "XmAs9q3Md50",
+        "SNt22U9ia1M",
+        "LVTIjSelhCI",
+        "aGBz-swP9IE",
+        "I3RRLDKN0gE",
+        "AFI_iIMyrVw",
+        "TdrXTegGf0M",
+        "zPSFJQd8YMk",
+        "lvD7GO0cYN8",
+        "Co8QLut1Of0",
+        "KnINr5uVPbE",
+        "AGR8MRZck3s",
+        "IY5rrLu598I",
+        "BfeBrJWx0f8",
+        "chOQgDF_LkI",
+        "bJQGtSeLPII",
+        "GJ-iWFVVLWQ",
+        "wr1XCDrHqYM",
+        "hN3lP4Fx1qg",
+        "dtr5JL1zkiM",
+        "evd9oEf-nrI",
+        "pf9VXMWAmLQ",
+        "POneS8h1jyU",
+        "Prv_FLWLlq8"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.6,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
+        },
+        {
+          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
+          "autor": "nkuk",
+          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
+        },
+        {
+          "texto": "A Defiant Handcrafted Miracle in an Age of Plastic Cinema There is a moment early in Wildwood when the Pacific Northwest sun filters through a canopy of moss draped Douglas firs, catching…",
+          "autor": "aleo4",
+          "url": "https://www.themoviedb.org/review/6aea4caeca9aed1f7dc35326"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt2056785/",
+      "imdbId": "tt2056785",
+      "tmdbId": 791523,
+      "votos": 27328
+    },
     "HO00010372": {
       "titulo": "16 kilotones/Chaski Pacha/Gregorio/Único adiós",
       "tituloOriginal": null,
@@ -1340,6 +1340,8 @@
       "trailers": [
         "MG14cdR2x8E",
         "zsbdEFivPgo",
+        "DFU3m78ltwk",
+        "QLmK1Yu9xG0",
         "OV3-edcmVMA",
         "oHjRbcWvHIc",
         "CwK_7mbrrKo",
@@ -1919,15 +1921,6 @@
     {
       "sede": "003",
       "fecha": "2026-11-13",
-      "pelicula": "HO00010269",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-13",
       "pelicula": "HO00010363",
       "sala": "Sala 2",
       "horarios": [
@@ -2009,15 +2002,6 @@
     {
       "sede": "001",
       "fecha": "2026-11-13",
-      "pelicula": "HO00010136",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-13",
       "pelicula": "HO00010122",
       "sala": "Sala 6",
       "horarios": [
@@ -2088,15 +2072,6 @@
         "15:50",
         "17:50",
         "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-13",
-      "pelicula": "HO00010123",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:30"
       ]
     },
     {
@@ -5366,6 +5341,33 @@
       "horarios": [
         "14:40",
         "20:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-13",
+      "pelicula": "HO00010269",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-13",
+      "pelicula": "HO00010136",
+      "sala": "Sala 5",
+      "horarios": [
+        "13:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-13",
+      "pelicula": "HO00010123",
+      "sala": "Sala 8",
+      "horarios": [
+        "13:30"
       ]
     },
     {
