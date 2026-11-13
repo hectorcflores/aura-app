@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-13T15:20:15.808Z",
+  "generadoEn": "2026-11-13T17:16:22.075Z",
   "hoy": "2026-11-13",
   "sedes": [
     {
@@ -441,34 +441,6 @@
       "tmdbId": null,
       "votos": null
     },
-    "HO00009278": {
-      "titulo": "La desaparición de Josef Mengele",
-      "tituloOriginal": "Das Verschwinden des Josef Mengele",
-      "director": "Kirill Serebrennikov",
-      "pais": "Francia-Alemania-México-Uruguay",
-      "ano": 2024,
-      "duracion": 135,
-      "filmId": "HO00009278",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009278?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009278&cinemas=003",
-      "sinopsis": "Con base en la novela homónima de Olivier Guez, la película se centra en la vida de Josef Mengele después de la Segunda Guerra Mundial. Tras cometer grandes atrocidades en Auschwitz, este médico nazi intenta rehacer su vida clandestinamente en Sudamérica. A través de los ojos de su hijo, quien lo reencuentra, Mengele se enfrenta a un pasado que ya no puede ignorar. De Buenos Aires a Paraguay y Brasil, el hombre que llegó a ser conocido como “El Ángel de la muerte” organizará su metódica desaparición para evitar cualquier tipo de juicio. La desaparición de Josef Mengele, del director ruso Kirill Serebrennikov, logra capturar el aura estéril del médico alemán sin caer en el sensacionalismo.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "Bdb8ZNTE7UY",
-      "trailers": [
-        "Bdb8ZNTE7UY",
-        "FFVFBwoyrZg"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt22852560/",
-      "imdbId": "tt22852560",
-      "tmdbId": 1037264,
-      "votos": 2173
-    },
     "HO00010122": {
       "titulo": "La venganza del Charro Negro",
       "tituloOriginal": null,
@@ -727,31 +699,6 @@
       "imdbId": "tt44766123",
       "tmdbId": 1755291,
       "votos": 7233
-    },
-    "HO00007898": {
-      "titulo": "Río de Sapos",
-      "tituloOriginal": "Río de sapos",
-      "director": "Julio César Napoli",
-      "pais": "México-Qatar",
-      "ano": 2024,
-      "duracion": 76,
-      "filmId": "HO00007898",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00007898?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00007898&cinemas=003",
-      "sinopsis": "Ensayo documental que sigue a la curandera Francisca Hernández, quien pertenece a una larga familia de parteras, hueseras y exorcistas, que dedican su vida a la sanación de extensas comunidades en Veracruz, particularmente, en una celebración ritual dedicada a la Muerte que ocurre cada año..",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1294943,
-      "votos": 1
     },
     "HO00010096": {
       "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
@@ -1217,6 +1164,34 @@
       "tmdbId": 791523,
       "votos": 27328
     },
+    "HO00009278": {
+      "titulo": "La desaparición de Josef Mengele",
+      "tituloOriginal": "Das Verschwinden des Josef Mengele",
+      "director": "Kirill Serebrennikov",
+      "pais": "Francia-Alemania-México-Uruguay",
+      "ano": 2024,
+      "duracion": 135,
+      "filmId": "HO00009278",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009278?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009278&cinemas=003",
+      "sinopsis": "Con base en la novela homónima de Olivier Guez, la película se centra en la vida de Josef Mengele después de la Segunda Guerra Mundial. Tras cometer grandes atrocidades en Auschwitz, este médico nazi intenta rehacer su vida clandestinamente en Sudamérica. A través de los ojos de su hijo, quien lo reencuentra, Mengele se enfrenta a un pasado que ya no puede ignorar. De Buenos Aires a Paraguay y Brasil, el hombre que llegó a ser conocido como “El Ángel de la muerte” organizará su metódica desaparición para evitar cualquier tipo de juicio. La desaparición de Josef Mengele, del director ruso Kirill Serebrennikov, logra capturar el aura estéril del médico alemán sin caer en el sensacionalismo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "Bdb8ZNTE7UY",
+      "trailers": [
+        "Bdb8ZNTE7UY",
+        "FFVFBwoyrZg"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt22852560/",
+      "imdbId": "tt22852560",
+      "tmdbId": 1037264,
+      "votos": 2173
+    },
     "HO00010255": {
       "titulo": "Lumière ¡La aventura continúa!",
       "tituloOriginal": "Lumière",
@@ -1245,6 +1220,31 @@
       "imdbId": "tt10323412",
       "tmdbId": 639590,
       "votos": 402
+    },
+    "HO00007898": {
+      "titulo": "Río de Sapos",
+      "tituloOriginal": "Río de sapos",
+      "director": "Julio César Napoli",
+      "pais": "México-Qatar",
+      "ano": 2024,
+      "duracion": 76,
+      "filmId": "HO00007898",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00007898?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00007898&cinemas=003",
+      "sinopsis": "Ensayo documental que sigue a la curandera Francisca Hernández, quien pertenece a una larga familia de parteras, hueseras y exorcistas, que dedican su vida a la sanación de extensas comunidades en Veracruz, particularmente, en una celebración ritual dedicada a la Muerte que ocurre cada año..",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1294943,
+      "votos": 1
     },
     "HO00010380": {
       "titulo": "ULTRAcinema XV: El Último Vals",
@@ -1881,15 +1881,6 @@
     {
       "sede": "003",
       "fecha": "2026-11-13",
-      "pelicula": "HO00009278",
-      "sala": "Sala 4",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-13",
       "pelicula": "HO00010122",
       "sala": "Sala 3",
       "horarios": [
@@ -1951,15 +1942,6 @@
       "horarios": [
         "15:00",
         "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-13",
-      "pelicula": "HO00007898",
-      "sala": "Sala 4",
-      "horarios": [
-        "17:00"
       ]
     },
     {
@@ -5384,6 +5366,24 @@
       "horarios": [
         "14:40",
         "20:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-13",
+      "pelicula": "HO00009278",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-13",
+      "pelicula": "HO00007898",
+      "sala": "Sala 4",
+      "horarios": [
+        "17:00"
       ]
     }
   ]
