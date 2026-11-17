@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-17T16:51:23.297Z",
+  "generadoEn": "2026-11-17T18:38:24.172Z",
   "hoy": "2026-11-17",
   "sedes": [
     {
@@ -106,7 +106,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37660515/",
       "imdbId": "tt37660515",
       "tmdbId": 1310573,
-      "votos": 328
+      "votos": 327
     },
     "HO00009552": {
       "titulo": "Ceniza en la boca",
@@ -133,7 +133,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35717186/",
       "imdbId": "tt35717186",
       "tmdbId": 1623608,
-      "votos": 177
+      "votos": 176
     },
     "HO00010346": {
       "titulo": "Cinco rostros de mujer",
@@ -327,7 +327,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 48175
+      "votos": 48135
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -494,7 +494,7 @@
       "urlImdb": "https://www.imdb.com/title/tt27541205/",
       "imdbId": "tt27541205",
       "tmdbId": 1021848,
-      "votos": 1231
+      "votos": 1221
     },
     "HO00010122": {
       "titulo": "La venganza del Charro Negro",
@@ -522,7 +522,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37959568/",
       "imdbId": "tt37959568",
       "tmdbId": 1406492,
-      "votos": 239
+      "votos": 237
     },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
@@ -639,7 +639,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204326
+      "votos": 204315
     },
     "HO00010269": {
       "titulo": "Mi vecino Totoro DOB",
@@ -688,7 +688,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0096283/",
       "imdbId": "tt0096283",
       "tmdbId": 8392,
-      "votos": 443521
+      "votos": 443471
     },
     "HO00010241": {
       "titulo": "Naza",
@@ -733,7 +733,7 @@
       "urlImdb": "https://www.imdb.com/title/tt44766123/",
       "imdbId": "tt44766123",
       "tmdbId": 1755291,
-      "votos": 7588
+      "votos": 7561
     },
     "HO00007898": {
       "titulo": "Río de Sapos",
@@ -858,7 +858,7 @@
       "urlImdb": "https://www.imdb.com/title/tt2056785/",
       "imdbId": "tt2056785",
       "tmdbId": 791523,
-      "votos": 30404
+      "votos": 30143
     },
     "HO00010256": {
       "titulo": "Yo no moriré de amor",
@@ -905,13 +905,13 @@
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.7,
+      "publico": 6.9,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt35826854/",
       "imdbId": "tt35826854",
       "tmdbId": 1487046,
-      "votos": 47
+      "votos": 46
     },
     "HO00010136": {
       "titulo": "El poder de la red",
@@ -995,7 +995,7 @@
       "urlImdb": "https://www.imdb.com/title/tt37510326/",
       "imdbId": "tt37510326",
       "tmdbId": 1281331,
-      "votos": 10764
+      "votos": 10757
     },
     "HO00010268": {
       "titulo": "Los Doors",
@@ -1042,7 +1042,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0101761/",
       "imdbId": "tt0101761",
       "tmdbId": 10537,
-      "votos": 108615
+      "votos": 108609
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -1076,7 +1076,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204326
+      "votos": 204315
     },
     "HO00010363": {
       "titulo": "Mi vecino Totoro SUB",
@@ -1125,7 +1125,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0096283/",
       "imdbId": "tt0096283",
       "tmdbId": 8392,
-      "votos": 443521
+      "votos": 443471
     },
     "HO00010123": {
       "titulo": "Wildwood: El Bosque Salvaje DOB",
@@ -1198,7 +1198,7 @@
       "urlImdb": "https://www.imdb.com/title/tt2056785/",
       "imdbId": "tt2056785",
       "tmdbId": 791523,
-      "votos": 30404
+      "votos": 30143
     },
     "HO00010354": {
       "titulo": "Caballo salvaje nueve",
@@ -1274,7 +1274,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15799564/",
       "imdbId": "tt15799564",
       "tmdbId": 891621,
-      "votos": 19661
+      "votos": 19214
     },
     "HO00010094": {
       "titulo": "El árbol mágico",
@@ -1318,7 +1318,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 7144
+      "votos": 7134
     },
     "HO00010095": {
       "titulo": "Itsanaxa, la cosecha sagrada",
@@ -1417,7 +1417,7 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 4003
+      "votos": 3990
     },
     "HO00009562": {
       "titulo": "Gracias por operar con nuestro banco",
@@ -1561,7 +1561,7 @@
       "urlImdb": "https://www.imdb.com/title/tt20255504/",
       "imdbId": "tt20255504",
       "tmdbId": 1230140,
-      "votos": 87
+      "votos": 86
     },
     "HO00010164": {
       "titulo": "Charlas Afrobeat",
@@ -1652,7 +1652,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32204858/",
       "imdbId": "tt32204858",
       "tmdbId": 1356670,
-      "votos": 12183
+      "votos": 12177
     },
     "HO00010168": {
       "titulo": "Charlas Los pioneros del reggae",
@@ -1705,7 +1705,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39382808/",
       "imdbId": "tt39382808",
       "tmdbId": 1426957,
-      "votos": 210
+      "votos": 209
     },
     "HO00010262": {
       "titulo": "El sentido de la vida",
