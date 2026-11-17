@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-17T18:38:24.172Z",
+  "generadoEn": "2026-11-17T22:28:36.870Z",
   "hoy": "2026-11-17",
   "sedes": [
     {
@@ -80,34 +80,6 @@
       "tmdbId": 336862,
       "votos": 31
     },
-    "HO00010091": {
-      "titulo": "Barrio triste",
-      "tituloOriginal": "Barrio Triste",
-      "director": "Stillz",
-      "pais": "Colombia-Estados Unidos",
-      "ano": 2025,
-      "duracion": 84,
-      "filmId": "HO00010091",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010091?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010091&cinemas=003",
-      "sinopsis": "En las afueras de Medellín a finales de los 80, mientras un reportero realiza una nota para la televisión sobre unas luces que descienden del cielo, un grupo de adolescentes le roba la cámara. En manos de sus nuevos dueños, la cámara recorre el barrio registrando sus vidas y los extraños fenómenos que acechan en el lugar. Con una estética visceral y frenética, Barrio triste es el debut en el largometraje de Stillz, cineasta reconocido por su carrera en videos musicales para Bad Bunny, J Balvin, Rosalía, entre otros.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "pAbGrYP8Ooo",
-      "trailers": [
-        "pAbGrYP8Ooo",
-        "awTtZpezrRQ"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 5.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt37660515/",
-      "imdbId": "tt37660515",
-      "tmdbId": 1310573,
-      "votos": 327
-    },
     "HO00009552": {
       "titulo": "Ceniza en la boca",
       "tituloOriginal": "Ceniza en la Boca",
@@ -133,7 +105,7 @@
       "urlImdb": "https://www.imdb.com/title/tt35717186/",
       "imdbId": "tt35717186",
       "tmdbId": 1623608,
-      "votos": 176
+      "votos": 177
     },
     "HO00010346": {
       "titulo": "Cinco rostros de mujer",
@@ -327,7 +299,7 @@
       "urlImdb": "https://www.imdb.com/title/tt31450459/",
       "imdbId": "tt31450459",
       "tmdbId": 1248832,
-      "votos": 48135
+      "votos": 48175
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -413,31 +385,6 @@
       "tmdbId": 1329673,
       "votos": 574
     },
-    "HO00009792": {
-      "titulo": "Hojas secas",
-      "tituloOriginal": "Khmeli potoli",
-      "director": "Alexandre Koberidze",
-      "pais": "Georgia-Alemania",
-      "ano": 2025,
-      "duracion": 186,
-      "filmId": "HO00009792",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009792?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009792&cinemas=003",
-      "sinopsis": "Lisa, una joven fotógrafa, desaparece sin dejar rastro. La última información de ella es que estuvo fotografiando estadios de futbol en siete aldeas de Georgia. Su padre decide ir a buscarla por estos lugares, acompañado por Levani, el mejor amigo invisible de Lisa. Conforme avanzan por los pueblos las historias de los habitantes cambian y la esperanza de encontrarla disminuye, conformando una reflexión sobre el tiempo, la memoria y el paisaje. Hojas secas, road movie experimental del cineasta Alexandre Koberidze, destaca por oponerse al formato digital tradicional, al usar intencionalmente cámaras de baja resolución para cuestionar la obsesión contemporánea por la alta definición en el cine.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "EZZM01I80k4",
-      "trailers": [],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": null,
-      "votos": null
-    },
     "HO00000334": {
       "titulo": "La ilusión viaja en tranvía",
       "tituloOriginal": null,
@@ -494,35 +441,7 @@
       "urlImdb": "https://www.imdb.com/title/tt27541205/",
       "imdbId": "tt27541205",
       "tmdbId": 1021848,
-      "votos": 1221
-    },
-    "HO00010122": {
-      "titulo": "La venganza del Charro Negro",
-      "tituloOriginal": null,
-      "director": "Marvick Núñez",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 79,
-      "filmId": "HO00010122",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010122?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010122&cinemas=003",
-      "sinopsis": "El temido Charro Negro regresa para vengarse de Leo San Juan, obligándolo a adentrarse en el inframundo para rescatar a su hermano Nando. Este malévolo plan toma fuerza cuando todas las criaturas que Leo y sus amigos derrotaron en sus anteriores aventuras, como la Llorona y el Chupacabras, vuelven para tomar revancha. Ante dicha amenaza, el carismático grupo de amigos deberá reencontrarse, ayudar a los hermanos, enfrentar a sus enemigos del pasado y, por fin, derrotar al maligno Charro Negro.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "c-FuV_zqL_M",
-      "trailers": [
-        "c-FuV_zqL_M",
-        "AOMZA1P3aBI"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt37959568/",
-      "imdbId": "tt37959568",
-      "tmdbId": 1406492,
-      "votos": 237
+      "votos": 1231
     },
     "HO00009790": {
       "titulo": "Las ruinas nuevas",
@@ -639,56 +558,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204315
-    },
-    "HO00010269": {
-      "titulo": "Mi vecino Totoro DOB",
-      "tituloOriginal": "となりのトトロ",
-      "director": "Hayao Miyazaki",
-      "pais": "Japón",
-      "ano": 1988,
-      "duracion": 86,
-      "filmId": "HO00010269",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010269?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010269&cinemas=003",
-      "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "DNrRRj91Wf0",
-      "trailers": [
-        "DNrRRj91Wf0",
-        "BjeBG8Xrci8",
-        "_nv94fL_IA8",
-        "2XUolyeNBHY",
-        "xCtRJOWZCmM",
-        "I0103wkhQ-c",
-        "srW-wajSxog"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "\"Childhood\" in a movie. This is just perfection - a perfect way to while away time and reconnect with your youth.",
-          "autor": "sykobanana",
-          "url": "https://www.themoviedb.org/review/5ec0827ed2147c0022b1f551"
-        },
-        {
-          "texto": "(SPOILER ALERT) I was delighted to see this subtle/multi-layered tale unfold, which seemed to play well to both a childhood audience, keen on likable characters/compelling imagination, and…",
-          "autor": "20thCentury",
-          "url": "https://www.themoviedb.org/review/5f153a6e78570e00325c4b1b"
-        },
-        {
-          "texto": "Aggressively cute. <em'My Neighbor Totoro'</em holds an extremely hearty story, one told via impeccably beautiful animation.",
-          "autor": "r96sk",
-          "url": "https://www.themoviedb.org/review/65b5058358efd3017cca6daa"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0096283/",
-      "imdbId": "tt0096283",
-      "tmdbId": 8392,
-      "votos": 443471
+      "votos": 204326
     },
     "HO00010241": {
       "titulo": "Naza",
@@ -733,7 +603,7 @@
       "urlImdb": "https://www.imdb.com/title/tt44766123/",
       "imdbId": "tt44766123",
       "tmdbId": 1755291,
-      "votos": 7561
+      "votos": 7588
     },
     "HO00007898": {
       "titulo": "Río de Sapos",
@@ -787,79 +657,6 @@
       "tmdbId": 1802918,
       "votos": 0
     },
-    "HO00010348": {
-      "titulo": "Wildwood: El Bosque Salvaje SUB",
-      "tituloOriginal": "Wildwood: El bosque salvaje SUB",
-      "director": "Travis Knight",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 132,
-      "filmId": "HO00010348",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010348?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010348&cinemas=003",
-      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "PMvMsuiFVKQ",
-      "trailers": [
-        "PMvMsuiFVKQ",
-        "1KfKStJutDM",
-        "qWX1ba0f-Qg",
-        "B2Cx_5_YLxQ",
-        "w6pdNIgBT0s",
-        "LF1NMUUIkNM",
-        "zZ2P4vI0-n8",
-        "XmAs9q3Md50",
-        "SNt22U9ia1M",
-        "LVTIjSelhCI",
-        "aGBz-swP9IE",
-        "I3RRLDKN0gE",
-        "AFI_iIMyrVw",
-        "TdrXTegGf0M",
-        "zPSFJQd8YMk",
-        "lvD7GO0cYN8",
-        "Co8QLut1Of0",
-        "KnINr5uVPbE",
-        "AGR8MRZck3s",
-        "IY5rrLu598I",
-        "BfeBrJWx0f8",
-        "chOQgDF_LkI",
-        "bJQGtSeLPII",
-        "GJ-iWFVVLWQ",
-        "wr1XCDrHqYM",
-        "hN3lP4Fx1qg",
-        "dtr5JL1zkiM",
-        "evd9oEf-nrI",
-        "pf9VXMWAmLQ",
-        "POneS8h1jyU",
-        "Prv_FLWLlq8"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.6,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
-        },
-        {
-          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
-          "autor": "nkuk",
-          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
-        },
-        {
-          "texto": "A Defiant Handcrafted Miracle in an Age of Plastic Cinema There is a moment early in Wildwood when the Pacific Northwest sun filters through a canopy of moss draped Douglas firs, catching…",
-          "autor": "aleo4",
-          "url": "https://www.themoviedb.org/review/6aea4caeca9aed1f7dc35326"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt2056785/",
-      "imdbId": "tt2056785",
-      "tmdbId": 791523,
-      "votos": 30143
-    },
     "HO00010256": {
       "titulo": "Yo no moriré de amor",
       "tituloOriginal": null,
@@ -905,13 +702,13 @@
       "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 6.9,
+      "publico": 6.7,
       "publicoFuente": "IMDb",
       "resenas": [],
       "urlImdb": "https://www.imdb.com/title/tt35826854/",
       "imdbId": "tt35826854",
       "tmdbId": 1487046,
-      "votos": 46
+      "votos": 47
     },
     "HO00010136": {
       "titulo": "El poder de la red",
@@ -995,7 +792,35 @@
       "urlImdb": "https://www.imdb.com/title/tt37510326/",
       "imdbId": "tt37510326",
       "tmdbId": 1281331,
-      "votos": 10757
+      "votos": 10764
+    },
+    "HO00010122": {
+      "titulo": "La venganza del Charro Negro",
+      "tituloOriginal": null,
+      "director": "Marvick Núñez",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 79,
+      "filmId": "HO00010122",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010122?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010122&cinemas=001",
+      "sinopsis": "El temido Charro Negro regresa para vengarse de Leo San Juan, obligándolo a adentrarse en el inframundo para rescatar a su hermano Nando. Este malévolo plan toma fuerza cuando todas las criaturas que Leo y sus amigos derrotaron en sus anteriores aventuras, como la Llorona y el Chupacabras, vuelven para tomar revancha. Ante dicha amenaza, el carismático grupo de amigos deberá reencontrarse, ayudar a los hermanos, enfrentar a sus enemigos del pasado y, por fin, derrotar al maligno Charro Negro.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "c-FuV_zqL_M",
+      "trailers": [
+        "c-FuV_zqL_M",
+        "AOMZA1P3aBI"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.1,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt37959568/",
+      "imdbId": "tt37959568",
+      "tmdbId": 1406492,
+      "votos": 239
     },
     "HO00010268": {
       "titulo": "Los Doors",
@@ -1042,7 +867,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0101761/",
       "imdbId": "tt0101761",
       "tmdbId": 10537,
-      "votos": 108609
+      "votos": 108615
     },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
@@ -1076,7 +901,7 @@
       "urlImdb": "https://www.imdb.com/title/tt0978762/",
       "imdbId": "tt0978762",
       "tmdbId": 24238,
-      "votos": 204315
+      "votos": 204326
     },
     "HO00010363": {
       "titulo": "Mi vecino Totoro SUB",
@@ -1125,18 +950,18 @@
       "urlImdb": "https://www.imdb.com/title/tt0096283/",
       "imdbId": "tt0096283",
       "tmdbId": 8392,
-      "votos": 443471
+      "votos": 443521
     },
-    "HO00010123": {
-      "titulo": "Wildwood: El Bosque Salvaje DOB",
-      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
+    "HO00010348": {
+      "titulo": "Wildwood: El Bosque Salvaje SUB",
+      "tituloOriginal": "Wildwood: El bosque salvaje SUB",
       "director": "Travis Knight",
       "pais": "Estados Unidos",
       "ano": 2026,
       "duracion": 132,
-      "filmId": "HO00010123",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=001",
+      "filmId": "HO00010348",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010348?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010348&cinemas=001",
       "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "PMvMsuiFVKQ",
@@ -1198,7 +1023,7 @@
       "urlImdb": "https://www.imdb.com/title/tt2056785/",
       "imdbId": "tt2056785",
       "tmdbId": 791523,
-      "votos": 30143
+      "votos": 30404
     },
     "HO00010354": {
       "titulo": "Caballo salvaje nueve",
@@ -1274,7 +1099,7 @@
       "urlImdb": "https://www.imdb.com/title/tt15799564/",
       "imdbId": "tt15799564",
       "tmdbId": 891621,
-      "votos": 19214
+      "votos": 19661
     },
     "HO00010094": {
       "titulo": "El árbol mágico",
@@ -1318,7 +1143,7 @@
       "urlImdb": "https://www.imdb.com/title/tt7734244/",
       "imdbId": "tt7734244",
       "tmdbId": 1140521,
-      "votos": 7134
+      "votos": 7144
     },
     "HO00010095": {
       "titulo": "Itsanaxa, la cosecha sagrada",
@@ -1370,6 +1195,55 @@
       "tmdbId": null,
       "votos": null
     },
+    "HO00010269": {
+      "titulo": "Mi vecino Totoro DOB",
+      "tituloOriginal": "となりのトトロ",
+      "director": "Hayao Miyazaki",
+      "pais": "Japón",
+      "ano": 1988,
+      "duracion": 86,
+      "filmId": "HO00010269",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010269?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010269&cinemas=002",
+      "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "DNrRRj91Wf0",
+      "trailers": [
+        "DNrRRj91Wf0",
+        "BjeBG8Xrci8",
+        "_nv94fL_IA8",
+        "2XUolyeNBHY",
+        "xCtRJOWZCmM",
+        "I0103wkhQ-c",
+        "srW-wajSxog"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "\"Childhood\" in a movie. This is just perfection - a perfect way to while away time and reconnect with your youth.",
+          "autor": "sykobanana",
+          "url": "https://www.themoviedb.org/review/5ec0827ed2147c0022b1f551"
+        },
+        {
+          "texto": "(SPOILER ALERT) I was delighted to see this subtle/multi-layered tale unfold, which seemed to play well to both a childhood audience, keen on likable characters/compelling imagination, and…",
+          "autor": "20thCentury",
+          "url": "https://www.themoviedb.org/review/5f153a6e78570e00325c4b1b"
+        },
+        {
+          "texto": "Aggressively cute. <em'My Neighbor Totoro'</em holds an extremely hearty story, one told via impeccably beautiful animation.",
+          "autor": "r96sk",
+          "url": "https://www.themoviedb.org/review/65b5058358efd3017cca6daa"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0096283/",
+      "imdbId": "tt0096283",
+      "tmdbId": 8392,
+      "votos": 443521
+    },
     "HO00010096": {
       "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
       "tituloOriginal": "Shaun the Sheep: The Beast of Mossy Bottom",
@@ -1417,7 +1291,108 @@
       "urlImdb": "https://www.imdb.com/title/tt36841161/",
       "imdbId": "tt36841161",
       "tmdbId": 1477104,
-      "votos": 3990
+      "votos": 4003
+    },
+    "HO00010123": {
+      "titulo": "Wildwood: El Bosque Salvaje DOB",
+      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
+      "director": "Travis Knight",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 132,
+      "filmId": "HO00010123",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=002",
+      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "PMvMsuiFVKQ",
+      "trailers": [
+        "PMvMsuiFVKQ",
+        "1KfKStJutDM",
+        "qWX1ba0f-Qg",
+        "B2Cx_5_YLxQ",
+        "w6pdNIgBT0s",
+        "LF1NMUUIkNM",
+        "zZ2P4vI0-n8",
+        "XmAs9q3Md50",
+        "SNt22U9ia1M",
+        "LVTIjSelhCI",
+        "aGBz-swP9IE",
+        "I3RRLDKN0gE",
+        "AFI_iIMyrVw",
+        "TdrXTegGf0M",
+        "zPSFJQd8YMk",
+        "lvD7GO0cYN8",
+        "Co8QLut1Of0",
+        "KnINr5uVPbE",
+        "AGR8MRZck3s",
+        "IY5rrLu598I",
+        "BfeBrJWx0f8",
+        "chOQgDF_LkI",
+        "bJQGtSeLPII",
+        "GJ-iWFVVLWQ",
+        "wr1XCDrHqYM",
+        "hN3lP4Fx1qg",
+        "dtr5JL1zkiM",
+        "evd9oEf-nrI",
+        "pf9VXMWAmLQ",
+        "POneS8h1jyU",
+        "Prv_FLWLlq8"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.6,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
+        },
+        {
+          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
+          "autor": "nkuk",
+          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
+        },
+        {
+          "texto": "A Defiant Handcrafted Miracle in an Age of Plastic Cinema There is a moment early in Wildwood when the Pacific Northwest sun filters through a canopy of moss draped Douglas firs, catching…",
+          "autor": "aleo4",
+          "url": "https://www.themoviedb.org/review/6aea4caeca9aed1f7dc35326"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt2056785/",
+      "imdbId": "tt2056785",
+      "tmdbId": 791523,
+      "votos": 30404
+    },
+    "HO00010091": {
+      "titulo": "Barrio triste",
+      "tituloOriginal": "Barrio Triste",
+      "director": "Stillz",
+      "pais": "Colombia-Estados Unidos",
+      "ano": 2025,
+      "duracion": 84,
+      "filmId": "HO00010091",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010091?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010091&cinemas=003",
+      "sinopsis": "En las afueras de Medellín a finales de los 80, mientras un reportero realiza una nota para la televisión sobre unas luces que descienden del cielo, un grupo de adolescentes le roba la cámara. En manos de sus nuevos dueños, la cámara recorre el barrio registrando sus vidas y los extraños fenómenos que acechan en el lugar. Con una estética visceral y frenética, Barrio triste es el debut en el largometraje de Stillz, cineasta reconocido por su carrera en videos musicales para Bad Bunny, J Balvin, Rosalía, entre otros.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "pAbGrYP8Ooo",
+      "trailers": [
+        "pAbGrYP8Ooo",
+        "awTtZpezrRQ"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 5.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt37660515/",
+      "imdbId": "tt37660515",
+      "tmdbId": 1310573,
+      "votos": 328
     },
     "HO00009562": {
       "titulo": "Gracias por operar con nuestro banco",
@@ -1447,6 +1422,31 @@
       "imdbId": "tt28254159",
       "tmdbId": 1225590,
       "votos": 375
+    },
+    "HO00009792": {
+      "titulo": "Hojas secas",
+      "tituloOriginal": "Khmeli potoli",
+      "director": "Alexandre Koberidze",
+      "pais": "Georgia-Alemania",
+      "ano": 2025,
+      "duracion": 186,
+      "filmId": "HO00009792",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009792?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009792&cinemas=003",
+      "sinopsis": "Lisa, una joven fotógrafa, desaparece sin dejar rastro. La última información de ella es que estuvo fotografiando estadios de futbol en siete aldeas de Georgia. Su padre decide ir a buscarla por estos lugares, acompañado por Levani, el mejor amigo invisible de Lisa. Conforme avanzan por los pueblos las historias de los habitantes cambian y la esperanza de encontrarla disminuye, conformando una reflexión sobre el tiempo, la memoria y el paisaje. Hojas secas, road movie experimental del cineasta Alexandre Koberidze, destaca por oponerse al formato digital tradicional, al usar intencionalmente cámaras de baja resolución para cuestionar la obsesión contemporánea por la alta definición en el cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "EZZM01I80k4",
+      "trailers": [],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": null,
+      "votos": null
     },
     "HO00009278": {
       "titulo": "La desaparición de Josef Mengele",
@@ -1561,7 +1561,7 @@
       "urlImdb": "https://www.imdb.com/title/tt20255504/",
       "imdbId": "tt20255504",
       "tmdbId": 1230140,
-      "votos": 86
+      "votos": 87
     },
     "HO00010164": {
       "titulo": "Charlas Afrobeat",
@@ -1652,7 +1652,7 @@
       "urlImdb": "https://www.imdb.com/title/tt32204858/",
       "imdbId": "tt32204858",
       "tmdbId": 1356670,
-      "votos": 12177
+      "votos": 12183
     },
     "HO00010168": {
       "titulo": "Charlas Los pioneros del reggae",
@@ -1705,7 +1705,7 @@
       "urlImdb": "https://www.imdb.com/title/tt39382808/",
       "imdbId": "tt39382808",
       "tmdbId": 1426957,
-      "votos": 209
+      "votos": 210
     },
     "HO00010262": {
       "titulo": "El sentido de la vida",
@@ -1753,15 +1753,6 @@
       "sala": "Sala 4",
       "horarios": [
         "18:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-17",
-      "pelicula": "HO00010091",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:15"
       ]
     },
     {
@@ -1840,15 +1831,6 @@
     {
       "sede": "003",
       "fecha": "2026-11-17",
-      "pelicula": "HO00009792",
-      "sala": "Sala 6",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-17",
       "pelicula": "HO00000334",
       "sala": "Sala 3",
       "horarios": [
@@ -1864,15 +1846,6 @@
       "horarios": [
         "16:30",
         "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-17",
-      "pelicula": "HO00010122",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:00"
       ]
     },
     {
@@ -1916,15 +1889,6 @@
     {
       "sede": "003",
       "fecha": "2026-11-17",
-      "pelicula": "HO00010269",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-17",
       "pelicula": "HO00010241",
       "sala": "Sala 7",
       "horarios": [
@@ -1949,15 +1913,6 @@
       "sala": "Sala 7",
       "horarios": [
         "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-17",
-      "pelicula": "HO00010348",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:45"
       ]
     },
     {
@@ -2039,16 +1994,6 @@
     {
       "sede": "001",
       "fecha": "2026-11-17",
-      "pelicula": "HO00010269",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:20",
-        "15:10"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-17",
       "pelicula": "HO00010363",
       "sala": "Sala 7",
       "horarios": [
@@ -2065,15 +2010,6 @@
         "15:50",
         "17:50",
         "19:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-17",
-      "pelicula": "HO00010123",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:30"
       ]
     },
     {
@@ -2178,15 +2114,6 @@
         "14:00",
         "16:40",
         "19:20"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-17",
-      "pelicula": "HO00009939",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:30"
       ]
     },
     {
@@ -3550,6 +3477,79 @@
       "horarios": [
         "16:30",
         "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-17",
+      "pelicula": "HO00010091",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-17",
+      "pelicula": "HO00009792",
+      "sala": "Sala 6",
+      "horarios": [
+        "15:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-17",
+      "pelicula": "HO00010122",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-17",
+      "pelicula": "HO00010269",
+      "sala": "Sala 10",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-17",
+      "pelicula": "HO00010348",
+      "sala": "Sala 9",
+      "horarios": [
+        "14:45"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-17",
+      "pelicula": "HO00010269",
+      "sala": "Sala 7",
+      "horarios": [
+        "13:20",
+        "15:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-17",
+      "pelicula": "HO00010123",
+      "sala": "Sala 8",
+      "horarios": [
+        "13:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-17",
+      "pelicula": "HO00009939",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:30"
       ]
     }
   ]
