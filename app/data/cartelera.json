@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-23T21:30:37.516Z",
+  "generadoEn": "2026-11-24T01:44:01.135Z",
   "hoy": "2026-11-23",
   "sedes": [
     {
@@ -28,88 +28,6 @@
     "2026-11-29"
   ],
   "peliculas": {
-    "HO00010267": {
-      "titulo": "¡Lumière! La aventura comienza",
-      "tituloOriginal": "¡Lumière! La aventura comienza!",
-      "director": "Thierry Frémaux",
-      "pais": "Francia",
-      "ano": 2016,
-      "duracion": 90,
-      "filmId": "HO00010267",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010267?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010267&cinemas=003",
-      "sinopsis": "En 1895, en Lyon, Francia, los hermanos Auguste y Louis Lumière inventaron el cinematógrafo y rodaron algunas de las primeras películas de la historia del cine. Ya sea mediante la puesta en escena, los travellings, los registros documentales, los primeros efectos especiales o los remakes, también inventaron el arte de hacer cine. Esta selección de 108 películas restauradas de entre 1895 y 1905 ofrece un viaje fascinante a los orígenes del “séptimo arte”, a través de la curaduría y guía del historiador cinematográfico Thierry Frémaux, director del Instituto Lumière del Festival de Cannes, y una de las voces más prestigiosas de los estudios sobre cine antiguo.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "PFCGJhB94Go",
-      "trailers": [
-        "PFCGJhB94Go"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.1,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt5954462/",
-      "imdbId": "tt5954462",
-      "tmdbId": 411003,
-      "votos": 1888
-    },
-    "HO00010091": {
-      "titulo": "Barrio triste",
-      "tituloOriginal": "Barrio Triste",
-      "director": "Stillz",
-      "pais": "Colombia-Estados Unidos",
-      "ano": 2025,
-      "duracion": 84,
-      "filmId": "HO00010091",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010091?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010091&cinemas=003",
-      "sinopsis": "En las afueras de Medellín a finales de los 80, mientras un reportero realiza una nota para la televisión sobre unas luces que descienden del cielo, un grupo de adolescentes le roba la cámara. En manos de sus nuevos dueños, la cámara recorre el barrio registrando sus vidas y los extraños fenómenos que acechan en el lugar. Con una estética visceral y frenética, Barrio triste es el debut en el largometraje de Stillz, cineasta reconocido por su carrera en videos musicales para Bad Bunny, J Balvin, Rosalía, entre otros.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "pAbGrYP8Ooo",
-      "trailers": [
-        "pAbGrYP8Ooo",
-        "awTtZpezrRQ"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 5.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt37660515/",
-      "imdbId": "tt37660515",
-      "tmdbId": 1310573,
-      "votos": 335
-    },
-    "HO00009552": {
-      "titulo": "Ceniza en la boca",
-      "tituloOriginal": null,
-      "director": "Diego Luna",
-      "pais": "México-Españ",
-      "ano": 2026,
-      "duracion": 97,
-      "filmId": "HO00009552",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009552?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009552&cinemas=003",
-      "sinopsis": "Lucila y su hermano menor, Diego, abandonan México para reencontrarse en España con su madre, quien lleva ocho años trabajando indocumentada para sostenerlos. Al llegar, la hostil realidad del desarraigo y la precariedad laboral resultan mucho más asfixiantes de lo que proyectaban en sus sueños. El director Diego Luna orquesta un íntimo melodrama de corte social basado en la novela homónima, que indaga con crudeza en la carga de la protagonista, las grietas de la migración y la ruptura familiar.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "YPil4DMIE-0",
-      "trailers": [
-        "YPil4DMIE-0"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.2,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35717186/",
-      "imdbId": "tt35717186",
-      "tmdbId": 1623608,
-      "votos": 187
-    },
     "HO00009528": {
       "titulo": "Con Hassan en Gaza",
       "tituloOriginal": "With Hasan in Gaza",
@@ -138,147 +56,6 @@
       "imdbId": "tt37538502",
       "tmdbId": 1510306,
       "votos": 162
-    },
-    "HO00009477": {
-      "titulo": "Convivir",
-      "tituloOriginal": "Cohabiter",
-      "director": "Halima Elkhatabi",
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00009477",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009477?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009477&cinemas=003",
-      "sinopsis": "Convivir sigue a un grupo de habitantes en Montreal durante el proceso de selección de un compañero de apartamento (roomie). Mediante distintas entrevistas, este documental explora cómo una elección aparentemente simple podría transformar por completo la cotidianidad, convirtiendo las interacciones en un ejercicio de negociación, compatibilidad y autoconocimiento. Con humor y sensibilidad, la directora Halima Elkhatabi muestra las expectativas de estos encuentros y las distintas formas de imaginar un hogar bajo la presión de un mercado inmobiliario complejo. Éste es un vistazo cercano a la convivencia colectiva que explora la vulnerabilidad, los límites personales y el deseo de conectar con otros.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "ICwpFcHgi4Q",
-      "trailers": [
-        "ICwpFcHgi4Q"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.4,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt33084769/",
-      "imdbId": "tt33084769",
-      "tmdbId": 1326893,
-      "votos": 28
-    },
-    "HO00010075": {
-      "titulo": "Digger",
-      "tituloOriginal": null,
-      "director": "Alejandro G. Iñárritu",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 128,
-      "filmId": "HO00010075",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010075?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010075&cinemas=003",
-      "sinopsis": "La última película de Alejandro G. Iñárritu es una comedia de proporciones catastróficas, en la que Tom Cruise se transforma en el hombre más poderoso del mundo, Digger Rockwell, un magnate petrolero que, tras ignorar a sus trabajadores, provoca una catástrofe global. En su deseo por seguir controlándolo todo, Rockwell se propone demostrar que sólo él puede salvar la existencia. Iñárritu entrega una brillante sátira sobre el egocentrismo de las figuras dominantes y su completo desinterés por la humanidad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "9K9asB1KKtE",
-      "trailers": [
-        "9K9asB1KKtE",
-        "UYvoJ-hCGxc",
-        "OPOJSAB35iw",
-        "4AZzmroKjjM",
-        "uOuWt5B0Ksg",
-        "xU2jWSsaWY0",
-        "4jNrucYsh4A",
-        "4t4X-_26gWo",
-        "eQhf-2jMvWI",
-        "AWOFECt_CHY",
-        "wXXTfAnAH_E",
-        "RGu_Lh7pPZ8",
-        "5C18exxMrZc",
-        "8_ufLqErU_Q",
-        "4boN65zzvd8",
-        "g63xPiXBm6Y",
-        "ceUpSvWpU0A",
-        "fikKMZZiLD0",
-        "8w_FKSN-y6A",
-        "ALHX6r2djxk",
-        "uv97lf4WeAA",
-        "yDddzCN-NRU",
-        "3KjN109cmPU",
-        "AbxxqcmU2T4",
-        "GCqubCGTIw0",
-        "mYO_TD2y_mk",
-        "K12_TwuWlbQ",
-        "G3vDMkOQOzY",
-        "zwGDoQN3DDM",
-        "TDeSQxyT3Ac",
-        "g1cPu1knA9s",
-        "9JLRmLaNFAY",
-        "5xSQiKJkNc8",
-        "2-xRK9fizsM",
-        "FsfqdbXLxms",
-        "V79-yCt7Log",
-        "JTrqTokhAOI",
-        "2E32d-ASX98",
-        "pflghwixC6Q",
-        "TTYfh2pPdSY",
-        "tHRcgzSSsI8",
-        "iCHW7kfCRkE",
-        "Adij_4ky8fA",
-        "MU1nk1zxfd8",
-        "CgJzTVnNxn4",
-        "QDITBCGFjOM",
-        "k56T-k8Fy8c",
-        "qBUbNw19Hds",
-        "pRXTilb33UQ",
-        "c59V46rIUc0",
-        "6nikIyTWUsM",
-        "srleaPsE_W0",
-        "j95w7sku75k",
-        "oD1CNcekH1s",
-        "-jFOIa8TTLQ",
-        "RisSwkRFqT0",
-        "h05uz_cCua4",
-        "ywfQjj1kuS8",
-        "Q1btA3XpG8U",
-        "job8V254NAE",
-        "aXFbS7OhsHA",
-        "3vEPru8B25g",
-        "40QiEMZL3zg",
-        "ZXYUg9UAbCM",
-        "NW2kkWnF_mA",
-        "t6lEtLIVSZA",
-        "I1XXgud5ovA",
-        "1B09aaEq1Tk",
-        "vTgNCD3WMTs",
-        "qORTe1wW3Wg",
-        "Pd4Olzi0HEc",
-        "Rd21PhsDHww"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.5,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "I got early access to this movie and this movie was absolute banger i don't care what people say this is one of the best Tom cruise movies ever Absolute Cinema🙌🏻",
-          "autor": "ayanhp1234632",
-          "url": "https://www.themoviedb.org/review/6abcd409b236c6f417d18f84"
-        },
-        {
-          "texto": "Some movies seem destined for mixed reactions. That may be somewhat apparent before their release, but it invariably surfaces once in distribution.",
-          "autor": "Brent Marchant",
-          "url": "https://www.themoviedb.org/review/6abf996349e4886648081a14"
-        },
-        {
-          "texto": "Check out my full review @ https://www.manuelsbento.com/digger-2026-tom-cruise-and-alejandro-g-inarritu-make-noise-worth-arguing-about/ Rating: B DIGGER hammers its numerous capitalistic…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6abff30bee56fd7493b09a3b"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt31450459/",
-      "imdbId": "tt31450459",
-      "tmdbId": 1248832,
-      "votos": 48674
     },
     "HO00010078": {
       "titulo": "El evangelio de la revolución",
@@ -335,92 +112,6 @@
       "imdbId": "tt39382808",
       "tmdbId": 1426957,
       "votos": 227
-    },
-    "HO00010262": {
-      "titulo": "El sentido de la vida",
-      "tituloOriginal": "Soudain",
-      "director": "Ryūsuke Hamaguchi",
-      "pais": "Francia-Japón-Alemania-Bélgica",
-      "ano": 2026,
-      "duracion": 196,
-      "filmId": "HO00010262",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010262?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010262&cinemas=003",
-      "sinopsis": "Ryūsuke Hamaguchi. Ryūsuke Hamaguchi y Léa Le Dimna, con base en el libro epistolar de Maho Isono y Makiko Miyano. Alan Guichaoua. Color Samuel Andreyev. Azusa Yamazaki. Virginie Efira, Tao Okamoto, Kyōzō Nagatsuka, Kodai Kurosaki, Jean-Charles.. David Gauquié, Julien Deris, Kōsuke Oshida, Yūji Sadai Cinefrance Studios, Office Shirous, Bitters End.. El inicio cine. C.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "xNDHROxZm4M",
-      "trailers": [
-        "xNDHROxZm4M",
-        "2AxtdPvDojA",
-        "ryMtR8BvkA0"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt36834996/",
-      "imdbId": "tt36834996",
-      "tmdbId": 1476614,
-      "votos": 2227
-    },
-    "HO00009609": {
-      "titulo": "El sol sale para todos",
-      "tituloOriginal": "Ri gua zhong tian",
-      "director": "Cai Shangjun",
-      "pais": "China",
-      "ano": 2025,
-      "duracion": 131,
-      "filmId": "HO00009609",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009609?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009609&cinemas=003",
-      "sinopsis": "Reconocido como uno de los cineastas chinos más relevantes de la escena actual, Cai Shangjun regresó, con este filme, a Venecia, donde se llevó la Copa Volpi a la Mejor Actriz para Xin Zhilei. La historia sigue a Meiyun, una mujer que, tras varios años, se reencuentra con Baoshu, un amor del pasado que asumió la culpa de un crimen que no cometió para salvarla de ir a la cárcel. Ante dicho encuentro Meiyun emprenderá un viaje de redención en donde la culpa los llevará a ambos al límite emocional.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "A9Q6zgBLnsk",
-      "trailers": [
-        "A9Q6zgBLnsk",
-        "5hJbqPF8IGI"
-      ],
-      "trailerFuente": "TMDB",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.5,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt32907482/",
-      "imdbId": "tt32907482",
-      "tmdbId": 1329673,
-      "votos": 578
-    },
-    "HO00009562": {
-      "titulo": "Gracias por operar con nuestro banco",
-      "tituloOriginal": "Thank You for Banking with Us",
-      "director": "Laila Abbas",
-      "pais": "Palestina-Alemania",
-      "ano": 2024,
-      "duracion": 92,
-      "filmId": "HO00009562",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009562?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009562&cinemas=003",
-      "sinopsis": "Tras la muerte de su padre, Noura y Mariam, dos hermanas con vidas muy distintas, se reencuentran. Sus diferencias desaparecen cuando la ley islámica les impide reclamar la herencia de su padre. Envueltas en un enredo lleno de las distintas violencias que oprimen a las mujeres palestinas, las protagonistas elaborarán un plan para recibir lo que les corresponde. Mediante una comedia negra, Laila Abbas crea una cinta de relevancia histórica al registrar imágenes de Cisjordania antes de la violencia genocida.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "viOqlPOHoBM",
-      "trailers": [
-        "viOqlPOHoBM",
-        "CkPyXZ9oppU",
-        "JXqMOFsoLGc"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.2,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt28254159/",
-      "imdbId": "tt28254159",
-      "tmdbId": 1225590,
-      "votos": 379
     },
     "HO00009792": {
       "titulo": "Hojas secas",
@@ -499,88 +190,6 @@
       "tmdbId": null,
       "votos": null
     },
-    "HO00010260": {
-      "titulo": "Las corrientes",
-      "tituloOriginal": "The Currents",
-      "director": "Milagros Mumenthaler",
-      "pais": "Suiza - Argentina",
-      "ano": 2025,
-      "duracion": 104,
-      "filmId": "HO00010260",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010260?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010260&cinemas=003",
-      "sinopsis": "En la cima de su carrera, Lina, una estilista argentina de 34 años, se ve impulsada por una repentina necesidad tras una ceremonia de premios en Suiza. De regreso en Buenos Aires, guarda silencio, pero algo en su interior ha cambiado: de forma silenciosa e invisible, desvela sutilmente un pasado que creía haber dejado atrás.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "aWfdDfF76Ao",
-      "trailers": [
-        "aWfdDfF76Ao"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [
-        {
-          "texto": "I made this movie and it was pretty fun and I think I did a pretty good job.",
-          "autor": "baileyspore",
-          "url": "https://www.themoviedb.org/review/68fa9aac34b8485fe58534e3"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt38608370/",
-      "imdbId": "tt38608370",
-      "tmdbId": 1567691,
-      "votos": 0
-    },
-    "HO00010363": {
-      "titulo": "Mi vecino Totoro SUB",
-      "tituloOriginal": "となりのトトロ",
-      "director": "Hayao Miyazaki",
-      "pais": "Japón",
-      "ano": 1988,
-      "duracion": 86,
-      "filmId": "HO00010363",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010363?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010363&cinemas=003",
-      "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "DNrRRj91Wf0",
-      "trailers": [
-        "DNrRRj91Wf0",
-        "BjeBG8Xrci8",
-        "_nv94fL_IA8",
-        "2XUolyeNBHY",
-        "xCtRJOWZCmM",
-        "I0103wkhQ-c",
-        "srW-wajSxog"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "\"Childhood\" in a movie. This is just perfection - a perfect way to while away time and reconnect with your youth.",
-          "autor": "sykobanana",
-          "url": "https://www.themoviedb.org/review/5ec0827ed2147c0022b1f551"
-        },
-        {
-          "texto": "(SPOILER ALERT) I was delighted to see this subtle/multi-layered tale unfold, which seemed to play well to both a childhood audience, keen on likable characters/compelling imagination, and…",
-          "autor": "20thCentury",
-          "url": "https://www.themoviedb.org/review/5f153a6e78570e00325c4b1b"
-        },
-        {
-          "texto": "Aggressively cute. <em'My Neighbor Totoro'</em holds an extremely hearty story, one told via impeccably beautiful animation.",
-          "autor": "r96sk",
-          "url": "https://www.themoviedb.org/review/65b5058358efd3017cca6daa"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0096283/",
-      "imdbId": "tt0096283",
-      "tmdbId": 8392,
-      "votos": 443868
-    },
     "HO00010151": {
       "titulo": "Minotaruro",
       "tituloOriginal": "Minotaur",
@@ -651,107 +260,6 @@
       "tmdbId": 1755291,
       "votos": 7904
     },
-    "HO00009789": {
-      "titulo": "Punto de fuga",
-      "tituloOriginal": "Noghteh-e-Goriz",
-      "director": "Bani Khoshnoudi",
-      "pais": null,
-      "ano": 2025,
-      "duracion": 104,
-      "filmId": "HO00009789",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009789?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009789&cinemas=003",
-      "sinopsis": "La cinta sigue a la directora Bani Khoshnoudi, desterrada de Irán tras la prohibición de su película sobre el Movimiento Verde en 2009. En este documental, sumamente personal y político, la cineasta rompe el silencio familiar sobre la desaparición y ejecución de su prima, hecho que ocurrió durante las purgas de prisiones políticas en 1988. Khoshnoudi entrelaza, mediante fragmentos de su vida en Teherán, recuerdos privados con relatos públicos de resistencia y desapariciones forzadas. Punto de fuga desborda los límites de una narración convencional; combina imágenes de archivo y de su acervo familiar y diarios de filmación, explorando las huellas del exilio, la memoria y la violencia del régimen iraní.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "-ppDSwWLGfs",
-      "trailers": [
-        "-ppDSwWLGfs"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1824100,
-      "votos": 0
-    },
-    "HO00007898": {
-      "titulo": "Río de Sapos",
-      "tituloOriginal": "Río de sapos",
-      "director": "Julio César Napoli",
-      "pais": "México-Qatar",
-      "ano": 2024,
-      "duracion": 76,
-      "filmId": "HO00007898",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00007898?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00007898&cinemas=003",
-      "sinopsis": "Ensayo documental que sigue a la curandera Francisca Hernández, quien pertenece a una larga familia de parteras, hueseras y exorcistas, que dedican su vida a la sanación de extensas comunidades en Veracruz, particularmente, en una celebración ritual dedicada a la Muerte que ocurre cada año..",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": null,
-      "publicoFuente": null,
-      "resenas": [],
-      "urlImdb": null,
-      "imdbId": null,
-      "tmdbId": 1294943,
-      "votos": 1
-    },
-    "HO00010096": {
-      "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
-      "tituloOriginal": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "director": "Steve Cox",
-      "pais": "Matthew Walker., Reino Unido",
-      "ano": 2026,
-      "duracion": 80,
-      "filmId": "HO00010096",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010096?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010096&cinemas=003",
-      "sinopsis": "En Halloween, la granja Mossy Bottom sufre un inconveniente cuando el torpe Granjero destruye el huerto de calabazas del rebaño. Shaun se convierte en un científico e intenta arreglar el desastre, pero todo se sale de control: Granjero desparece y una bestia comienza a deambular por los bosques. Shaun y el rebaño harán todo lo posible para resolver el misterio. Destacando por su técnica artesanal de stop-motion, este filme juega con los tropos clásicos del horror, adaptándolos a la comedia clásica de Aardman.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "wTqW25KbwR4",
-      "trailers": [
-        "wTqW25KbwR4",
-        "bT92-lLovfs",
-        "VHQPopTW7fE",
-        "qEXKvFg3ScE",
-        "tOJC0eaRHhU",
-        "QjhNZT_1EvY",
-        "g2RLgdx0myQ",
-        "daZMq0AyOMc",
-        "T3K2uKvi_0s",
-        "b2RwIefN0Y0",
-        "UZ46Smi6mOw",
-        "Cok148lEKPM"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "When the sozzled farmer turns the pumpkin patch into something resembling the Somme, and with Halloween barely days away, \"Shaun\" comes up with a cunning wheeze.",
-          "autor": "CinemaSerf",
-          "url": "https://www.themoviedb.org/review/6aa7b9e8c71f77438c15aa41"
-        },
-        {
-          "texto": "filmreviewhaiku Painstaking, each frame Built by hand, still so funny Fun from start to end",
-          "autor": "ianrathbone",
-          "url": "https://www.themoviedb.org/review/6ad79828e9172d96ca7a5682"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt36841161/",
-      "imdbId": "tt36841161",
-      "tmdbId": 1477104,
-      "votos": 4191
-    },
     "HO00010058": {
       "titulo": "Tierra de mi padre",
       "tituloOriginal": "Fatherland",
@@ -778,36 +286,6 @@
       "imdbId": null,
       "tmdbId": 1802918,
       "votos": 0
-    },
-    "HO00010259": {
-      "titulo": "Tres amigas",
-      "tituloOriginal": "Trois amies",
-      "director": "Emmanuel Mouret",
-      "pais": "Francia",
-      "ano": 2024,
-      "duracion": 118,
-      "filmId": "HO00010259",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010259?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010259&cinemas=003",
-      "sinopsis": "Emmanuel Mouret profundiza en las complejidades de las relaciones y los lazos de pareja a través de tres amigas atrapadas en distintas crisis sentimentales. Por un lado, Joan lidia con una profunda culpa tras admitir que ya no está enamorada de su esposo, Víctor. En paralelo, su mejor amiga Alice comparte esa misma insati sfacción conyugal con Éric, ignorando por completo que éste le es infiel con Rebecca, la tercera integrante del grupo. Aunque Rebecca asegura no buscar formalidades, en el fondo teme que su postura la aleje del amor verdadero, dividida entre la traición a su mejor amiga y su terquedad para terminar con Éric. Esta comedia dramática entrelaza las vidas de estas mujeres, alejándose del juicio moral para crear una crítica madura sobre los dolorosos claroscuros del matrimonio.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "zyt85fqT3eg",
-      "trailers": [
-        "zyt85fqT3eg",
-        "YAPtRxnvU9A",
-        "WZPV4z-n1jo",
-        "CM8rQlA5Ews"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.6,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt30325268/",
-      "imdbId": "tt30325268",
-      "tmdbId": 1137245,
-      "votos": 1779
     },
     "HO00010258": {
       "titulo": "Último turno",
@@ -845,87 +323,6 @@
       "tmdbId": 1356670,
       "votos": 12244
     },
-    "HO00010348": {
-      "titulo": "Wildwood: El Bosque Salvaje SUB",
-      "tituloOriginal": "Wildwood: El bosque salvaje SUB",
-      "director": "Travis Knight",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 132,
-      "filmId": "HO00010348",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010348?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010348&cinemas=003",
-      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "PMvMsuiFVKQ",
-      "trailers": [
-        "PMvMsuiFVKQ",
-        "1KfKStJutDM",
-        "qWX1ba0f-Qg",
-        "WUt70UreN0o",
-        "1IY1y2NH0B4",
-        "B2Cx_5_YLxQ",
-        "w6pdNIgBT0s",
-        "LF1NMUUIkNM",
-        "zZ2P4vI0-n8",
-        "XmAs9q3Md50",
-        "SNt22U9ia1M",
-        "LVTIjSelhCI",
-        "aGBz-swP9IE",
-        "I3RRLDKN0gE",
-        "AFI_iIMyrVw",
-        "TdrXTegGf0M",
-        "zPSFJQd8YMk",
-        "lvD7GO0cYN8",
-        "Co8QLut1Of0",
-        "KnINr5uVPbE",
-        "AGR8MRZck3s",
-        "IY5rrLu598I",
-        "BfeBrJWx0f8",
-        "chOQgDF_LkI",
-        "bJQGtSeLPII",
-        "GJ-iWFVVLWQ",
-        "wr1XCDrHqYM",
-        "hN3lP4Fx1qg",
-        "dtr5JL1zkiM",
-        "evd9oEf-nrI",
-        "ZNBavF4vsN8",
-        "fRIlIfLgRNQ",
-        "jIbNy4qgtdg",
-        "WF3AZrw5yNI",
-        "RSCFJpP1oZI",
-        "pf9VXMWAmLQ",
-        "O5dGmNBu-wk",
-        "POneS8h1jyU",
-        "Prv_FLWLlq8"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.6,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
-        },
-        {
-          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
-          "autor": "nkuk",
-          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
-        },
-        {
-          "texto": "A Defiant Handcrafted Miracle in an Age of Plastic Cinema There is a moment early in Wildwood when the Pacific Northwest sun filters through a canopy of moss draped Douglas firs, catching…",
-          "autor": "aleo4",
-          "url": "https://www.themoviedb.org/review/6aea4caeca9aed1f7dc35326"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt2056785/",
-      "imdbId": "tt2056785",
-      "tmdbId": 791523,
-      "votos": 33208
-    },
     "HO00009184": {
       "titulo": "Boca vieja",
       "tituloOriginal": "Boca Vieja",
@@ -953,135 +350,6 @@
       "tmdbId": 1357891,
       "votos": 0
     },
-    "HO00010124": {
-      "titulo": "Ciudad de muertos",
-      "tituloOriginal": null,
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
-      "filmId": "HO00010124",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010124?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010124&cinemas=001",
-      "sinopsis": "Inspirada en la obra de Enrique Metinides, Ciudad de Muertos sigue a un fotógrafo de nota roja en la Ciudad de México de los años 50, cuya obsesión por documentar la tragedia comienza a desdibujar los límites entre la realidad y la imaginación. Tras un terremoto que deja la ciudad en ruinas, empieza a experimentar apariciones extrañas y encuentros con un hombre desfigurado que parece seguirlo. En medio del caos, irrumpe una niña curiosa y enigmática que lo acompaña en un recorrido donde la frontera entre los vivos y los muertos se vuelve cada vez más difusa.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 6.8,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt35826854/",
-      "imdbId": "tt35826854",
-      "tmdbId": 1487046,
-      "votos": 51
-    },
-    "HO00010122": {
-      "titulo": "La venganza del Charro Negro",
-      "tituloOriginal": null,
-      "director": "Marvick Núñez",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 79,
-      "filmId": "HO00010122",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010122?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010122&cinemas=001",
-      "sinopsis": "El temido Charro Negro regresa para vengarse de Leo San Juan, obligándolo a adentrarse en el inframundo para rescatar a su hermano Nando. Este malévolo plan toma fuerza cuando todas las criaturas que Leo y sus amigos derrotaron en sus anteriores aventuras, como la Llorona y el Chupacabras, vuelven para tomar revancha. Ante dicha amenaza, el carismático grupo de amigos deberá reencontrarse, ayudar a los hermanos, enfrentar a sus enemigos del pasado y, por fin, derrotar al maligno Charro Negro.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "c-FuV_zqL_M",
-      "trailers": [
-        "c-FuV_zqL_M",
-        "AOMZA1P3aBI"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt37959568/",
-      "imdbId": "tt37959568",
-      "tmdbId": 1406492,
-      "votos": 264
-    },
-    "HO00010268": {
-      "titulo": "Los Doors",
-      "tituloOriginal": "The Doors",
-      "director": "Oliver Stone",
-      "pais": "Estados Unidos-Francia",
-      "ano": 1991,
-      "duracion": 140,
-      "filmId": "HO00010268",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010268?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010268&cinemas=001",
-      "sinopsis": "Oliver Stone retrata el clima de caos, hedonismo y creatividad que marcó el final de los años 60 a través de la vida de Jim Morrison, el enigmático y magnético líder de The Doors. La película sigue su recorrido desde los inicios de la banda hasta su temprana muerte, y se adentra en su intensa relación con Pamela Courson, su compañera y musa. Entre el sur de California, la experimentación con alucinógenos y las exploraciones en el ocultismo, Morrison construye una figura tan fascinante como autodestructiva. El viaje culmina con su trágica muerte en París, a los 27 años, y con la consolidación de un mito que marcó para siempre la historia del rock.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "IiBwqo0Ue3g",
-      "trailers": [
-        "IiBwqo0Ue3g",
-        "MyhbdG10zBY",
-        "qJu9nfVCQmk",
-        "JkUx9kS6oBQ",
-        "IERQmR2qESU"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.2,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "I KNOW I'm giving way too many stars for this, but I don't care; The Doors were one of my very first favourite groups.",
-          "autor": "talisencrw",
-          "url": "https://www.themoviedb.org/review/57e4258d9251411df10045f1"
-        },
-        {
-          "texto": "A hypnotic film, but it emphasizes the negative side of Jim Morrison and is filled with fabrications.",
-          "autor": "Wuchak",
-          "url": "https://www.themoviedb.org/review/5aae93b0c3a36846c30259ad"
-        },
-        {
-          "texto": "Not enough credit is actually given to this great piece of filmmaking. Oliver Stone at his finest, some acting performances of the highest degree. Kilmer is supberb as Jim Morrison.",
-          "autor": "Bazzjazz",
-          "url": "https://www.themoviedb.org/review/5b49082c0e0a2645440019f2"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0101761/",
-      "imdbId": "tt0101761",
-      "tmdbId": 10537,
-      "votos": 108644
-    },
-    "HO00010255": {
-      "titulo": "Lumière ¡La aventura continúa!",
-      "tituloOriginal": "Lumière",
-      "director": "Thierry Frémaux",
-      "pais": "Francia",
-      "ano": 2024,
-      "duracion": 103,
-      "filmId": "HO00010255",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010255?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010255&cinemas=001",
-      "sinopsis": "Thierry Frémaux, director artístico del Festival de Cannes y director del Instituto Lumière de Lyon, ha pasado gran parte de su vida enfocado en la recuperación y restauración de las vistas de los hermanos Lumière. En 2017 presentó su largometraje ¡Lumière! Comienza la aventura, donde se conjuntaban más de 150 películas restauradas y guiadas por un hilo narrativo a partir del cual conocíamos un poco más a profundidad sobre las obras. Siete años después, regresa a su ardua tarea de recuperación de la obra de los Lumière con otro largometraje, más filosófico que el primero, donde cuestiona la imagen del autor, el peso de las primeras películas de estos célebres hermanos franceses y presenta una serie de divagaciones ensayísticas sobre la composición de la imagen, del movimiento y del cine.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "GanHIpea5L0",
-      "trailers": [
-        "GanHIpea5L0",
-        "RQVOZ1BcXnY",
-        "Aw37Q6zmUYk"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt10323412/",
-      "imdbId": "tt10323412",
-      "tmdbId": 639590,
-      "votos": 408
-    },
     "HO00010270": {
       "titulo": "Mi amigo el sol",
       "tituloOriginal": null,
@@ -1107,16 +375,16 @@
       "tmdbId": 1414544,
       "votos": 12
     },
-    "HO00010269": {
-      "titulo": "Mi vecino Totoro DOB",
+    "HO00010363": {
+      "titulo": "Mi vecino Totoro SUB",
       "tituloOriginal": "となりのトトロ",
       "director": "Hayao Miyazaki",
       "pais": "Japón",
       "ano": 1988,
       "duracion": 86,
-      "filmId": "HO00010269",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010269?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010269&cinemas=001",
+      "filmId": "HO00010363",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010363?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010363&cinemas=001",
       "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "DNrRRj91Wf0",
@@ -1262,32 +530,105 @@
       "tmdbId": 891621,
       "votos": 25684
     },
-    "HO00010184": {
-      "titulo": "Hasta un momento más tarde",
+    "HO00010124": {
+      "titulo": "Ciudad de muertos",
       "tituloOriginal": null,
-      "director": "Pablo Tamez Sierra",
-      "pais": "México",
-      "ano": 2025,
-      "duracion": 88,
-      "filmId": "HO00010184",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010184?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010184&cinemas=002",
-      "sinopsis": "Hasta un momento más tarde retrata la relación entre Romayne Wheeler, un pianista estadounidense que vive en la Sierra Tarahumara, y Romeyno Gutiérrez, su ahijado rarámuri, quien descubre el piano y cambia su futuro para siempre. Con una mirada cercana, este documental observa cómo la música y la búsqueda de pertenencia unen y, al mismo tiempo, tensionan la relación entre ambos pianistas. El director Pablo Tamez Sierra crea un retrato íntimo sobre los vínculos complejos, los sueños compartidos y la comunidad.",
+      "director": null,
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00010124",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010124?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010124&cinemas=002",
+      "sinopsis": "Inspirada en la obra de Enrique Metinides, Ciudad de Muertos sigue a un fotógrafo de nota roja en la Ciudad de México de los años 50, cuya obsesión por documentar la tragedia comienza a desdibujar los límites entre la realidad y la imaginación. Tras un terremoto que deja la ciudad en ruinas, empieza a experimentar apariciones extrañas y encuentros con un hombre desfigurado que parece seguirlo. En medio del caos, irrumpe una niña curiosa y enigmática que lo acompaña en un recorrido donde la frontera entre los vivos y los muertos se vuelve cada vez más difusa.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "kWXd5FS3O1c",
-      "trailers": [
-        "kWXd5FS3O1c"
-      ],
-      "trailerFuente": "TMDB",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 7.3,
+      "publico": 6.8,
       "publicoFuente": "IMDb",
       "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt37952580/",
-      "imdbId": "tt37952580",
-      "tmdbId": 1602021,
-      "votos": 16
+      "urlImdb": "https://www.imdb.com/title/tt35826854/",
+      "imdbId": "tt35826854",
+      "tmdbId": 1487046,
+      "votos": 51
+    },
+    "HO00010122": {
+      "titulo": "La venganza del Charro Negro",
+      "tituloOriginal": null,
+      "director": "Marvick Núñez",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 79,
+      "filmId": "HO00010122",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010122?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010122&cinemas=002",
+      "sinopsis": "El temido Charro Negro regresa para vengarse de Leo San Juan, obligándolo a adentrarse en el inframundo para rescatar a su hermano Nando. Este malévolo plan toma fuerza cuando todas las criaturas que Leo y sus amigos derrotaron en sus anteriores aventuras, como la Llorona y el Chupacabras, vuelven para tomar revancha. Ante dicha amenaza, el carismático grupo de amigos deberá reencontrarse, ayudar a los hermanos, enfrentar a sus enemigos del pasado y, por fin, derrotar al maligno Charro Negro.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "c-FuV_zqL_M",
+      "trailers": [
+        "c-FuV_zqL_M",
+        "AOMZA1P3aBI"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt37959568/",
+      "imdbId": "tt37959568",
+      "tmdbId": 1406492,
+      "votos": 264
+    },
+    "HO00010268": {
+      "titulo": "Los Doors",
+      "tituloOriginal": "The Doors",
+      "director": "Oliver Stone",
+      "pais": "Estados Unidos-Francia",
+      "ano": 1991,
+      "duracion": 140,
+      "filmId": "HO00010268",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010268?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010268&cinemas=002",
+      "sinopsis": "Oliver Stone retrata el clima de caos, hedonismo y creatividad que marcó el final de los años 60 a través de la vida de Jim Morrison, el enigmático y magnético líder de The Doors. La película sigue su recorrido desde los inicios de la banda hasta su temprana muerte, y se adentra en su intensa relación con Pamela Courson, su compañera y musa. Entre el sur de California, la experimentación con alucinógenos y las exploraciones en el ocultismo, Morrison construye una figura tan fascinante como autodestructiva. El viaje culmina con su trágica muerte en París, a los 27 años, y con la consolidación de un mito que marcó para siempre la historia del rock.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "IiBwqo0Ue3g",
+      "trailers": [
+        "IiBwqo0Ue3g",
+        "MyhbdG10zBY",
+        "qJu9nfVCQmk",
+        "JkUx9kS6oBQ",
+        "IERQmR2qESU"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.2,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "I KNOW I'm giving way too many stars for this, but I don't care; The Doors were one of my very first favourite groups.",
+          "autor": "talisencrw",
+          "url": "https://www.themoviedb.org/review/57e4258d9251411df10045f1"
+        },
+        {
+          "texto": "A hypnotic film, but it emphasizes the negative side of Jim Morrison and is filled with fabrications.",
+          "autor": "Wuchak",
+          "url": "https://www.themoviedb.org/review/5aae93b0c3a36846c30259ad"
+        },
+        {
+          "texto": "Not enough credit is actually given to this great piece of filmmaking. Oliver Stone at his finest, some acting performances of the highest degree. Kilmer is supberb as Jim Morrison.",
+          "autor": "Bazzjazz",
+          "url": "https://www.themoviedb.org/review/5b49082c0e0a2645440019f2"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0101761/",
+      "imdbId": "tt0101761",
+      "tmdbId": 10537,
+      "votos": 108644
     },
     "HO00010065": {
       "titulo": "Mary y Max SUB",
@@ -1322,6 +663,191 @@
       "imdbId": "tt0978762",
       "tmdbId": 24238,
       "votos": 204416
+    },
+    "HO00010096": {
+      "titulo": "Shaun el cordero: El monstruo de Mossy Bottom",
+      "tituloOriginal": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "director": "Steve Cox",
+      "pais": "Matthew Walker., Reino Unido",
+      "ano": 2026,
+      "duracion": 80,
+      "filmId": "HO00010096",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010096?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010096&cinemas=002",
+      "sinopsis": "En Halloween, la granja Mossy Bottom sufre un inconveniente cuando el torpe Granjero destruye el huerto de calabazas del rebaño. Shaun se convierte en un científico e intenta arreglar el desastre, pero todo se sale de control: Granjero desparece y una bestia comienza a deambular por los bosques. Shaun y el rebaño harán todo lo posible para resolver el misterio. Destacando por su técnica artesanal de stop-motion, este filme juega con los tropos clásicos del horror, adaptándolos a la comedia clásica de Aardman.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "wTqW25KbwR4",
+      "trailers": [
+        "wTqW25KbwR4",
+        "bT92-lLovfs",
+        "VHQPopTW7fE",
+        "qEXKvFg3ScE",
+        "tOJC0eaRHhU",
+        "QjhNZT_1EvY",
+        "g2RLgdx0myQ",
+        "daZMq0AyOMc",
+        "T3K2uKvi_0s",
+        "b2RwIefN0Y0",
+        "UZ46Smi6mOw",
+        "Cok148lEKPM"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "When the sozzled farmer turns the pumpkin patch into something resembling the Somme, and with Halloween barely days away, \"Shaun\" comes up with a cunning wheeze.",
+          "autor": "CinemaSerf",
+          "url": "https://www.themoviedb.org/review/6aa7b9e8c71f77438c15aa41"
+        },
+        {
+          "texto": "filmreviewhaiku Painstaking, each frame Built by hand, still so funny Fun from start to end",
+          "autor": "ianrathbone",
+          "url": "https://www.themoviedb.org/review/6ad79828e9172d96ca7a5682"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt36841161/",
+      "imdbId": "tt36841161",
+      "tmdbId": 1477104,
+      "votos": 4191
+    },
+    "HO00010348": {
+      "titulo": "Wildwood: El Bosque Salvaje SUB",
+      "tituloOriginal": "Wildwood: El bosque salvaje SUB",
+      "director": "Travis Knight",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 132,
+      "filmId": "HO00010348",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010348?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010348&cinemas=002",
+      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "PMvMsuiFVKQ",
+      "trailers": [
+        "PMvMsuiFVKQ",
+        "1KfKStJutDM",
+        "qWX1ba0f-Qg",
+        "WUt70UreN0o",
+        "1IY1y2NH0B4",
+        "B2Cx_5_YLxQ",
+        "w6pdNIgBT0s",
+        "LF1NMUUIkNM",
+        "zZ2P4vI0-n8",
+        "XmAs9q3Md50",
+        "SNt22U9ia1M",
+        "LVTIjSelhCI",
+        "aGBz-swP9IE",
+        "I3RRLDKN0gE",
+        "AFI_iIMyrVw",
+        "TdrXTegGf0M",
+        "zPSFJQd8YMk",
+        "lvD7GO0cYN8",
+        "Co8QLut1Of0",
+        "KnINr5uVPbE",
+        "AGR8MRZck3s",
+        "IY5rrLu598I",
+        "BfeBrJWx0f8",
+        "chOQgDF_LkI",
+        "bJQGtSeLPII",
+        "GJ-iWFVVLWQ",
+        "wr1XCDrHqYM",
+        "hN3lP4Fx1qg",
+        "dtr5JL1zkiM",
+        "evd9oEf-nrI",
+        "ZNBavF4vsN8",
+        "fRIlIfLgRNQ",
+        "jIbNy4qgtdg",
+        "WF3AZrw5yNI",
+        "RSCFJpP1oZI",
+        "pf9VXMWAmLQ",
+        "O5dGmNBu-wk",
+        "POneS8h1jyU",
+        "Prv_FLWLlq8"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.6,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
+        },
+        {
+          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
+          "autor": "nkuk",
+          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
+        },
+        {
+          "texto": "A Defiant Handcrafted Miracle in an Age of Plastic Cinema There is a moment early in Wildwood when the Pacific Northwest sun filters through a canopy of moss draped Douglas firs, catching…",
+          "autor": "aleo4",
+          "url": "https://www.themoviedb.org/review/6aea4caeca9aed1f7dc35326"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt2056785/",
+      "imdbId": "tt2056785",
+      "tmdbId": 791523,
+      "votos": 33208
+    },
+    "HO00010267": {
+      "titulo": "¡Lumière! La aventura comienza",
+      "tituloOriginal": "¡Lumière! La aventura comienza!",
+      "director": "Thierry Frémaux",
+      "pais": "Francia",
+      "ano": 2016,
+      "duracion": 90,
+      "filmId": "HO00010267",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010267?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010267&cinemas=003",
+      "sinopsis": "En 1895, en Lyon, Francia, los hermanos Auguste y Louis Lumière inventaron el cinematógrafo y rodaron algunas de las primeras películas de la historia del cine. Ya sea mediante la puesta en escena, los travellings, los registros documentales, los primeros efectos especiales o los remakes, también inventaron el arte de hacer cine. Esta selección de 108 películas restauradas de entre 1895 y 1905 ofrece un viaje fascinante a los orígenes del “séptimo arte”, a través de la curaduría y guía del historiador cinematográfico Thierry Frémaux, director del Instituto Lumière del Festival de Cannes, y una de las voces más prestigiosas de los estudios sobre cine antiguo.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "PFCGJhB94Go",
+      "trailers": [
+        "PFCGJhB94Go"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.1,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt5954462/",
+      "imdbId": "tt5954462",
+      "tmdbId": 411003,
+      "votos": 1888
+    },
+    "HO00010091": {
+      "titulo": "Barrio triste",
+      "tituloOriginal": "Barrio Triste",
+      "director": "Stillz",
+      "pais": "Colombia-Estados Unidos",
+      "ano": 2025,
+      "duracion": 84,
+      "filmId": "HO00010091",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010091?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010091&cinemas=003",
+      "sinopsis": "En las afueras de Medellín a finales de los 80, mientras un reportero realiza una nota para la televisión sobre unas luces que descienden del cielo, un grupo de adolescentes le roba la cámara. En manos de sus nuevos dueños, la cámara recorre el barrio registrando sus vidas y los extraños fenómenos que acechan en el lugar. Con una estética visceral y frenética, Barrio triste es el debut en el largometraje de Stillz, cineasta reconocido por su carrera en videos musicales para Bad Bunny, J Balvin, Rosalía, entre otros.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "pAbGrYP8Ooo",
+      "trailers": [
+        "pAbGrYP8Ooo",
+        "awTtZpezrRQ"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 5.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt37660515/",
+      "imdbId": "tt37660515",
+      "tmdbId": 1310573,
+      "votos": 335
     },
     "HO00010282": {
       "titulo": "Charla ataque en el distrito",
@@ -1362,6 +888,147 @@
       "tmdbId": 17814,
       "votos": 62352
     },
+    "HO00009477": {
+      "titulo": "Convivir",
+      "tituloOriginal": "Cohabiter",
+      "director": "Halima Elkhatabi",
+      "pais": null,
+      "ano": null,
+      "duracion": null,
+      "filmId": "HO00009477",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009477?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009477&cinemas=003",
+      "sinopsis": "Convivir sigue a un grupo de habitantes en Montreal durante el proceso de selección de un compañero de apartamento (roomie). Mediante distintas entrevistas, este documental explora cómo una elección aparentemente simple podría transformar por completo la cotidianidad, convirtiendo las interacciones en un ejercicio de negociación, compatibilidad y autoconocimiento. Con humor y sensibilidad, la directora Halima Elkhatabi muestra las expectativas de estos encuentros y las distintas formas de imaginar un hogar bajo la presión de un mercado inmobiliario complejo. Éste es un vistazo cercano a la convivencia colectiva que explora la vulnerabilidad, los límites personales y el deseo de conectar con otros.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "ICwpFcHgi4Q",
+      "trailers": [
+        "ICwpFcHgi4Q"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.4,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt33084769/",
+      "imdbId": "tt33084769",
+      "tmdbId": 1326893,
+      "votos": 28
+    },
+    "HO00010075": {
+      "titulo": "Digger",
+      "tituloOriginal": null,
+      "director": "Alejandro G. Iñárritu",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 128,
+      "filmId": "HO00010075",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010075?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010075&cinemas=003",
+      "sinopsis": "La última película de Alejandro G. Iñárritu es una comedia de proporciones catastróficas, en la que Tom Cruise se transforma en el hombre más poderoso del mundo, Digger Rockwell, un magnate petrolero que, tras ignorar a sus trabajadores, provoca una catástrofe global. En su deseo por seguir controlándolo todo, Rockwell se propone demostrar que sólo él puede salvar la existencia. Iñárritu entrega una brillante sátira sobre el egocentrismo de las figuras dominantes y su completo desinterés por la humanidad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "9K9asB1KKtE",
+      "trailers": [
+        "9K9asB1KKtE",
+        "UYvoJ-hCGxc",
+        "OPOJSAB35iw",
+        "4AZzmroKjjM",
+        "uOuWt5B0Ksg",
+        "xU2jWSsaWY0",
+        "4jNrucYsh4A",
+        "4t4X-_26gWo",
+        "eQhf-2jMvWI",
+        "AWOFECt_CHY",
+        "wXXTfAnAH_E",
+        "RGu_Lh7pPZ8",
+        "5C18exxMrZc",
+        "8_ufLqErU_Q",
+        "4boN65zzvd8",
+        "g63xPiXBm6Y",
+        "ceUpSvWpU0A",
+        "fikKMZZiLD0",
+        "8w_FKSN-y6A",
+        "ALHX6r2djxk",
+        "uv97lf4WeAA",
+        "yDddzCN-NRU",
+        "3KjN109cmPU",
+        "AbxxqcmU2T4",
+        "GCqubCGTIw0",
+        "mYO_TD2y_mk",
+        "K12_TwuWlbQ",
+        "G3vDMkOQOzY",
+        "zwGDoQN3DDM",
+        "TDeSQxyT3Ac",
+        "g1cPu1knA9s",
+        "9JLRmLaNFAY",
+        "5xSQiKJkNc8",
+        "2-xRK9fizsM",
+        "FsfqdbXLxms",
+        "V79-yCt7Log",
+        "JTrqTokhAOI",
+        "2E32d-ASX98",
+        "pflghwixC6Q",
+        "TTYfh2pPdSY",
+        "tHRcgzSSsI8",
+        "iCHW7kfCRkE",
+        "Adij_4ky8fA",
+        "MU1nk1zxfd8",
+        "CgJzTVnNxn4",
+        "QDITBCGFjOM",
+        "k56T-k8Fy8c",
+        "qBUbNw19Hds",
+        "pRXTilb33UQ",
+        "c59V46rIUc0",
+        "6nikIyTWUsM",
+        "srleaPsE_W0",
+        "j95w7sku75k",
+        "oD1CNcekH1s",
+        "-jFOIa8TTLQ",
+        "RisSwkRFqT0",
+        "h05uz_cCua4",
+        "ywfQjj1kuS8",
+        "Q1btA3XpG8U",
+        "job8V254NAE",
+        "aXFbS7OhsHA",
+        "3vEPru8B25g",
+        "40QiEMZL3zg",
+        "ZXYUg9UAbCM",
+        "NW2kkWnF_mA",
+        "t6lEtLIVSZA",
+        "I1XXgud5ovA",
+        "1B09aaEq1Tk",
+        "vTgNCD3WMTs",
+        "qORTe1wW3Wg",
+        "Pd4Olzi0HEc",
+        "Rd21PhsDHww"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.5,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "I got early access to this movie and this movie was absolute banger i don't care what people say this is one of the best Tom cruise movies ever Absolute Cinema🙌🏻",
+          "autor": "ayanhp1234632",
+          "url": "https://www.themoviedb.org/review/6abcd409b236c6f417d18f84"
+        },
+        {
+          "texto": "Some movies seem destined for mixed reactions. That may be somewhat apparent before their release, but it invariably surfaces once in distribution.",
+          "autor": "Brent Marchant",
+          "url": "https://www.themoviedb.org/review/6abf996349e4886648081a14"
+        },
+        {
+          "texto": "Check out my full review @ https://www.manuelsbento.com/digger-2026-tom-cruise-and-alejandro-g-inarritu-make-noise-worth-arguing-about/ Rating: B DIGGER hammers its numerous capitalistic…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6abff30bee56fd7493b09a3b"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt31450459/",
+      "imdbId": "tt31450459",
+      "tmdbId": 1248832,
+      "votos": 48674
+    },
     "HO00010264": {
       "titulo": "El deshielo",
       "tituloOriginal": null,
@@ -1389,6 +1056,63 @@
       "imdbId": "tt39571626",
       "tmdbId": 1210268,
       "votos": 442
+    },
+    "HO00010262": {
+      "titulo": "El sentido de la vida",
+      "tituloOriginal": "Soudain",
+      "director": "Ryūsuke Hamaguchi",
+      "pais": "Francia-Japón-Alemania-Bélgica",
+      "ano": 2026,
+      "duracion": 196,
+      "filmId": "HO00010262",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010262?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010262&cinemas=003",
+      "sinopsis": "Ryūsuke Hamaguchi. Ryūsuke Hamaguchi y Léa Le Dimna, con base en el libro epistolar de Maho Isono y Makiko Miyano. Alan Guichaoua. Color Samuel Andreyev. Azusa Yamazaki. Virginie Efira, Tao Okamoto, Kyōzō Nagatsuka, Kodai Kurosaki, Jean-Charles.. David Gauquié, Julien Deris, Kōsuke Oshida, Yūji Sadai Cinefrance Studios, Office Shirous, Bitters End.. El inicio cine. C.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "xNDHROxZm4M",
+      "trailers": [
+        "xNDHROxZm4M",
+        "2AxtdPvDojA",
+        "ryMtR8BvkA0"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt36834996/",
+      "imdbId": "tt36834996",
+      "tmdbId": 1476614,
+      "votos": 2227
+    },
+    "HO00009609": {
+      "titulo": "El sol sale para todos",
+      "tituloOriginal": "Ri gua zhong tian",
+      "director": "Cai Shangjun",
+      "pais": "China",
+      "ano": 2025,
+      "duracion": 131,
+      "filmId": "HO00009609",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009609?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009609&cinemas=003",
+      "sinopsis": "Reconocido como uno de los cineastas chinos más relevantes de la escena actual, Cai Shangjun regresó, con este filme, a Venecia, donde se llevó la Copa Volpi a la Mejor Actriz para Xin Zhilei. La historia sigue a Meiyun, una mujer que, tras varios años, se reencuentra con Baoshu, un amor del pasado que asumió la culpa de un crimen que no cometió para salvarla de ir a la cárcel. Ante dicho encuentro Meiyun emprenderá un viaje de redención en donde la culpa los llevará a ambos al límite emocional.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "A9Q6zgBLnsk",
+      "trailers": [
+        "A9Q6zgBLnsk",
+        "5hJbqPF8IGI"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.5,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt32907482/",
+      "imdbId": "tt32907482",
+      "tmdbId": 1329673,
+      "votos": 578
     },
     "HO00010265": {
       "titulo": "La mujer de nadie",
@@ -1441,6 +1165,166 @@
       "imdbId": "tt32409947",
       "tmdbId": 1601885,
       "votos": 129
+    },
+    "HO00009789": {
+      "titulo": "Punto de fuga",
+      "tituloOriginal": "Noghteh-e-Goriz",
+      "director": "Bani Khoshnoudi",
+      "pais": null,
+      "ano": 2025,
+      "duracion": 104,
+      "filmId": "HO00009789",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009789?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009789&cinemas=003",
+      "sinopsis": "La cinta sigue a la directora Bani Khoshnoudi, desterrada de Irán tras la prohibición de su película sobre el Movimiento Verde en 2009. En este documental, sumamente personal y político, la cineasta rompe el silencio familiar sobre la desaparición y ejecución de su prima, hecho que ocurrió durante las purgas de prisiones políticas en 1988. Khoshnoudi entrelaza, mediante fragmentos de su vida en Teherán, recuerdos privados con relatos públicos de resistencia y desapariciones forzadas. Punto de fuga desborda los límites de una narración convencional; combina imágenes de archivo y de su acervo familiar y diarios de filmación, explorando las huellas del exilio, la memoria y la violencia del régimen iraní.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "-ppDSwWLGfs",
+      "trailers": [
+        "-ppDSwWLGfs"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1824100,
+      "votos": 0
+    },
+    "HO00007898": {
+      "titulo": "Río de Sapos",
+      "tituloOriginal": "Río de sapos",
+      "director": "Julio César Napoli",
+      "pais": "México-Qatar",
+      "ano": 2024,
+      "duracion": 76,
+      "filmId": "HO00007898",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00007898?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00007898&cinemas=003",
+      "sinopsis": "Ensayo documental que sigue a la curandera Francisca Hernández, quien pertenece a una larga familia de parteras, hueseras y exorcistas, que dedican su vida a la sanación de extensas comunidades en Veracruz, particularmente, en una celebración ritual dedicada a la Muerte que ocurre cada año..",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [],
+      "urlImdb": null,
+      "imdbId": null,
+      "tmdbId": 1294943,
+      "votos": 1
+    },
+    "HO00010259": {
+      "titulo": "Tres amigas",
+      "tituloOriginal": "Trois amies",
+      "director": "Emmanuel Mouret",
+      "pais": "Francia",
+      "ano": 2024,
+      "duracion": 118,
+      "filmId": "HO00010259",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010259?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010259&cinemas=003",
+      "sinopsis": "Emmanuel Mouret profundiza en las complejidades de las relaciones y los lazos de pareja a través de tres amigas atrapadas en distintas crisis sentimentales. Por un lado, Joan lidia con una profunda culpa tras admitir que ya no está enamorada de su esposo, Víctor. En paralelo, su mejor amiga Alice comparte esa misma insati sfacción conyugal con Éric, ignorando por completo que éste le es infiel con Rebecca, la tercera integrante del grupo. Aunque Rebecca asegura no buscar formalidades, en el fondo teme que su postura la aleje del amor verdadero, dividida entre la traición a su mejor amiga y su terquedad para terminar con Éric. Esta comedia dramática entrelaza las vidas de estas mujeres, alejándose del juicio moral para crear una crítica madura sobre los dolorosos claroscuros del matrimonio.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "zyt85fqT3eg",
+      "trailers": [
+        "zyt85fqT3eg",
+        "YAPtRxnvU9A",
+        "WZPV4z-n1jo",
+        "CM8rQlA5Ews"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.6,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt30325268/",
+      "imdbId": "tt30325268",
+      "tmdbId": 1137245,
+      "votos": 1779
+    },
+    "HO00010255": {
+      "titulo": "Lumière ¡La aventura continúa!",
+      "tituloOriginal": "Lumière",
+      "director": "Thierry Frémaux",
+      "pais": "Francia",
+      "ano": 2024,
+      "duracion": 103,
+      "filmId": "HO00010255",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010255?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010255&cinemas=001",
+      "sinopsis": "Thierry Frémaux, director artístico del Festival de Cannes y director del Instituto Lumière de Lyon, ha pasado gran parte de su vida enfocado en la recuperación y restauración de las vistas de los hermanos Lumière. En 2017 presentó su largometraje ¡Lumière! Comienza la aventura, donde se conjuntaban más de 150 películas restauradas y guiadas por un hilo narrativo a partir del cual conocíamos un poco más a profundidad sobre las obras. Siete años después, regresa a su ardua tarea de recuperación de la obra de los Lumière con otro largometraje, más filosófico que el primero, donde cuestiona la imagen del autor, el peso de las primeras películas de estos célebres hermanos franceses y presenta una serie de divagaciones ensayísticas sobre la composición de la imagen, del movimiento y del cine.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "GanHIpea5L0",
+      "trailers": [
+        "GanHIpea5L0",
+        "RQVOZ1BcXnY",
+        "Aw37Q6zmUYk"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt10323412/",
+      "imdbId": "tt10323412",
+      "tmdbId": 639590,
+      "votos": 408
+    },
+    "HO00010269": {
+      "titulo": "Mi vecino Totoro DOB",
+      "tituloOriginal": "となりのトトロ",
+      "director": "Hayao Miyazaki",
+      "pais": "Japón",
+      "ano": 1988,
+      "duracion": 86,
+      "filmId": "HO00010269",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010269?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010269&cinemas=001",
+      "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "DNrRRj91Wf0",
+      "trailers": [
+        "DNrRRj91Wf0",
+        "BjeBG8Xrci8",
+        "_nv94fL_IA8",
+        "2XUolyeNBHY",
+        "xCtRJOWZCmM",
+        "I0103wkhQ-c",
+        "srW-wajSxog"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "\"Childhood\" in a movie. This is just perfection - a perfect way to while away time and reconnect with your youth.",
+          "autor": "sykobanana",
+          "url": "https://www.themoviedb.org/review/5ec0827ed2147c0022b1f551"
+        },
+        {
+          "texto": "(SPOILER ALERT) I was delighted to see this subtle/multi-layered tale unfold, which seemed to play well to both a childhood audience, keen on likable characters/compelling imagination, and…",
+          "autor": "20thCentury",
+          "url": "https://www.themoviedb.org/review/5f153a6e78570e00325c4b1b"
+        },
+        {
+          "texto": "Aggressively cute. <em'My Neighbor Totoro'</em holds an extremely hearty story, one told via impeccably beautiful animation.",
+          "autor": "r96sk",
+          "url": "https://www.themoviedb.org/review/65b5058358efd3017cca6daa"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0096283/",
+      "imdbId": "tt0096283",
+      "tmdbId": 8392,
+      "votos": 443868
     },
     "HO00010123": {
       "titulo": "Wildwood: El Bosque Salvaje DOB",
@@ -1523,6 +1407,33 @@
       "tmdbId": 791523,
       "votos": 33208
     },
+    "HO00010184": {
+      "titulo": "Hasta un momento más tarde",
+      "tituloOriginal": null,
+      "director": "Pablo Tamez Sierra",
+      "pais": "México",
+      "ano": 2025,
+      "duracion": 88,
+      "filmId": "HO00010184",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010184?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010184&cinemas=002",
+      "sinopsis": "Hasta un momento más tarde retrata la relación entre Romayne Wheeler, un pianista estadounidense que vive en la Sierra Tarahumara, y Romeyno Gutiérrez, su ahijado rarámuri, quien descubre el piano y cambia su futuro para siempre. Con una mirada cercana, este documental observa cómo la música y la búsqueda de pertenencia unen y, al mismo tiempo, tensionan la relación entre ambos pianistas. El director Pablo Tamez Sierra crea un retrato íntimo sobre los vínculos complejos, los sueños compartidos y la comunidad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "kWXd5FS3O1c",
+      "trailers": [
+        "kWXd5FS3O1c"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.3,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt37952580/",
+      "imdbId": "tt37952580",
+      "tmdbId": 1602021,
+      "votos": 16
+    },
     "HO00009939": {
       "titulo": "Mary y Max DOB",
       "tituloOriginal": "Mary and Max",
@@ -1556,6 +1467,33 @@
       "imdbId": "tt0978762",
       "tmdbId": 24238,
       "votos": 204416
+    },
+    "HO00009552": {
+      "titulo": "Ceniza en la boca",
+      "tituloOriginal": null,
+      "director": "Diego Luna",
+      "pais": "México-Españ",
+      "ano": 2026,
+      "duracion": 97,
+      "filmId": "HO00009552",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009552?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009552&cinemas=003",
+      "sinopsis": "Lucila y su hermano menor, Diego, abandonan México para reencontrarse en España con su madre, quien lleva ocho años trabajando indocumentada para sostenerlos. Al llegar, la hostil realidad del desarraigo y la precariedad laboral resultan mucho más asfixiantes de lo que proyectaban en sus sueños. El director Diego Luna orquesta un íntimo melodrama de corte social basado en la novela homónima, que indaga con crudeza en la carga de la protagonista, las grietas de la migración y la ruptura familiar.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "YPil4DMIE-0",
+      "trailers": [
+        "YPil4DMIE-0"
+      ],
+      "trailerFuente": "TMDB",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 6.2,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt35717186/",
+      "imdbId": "tt35717186",
+      "tmdbId": 1623608,
+      "votos": 187
     },
     "HO00010392": {
       "titulo": "Perspectivas diversas",
@@ -1766,36 +1704,71 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00009562": {
+      "titulo": "Gracias por operar con nuestro banco",
+      "tituloOriginal": "Thank You for Banking with Us",
+      "director": "Laila Abbas",
+      "pais": "Palestina-Alemania",
+      "ano": 2024,
+      "duracion": 92,
+      "filmId": "HO00009562",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009562?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009562&cinemas=003",
+      "sinopsis": "Tras la muerte de su padre, Noura y Mariam, dos hermanas con vidas muy distintas, se reencuentran. Sus diferencias desaparecen cuando la ley islámica les impide reclamar la herencia de su padre. Envueltas en un enredo lleno de las distintas violencias que oprimen a las mujeres palestinas, las protagonistas elaborarán un plan para recibir lo que les corresponde. Mediante una comedia negra, Laila Abbas crea una cinta de relevancia histórica al registrar imágenes de Cisjordania antes de la violencia genocida.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "viOqlPOHoBM",
+      "trailers": [
+        "viOqlPOHoBM",
+        "CkPyXZ9oppU",
+        "JXqMOFsoLGc"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.2,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt28254159/",
+      "imdbId": "tt28254159",
+      "tmdbId": 1225590,
+      "votos": 379
+    },
+    "HO00010260": {
+      "titulo": "Las corrientes",
+      "tituloOriginal": "The Currents",
+      "director": "Milagros Mumenthaler",
+      "pais": "Suiza - Argentina",
+      "ano": 2025,
+      "duracion": 104,
+      "filmId": "HO00010260",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010260?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010260&cinemas=003",
+      "sinopsis": "En la cima de su carrera, Lina, una estilista argentina de 34 años, se ve impulsada por una repentina necesidad tras una ceremonia de premios en Suiza. De regreso en Buenos Aires, guarda silencio, pero algo en su interior ha cambiado: de forma silenciosa e invisible, desvela sutilmente un pasado que creía haber dejado atrás.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "aWfdDfF76Ao",
+      "trailers": [
+        "aWfdDfF76Ao"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": null,
+      "publicoFuente": null,
+      "resenas": [
+        {
+          "texto": "I made this movie and it was pretty fun and I think I did a pretty good job.",
+          "autor": "baileyspore",
+          "url": "https://www.themoviedb.org/review/68fa9aac34b8485fe58534e3"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt38608370/",
+      "imdbId": "tt38608370",
+      "tmdbId": 1567691,
+      "votos": 0
     }
   },
   "funciones": [
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010267",
-      "sala": "Sala 8",
-      "horarios": [
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010091",
-      "sala": "Sala 5",
-      "horarios": [
-        "17:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00009552",
-      "sala": "Sala 10",
-      "horarios": [
-        "17:45"
-      ]
-    },
     {
       "sede": "003",
       "fecha": "2026-11-23",
@@ -1803,25 +1776,6 @@
       "sala": "Sala 9",
       "horarios": [
         "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00009477",
-      "sala": "Sala 6",
-      "horarios": [
-        "14:30",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010075",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:00"
       ]
     },
     {
@@ -1841,34 +1795,6 @@
       "horarios": [
         "15:15",
         "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010262",
-      "sala": "Sala 3",
-      "horarios": [
-        "14:00",
-        "17:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00009609",
-      "sala": "Sala 9",
-      "horarios": [
-        "18:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00009562",
-      "sala": "Sala 5",
-      "horarios": [
-        "15:30"
       ]
     },
     {
@@ -1903,25 +1829,6 @@
     {
       "sede": "003",
       "fecha": "2026-11-23",
-      "pelicula": "HO00010260",
-      "sala": "Sala 1",
-      "horarios": [
-        "14:00",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010363",
-      "sala": "Sala 10",
-      "horarios": [
-        "15:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
       "pelicula": "HO00010151",
       "sala": "Sala 10",
       "horarios": [
@@ -1940,33 +1847,6 @@
     {
       "sede": "003",
       "fecha": "2026-11-23",
-      "pelicula": "HO00009789",
-      "sala": "Sala 7",
-      "horarios": [
-        "18:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00007898",
-      "sala": "Sala 4",
-      "horarios": [
-        "19:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010096",
-      "sala": "Sala 4",
-      "horarios": [
-        "17:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
       "pelicula": "HO00010058",
       "sala": "Sala 4",
       "horarios": [
@@ -1977,30 +1857,11 @@
     {
       "sede": "003",
       "fecha": "2026-11-23",
-      "pelicula": "HO00010259",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:00",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
       "pelicula": "HO00010258",
       "sala": "Sala 2",
       "horarios": [
         "16:30",
         "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010348",
-      "sala": "Sala 9",
-      "horarios": [
-        "15:30"
       ]
     },
     {
@@ -2018,47 +1879,6 @@
     {
       "sede": "001",
       "fecha": "2026-11-23",
-      "pelicula": "HO00010124",
-      "sala": "Sala 5",
-      "horarios": [
-        "15:00",
-        "19:10"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010122",
-      "sala": "Sala 5",
-      "horarios": [
-        "13:00",
-        "17:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010268",
-      "sala": "Sala 1",
-      "horarios": [
-        "13:10",
-        "16:00",
-        "18:40"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010255",
-      "sala": "Sala 2",
-      "horarios": [
-        "13:15",
-        "17:30"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-23",
       "pelicula": "HO00010270",
       "sala": "Sala 4",
       "horarios": [
@@ -2071,42 +1891,11 @@
     {
       "sede": "001",
       "fecha": "2026-11-23",
-      "pelicula": "HO00010269",
-      "sala": "Sala 7",
-      "horarios": [
-        "13:20",
-        "15:20"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-23",
       "pelicula": "HO00010363",
       "sala": "Sala 7",
       "horarios": [
         "17:20",
         "19:20"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010151",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:30",
-        "16:15",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010348",
-      "sala": "Sala 8",
-      "horarios": [
-        "15:40",
-        "18:30"
       ]
     },
     {
@@ -2146,18 +1935,6 @@
     {
       "sede": "002",
       "fecha": "2026-11-23",
-      "pelicula": "HO00010184",
-      "sala": "Sala 6",
-      "horarios": [
-        "13:10",
-        "15:10",
-        "17:00",
-        "19:00"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-23",
       "pelicula": "HO00010122",
       "sala": "Sala 5",
       "horarios": [
@@ -2180,44 +1957,12 @@
     {
       "sede": "002",
       "fecha": "2026-11-23",
-      "pelicula": "HO00010255",
-      "sala": "Sala 2",
-      "horarios": [
-        "14:00",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-23",
       "pelicula": "HO00010065",
       "sala": "Sala 3",
       "horarios": [
         "15:30",
         "17:40",
         "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010270",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:50",
-        "17:10",
-        "19:10"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-23",
-      "pelicula": "HO00010269",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:20",
-        "16:20",
-        "18:20"
       ]
     },
     {
@@ -3948,6 +3693,261 @@
       "horarios": [
         "16:30",
         "21:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010267",
+      "sala": "Sala 8",
+      "horarios": [
+        "18:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010091",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00009552",
+      "sala": "Sala 10",
+      "horarios": [
+        "17:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00009477",
+      "sala": "Sala 6",
+      "horarios": [
+        "14:30",
+        "18:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010075",
+      "sala": "Sala 8",
+      "horarios": [
+        "16:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010262",
+      "sala": "Sala 3",
+      "horarios": [
+        "14:00",
+        "17:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00009609",
+      "sala": "Sala 9",
+      "horarios": [
+        "18:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00009562",
+      "sala": "Sala 5",
+      "horarios": [
+        "15:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010260",
+      "sala": "Sala 1",
+      "horarios": [
+        "14:00",
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010363",
+      "sala": "Sala 10",
+      "horarios": [
+        "15:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00009789",
+      "sala": "Sala 7",
+      "horarios": [
+        "18:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00007898",
+      "sala": "Sala 4",
+      "horarios": [
+        "19:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010096",
+      "sala": "Sala 4",
+      "horarios": [
+        "17:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010259",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:00",
+        "18:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010348",
+      "sala": "Sala 9",
+      "horarios": [
+        "15:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010124",
+      "sala": "Sala 5",
+      "horarios": [
+        "15:00",
+        "19:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010122",
+      "sala": "Sala 5",
+      "horarios": [
+        "13:00",
+        "17:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010268",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:10",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010255",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:15",
+        "17:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010269",
+      "sala": "Sala 7",
+      "horarios": [
+        "13:20",
+        "15:20"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010151",
+      "sala": "Sala 3",
+      "horarios": [
+        "13:30",
+        "16:15",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010348",
+      "sala": "Sala 8",
+      "horarios": [
+        "15:40",
+        "18:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010184",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:10",
+        "15:10",
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010255",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:00",
+        "18:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010270",
+      "sala": "Sala 7",
+      "horarios": [
+        "14:50",
+        "17:10",
+        "19:10"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-23",
+      "pelicula": "HO00010269",
+      "sala": "Sala 10",
+      "horarios": [
+        "14:20",
+        "16:20",
+        "18:20"
       ]
     },
     {
