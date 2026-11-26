@@ -1,5 +1,5 @@
 {
-  "generadoEn": "2026-11-26T19:06:44.225Z",
+  "generadoEn": "2026-11-26T23:04:26.114Z",
   "hoy": "2026-11-26",
   "sedes": [
     {
@@ -54,34 +54,6 @@
       "imdbId": "tt5954462",
       "tmdbId": 411003,
       "votos": 1891
-    },
-    "HO00010091": {
-      "titulo": "Barrio triste",
-      "tituloOriginal": "Barrio Triste",
-      "director": "Stillz",
-      "pais": "Colombia-Estados Unidos",
-      "ano": 2025,
-      "duracion": 84,
-      "filmId": "HO00010091",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010091?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010091&cinemas=003",
-      "sinopsis": "En las afueras de Medellín a finales de los 80, mientras un reportero realiza una nota para la televisión sobre unas luces que descienden del cielo, un grupo de adolescentes le roba la cámara. En manos de sus nuevos dueños, la cámara recorre el barrio registrando sus vidas y los extraños fenómenos que acechan en el lugar. Con una estética visceral y frenética, Barrio triste es el debut en el largometraje de Stillz, cineasta reconocido por su carrera en videos musicales para Bad Bunny, J Balvin, Rosalía, entre otros.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "pAbGrYP8Ooo",
-      "trailers": [
-        "pAbGrYP8Ooo",
-        "awTtZpezrRQ"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 5.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt37660515/",
-      "imdbId": "tt37660515",
-      "tmdbId": 1310573,
-      "votos": 348
     },
     "HO00009552": {
       "titulo": "Ceniza en la boca",
@@ -165,120 +137,6 @@
       "imdbId": "tt33084769",
       "tmdbId": 1326893,
       "votos": 28
-    },
-    "HO00010075": {
-      "titulo": "Digger",
-      "tituloOriginal": null,
-      "director": "Alejandro G. Iñárritu",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 128,
-      "filmId": "HO00010075",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010075?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010075&cinemas=003",
-      "sinopsis": "La última película de Alejandro G. Iñárritu es una comedia de proporciones catastróficas, en la que Tom Cruise se transforma en el hombre más poderoso del mundo, Digger Rockwell, un magnate petrolero que, tras ignorar a sus trabajadores, provoca una catástrofe global. En su deseo por seguir controlándolo todo, Rockwell se propone demostrar que sólo él puede salvar la existencia. Iñárritu entrega una brillante sátira sobre el egocentrismo de las figuras dominantes y su completo desinterés por la humanidad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "9K9asB1KKtE",
-      "trailers": [
-        "9K9asB1KKtE",
-        "UYvoJ-hCGxc",
-        "OPOJSAB35iw",
-        "4AZzmroKjjM",
-        "uOuWt5B0Ksg",
-        "xU2jWSsaWY0",
-        "4jNrucYsh4A",
-        "4t4X-_26gWo",
-        "eQhf-2jMvWI",
-        "AWOFECt_CHY",
-        "wXXTfAnAH_E",
-        "RGu_Lh7pPZ8",
-        "5C18exxMrZc",
-        "8_ufLqErU_Q",
-        "4boN65zzvd8",
-        "g63xPiXBm6Y",
-        "ceUpSvWpU0A",
-        "fikKMZZiLD0",
-        "8w_FKSN-y6A",
-        "ALHX6r2djxk",
-        "uv97lf4WeAA",
-        "yDddzCN-NRU",
-        "3KjN109cmPU",
-        "AbxxqcmU2T4",
-        "GCqubCGTIw0",
-        "mYO_TD2y_mk",
-        "K12_TwuWlbQ",
-        "G3vDMkOQOzY",
-        "zwGDoQN3DDM",
-        "TDeSQxyT3Ac",
-        "g1cPu1knA9s",
-        "9JLRmLaNFAY",
-        "5xSQiKJkNc8",
-        "2-xRK9fizsM",
-        "FsfqdbXLxms",
-        "V79-yCt7Log",
-        "JTrqTokhAOI",
-        "2E32d-ASX98",
-        "pflghwixC6Q",
-        "TTYfh2pPdSY",
-        "tHRcgzSSsI8",
-        "iCHW7kfCRkE",
-        "Adij_4ky8fA",
-        "MU1nk1zxfd8",
-        "CgJzTVnNxn4",
-        "QDITBCGFjOM",
-        "k56T-k8Fy8c",
-        "qBUbNw19Hds",
-        "pRXTilb33UQ",
-        "c59V46rIUc0",
-        "6nikIyTWUsM",
-        "srleaPsE_W0",
-        "j95w7sku75k",
-        "oD1CNcekH1s",
-        "-jFOIa8TTLQ",
-        "RisSwkRFqT0",
-        "h05uz_cCua4",
-        "ywfQjj1kuS8",
-        "Q1btA3XpG8U",
-        "job8V254NAE",
-        "aXFbS7OhsHA",
-        "3vEPru8B25g",
-        "40QiEMZL3zg",
-        "ZXYUg9UAbCM",
-        "NW2kkWnF_mA",
-        "t6lEtLIVSZA",
-        "I1XXgud5ovA",
-        "1B09aaEq1Tk",
-        "vTgNCD3WMTs",
-        "qORTe1wW3Wg",
-        "Pd4Olzi0HEc",
-        "Rd21PhsDHww"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.5,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "I got early access to this movie and this movie was absolute banger i don't care what people say this is one of the best Tom cruise movies ever Absolute Cinema🙌🏻",
-          "autor": "ayanhp1234632",
-          "url": "https://www.themoviedb.org/review/6abcd409b236c6f417d18f84"
-        },
-        {
-          "texto": "Some movies seem destined for mixed reactions. That may be somewhat apparent before their release, but it invariably surfaces once in distribution.",
-          "autor": "Brent Marchant",
-          "url": "https://www.themoviedb.org/review/6abf996349e4886648081a14"
-        },
-        {
-          "texto": "Check out my full review @ https://www.manuelsbento.com/digger-2026-tom-cruise-and-alejandro-g-inarritu-make-noise-worth-arguing-about/ Rating: B DIGGER hammers its numerous capitalistic…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6abff30bee56fd7493b09a3b"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt31450459/",
-      "imdbId": "tt31450459",
-      "tmdbId": 1248832,
-      "votos": 48889
     },
     "HO00010264": {
       "titulo": "El deshielo",
@@ -452,34 +310,6 @@
       "tmdbId": null,
       "votos": null
     },
-    "HO00010122": {
-      "titulo": "La venganza del Charro Negro",
-      "tituloOriginal": null,
-      "director": "Marvick Núñez",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 79,
-      "filmId": "HO00010122",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010122?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010122&cinemas=003",
-      "sinopsis": "El temido Charro Negro regresa para vengarse de Leo San Juan, obligándolo a adentrarse en el inframundo para rescatar a su hermano Nando. Este malévolo plan toma fuerza cuando todas las criaturas que Leo y sus amigos derrotaron en sus anteriores aventuras, como la Llorona y el Chupacabras, vuelven para tomar revancha. Ante dicha amenaza, el carismático grupo de amigos deberá reencontrarse, ayudar a los hermanos, enfrentar a sus enemigos del pasado y, por fin, derrotar al maligno Charro Negro.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "c-FuV_zqL_M",
-      "trailers": [
-        "c-FuV_zqL_M",
-        "AOMZA1P3aBI"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt37959568/",
-      "imdbId": "tt37959568",
-      "tmdbId": 1406492,
-      "votos": 270
-    },
     "HO00010263": {
       "titulo": "Light Pillar",
       "tituloOriginal": "Han ye deng zhu",
@@ -506,114 +336,6 @@
       "imdbId": "tt32409947",
       "tmdbId": 1601885,
       "votos": 129
-    },
-    "HO00010065": {
-      "titulo": "Mary y Max SUB",
-      "tituloOriginal": "Mary and Max",
-      "director": "Adam Elliot",
-      "pais": "Australia",
-      "ano": 2009,
-      "duracion": 92,
-      "filmId": "HO00010065",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010065?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010065&cinemas=003",
-      "sinopsis": "Después de 15 años, la aclamada ópera prima en stop motion de Adam Elliot (recientemente reconocido por Memorias de un caracol) por fin se estrena en salas mexicanas. La película narra la vida y relación de dos amigos por correspondencia muy diferentes: Mary, una solitaria chica australiana, y Max, un hombre con síndrome de Asperger que vive en Nueva York. Con un estilo visual que abraza la imperfección y la textura rústica, la cinta aborda con ternura y humor negro temas como la amistad, el alcoholismo, la soledad y la ansiedad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "kc_bf-7NNEA",
-      "trailers": [
-        "kc_bf-7NNEA",
-        "kGATShQbydk"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Mary and Max- Am I sad or happy? Am I philosopher? It's hard to understand weird people. Oh, actually, I'm weird. It's hard to understand normal people.",
-          "autor": "Asa_movies",
-          "url": "https://www.themoviedb.org/review/58e246e0c3a36872de00d543"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0978762/",
-      "imdbId": "tt0978762",
-      "tmdbId": 24238,
-      "votos": 204461
-    },
-    "HO00010270": {
-      "titulo": "Mi amigo el sol",
-      "tituloOriginal": "Mi Amigo el Sol",
-      "director": "Alejandra Pérez González",
-      "pais": "México",
-      "ano": 2026,
-      "duracion": 80,
-      "filmId": "HO00010270",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010270?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010270&cinemas=003",
-      "sinopsis": "Xóchitl vive en la Ciudad de México junto a su abuela y su padre Diego, un hombre que hace de todo para darle un mejor futuro. Xóchitl pasa sus días soñando con el arte, un anhelo que su padre desaprueba, obligándola a pintar un enorme mural prehispánico en secreto. Su obra resulta ser tan poderosa que abre un portal místico hacia Tollan, el reino de los dioses, donde es elegida para convertirse en el Sexto Sol. Esta propuesta es una entrañable aventura familiar que nos invita a reconectar con nuestra cultura.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": null,
-      "trailers": [],
-      "trailerFuente": null,
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 7.9,
-      "publicoFuente": "IMDb",
-      "resenas": [],
-      "urlImdb": "https://www.imdb.com/title/tt22393352/",
-      "imdbId": "tt22393352",
-      "tmdbId": 1414544,
-      "votos": 14
-    },
-    "HO00010363": {
-      "titulo": "Mi vecino Totoro SUB",
-      "tituloOriginal": "となりのトトロ",
-      "director": "Hayao Miyazaki",
-      "pais": "Japón",
-      "ano": 1988,
-      "duracion": 86,
-      "filmId": "HO00010363",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010363?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010363&cinemas=003",
-      "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "DNrRRj91Wf0",
-      "trailers": [
-        "DNrRRj91Wf0",
-        "BjeBG8Xrci8",
-        "_nv94fL_IA8",
-        "2XUolyeNBHY",
-        "xCtRJOWZCmM",
-        "I0103wkhQ-c",
-        "srW-wajSxog"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.1,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "\"Childhood\" in a movie. This is just perfection - a perfect way to while away time and reconnect with your youth.",
-          "autor": "sykobanana",
-          "url": "https://www.themoviedb.org/review/5ec0827ed2147c0022b1f551"
-        },
-        {
-          "texto": "(SPOILER ALERT) I was delighted to see this subtle/multi-layered tale unfold, which seemed to play well to both a childhood audience, keen on likable characters/compelling imagination, and…",
-          "autor": "20thCentury",
-          "url": "https://www.themoviedb.org/review/5f153a6e78570e00325c4b1b"
-        },
-        {
-          "texto": "Aggressively cute. <em'My Neighbor Totoro'</em holds an extremely hearty story, one told via impeccably beautiful animation.",
-          "autor": "r96sk",
-          "url": "https://www.themoviedb.org/review/65b5058358efd3017cca6daa"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0096283/",
-      "imdbId": "tt0096283",
-      "tmdbId": 8392,
-      "votos": 444026
     },
     "HO00010151": {
       "titulo": "Minotauro",
@@ -813,87 +535,6 @@
       "tmdbId": 1802918,
       "votos": 0
     },
-    "HO00010348": {
-      "titulo": "Wildwood: El Bosque Salvaje SUB",
-      "tituloOriginal": "Wildwood: El bosque salvaje SUB",
-      "director": "Travis Knight",
-      "pais": "Estados Unidos",
-      "ano": 2026,
-      "duracion": 132,
-      "filmId": "HO00010348",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010348?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010348&cinemas=003",
-      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
-      "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "PMvMsuiFVKQ",
-      "trailers": [
-        "PMvMsuiFVKQ",
-        "1KfKStJutDM",
-        "qWX1ba0f-Qg",
-        "WUt70UreN0o",
-        "1IY1y2NH0B4",
-        "B2Cx_5_YLxQ",
-        "w6pdNIgBT0s",
-        "LF1NMUUIkNM",
-        "zZ2P4vI0-n8",
-        "XmAs9q3Md50",
-        "SNt22U9ia1M",
-        "LVTIjSelhCI",
-        "aGBz-swP9IE",
-        "I3RRLDKN0gE",
-        "AFI_iIMyrVw",
-        "TdrXTegGf0M",
-        "zPSFJQd8YMk",
-        "lvD7GO0cYN8",
-        "Co8QLut1Of0",
-        "KnINr5uVPbE",
-        "AGR8MRZck3s",
-        "IY5rrLu598I",
-        "BfeBrJWx0f8",
-        "chOQgDF_LkI",
-        "bJQGtSeLPII",
-        "GJ-iWFVVLWQ",
-        "wr1XCDrHqYM",
-        "hN3lP4Fx1qg",
-        "dtr5JL1zkiM",
-        "evd9oEf-nrI",
-        "ZNBavF4vsN8",
-        "fRIlIfLgRNQ",
-        "jIbNy4qgtdg",
-        "WF3AZrw5yNI",
-        "RSCFJpP1oZI",
-        "pf9VXMWAmLQ",
-        "O5dGmNBu-wk",
-        "POneS8h1jyU",
-        "Prv_FLWLlq8"
-      ],
-      "trailerFuente": "Cineteca Nacional",
-      "critica": null,
-      "criticaFuente": null,
-      "publico": 8.6,
-      "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
-          "autor": "Manuel São Bento",
-          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
-        },
-        {
-          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
-          "autor": "nkuk",
-          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
-        },
-        {
-          "texto": "A Defiant Handcrafted Miracle in an Age of Plastic Cinema There is a moment early in Wildwood when the Pacific Northwest sun filters through a canopy of moss draped Douglas firs, catching…",
-          "autor": "aleo4",
-          "url": "https://www.themoviedb.org/review/6aea4caeca9aed1f7dc35326"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt2056785/",
-      "imdbId": "tt2056785",
-      "tmdbId": 791523,
-      "votos": 34310
-    },
     "HO00009184": {
       "titulo": "Boca vieja",
       "tituloOriginal": "Boca Vieja",
@@ -1031,6 +672,34 @@
       "tmdbId": 1021848,
       "votos": 1387
     },
+    "HO00010122": {
+      "titulo": "La venganza del Charro Negro",
+      "tituloOriginal": null,
+      "director": "Marvick Núñez",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 79,
+      "filmId": "HO00010122",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010122?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010122&cinemas=001",
+      "sinopsis": "El temido Charro Negro regresa para vengarse de Leo San Juan, obligándolo a adentrarse en el inframundo para rescatar a su hermano Nando. Este malévolo plan toma fuerza cuando todas las criaturas que Leo y sus amigos derrotaron en sus anteriores aventuras, como la Llorona y el Chupacabras, vuelven para tomar revancha. Ante dicha amenaza, el carismático grupo de amigos deberá reencontrarse, ayudar a los hermanos, enfrentar a sus enemigos del pasado y, por fin, derrotar al maligno Charro Negro.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "c-FuV_zqL_M",
+      "trailers": [
+        "c-FuV_zqL_M",
+        "AOMZA1P3aBI"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt37959568/",
+      "imdbId": "tt37959568",
+      "tmdbId": 1406492,
+      "votos": 270
+    },
     "HO00010268": {
       "titulo": "Los Doors",
       "tituloOriginal": "The Doors",
@@ -1078,65 +747,41 @@
       "tmdbId": 10537,
       "votos": 108657
     },
-    "HO00010269": {
-      "titulo": "Mi vecino Totoro DOB",
-      "tituloOriginal": "となりのトトロ",
-      "director": "Hayao Miyazaki",
-      "pais": "Japón",
-      "ano": 1988,
-      "duracion": 86,
-      "filmId": "HO00010269",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010269?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010269&cinemas=001",
-      "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
+    "HO00010270": {
+      "titulo": "Mi amigo el sol",
+      "tituloOriginal": "Mi Amigo el Sol",
+      "director": "Alejandra Pérez González",
+      "pais": "México",
+      "ano": 2026,
+      "duracion": 80,
+      "filmId": "HO00010270",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010270?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010270&cinemas=001",
+      "sinopsis": "Xóchitl vive en la Ciudad de México junto a su abuela y su padre Diego, un hombre que hace de todo para darle un mejor futuro. Xóchitl pasa sus días soñando con el arte, un anhelo que su padre desaprueba, obligándola a pintar un enorme mural prehispánico en secreto. Su obra resulta ser tan poderosa que abre un portal místico hacia Tollan, el reino de los dioses, donde es elegida para convertirse en el Sexto Sol. Esta propuesta es una entrañable aventura familiar que nos invita a reconectar con nuestra cultura.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "DNrRRj91Wf0",
-      "trailers": [
-        "DNrRRj91Wf0",
-        "BjeBG8Xrci8",
-        "_nv94fL_IA8",
-        "2XUolyeNBHY",
-        "xCtRJOWZCmM",
-        "I0103wkhQ-c",
-        "srW-wajSxog"
-      ],
-      "trailerFuente": "Cineteca Nacional",
+      "trailer": null,
+      "trailers": [],
+      "trailerFuente": null,
       "critica": null,
       "criticaFuente": null,
-      "publico": 8.1,
+      "publico": 7.9,
       "publicoFuente": "IMDb",
-      "resenas": [
-        {
-          "texto": "\"Childhood\" in a movie. This is just perfection - a perfect way to while away time and reconnect with your youth.",
-          "autor": "sykobanana",
-          "url": "https://www.themoviedb.org/review/5ec0827ed2147c0022b1f551"
-        },
-        {
-          "texto": "(SPOILER ALERT) I was delighted to see this subtle/multi-layered tale unfold, which seemed to play well to both a childhood audience, keen on likable characters/compelling imagination, and…",
-          "autor": "20thCentury",
-          "url": "https://www.themoviedb.org/review/5f153a6e78570e00325c4b1b"
-        },
-        {
-          "texto": "Aggressively cute. <em'My Neighbor Totoro'</em holds an extremely hearty story, one told via impeccably beautiful animation.",
-          "autor": "r96sk",
-          "url": "https://www.themoviedb.org/review/65b5058358efd3017cca6daa"
-        }
-      ],
-      "urlImdb": "https://www.imdb.com/title/tt0096283/",
-      "imdbId": "tt0096283",
-      "tmdbId": 8392,
-      "votos": 444026
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt22393352/",
+      "imdbId": "tt22393352",
+      "tmdbId": 1414544,
+      "votos": 14
     },
-    "HO00010123": {
-      "titulo": "Wildwood: El Bosque Salvaje DOB",
-      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
+    "HO00010348": {
+      "titulo": "Wildwood: El Bosque Salvaje SUB",
+      "tituloOriginal": "Wildwood: El bosque salvaje SUB",
       "director": "Travis Knight",
       "pais": "Estados Unidos",
       "ano": 2026,
       "duracion": 132,
-      "filmId": "HO00010123",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=001",
+      "filmId": "HO00010348",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010348?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010348&cinemas=001",
       "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "PMvMsuiFVKQ",
@@ -1338,16 +983,16 @@
       "tmdbId": 1602021,
       "votos": 16
     },
-    "HO00009939": {
-      "titulo": "Mary y Max DOB",
+    "HO00010065": {
+      "titulo": "Mary y Max SUB",
       "tituloOriginal": "Mary and Max",
       "director": "Adam Elliot",
       "pais": "Australia",
       "ano": 2009,
       "duracion": 92,
-      "filmId": "HO00009939",
-      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009939?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009939&cinemas=002",
+      "filmId": "HO00010065",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010065?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010065&cinemas=002",
       "sinopsis": "Después de 15 años, la aclamada ópera prima en stop motion de Adam Elliot (recientemente reconocido por Memorias de un caracol) por fin se estrena en salas mexicanas. La película narra la vida y relación de dos amigos por correspondencia muy diferentes: Mary, una solitaria chica australiana, y Max, un hombre con síndrome de Asperger que vive en Nueva York. Con un estilo visual que abraza la imperfección y la textura rústica, la cinta aborda con ternura y humor negro temas como la amistad, el alcoholismo, la soledad y la ansiedad.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "kc_bf-7NNEA",
@@ -1371,6 +1016,104 @@
       "imdbId": "tt0978762",
       "tmdbId": 24238,
       "votos": 204461
+    },
+    "HO00010269": {
+      "titulo": "Mi vecino Totoro DOB",
+      "tituloOriginal": "となりのトトロ",
+      "director": "Hayao Miyazaki",
+      "pais": "Japón",
+      "ano": 1988,
+      "duracion": 86,
+      "filmId": "HO00010269",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010269?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010269&cinemas=002",
+      "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "DNrRRj91Wf0",
+      "trailers": [
+        "DNrRRj91Wf0",
+        "BjeBG8Xrci8",
+        "_nv94fL_IA8",
+        "2XUolyeNBHY",
+        "xCtRJOWZCmM",
+        "I0103wkhQ-c",
+        "srW-wajSxog"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "\"Childhood\" in a movie. This is just perfection - a perfect way to while away time and reconnect with your youth.",
+          "autor": "sykobanana",
+          "url": "https://www.themoviedb.org/review/5ec0827ed2147c0022b1f551"
+        },
+        {
+          "texto": "(SPOILER ALERT) I was delighted to see this subtle/multi-layered tale unfold, which seemed to play well to both a childhood audience, keen on likable characters/compelling imagination, and…",
+          "autor": "20thCentury",
+          "url": "https://www.themoviedb.org/review/5f153a6e78570e00325c4b1b"
+        },
+        {
+          "texto": "Aggressively cute. <em'My Neighbor Totoro'</em holds an extremely hearty story, one told via impeccably beautiful animation.",
+          "autor": "r96sk",
+          "url": "https://www.themoviedb.org/review/65b5058358efd3017cca6daa"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0096283/",
+      "imdbId": "tt0096283",
+      "tmdbId": 8392,
+      "votos": 444026
+    },
+    "HO00010363": {
+      "titulo": "Mi vecino Totoro SUB",
+      "tituloOriginal": "となりのトトロ",
+      "director": "Hayao Miyazaki",
+      "pais": "Japón",
+      "ano": 1988,
+      "duracion": 86,
+      "filmId": "HO00010363",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010363?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010363&cinemas=002",
+      "sinopsis": "Satsuki y Mei son dos hermanitas que junto a su padre se mudan a una vieja casa de campo, mientras su madre se encuentra hospitalizada. Durante una exploración por el bosque, Mei descubre a los Totoros, unas increíbles criaturas que resultan ser espíritus guardianes del lugar. Su hermana, incrédula al inicio, termina por aventurarse junto a Mei en un viaje mágico con estos entrañables seres; ayudándolas a sobrellevar la ausencia temporal de su madre y a fortalecer su maravillosa hermandad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "DNrRRj91Wf0",
+      "trailers": [
+        "DNrRRj91Wf0",
+        "BjeBG8Xrci8",
+        "_nv94fL_IA8",
+        "2XUolyeNBHY",
+        "xCtRJOWZCmM",
+        "I0103wkhQ-c",
+        "srW-wajSxog"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "\"Childhood\" in a movie. This is just perfection - a perfect way to while away time and reconnect with your youth.",
+          "autor": "sykobanana",
+          "url": "https://www.themoviedb.org/review/5ec0827ed2147c0022b1f551"
+        },
+        {
+          "texto": "(SPOILER ALERT) I was delighted to see this subtle/multi-layered tale unfold, which seemed to play well to both a childhood audience, keen on likable characters/compelling imagination, and…",
+          "autor": "20thCentury",
+          "url": "https://www.themoviedb.org/review/5f153a6e78570e00325c4b1b"
+        },
+        {
+          "texto": "Aggressively cute. <em'My Neighbor Totoro'</em holds an extremely hearty story, one told via impeccably beautiful animation.",
+          "autor": "r96sk",
+          "url": "https://www.themoviedb.org/review/65b5058358efd3017cca6daa"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0096283/",
+      "imdbId": "tt0096283",
+      "tmdbId": 8392,
+      "votos": 444026
     },
     "HO00010353": {
       "titulo": "Miradas Sororas",
@@ -1396,6 +1139,120 @@
       "imdbId": null,
       "tmdbId": null,
       "votos": null
+    },
+    "HO00010075": {
+      "titulo": "Digger",
+      "tituloOriginal": null,
+      "director": "Alejandro G. Iñárritu",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 128,
+      "filmId": "HO00010075",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010075?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010075&cinemas=003",
+      "sinopsis": "La última película de Alejandro G. Iñárritu es una comedia de proporciones catastróficas, en la que Tom Cruise se transforma en el hombre más poderoso del mundo, Digger Rockwell, un magnate petrolero que, tras ignorar a sus trabajadores, provoca una catástrofe global. En su deseo por seguir controlándolo todo, Rockwell se propone demostrar que sólo él puede salvar la existencia. Iñárritu entrega una brillante sátira sobre el egocentrismo de las figuras dominantes y su completo desinterés por la humanidad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "9K9asB1KKtE",
+      "trailers": [
+        "9K9asB1KKtE",
+        "UYvoJ-hCGxc",
+        "OPOJSAB35iw",
+        "4AZzmroKjjM",
+        "uOuWt5B0Ksg",
+        "xU2jWSsaWY0",
+        "4jNrucYsh4A",
+        "4t4X-_26gWo",
+        "eQhf-2jMvWI",
+        "AWOFECt_CHY",
+        "wXXTfAnAH_E",
+        "RGu_Lh7pPZ8",
+        "5C18exxMrZc",
+        "8_ufLqErU_Q",
+        "4boN65zzvd8",
+        "g63xPiXBm6Y",
+        "ceUpSvWpU0A",
+        "fikKMZZiLD0",
+        "8w_FKSN-y6A",
+        "ALHX6r2djxk",
+        "uv97lf4WeAA",
+        "yDddzCN-NRU",
+        "3KjN109cmPU",
+        "AbxxqcmU2T4",
+        "GCqubCGTIw0",
+        "mYO_TD2y_mk",
+        "K12_TwuWlbQ",
+        "G3vDMkOQOzY",
+        "zwGDoQN3DDM",
+        "TDeSQxyT3Ac",
+        "g1cPu1knA9s",
+        "9JLRmLaNFAY",
+        "5xSQiKJkNc8",
+        "2-xRK9fizsM",
+        "FsfqdbXLxms",
+        "V79-yCt7Log",
+        "JTrqTokhAOI",
+        "2E32d-ASX98",
+        "pflghwixC6Q",
+        "TTYfh2pPdSY",
+        "tHRcgzSSsI8",
+        "iCHW7kfCRkE",
+        "Adij_4ky8fA",
+        "MU1nk1zxfd8",
+        "CgJzTVnNxn4",
+        "QDITBCGFjOM",
+        "k56T-k8Fy8c",
+        "qBUbNw19Hds",
+        "pRXTilb33UQ",
+        "c59V46rIUc0",
+        "6nikIyTWUsM",
+        "srleaPsE_W0",
+        "j95w7sku75k",
+        "oD1CNcekH1s",
+        "-jFOIa8TTLQ",
+        "RisSwkRFqT0",
+        "h05uz_cCua4",
+        "ywfQjj1kuS8",
+        "Q1btA3XpG8U",
+        "job8V254NAE",
+        "aXFbS7OhsHA",
+        "3vEPru8B25g",
+        "40QiEMZL3zg",
+        "ZXYUg9UAbCM",
+        "NW2kkWnF_mA",
+        "t6lEtLIVSZA",
+        "I1XXgud5ovA",
+        "1B09aaEq1Tk",
+        "vTgNCD3WMTs",
+        "qORTe1wW3Wg",
+        "Pd4Olzi0HEc",
+        "Rd21PhsDHww"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 7.5,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "I got early access to this movie and this movie was absolute banger i don't care what people say this is one of the best Tom cruise movies ever Absolute Cinema🙌🏻",
+          "autor": "ayanhp1234632",
+          "url": "https://www.themoviedb.org/review/6abcd409b236c6f417d18f84"
+        },
+        {
+          "texto": "Some movies seem destined for mixed reactions. That may be somewhat apparent before their release, but it invariably surfaces once in distribution.",
+          "autor": "Brent Marchant",
+          "url": "https://www.themoviedb.org/review/6abf996349e4886648081a14"
+        },
+        {
+          "texto": "Check out my full review @ https://www.manuelsbento.com/digger-2026-tom-cruise-and-alejandro-g-inarritu-make-noise-worth-arguing-about/ Rating: B DIGGER hammers its numerous capitalistic…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6abff30bee56fd7493b09a3b"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt31450459/",
+      "imdbId": "tt31450459",
+      "tmdbId": 1248832,
+      "votos": 48889
     },
     "HO00009792": {
       "titulo": "Hojas secas",
@@ -1434,12 +1291,12 @@
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010271&cinemas=003",
       "sinopsis": "En 1994, un hombre sin rostro se volvió la figura más visible de una rebelión indígena que sorprendió al mundo. A través de la figura del Subcomandante Insurgente Marcos, quien salió a la luz como vocero del Ejército Zapatista de Liberación Nacional (EZLN), el más reciente documental de Diego Enrique Osorno se adentra en la lucha de los pueblos zapatistas que, más de treinta años después de su levantamiento, siguen construyendo una forma propia de resistir y vivir en las montañas de Chiapas.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "g_j3WzfcZo0",
+      "trailer": "If7wAyaoLwA",
       "trailers": [
-        "g_j3WzfcZo0",
-        "If7wAyaoLwA"
+        "If7wAyaoLwA",
+        "g_j3WzfcZo0"
       ],
-      "trailerFuente": "TMDB",
+      "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
       "publico": null,
@@ -1462,12 +1319,13 @@
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010213&cinemas=003",
       "sinopsis": "En un pueblo en las montañas de Turquía, el regreso de un clan exiliado reaviva un conflicto territorial que lleva décadas sin resolverse. Mesut, hermano del líder actual, es atormentado por sueños que considera proféticos y busca proclamarse como el nuevo sheikh, desafiando así el liderazgo de su hermano y provocando temor dentro de la comunidad. Con una destacada dirección de fotografía, Salvación retrata cómo el hambre de poder crea circunstancias donde el territorio se vuelve un lugar en el que nadie está seguro, o salvado.",
       "sinopsisFuente": "Cineteca Nacional",
-      "trailer": "PZc7uApZS_M",
+      "trailer": "j12wHIPPggY",
       "trailers": [
+        "j12wHIPPggY",
         "PZc7uApZS_M",
         "N42W3jfIuBY"
       ],
-      "trailerFuente": "TMDB",
+      "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
       "publico": 6.8,
@@ -1503,6 +1361,87 @@
       "tmdbId": null,
       "votos": null
     },
+    "HO00010123": {
+      "titulo": "Wildwood: El Bosque Salvaje DOB",
+      "tituloOriginal": "Wildwood: El bosque salvaje DOB",
+      "director": "Travis Knight",
+      "pais": "Estados Unidos",
+      "ano": 2026,
+      "duracion": 132,
+      "filmId": "HO00010123",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010123?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010123&cinemas=001",
+      "sinopsis": "Cuando su hermano menor es secuestrado por una parvada de cuervos, Prue Mckeel inicia una desesperada misión de rescate. Acompañada por su leal amigo Curtis, Prue se adentra en un mundo de animales parlantes, bandidos y poderosos personajes motivados por la ambición. Para lograr salvar a su hermanito y proteger el futuro de Wildwood, la protagonista tendrá que arriesgarlo todo. Rompiendo el récord de duración en stop-motion, esta cinta crea una aventura épica sobre el amor, el sacrificio y la magia.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "PMvMsuiFVKQ",
+      "trailers": [
+        "PMvMsuiFVKQ",
+        "1KfKStJutDM",
+        "qWX1ba0f-Qg",
+        "WUt70UreN0o",
+        "1IY1y2NH0B4",
+        "B2Cx_5_YLxQ",
+        "w6pdNIgBT0s",
+        "LF1NMUUIkNM",
+        "zZ2P4vI0-n8",
+        "XmAs9q3Md50",
+        "SNt22U9ia1M",
+        "LVTIjSelhCI",
+        "aGBz-swP9IE",
+        "I3RRLDKN0gE",
+        "AFI_iIMyrVw",
+        "TdrXTegGf0M",
+        "zPSFJQd8YMk",
+        "lvD7GO0cYN8",
+        "Co8QLut1Of0",
+        "KnINr5uVPbE",
+        "AGR8MRZck3s",
+        "IY5rrLu598I",
+        "BfeBrJWx0f8",
+        "chOQgDF_LkI",
+        "bJQGtSeLPII",
+        "GJ-iWFVVLWQ",
+        "wr1XCDrHqYM",
+        "hN3lP4Fx1qg",
+        "dtr5JL1zkiM",
+        "evd9oEf-nrI",
+        "ZNBavF4vsN8",
+        "fRIlIfLgRNQ",
+        "jIbNy4qgtdg",
+        "WF3AZrw5yNI",
+        "RSCFJpP1oZI",
+        "pf9VXMWAmLQ",
+        "O5dGmNBu-wk",
+        "POneS8h1jyU",
+        "Prv_FLWLlq8"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.6,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that…",
+          "autor": "Manuel São Bento",
+          "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
+        },
+        {
+          "texto": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated.",
+          "autor": "nkuk",
+          "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
+        },
+        {
+          "texto": "A Defiant Handcrafted Miracle in an Age of Plastic Cinema There is a moment early in Wildwood when the Pacific Northwest sun filters through a canopy of moss draped Douglas firs, catching…",
+          "autor": "aleo4",
+          "url": "https://www.themoviedb.org/review/6aea4caeca9aed1f7dc35326"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt2056785/",
+      "imdbId": "tt2056785",
+      "tmdbId": 791523,
+      "votos": 34310
+    },
     "HO00010273": {
       "titulo": "Doce lunas",
       "tituloOriginal": null,
@@ -1519,7 +1458,7 @@
       "trailers": [
         "fAUDpnKv3g8"
       ],
-      "trailerFuente": "TMDB",
+      "trailerFuente": "Cineteca Nacional",
       "critica": null,
       "criticaFuente": null,
       "publico": 6.1,
@@ -1530,6 +1469,40 @@
       "tmdbId": 1464753,
       "votos": 45
     },
+    "HO00009939": {
+      "titulo": "Mary y Max DOB",
+      "tituloOriginal": "Mary and Max",
+      "director": "Adam Elliot",
+      "pais": "Australia",
+      "ano": 2009,
+      "duracion": 92,
+      "filmId": "HO00009939",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00009939?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00009939&cinemas=002",
+      "sinopsis": "Después de 15 años, la aclamada ópera prima en stop motion de Adam Elliot (recientemente reconocido por Memorias de un caracol) por fin se estrena en salas mexicanas. La película narra la vida y relación de dos amigos por correspondencia muy diferentes: Mary, una solitaria chica australiana, y Max, un hombre con síndrome de Asperger que vive en Nueva York. Con un estilo visual que abraza la imperfección y la textura rústica, la cinta aborda con ternura y humor negro temas como la amistad, el alcoholismo, la soledad y la ansiedad.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "kc_bf-7NNEA",
+      "trailers": [
+        "kc_bf-7NNEA",
+        "kGATShQbydk"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 8.1,
+      "publicoFuente": "IMDb",
+      "resenas": [
+        {
+          "texto": "Mary and Max- Am I sad or happy? Am I philosopher? It's hard to understand weird people. Oh, actually, I'm weird. It's hard to understand normal people.",
+          "autor": "Asa_movies",
+          "url": "https://www.themoviedb.org/review/58e246e0c3a36872de00d543"
+        }
+      ],
+      "urlImdb": "https://www.imdb.com/title/tt0978762/",
+      "imdbId": "tt0978762",
+      "tmdbId": 24238,
+      "votos": 204461
+    },
     "HO00010257": {
       "titulo": "La gallina",
       "tituloOriginal": "Kota",
@@ -1539,7 +1512,7 @@
       "duracion": 96,
       "filmId": "HO00010257",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010257?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010257&cinemas=002",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010257&cinemas=001",
       "sinopsis": "Este ingenioso filme es contado desde la perspectiva de una gallina que huye de una granja industrial para salvar a sus huevos. Su camino se dificulta por distintos o bstáculos en el trayecto, tanto de la naturaleza como del hombre, viéndose obligada a refugiarse en el patio de un restaurante en decadencia. Mientras protege a sus futuros polluelos y su propia existencia de la hostilidad del entorno, involuntariamente se convierte en testigo de la profunda degradación que atraviesa la familia del lugar, marcada por la codicia, el crimen organizado, conflictos sentimentales y una red de tráfico que se aprovecha de la crisis migratoria. El director György Pálfi confecciona una historia humana y contemplativa, donde su inocente y emplumada protagonista descubre las complejidades de la sociedad.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "TuwgRhID2lo",
@@ -1566,7 +1539,7 @@
       "duracion": 104,
       "filmId": "HO00010260",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010260?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010260&cinemas=002",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010260&cinemas=001",
       "sinopsis": "En la cima de su carrera, Lina, una estilista argentina de 34 años, se ve impulsada por una repentina necesidad tras una ceremonia de premios en Suiza. De regreso en Buenos Aires, guarda silencio, pero algo en su interior ha cambiado: de forma silenciosa e invisible, desvela sutilmente un pasado que creía haber dejado atrás.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "aWfdDfF76Ao",
@@ -1617,15 +1590,15 @@
     },
     "HO00010402": {
       "titulo": "Cobarde",
-      "tituloOriginal": "Les Braves",
-      "director": null,
-      "pais": null,
-      "ano": null,
-      "duracion": null,
+      "tituloOriginal": "Les braves/ Coward",
+      "director": "Lukas Dhont",
+      "pais": "Bélgica-Francia",
+      "ano": 2026,
+      "duracion": 125,
       "filmId": "HO00010402",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010402?referenceScheme=Cinema&allowPlaceHolder",
       "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010402&cinemas=002",
-      "sinopsis": "Si tu duda está relacionada con la compra de boletos en línea o a través de la App escribe a para obtener atención personalizada. De lunes a lunes a viernes de 11 a 21h y fines de semana de 9 a 21h.",
+      "sinopsis": "Dos jóvenes soldados belgas que, durante la Primera Guerra Mundial, encuentran en medio de los horrores del conflicto una conexión que les ofrece una forma de libertad. Ambos forman parte de una compañía de teatro que monta espectáculos para entretener a los batallones durante las pausas que permite la guerra. A través de la teatralidad, el humor y la sátira, el director expone las contradicciones de un entorno marcado por el machismo y la homofobia.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "PNsEmaGphfk",
       "trailers": [
@@ -1654,7 +1627,7 @@
       "duracion": 118,
       "filmId": "HO00010259",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010259?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010259&cinemas=002",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010259&cinemas=001",
       "sinopsis": "Emmanuel Mouret profundiza en las complejidades de las relaciones y los lazos de pareja a través de tres amigas atrapadas en distintas crisis sentimentales. Por un lado, Joan lidia con una profunda culpa tras admitir que ya no está enamorada de su esposo, Víctor. En paralelo, su mejor amiga Alice comparte esa misma insati sfacción conyugal con Éric, ignorando por completo que éste le es infiel con Rebecca, la tercera integrante del grupo. Aunque Rebecca asegura no buscar formalidades, en el fondo teme que su postura la aleje del amor verdadero, dividida entre la traición a su mejor amiga y su terquedad para terminar con Éric. Esta comedia dramática entrelaza las vidas de estas mujeres, alejándose del juicio moral para crear una crítica madura sobre los dolorosos claroscuros del matrimonio.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "zyt85fqT3eg",
@@ -1684,7 +1657,7 @@
       "duracion": 92,
       "filmId": "HO00010258",
       "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010258?referenceScheme=Cinema&allowPlaceHolder",
-      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010258&cinemas=002",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010258&cinemas=001",
       "sinopsis": "Ambientada durante un intenso turno nocturno en la planta de cirugía de un hospital suizo, la más reciente película de Petra Volpe sigue a Floria, una enfermera sumamente dedicada, metódica y con una vocación inquebrantable. Su jornada arranca con la falta de personal, por lo que Floria debe arreglárselas para atender las constantes demandas de sus numerosos pacientes, tanto médicas como emocionales. La presión del sistema sanitario transforma su rutina en una estresante carrera contrarreloj, donde cada decisión que toma (o deja de tomar) podría tener consecuencias fatales. Apoyada en una sobria y precisa actuación de Leonie Benesch, Último turno es una montaña rusa de emociones que funciona como una crítica a la precarización hospitalaria, así como un homenaje a los trabajadores de la salud.",
       "sinopsisFuente": "Cineteca Nacional",
       "trailer": "xnlB7Jr6Xkg",
@@ -1739,6 +1712,34 @@
       "imdbId": "tt14035242",
       "tmdbId": 701524,
       "votos": 2476
+    },
+    "HO00010091": {
+      "titulo": "Barrio triste",
+      "tituloOriginal": "Barrio Triste",
+      "director": "Stillz",
+      "pais": "Colombia-Estados Unidos",
+      "ano": 2025,
+      "duracion": 84,
+      "filmId": "HO00010091",
+      "poster": "https://rbvfcn.cinetecanacional.net/CDN/media/entity/get/FilmPosterGraphic/HO00010091?referenceScheme=Cinema&allowPlaceHolder",
+      "urlCineteca": "https://www.cinetecanacional.net/detallePelicula.php?FilmId=HO00010091&cinemas=003",
+      "sinopsis": "En las afueras de Medellín a finales de los 80, mientras un reportero realiza una nota para la televisión sobre unas luces que descienden del cielo, un grupo de adolescentes le roba la cámara. En manos de sus nuevos dueños, la cámara recorre el barrio registrando sus vidas y los extraños fenómenos que acechan en el lugar. Con una estética visceral y frenética, Barrio triste es el debut en el largometraje de Stillz, cineasta reconocido por su carrera en videos musicales para Bad Bunny, J Balvin, Rosalía, entre otros.",
+      "sinopsisFuente": "Cineteca Nacional",
+      "trailer": "pAbGrYP8Ooo",
+      "trailers": [
+        "pAbGrYP8Ooo",
+        "awTtZpezrRQ"
+      ],
+      "trailerFuente": "Cineteca Nacional",
+      "critica": null,
+      "criticaFuente": null,
+      "publico": 5.9,
+      "publicoFuente": "IMDb",
+      "resenas": [],
+      "urlImdb": "https://www.imdb.com/title/tt37660515/",
+      "imdbId": "tt37660515",
+      "tmdbId": 1310573,
+      "votos": 348
     }
   },
   "funciones": [
@@ -1749,15 +1750,6 @@
       "sala": "Sala 8",
       "horarios": [
         "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-26",
-      "pelicula": "HO00010091",
-      "sala": "Sala 5",
-      "horarios": [
-        "14:00"
       ]
     },
     {
@@ -1787,15 +1779,6 @@
       "horarios": [
         "14:30",
         "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-26",
-      "pelicula": "HO00010075",
-      "sala": "Sala 8",
-      "horarios": [
-        "16:00"
       ]
     },
     {
@@ -1859,47 +1842,11 @@
     {
       "sede": "003",
       "fecha": "2026-11-26",
-      "pelicula": "HO00010122",
-      "sala": "Sala 8",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-26",
       "pelicula": "HO00010263",
       "sala": "Sala 1",
       "horarios": [
         "14:00",
         "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-26",
-      "pelicula": "HO00010065",
-      "sala": "Sala 7",
-      "horarios": [
-        "16:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-26",
-      "pelicula": "HO00010270",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-26",
-      "pelicula": "HO00010363",
-      "sala": "Sala 10",
-      "horarios": [
-        "15:45"
       ]
     },
     {
@@ -1956,15 +1903,6 @@
       "horarios": [
         "15:00",
         "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-26",
-      "pelicula": "HO00010348",
-      "sala": "Sala 9",
-      "horarios": [
-        "15:30"
       ]
     },
     {
@@ -2056,30 +1994,12 @@
     {
       "sede": "001",
       "fecha": "2026-11-26",
-      "pelicula": "HO00010269",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-26",
       "pelicula": "HO00010151",
       "sala": "Sala 3",
       "horarios": [
         "13:30",
         "16:15",
         "19:00"
-      ]
-    },
-    {
-      "sede": "001",
-      "fecha": "2026-11-26",
-      "pelicula": "HO00010123",
-      "sala": "Sala 8",
-      "horarios": [
-        "13:00"
       ]
     },
     {
@@ -2150,15 +2070,6 @@
     {
       "sede": "002",
       "fecha": "2026-11-26",
-      "pelicula": "HO00009930",
-      "sala": "Sala 9",
-      "horarios": [
-        "14:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-26",
       "pelicula": "HO00010238",
       "sala": "Sala 2",
       "horarios": [
@@ -2191,30 +2102,12 @@
     {
       "sede": "002",
       "fecha": "2026-11-26",
-      "pelicula": "HO00009939",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:30"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-26",
       "pelicula": "HO00010065",
       "sala": "Sala 3",
       "horarios": [
         "15:30",
         "17:40",
         "19:40"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-26",
-      "pelicula": "HO00010270",
-      "sala": "Sala 7",
-      "horarios": [
-        "14:50"
       ]
     },
     {
@@ -2243,6 +2136,7 @@
       "pelicula": "HO00010353",
       "sala": "Sala 9",
       "horarios": [
+        "17:00",
         "19:00"
       ]
     },
@@ -2256,15 +2150,6 @@
         "15:50",
         "17:50",
         "19:50"
-      ]
-    },
-    {
-      "sede": "002",
-      "fecha": "2026-11-26",
-      "pelicula": "HO00010123",
-      "sala": "Sala 12",
-      "horarios": [
-        "15:00"
       ]
     },
     {
@@ -2497,10 +2382,135 @@
     {
       "sede": "001",
       "fecha": "2026-11-27",
+      "pelicula": "HO00009184",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:45",
+        "15:30",
+        "17:30",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-27",
       "pelicula": "HO00010169",
       "sala": "Sala 5",
       "horarios": [
         "17:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-27",
+      "pelicula": "HO00009716",
+      "sala": null,
+      "horarios": [
+        "13:00",
+        "16:00",
+        "18:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-27",
+      "pelicula": "HO00000334",
+      "sala": "Sala 2",
+      "horarios": [
+        "15:40",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-27",
+      "pelicula": "HO00010238",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:15",
+        "17:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-27",
+      "pelicula": "HO00010122",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-27",
+      "pelicula": "HO00010268",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:10",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-27",
+      "pelicula": "HO00010270",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:40",
+        "16:30",
+        "18:20",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-27",
+      "pelicula": "HO00010269",
+      "sala": "Sala 7",
+      "horarios": [
+        "13:20",
+        "15:20"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-27",
+      "pelicula": "HO00010363",
+      "sala": "Sala 7",
+      "horarios": [
+        "17:20",
+        "19:20"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-27",
+      "pelicula": "HO00010151",
+      "sala": "Sala 3",
+      "horarios": [
+        "13:30",
+        "16:15",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-27",
+      "pelicula": "HO00010123",
+      "sala": "Sala 8",
+      "horarios": [
+        "13:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-27",
+      "pelicula": "HO00010348",
+      "sala": "Sala 8",
+      "horarios": [
+        "15:40",
+        "18:30"
       ]
     },
     {
@@ -2676,239 +2686,142 @@
       ]
     },
     {
-      "sede": "003",
+      "sede": "001",
       "fecha": "2026-11-28",
-      "pelicula": "HO00010267",
-      "sala": "Sala 8",
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00009552",
-      "sala": "Sala 10",
-      "horarios": [
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00009528",
-      "sala": "Sala 9",
-      "horarios": [
-        "21:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00009477",
+      "pelicula": "HO00009184",
       "sala": "Sala 6",
       "horarios": [
-        "16:45",
-        "18:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00010075",
-      "sala": "Sala 8",
-      "horarios": [
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00010264",
-      "sala": "Sala 1",
-      "horarios": [
-        "16:00",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00010078",
-      "sala": "Sala 8",
-      "horarios": [
-        "18:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00009609",
-      "sala": "Sala 10",
-      "horarios": [
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00009792",
-      "sala": "Sala 5",
-      "horarios": [
-        "15:45",
-        "19:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00009930",
-      "sala": "Sala 6",
-      "horarios": [
+        "12:40",
         "14:30",
-        "20:45"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00010122",
-      "sala": "Sala 3",
-      "horarios": [
-        "13:00",
-        "15:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00010263",
-      "sala": "Sala 1",
-      "horarios": [
-        "14:00",
-        "18:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00010271",
-      "sala": "Sala 3",
-      "horarios": [
-        "18:00",
-        "20:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00010065",
-      "sala": "Sala 2",
-      "horarios": [
-        "15:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00010270",
-      "sala": "Sala 7",
-      "horarios": [
-        "12:15",
-        "14:15"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00010269",
-      "sala": "Sala 10",
-      "horarios": [
-        "14:00"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00010363",
-      "sala": "Sala 10",
-      "horarios": [
-        "16:30"
-      ]
-    },
-    {
-      "sede": "003",
-      "fecha": "2026-11-28",
-      "pelicula": "HO00010151",
-      "sala": "Sala 2",
-      "horarios": [
-        "17:00",
+        "16:20",
+        "18:10",
         "20:00"
       ]
     },
     {
-      "sede": "003",
+      "sede": "001",
       "fecha": "2026-11-28",
-      "pelicula": "HO00010241",
-      "sala": "Sala 7",
+      "pelicula": "HO00010124",
+      "sala": "Sala 5",
       "horarios": [
-        "16:15",
-        "20:30"
+        "15:00",
+        "19:10"
       ]
     },
     {
-      "sede": "003",
+      "sede": "001",
       "fecha": "2026-11-28",
-      "pelicula": "HO00009789",
-      "sala": "Sala 7",
+      "pelicula": "HO00009716",
+      "sala": null,
       "horarios": [
-        "18:15"
+        "13:00",
+        "16:00",
+        "18:00"
       ]
     },
     {
-      "sede": "003",
+      "sede": "001",
       "fecha": "2026-11-28",
-      "pelicula": "HO00007898",
-      "sala": "Sala 4",
+      "pelicula": "HO00000334",
+      "sala": "Sala 2",
       "horarios": [
-        "19:00"
+        "14:55",
+        "19:15"
       ]
     },
     {
-      "sede": "003",
+      "sede": "001",
       "fecha": "2026-11-28",
-      "pelicula": "HO00010213",
-      "sala": "Sala 9",
+      "pelicula": "HO00010238",
+      "sala": "Sala 2",
       "horarios": [
-        "18:30"
+        "12:30",
+        "16:40"
       ]
     },
     {
-      "sede": "003",
+      "sede": "001",
       "fecha": "2026-11-28",
-      "pelicula": "HO00010096",
-      "sala": "Sala 4",
+      "pelicula": "HO00010122",
+      "sala": "Sala 5",
       "horarios": [
+        "13:00",
         "17:00"
       ]
     },
     {
-      "sede": "003",
+      "sede": "001",
       "fecha": "2026-11-28",
-      "pelicula": "HO00010058",
-      "sala": "Sala 4",
+      "pelicula": "HO00010268",
+      "sala": "Sala 1",
       "horarios": [
-        "15:00",
-        "21:00"
+        "13:10",
+        "15:50",
+        "18:30"
       ]
     },
     {
-      "sede": "003",
+      "sede": "001",
+      "fecha": "2026-11-28",
+      "pelicula": "HO00010270",
+      "sala": "Sala 4",
+      "horarios": [
+        "12:15",
+        "14:00",
+        "15:40",
+        "17:25",
+        "19:20"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-28",
+      "pelicula": "HO00010269",
+      "sala": "Sala 7",
+      "horarios": [
+        "12:00",
+        "13:50"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-28",
+      "pelicula": "HO00010363",
+      "sala": "Sala 7",
+      "horarios": [
+        "15:40",
+        "17:30",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-28",
+      "pelicula": "HO00010151",
+      "sala": "Sala 3",
+      "horarios": [
+        "13:30",
+        "16:15",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-28",
+      "pelicula": "HO00010123",
+      "sala": "Sala 8",
+      "horarios": [
+        "12:40"
+      ]
+    },
+    {
+      "sede": "001",
       "fecha": "2026-11-28",
       "pelicula": "HO00010348",
-      "sala": "Sala 9",
+      "sala": "Sala 8",
       "horarios": [
-        "15:30"
+        "15:30",
+        "18:20"
       ]
     },
     {
@@ -3327,6 +3240,145 @@
       "sala": "Sala 9",
       "horarios": [
         "15:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00009184",
+      "sala": "Sala 6",
+      "horarios": [
+        "12:40",
+        "14:30",
+        "16:20",
+        "18:10",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00010124",
+      "sala": "Sala 5",
+      "horarios": [
+        "15:00",
+        "19:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00009716",
+      "sala": null,
+      "horarios": [
+        "13:00",
+        "16:00",
+        "18:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00010257",
+      "sala": "Sala 2",
+      "horarios": [
+        "12:30",
+        "16:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00010122",
+      "sala": "Sala 5",
+      "horarios": [
+        "13:00",
+        "17:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00010260",
+      "sala": "Sala 2",
+      "horarios": [
+        "14:30",
+        "18:50"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00010268",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:10",
+        "15:50",
+        "18:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00010270",
+      "sala": "Sala 4",
+      "horarios": [
+        "12:15",
+        "14:00",
+        "15:40",
+        "17:25",
+        "19:20"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00010269",
+      "sala": "Sala 7",
+      "horarios": [
+        "12:00",
+        "13:50"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00010363",
+      "sala": "Sala 7",
+      "horarios": [
+        "15:40",
+        "17:30",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00010151",
+      "sala": "Sala 3",
+      "horarios": [
+        "13:30",
+        "16:15",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00010123",
+      "sala": "Sala 8",
+      "horarios": [
+        "12:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-29",
+      "pelicula": "HO00010348",
+      "sala": "Sala 8",
+      "horarios": [
+        "15:30",
+        "18:20"
       ]
     },
     {
@@ -3709,6 +3761,129 @@
       "horarios": [
         "14:30",
         "17:15"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-30",
+      "pelicula": "HO00009184",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:45",
+        "15:30",
+        "17:20",
+        "19:20"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-30",
+      "pelicula": "HO00010124",
+      "sala": "Sala 5",
+      "horarios": [
+        "15:00",
+        "19:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-30",
+      "pelicula": "HO00010257",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:15",
+        "17:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-30",
+      "pelicula": "HO00010122",
+      "sala": "Sala 5",
+      "horarios": [
+        "13:00",
+        "17:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-30",
+      "pelicula": "HO00010260",
+      "sala": "Sala 2",
+      "horarios": [
+        "15:20",
+        "19:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-30",
+      "pelicula": "HO00010268",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-30",
+      "pelicula": "HO00010270",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:40",
+        "16:30",
+        "18:20",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-30",
+      "pelicula": "HO00010269",
+      "sala": "Sala 7",
+      "horarios": [
+        "13:20",
+        "15:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-30",
+      "pelicula": "HO00010363",
+      "sala": "Sala 7",
+      "horarios": [
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-30",
+      "pelicula": "HO00010151",
+      "sala": "Sala 3",
+      "horarios": [
+        "13:30",
+        "16:15",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-30",
+      "pelicula": "HO00010123",
+      "sala": "Sala 8",
+      "horarios": [
+        "13:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-30",
+      "pelicula": "HO00010348",
+      "sala": "Sala 8",
+      "horarios": [
+        "16:10",
+        "18:50"
       ]
     },
     {
@@ -4083,6 +4258,129 @@
       "horarios": [
         "14:30",
         "17:15"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-01",
+      "pelicula": "HO00009184",
+      "sala": "Sala 6",
+      "horarios": [
+        "13:45",
+        "15:30",
+        "17:20",
+        "19:20"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-01",
+      "pelicula": "HO00010124",
+      "sala": "Sala 5",
+      "horarios": [
+        "15:00",
+        "19:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-01",
+      "pelicula": "HO00010257",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:15",
+        "17:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-01",
+      "pelicula": "HO00010122",
+      "sala": "Sala 5",
+      "horarios": [
+        "13:00",
+        "17:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-01",
+      "pelicula": "HO00010260",
+      "sala": "Sala 2",
+      "horarios": [
+        "15:20",
+        "19:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-01",
+      "pelicula": "HO00010268",
+      "sala": "Sala 1",
+      "horarios": [
+        "18:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-01",
+      "pelicula": "HO00010270",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:40",
+        "16:30",
+        "18:20",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-01",
+      "pelicula": "HO00010269",
+      "sala": "Sala 7",
+      "horarios": [
+        "13:20",
+        "15:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-01",
+      "pelicula": "HO00010363",
+      "sala": "Sala 7",
+      "horarios": [
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-01",
+      "pelicula": "HO00010151",
+      "sala": "Sala 3",
+      "horarios": [
+        "13:30",
+        "16:15",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-01",
+      "pelicula": "HO00010123",
+      "sala": "Sala 8",
+      "horarios": [
+        "13:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-01",
+      "pelicula": "HO00010348",
+      "sala": "Sala 8",
+      "horarios": [
+        "16:10",
+        "18:50"
       ]
     },
     {
@@ -4473,6 +4771,127 @@
       ]
     },
     {
+      "sede": "001",
+      "fecha": "2026-12-02",
+      "pelicula": "HO00009184",
+      "sala": "Sala 6",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-02",
+      "pelicula": "HO00010124",
+      "sala": "Sala 5",
+      "horarios": [
+        "15:00",
+        "19:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-02",
+      "pelicula": "HO00010122",
+      "sala": "Sala 5",
+      "horarios": [
+        "17:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-02",
+      "pelicula": "HO00010268",
+      "sala": "Sala 1",
+      "horarios": [
+        "13:10",
+        "16:00",
+        "18:40"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-02",
+      "pelicula": "HO00010270",
+      "sala": "Sala 4",
+      "horarios": [
+        "14:40",
+        "16:30",
+        "18:20",
+        "20:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-02",
+      "pelicula": "HO00010269",
+      "sala": "Sala 7",
+      "horarios": [
+        "13:20",
+        "15:10"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-02",
+      "pelicula": "HO00010363",
+      "sala": "Sala 7",
+      "horarios": [
+        "17:00",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-02",
+      "pelicula": "HO00010151",
+      "sala": "Sala 3",
+      "horarios": [
+        "13:30",
+        "16:15",
+        "19:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-02",
+      "pelicula": "HO00010259",
+      "sala": "Sala 2",
+      "horarios": [
+        "15:15",
+        "19:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-02",
+      "pelicula": "HO00010258",
+      "sala": "Sala 2",
+      "horarios": [
+        "13:15",
+        "17:35"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-02",
+      "pelicula": "HO00010123",
+      "sala": "Sala 8",
+      "horarios": [
+        "13:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-12-02",
+      "pelicula": "HO00010348",
+      "sala": "Sala 8",
+      "horarios": [
+        "16:10",
+        "18:50"
+      ]
+    },
+    {
       "sede": "002",
       "fecha": "2026-12-02",
       "pelicula": "HO00010354",
@@ -4649,6 +5068,123 @@
       "horarios": [
         "15:00",
         "20:30"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00010091",
+      "sala": "Sala 5",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00010075",
+      "sala": "Sala 8",
+      "horarios": [
+        "16:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00010122",
+      "sala": "Sala 8",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00010065",
+      "sala": "Sala 7",
+      "horarios": [
+        "16:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00010270",
+      "sala": "Sala 7",
+      "horarios": [
+        "14:15"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00010363",
+      "sala": "Sala 10",
+      "horarios": [
+        "15:45"
+      ]
+    },
+    {
+      "sede": "003",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00010348",
+      "sala": "Sala 9",
+      "horarios": [
+        "15:30"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00010269",
+      "sala": "Sala 7",
+      "horarios": [
+        "14:00"
+      ]
+    },
+    {
+      "sede": "001",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00010123",
+      "sala": "Sala 8",
+      "horarios": [
+        "13:00"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00009930",
+      "sala": "Sala 9",
+      "horarios": [
+        "14:40"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00009939",
+      "sala": "Sala 3",
+      "horarios": [
+        "13:30"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00010270",
+      "sala": "Sala 7",
+      "horarios": [
+        "14:50"
+      ]
+    },
+    {
+      "sede": "002",
+      "fecha": "2026-11-26",
+      "pelicula": "HO00010123",
+      "sala": "Sala 12",
+      "horarios": [
+        "15:00"
       ]
     }
   ]
